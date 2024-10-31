@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-10-30T21:43:00+00:00",
-            "temperature_f": 60.206,
-            "temperature_c": 15.67,
-            "humidity": 56.012025786173,
+            "timestamp": "2024-10-30T23:43:00+00:00",
+            "temperature_f": 58.406,
+            "temperature_c": 14.67,
+            "humidity": 63.993464889638,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-10-30T16:00:00-07:00",
-                "endTime": "2024-10-30T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 5pm. Mostly sunny, with a high near 61. West southwest wind around 13 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-10-30T18:00:00-07:00",
                 "endTime": "2024-10-31T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
                 "shortForecast": "Light Rain",
                 "detailedForecast": "Rain before 5am. Mostly cloudy. Low around 52, with temperatures rising to around 54 overnight. Southwest wind 7 to 18 mph, with gusts as high as 29 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2024-10-31T06:00:00-07:00",
+                "endTime": "2024-10-31T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind 6 to 14 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "As the sun casts a soft glow over Downtown San Francisco, the afternoon carries a hint of warmth, tempered by the briskness of a west-southwest breeze. The city stands mostly sunny, its splendor momentarily unmarred by the encroaching clouds that hint at the rain likely to come later. As dusk approaches, clouds drift lazily across the horizon, framing the iconic Golden Gate Bridge with a hint of mystery. By early evening, you'll feel the shift as rain begins to fall, transforming the vibrant streets into a wet sheen, adding a reflective beauty to every corner.\n\nTonight promises a heavier embrace of cloud cover as temperatures hover around the low fiftys, possibly nudging slightly higher as warmer air makes its way in. The chance of rain gauges at a strong ninety percent, inviting the wisdom of sturdy footwear and perhaps a light jacket, or even an umbrella if you're venturing out into the night. For those seeking a peaceful reprieve from the daily bustle, an evening stroll beneath the raindrops can be serene, while the cozy ambiance of a caf\u00e9 or bistro may provide the perfect refuge. As the city prepares for a drenching, remember that the charm of San Francisco often blooms in the aftermath of rain, leaving trails of new conversations and fresh perspectives coursing through its streets.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2024-10-30 16:01:51"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the air is tinged with the scent of impending rain, whispering promises of a wet night ahead. The clouds cloak the sky, woven together in a tapestry of grey hues, hinting at the rain expected before dawn. Currently, the temperature sits comfortably around 52, but will gently rise through the night, making for a moist yet mild embrace. The winds, spirited out of the southwest, carry with them gusts that dance between 7 and 18 mph, a reminder of nature\u2019s capricious whims that ruffle the urban landscape.\n\nAs dawn breaks tomorrow, the city will greet a welcome transformation. A brilliant sun will scatter shadows, clearing the remnants of the stormy night, and the temperature will reach a pleasant 62 before dipping slightly in the afternoon. A gentle west wind will rustle through the avenues, creating a pleasant atmosphere for those venturing outdoors. Given the coolness still lingering from tonight's rainfall, a light jacket is advisable for the early risers, giving way to layers that breathe as the day warms. This is a perfect time to explore the quieter corners of the city\u2014perhaps a stroll through golden-leaved parks or a peaceful caf\u00e9 visit, where the aroma of coffee mingles with crisp autumn air. It\u2019s a day to savor the subtle beauty of the changing seasons, finding joy in ordinary moments framed by the extraordinary backdrop of our beloved San Francisco.",
+    "color_code": "#5F5F5F",
+    "timestamp": "2024-10-30 18:28:35"
 }
