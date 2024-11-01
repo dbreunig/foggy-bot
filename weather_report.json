@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T10:43:00+00:00",
-            "temperature_f": 50.828,
-            "temperature_c": 10.46,
-            "humidity": 81.012730146501,
+            "timestamp": "2024-11-01T11:43:00+00:00",
+            "temperature_f": 50.071999999999996,
+            "temperature_c": 10.04,
+            "humidity": 82.975741490101,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-01T05:00:00-07:00",
-                "endTime": "2024-11-01T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. West southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2024-11-01T06:00:00-07:00",
                 "endTime": "2024-11-01T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain,90?size=medium",
                 "shortForecast": "Partly Sunny then Light Rain",
                 "detailedForecast": "Rain after 5pm. Partly sunny. High near 62, with temperatures falling to around 60 in the afternoon. Southwest wind 3 to 13 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-01T18:00:00-07:00",
+                "endTime": "2024-11-02T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "10 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain before 5am, then a chance of drizzle. Mostly cloudy. Low around 53, with temperatures rising to around 55 overnight. West southwest wind 10 to 21 mph, with gusts as high as 33 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the atmosphere is heavy with clouds that promise a damp Friday ahead. A thick marine layer hugs the city, hinting at the impending rain, transforming the skyline into a muted canvas of gray hues. The cool air, around fifty-two degrees, carries with it the invigorating chill of the ocean, stirring a subtle anticipation for the day ahead. With temperatures expected to peak near sixty-two before gently slipping back into the early evening, the weather calls for layers today\u2014perhaps a cozy sweater beneath a light jacket, perfect for those moments when the wind picks up, whispering through the streets.\n\nDespite the forecast of rain later in the afternoon, there remains an intimate beauty in the city\u2019s quietude this early morning. An ideal time for a leisurely stroll through the vibrant streets, where the scent of damp earth mixes with the rich aroma of brewing coffee. Seek refuge in a local caf\u00e9 with a good book, or take a moment to appreciate the muted beauty of the fog rolling across the bay, veiling the Golden Gate Bridge in an elusive embrace. The day holds the promise of a cozy gathering as the clouds thicken, inviting conversation and warmth as the first drops of rain begin to fall. It's a reminder of San Francisco's ever-changing weather, requiring not just an umbrella but an open heart to the city\u2019s fleeting moments of tranquility.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-11-01 05:02:16"
+    "weather_report": "As dawn unfolds over Downtown San Francisco, a gentle veil of moisture hangs in the air, heralding the arrival of rain later in the day. The sky, initially marked by fleeting patches of sun, hints at a more somber transition, as temperatures hover around a cool high of 62 degrees. The southwest breeze whispers through the city, rustling leaves and stirring the faint scent of wet earth, setting the stage for the afternoon's impending precipitation. Clarity, while present, is tempered by the clouds that weave their way through the cityscape, creating a sense of intimacy with the looming hills.\n\nAs the day progresses, the atmosphere will thicken with clouds, leading to evening rains that will wash over the streets, transforming the landscape into a glistening tableau. Dressing in layers is prudent; a light jacket should suffice against the growing chill, and an umbrella won\u2019t be an unwelcome companion as the chances of drizzle persist into the night. Despite the potential for dampness, the city invites you to stroll through its vibrant streets or perhaps settle into a cozy caf\u00e9, where the aroma of warm coffee can mingle with the pitter-patter of rain against the window. Moments like these reveal the beauty found in the quietude of a rainy day\u2014an invitation to slow down, savor, and appreciate the soft rhythm of life in this ever-bustling metropolis.",
+    "color_code": "#A1A4B2",
+    "timestamp": "2024-11-01 06:05:30"
 }
