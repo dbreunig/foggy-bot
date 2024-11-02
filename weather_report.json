@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T09:43:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
+            "timestamp": "2024-11-02T10:43:00+00:00",
+            "temperature_f": 56.21,
+            "temperature_c": 13.45,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-02T04:00:00-07:00",
+                "startTime": "2024-11-02T05:00:00-07:00",
                 "endTime": "2024-11-02T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 20
                 },
                 "windSpeed": "8 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,80?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain before 5am, then a slight chance of drizzle. Mostly cloudy. Low around 53, with temperatures rising to around 55 overnight. West wind around 8 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle. Mostly cloudy. Low around 53, with temperatures rising to around 55 overnight. West wind around 8 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As dawn approaches over Downtown San Francisco, a soft drizzle whispers against windowpanes, hinting at the night's rain that is soon to give way to a more hopeful morning. The temperature hovers around a cool 53 degrees, gradually rising to a mild 62 as the sun begins its ascent. For now, the city is blanketed in mostly cloudy skies, with remnants of a marine layer clinging to the recognizable outlines of the Golden Gate Bridge and the hills beyond. The westerly winds stir gently, moving at around 8 mph, while an 80% chance of precipitation lingers until the early hours fade.\n\nAs Saturday unfolds, the promise of sunshine beckons, though a slight chance of lingering drizzle remains until mid-morning. By afternoon, expect the clouds to part, revealing a clear blue expanse, perfect for leisurely strolls along the Embarcadero or perhaps a stop at a local caf\u00e9, where the warmth of freshly brewed coffee can compete with the rising temperatures. With the pleasant sun peeking through and a gentle breeze, dressing in layers will serve you well today: a light jacket over a comfortable sweater, and perhaps a scarf for those cool drafts that tend to roll in unexpectedly. Today is ideal for appreciating the small moments, whether it be a quiet walk in the park or browsing artisanal shops, and finding joy in a city that never ceases to inspire.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-02 04:01:28"
+    "weather_report": "In the hush of dawn, Downtown San Francisco stirs beneath a veil of shifting clouds, offering a muted tableau where the prospect of drizzle lingers lightly in the air. The low temperature of around 53 degrees creates a crisp backdrop as the day awakens, inviting anticipation of a gradual warming to a gentle high near 62. As the sun rises, it promises to break through the cloudy shroud, hinting at sunnier moments sprinkled throughout the day, particularly after the morning hours.\n\nThe ever-present marine layer maintains a subtle grip across the bay, cloaking the edges of the Golden Gate in a familiar fog, yet leaving the heart of the city relatively clear\u2014a blend that encourages both warmth and an echo of chill. Dressing in layers, perhaps a light sweater with a cozy scarf, will embrace the cool breeze while allowing comfort as the sun begins its ascent. The Northwest winds are poised to swirl, inviting leisurely strolls along the Embarcadero or quiet reflection at a caf\u00e9 patio, where the promise of a sunny afternoon lingers like a soft whisper in the crisp air. There\u2019s a character to this Saturday\u2014a day that feels both familiar and inviting, ripe with the potential for exploration without the clamor of summer's throng.",
+    "color_code": "#A0C4E1",
+    "timestamp": "2024-11-02 05:01:53"
 }
