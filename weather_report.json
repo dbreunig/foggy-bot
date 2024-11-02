@@ -7,7 +7,7 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T05:43:00+00:00",
+            "timestamp": "2024-11-02T07:43:00+00:00",
             "temperature_f": null,
             "temperature_c": null,
             "humidity": null,
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-01T23:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2024-11-02T02:00:00-07:00",
                 "endTime": "2024-11-02T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 90
+                    "value": 80
                 },
-                "windSpeed": "7 to 18 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,90?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Showers and thunderstorms before 2am, then rain between 2am and 5am, then a chance of drizzle. Mostly cloudy. Low around 53, with temperatures rising to around 55 overnight. Southwest wind 7 to 18 mph, with gusts as high as 29 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain,80?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain before 5am, then a slight chance of drizzle. Mostly cloudy. Low around 53, with temperatures rising to around 55 overnight. West wind around 9 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-11-02T06:00:00-07:00",
                 "endTime": "2024-11-02T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 63,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
-                "windSpeed": "7 to 15 mph",
+                "windSpeed": "5 to 15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/few?size=medium",
-                "shortForecast": "Chance Drizzle then Sunny",
-                "detailedForecast": "A chance of drizzle before 11am. Sunny. High near 63, with temperatures falling to around 61 in the afternoon. Northwest wind 7 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/few?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Sunny, with a high near 62. Northwest wind 5 to 15 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the clock quietly ticks past midnight, Downtown San Francisco finds itself in the throes of a gentle tempest. With rain whispering against the windows and the occasional rumble of thunder, the night is enveloped in a blanket of moisture that saturates the air. A chill lingers, hugging the streets and rising from the pavement, while the winds flirt with strength\u2014pushing through the city, ruffling leaves and sending a shiver through passersby. As dawn approaches, the rain will hold its sway until the early morning hours, yielding gradually to a veil of clouds that will cloak the landscape in a soft, gray light.\n\nCome Saturday, the weather reveals a kinder face. Drizzle may make a fleeting appearance before 11 a.m., but as the sun struggles to break free, we can expect moments of clarity and warmth. The gentle embrace of a northwest wind will foster an atmosphere of fresh possibilities, perfect for a leisurely stroll along the waterfront or a visit to one of the many cozy cafes tucked away in the city\u2019s nooks. Dress in layers, as the morning chill will give way to mildness, transforming the day into an inviting canvas of muted sunlight and the city\u2019s vibrant pulse. Whether it\u2019s exploring a local gallery or enjoying a quiet moment with a book amid the soft sounds of the waking street, the day beckons with quiet charm, inviting you to savor the subtle beauty of urban life.",
+    "weather_report": "As the clock strikes two in the morning, a fine mist of rain continues to linger over Downtown San Francisco, kissing the iconic buildings with a gentle caress. The skies remain mostly cloudy, with temperatures resting comfortably around the mid-fifties, gradually inching upward through the night. An 80% chance of precipitation suggests a lingering touch of the wetness that has already begun to subside, but the promise of a brighter day emerges on the horizon. By morning, the rainfall should recede to a mere whisper of drizzle, leading into a sun-drenched Saturday that expects to greet us with a high near sixty-two. The northwest wind, holding at a gentle pace, may stir and rustle through the streets as sunshine breaks through the clouds, inviting the city to awaken.\n\nAs the day unfurls, the haze of morning will likely yield to clearer skies, transforming the urban landscape into a canvas painted by nature. The marine layer may hover delicately, retreating in concert with the sunlight, but there is little indication of a dense fog to obscure views of the Golden Gate or the rolling hills. Attire should lean towards layers\u2014a light jacket for the cool morning that quickly gives way to a t-shirt or a breezy sweater as midday approaches. The fruitfulness of the day beckons for leisurely strolls along the waterfront, perhaps indulging in a casual coffee at a local caf\u00e9 or embracing quiet wanderings through Golden Gate Park, where the atmosphere inspires a moment of reflection amid nature's embrace.",
     "color_code": "#B0C4DE",
-    "timestamp": "2024-11-02 00:01:35"
+    "timestamp": "2024-11-02 02:01:37"
 }
