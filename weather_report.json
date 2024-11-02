@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T22:43:00+00:00",
-            "temperature_f": 60.926,
-            "temperature_c": 16.07,
-            "humidity": 65.001473157706,
+            "timestamp": "2024-11-01T23:43:00+00:00",
+            "temperature_f": 60.422,
+            "temperature_c": 15.79,
+            "humidity": 64.027730757169,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-01T17:00:00-07:00",
-                "endTime": "2024-11-01T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy. High near 62, with temperatures falling to around 60 in the afternoon. Southwest wind around 12 mph. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-01T18:00:00-07:00",
                 "endTime": "2024-11-02T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
                 "shortForecast": "Light Rain",
                 "detailedForecast": "Rain before 5am, then a chance of drizzle. Mostly cloudy. Low around 53, with temperatures rising to around 55 overnight. West southwest wind 10 to 21 mph, with gusts as high as 33 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-11-02T06:00:00-07:00",
+                "endTime": "2024-11-02T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 13 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain/sct?size=medium",
+                "shortForecast": "Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A chance of drizzle before 11am. Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. Northwest wind 8 to 13 mph, with gusts as high as 25 mph. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "The pulse of Downtown San Francisco today beats beneath a thick blanket of clouds, as rain weeps softly from the sky, casting a gentle, damp gloom over the shimmering cityscape. The high has settled at a modest 62 degrees, slowly succumbing to the cool embrace of the evening. If you venture outside, the air carries with it a brisk southwest wind, brushing against your skin, reminding you that the day's warmth is receding like the fleeting light. By nightfall, expect the raindrops to persist, a soothing rhythm echoing the murmurs of the city, with a chance of drizzle lingering as the temperatures dip towards a cozy 53.\n\nAs fog dances over the familiar landmarks, the clarity of the day is obscured; the iconic Golden Gate Bridge may be but a ghostly silhouette, veiled in mist. Visibility may be limited, but there\u2019s solace in this muted atmosphere\u2014a moment to pause, to reflect. Dress in layers; a light waterproof jacket will shield you from the elements, while a warm sweater beneath will cradle you against the chill. As you navigate this weather, consider a leisurely evening stroll through the museum district, finding refuge in the warm glow of cafes that beckon with the promise of comfort food, or perhaps settle into the soothing hush of a local gallery, where art and ambiance intertwine, inviting you to linger awhile. Today, the city wears its gray with grace, a canvas of serenity waiting for the curious and contemplative to discover its beauty.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-01 17:04:18"
+    "weather_report": "As the sun sinks behind the hills of San Francisco, the evening ushers in an embrace of moisture-laden air. Currently, a veil of clouds hangs over the city, hinting at the rain that swept through earlier. The streets may be glistening from a recent shower, yet the night holds a promise of a break in the precipitation, with only a chance of drizzle lingering in the air. The coolness brushes against your skin, a gentle invitation to layer up against the evening chill. Expect temperatures to hover around the mid-fifties, with a brisk wind adding to the crispness of the night.\n\nTomorrow, the skies are set to clear, allowing glimpses of sunny delight. A gentle warmth will emerge, peaking at around 62 degrees, bringing with it the perfect opportunity for gentle strolls through local parks or quiet caf\u00e9s. The marine layer will likely dance just above the bay, casting a mystic glow across the landscape, especially near the iconic bridge. This transitional weather calls for light layers\u2014perhaps a soft sweater to combat the morning's chill, giving way to a lighter jacket for the afternoon sun. Consider a leisurely visit to a nearby art gallery or an unhurried afternoon at a local bookstore, where the quiet ambiance matches the tranquil weather. The city's pulse continues, inviting exploration in its cool embrace.",
+    "color_code": "#A0B1B6",
+    "timestamp": "2024-11-01 18:28:19"
 }
