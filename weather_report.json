@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-02T00:43:00+00:00",
-            "temperature_f": 59.774,
-            "temperature_c": 15.43,
-            "humidity": 66.993162992151,
+            "timestamp": "2024-11-02T01:43:00+00:00",
+            "temperature_f": 60.08,
+            "temperature_c": 15.6,
+            "humidity": 66.983857608769,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2024-11-01T19:00:00-07:00",
+                "startTime": "2024-11-01T20:00:00-07:00",
                 "endTime": "2024-11-02T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 90
                 },
-                "windSpeed": "12 to 21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain before 5am, then a chance of drizzle. Mostly cloudy. Low around 53, with temperatures rising to around 55 overnight. West southwest wind 12 to 21 mph, with gusts as high as 33 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "windSpeed": "7 to 18 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,90?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Rain before 11pm, then showers and thunderstorms between 11pm and 2am, then rain between 2am and 5am, then a chance of drizzle. Mostly cloudy. Low around 53, with temperatures rising to around 55 overnight. Southwest wind 7 to 18 mph, with gusts as high as 29 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-11-02T06:00:00-07:00",
                 "endTime": "2024-11-02T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 62,
+                "temperature": 63,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 30
                 },
-                "windSpeed": "8 to 13 mph",
+                "windSpeed": "7 to 15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain/sct?size=medium",
-                "shortForecast": "Chance Drizzle then Mostly Sunny",
-                "detailedForecast": "A chance of drizzle before 11am. Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. Northwest wind 8 to 13 mph, with gusts as high as 25 mph. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/few?size=medium",
+                "shortForecast": "Chance Drizzle then Sunny",
+                "detailedForecast": "A chance of drizzle before 11am. Sunny. High near 63, with temperatures falling to around 61 in the afternoon. Northwest wind 7 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As twilight envelops Downtown San Francisco, an ethereal haze blankets the city, teasing with the promise of moisture. Tonight, gentle rain paints the landscape before dawn, a soft drumming that lulls you into an embrace with the cool air, which dips to a crisp 53 degrees. The clouds weave a shroud over the skyline, with gusty westerly winds contributing a lively rustle to the branches lining the streets. The potential for drizzle hovers around the evening's edge, offering a delicate touch of nature as the city winds down for the night.\n\nTomorrow beckons with the possibility of a new day bathed in mostly sunny brilliance, yet the morning may still bear the remnants of drizzle, hinting at the summer-like warmth that often dances in this coastal city. Highs near 62 will soon soften to a gentle 60 as the afternoon unfolds, with breezes fading to a cool whisper, just enough to stir the last leaves of autumn. For those venturing outside, layering will be your ally\u2014a light jacket for the evening chill, perhaps paired with a scarf to fend off the late-hour dampness, giving you the perfect balance of comfort and style. A stroll along the Embarcadero, a quiet corner caf\u00e9 with a warm drink awaiting, or perhaps a visit to the local bookstore might be the remedy for a cozy evening in this urban oasis, grounding you in the magic of a San Francisco night.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2024-11-01 19:22:52"
+    "weather_report": "As evening descends upon Downtown San Francisco, a persistent rain gently blankets the city, whispering against rooftops and filling the air with a fresh, earthy scent. The temperature hovers in the low fifties, gradually rising to a mild embrace of fifty-five overnight. The wind sways softly from the southwest, rustling leaves and carrying with it the promise of change, while clouds loom heavily overhead, cloaking the skyline in a shroud that hints at both mystery and comfort. With a robust 90% chance of precipitation, this atmospheric symphony is not one for the faint-hearted; the drumming of raindrops is likely to accompany your evening activities.\n\nLooking to the day ahead, the sun will break through the gloom as if on cue, offering a tantalizing dawn after the night\u2019s tempest. Morning drizzle will give way to sunny skies, bathing the streets in a golden light by noon, although temperatures will hover around sixty-three, sliding down to sixty-one by the afternoon. Opt for layers\u2014a lightweight jacket and perhaps a cozy sweater will balance the crisp morning air with the warmth of midday. This kind of transitional weather invites you to explore the quieter corners of the city; perhaps take a stroll through a local park, wander into a cozy caf\u00e9, or lose yourself in the aisles of a beloved independent bookstore, savoring the remnants of rain as you sip a hot beverage. The city is yours to discover, uniquely alive in its weathered charm.",
+    "color_code": "#A0A48D",
+    "timestamp": "2024-11-01 20:05:09"
 }
