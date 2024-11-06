@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-06T12:43:00+00:00",
-            "temperature_f": 60.007999999999996,
-            "temperature_c": 15.56,
-            "humidity": null,
+            "timestamp": "2024-11-06T13:43:00+00:00",
+            "temperature_f": 59.108,
+            "temperature_c": 15.06,
+            "humidity": 33.003946678185,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-06T05:00:00-08:00",
-                "endTime": "2024-11-06T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "23 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 56. North wind around 23 mph, with gusts as high as 35 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2024-11-06T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2024-11-06T07:00:00-08:00",
                 "endTime": "2024-11-06T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 68,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 21 mph",
+                "windSpeed": "10 to 20 mph",
                 "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 68, with temperatures falling to around 64 in the afternoon. North northeast wind 10 to 21 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Sunny. High near 68, with temperatures falling to around 64 in the afternoon. North northeast wind 10 to 20 mph, with gusts as high as 33 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-06T18:00:00-08:00",
+                "endTime": "2024-11-07T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "0 to 5 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 52. Northeast wind 0 to 5 mph."
             }
         ]
     },
-    "weather_report": "In the early hours of this Wednesday, Downtown San Francisco emerges beneath a wide expanse of clarity, the remnants of nightfall hanging softly in the corners of the sky. The chill of a low around fifty-six whispers through the streets, while a gentle north wind stirs at a brisk twenty-three miles per hour, with occasional gusts reminding one of the city\u2019s spirited nature. As dawn breaks, a sunlit promise begins to unfold, heralding a daytime high of nearly sixty-eight, which will settle into a comfortable sixty-four as afternoon approaches.\n\nThe atmosphere, free of fog\u2019s usual embrace, reveals clear vistas towards the majestic Golden Gate Bridge, where flashes of sunlight dance across the water, coaxing the fog back into the horizon. This scene invites the thoughtful wanderer to don layers\u2014perhaps a light jacket over a simple shirt\u2014to navigate the cool air of the morning and welcome the warming rays of midday. A day such as this is best spent wandering local markets, perusing independent bookstores, or simply enjoying a long stroll along the Embarcadero, where the pulse of the city meets the soothing rhythm of the Bay.",
-    "color_code": "#5B7F51",
-    "timestamp": "2024-11-06 06:01:45"
+    "weather_report": "As dawn breaks in Downtown San Francisco, the city awakens to a brilliant, sunny day, its skyline crisp against the sky's soft blue. The forecast whispers promises of warmth, with temperatures peaking around a pleasant 68 degrees before gently giving way to cooler hues in the afternoon. With brisk north-northeast winds caressing the landscape, the air carries a refreshing bite, particularly with gusts that hint at the lively temperament of the bay area, urging locals to embrace the outdoors.\n\nThis morning\u2019s clarity invites ventures along the waterfront or a leisurely stroll through the city\u2019s vibrant neighborhoods. The absence of fog reveals a stunning view toward the Golden Gate, a welcoming sight for those drawn to the city\u2019s iconic beauty. As the day unfolds, a light sweater or a tailored jacket will suffice, balancing comfort against the breezy feel. It\u2019s a perfect moment to relish a cup of coffee at a sunlit caf\u00e9 or explore hidden gems in the local arts scene, allowing the day's charm to seep into one's spirit as the sun dips gently toward the horizon, transitioning to a calm, cool evening.",
+    "color_code": "#A8C2D7",
+    "timestamp": "2024-11-06 07:01:39"
 }
