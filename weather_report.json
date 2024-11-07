@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T16:43:00+00:00",
-            "temperature_f": 59.99,
-            "temperature_c": 15.55,
+            "timestamp": "2024-11-07T18:43:00+00:00",
+            "temperature_f": 64.904,
+            "temperature_c": 18.28,
             "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-07T10:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-07T12:00:00-08:00",
                 "endTime": "2024-11-07T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 68,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 15 mph",
-                "windDirection": "NNW",
+                "windSpeed": "7 mph",
+                "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 68, with temperatures falling to around 63 in the afternoon. North northwest wind 2 to 15 mph."
+                "detailedForecast": "Sunny. High near 68, with temperatures falling to around 63 in the afternoon. West northwest wind around 7 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-11-07T18:00:00-08:00",
                 "endTime": "2024-11-08T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 50,
+                "temperature": 51,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 12 mph",
-                "windDirection": "WSW",
+                "windSpeed": "5 mph",
+                "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 50. West southwest wind 5 to 12 mph."
+                "detailedForecast": "Clear, with a low around 51. South southwest wind around 5 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco today, the sun casts a warm glow over the city, illuminating the iconic skyline under a nearly cloudless expanse of blue. With a high approaching a comfortable 68 degrees, the early hours have already begun to shed the coolness, settling into a mild warmth. The gentle northwesterly breeze brushes against the skin, weaving through the streets as people venture out to enjoy the day. The clarity of the atmosphere seems to extend an invitation to step outside \u2014 whether to stroll along the Embarcadero, with its breathtaking view of the Bay, or to lose oneself in the vibrant art galleries nestled in the fog-free corners of the Mission.\n\nAs the evening settles in, expect a serene calmness with temperatures dipping gently to around 50 degrees, allowing for a cozy wrap of a light jacket or sweater. The absence of fog today renders the usual ghostly silhouettes of the Golden Gate Bridge and surrounding hills distinctly visible, offering a picturesque backdrop for an afternoon at a caf\u00e9 or a leisurely exploration of the local bookshops. The overall ambiance is pleasant \u2014 a perfect day to embrace simplicity, to wander through sun-dappled streets, or perhaps indulge in a leisurely outdoor meal, savoring the flavors of the season.",
-    "color_code": "#A5B8E4",
-    "timestamp": "2024-11-07 10:01:52"
+    "weather_report": "In Downtown San Francisco, the afternoon unfolds under a bright sun, casting a gentle warmth over the city. The temperatures hover around a comfortable 68 degrees, gradually nudging down to about 63 as the day draws on. With a calm breeze coming from the west northwest at just 7 mph, the air carries a sense of clarity, unmarred by any haze or fog that typically might whisper off the bay. The iconic hills and structures stand stark against a pristine blue sky, inviting exploration and the chance to marvel at the vibrant life bustling below.\n\nAs evening approaches, the skies will remain clear, with a low settling close to 51 degrees, softened by a light south southwest wind. This mild evening offers a pleasant opportunity to stroll through the city's diverse neighborhoods or visit a cozy caf\u00e9. Light layers would be wise for those venturing out, perhaps a light jacket to embrace the refreshing evening air while enjoying a leisurely walk or engaging in conversation on a city terrace. It\u2019s a day that encapsulates the charm of San Francisco, subtly alluring as it beckons those within its embrace to find joy in the everyday.",
+    "color_code": "#5C7F99",
+    "timestamp": "2024-11-07 12:01:40"
 }
