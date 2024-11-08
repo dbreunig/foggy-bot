@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T23:43:00+00:00",
-            "temperature_f": 68.684,
-            "temperature_c": 20.38,
+            "timestamp": "2024-11-08T01:43:00+00:00",
+            "temperature_f": 62.204,
+            "temperature_c": 16.78,
             "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-07T17:00:00-08:00",
-                "endTime": "2024-11-07T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 68, with temperatures falling to around 63 in the afternoon. West southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-07T18:00:00-08:00",
                 "endTime": "2024-11-08T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
                 "detailedForecast": "Clear, with a low around 51. South southwest wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-11-08T06:00:00-08:00",
+                "endTime": "2024-11-08T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 61 in the afternoon. South wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the day wanes in Downtown San Francisco, the atmosphere settles into a serene clarity, a fitting match for the lingering sunlight. The mild temperatures hover around 63 degrees, caressed by a gentle breeze from the west, whispering promises of evening calm. The skyline is sharply defined, offering a striking contrast against a backdrop of teal and gold, while the Golden Gate Bridge stands proud and unobscured, a reminder of nature's artistry. There is no sign of fog, the marine layer taking a backseat today, allowing the city to shine in its full, unfiltered glory.\n\nAs night falls, the chill will embrace the air, dipping toward a cool 51 degrees. It's a perfect moment to layer your attire\u2014perhaps a cozy sweater or a light jacket, coupled with your favorite scarf to fend off the evening breeze. With such inviting conditions, consider a peaceful stroll along the Embarcadero or perhaps a leisurely visit to a nearby caf\u00e9, where the warm glow of lights invites you to linger. The heart of the city beckons with understated charm, making it an ideal backdrop for simple pleasures on this tranquil autumn evening.",
-    "color_code": "#1E88E5",
-    "timestamp": "2024-11-07 17:28:26"
+    "weather_report": "As twilight cloaks Downtown San Francisco, the air feels crisp yet inviting, the kind of evening where the lingering warmth of the day begins to soften into a cooler embrace. Tonight, the skies are clear, allowing the city\u2019s lights to twinkle like a myriad of stars captured in glass, standing against the backdrop of a deepening blue. The forecast suggests a low around 51 degrees, an almost gentle chill that simmers just above crispness. A soft breeze from the south whispers through the streets, promising a night filled with serenity.\n\nLooking ahead to tomorrow, the sun is set to return, generous in its warmth, with temperatures peaking near 65 before mellowing to around 61 in the afternoon. The morning may wake with a touch of fog, but the promise of a clear and sunny day looms as the marine layer recedes. For those navigating the streets, layers will serve best; a light jacket or sweater could be just the companion for the evening stroll, giving way to a more relaxed outfit for the sunlit hours ahead. As the day unfolds, consider a leisurely walk along the waterfront or an exploration of local cafes to savor a moment of connection with the vibrant heart of the city, enveloped in both its storied past and its present pulse.",
+    "color_code": "#001F3F",
+    "timestamp": "2024-11-07 18:23:05"
 }
