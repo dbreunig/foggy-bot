@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T11:43:00+00:00",
-            "temperature_f": 50.918,
-            "temperature_c": 10.51,
-            "humidity": 80.028805249311,
+            "timestamp": "2024-11-10T13:43:00+00:00",
+            "temperature_f": 50.612,
+            "temperature_c": 10.34,
+            "humidity": 81.999062177567,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-10T05:00:00-08:00",
-                "endTime": "2024-11-10T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 49. Southeast wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2024-11-10T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2024-11-10T07:00:00-08:00",
                 "endTime": "2024-11-10T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -52,11 +33,30 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain/sct?size=medium",
                 "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
-                "detailedForecast": "A slight chance of drizzle between 7am and 8am. Mostly sunny. High near 60, with temperatures falling to around 56 in the afternoon. South wind 2 to 9 mph."
+                "detailedForecast": "A slight chance of drizzle before 8am. Mostly sunny. High near 60, with temperatures falling to around 56 in the afternoon. South wind 2 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-10T18:00:00-08:00",
+                "endTime": "2024-11-11T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain,40/rain,90?size=medium",
+                "shortForecast": "Drizzle",
+                "detailedForecast": "Drizzle after 8pm. Mostly cloudy. Low around 52, with temperatures rising to around 54 overnight. South wind 7 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In the somber hours just before dawn, Downtown San Francisco lies quietly beneath a blanket of gentle clouds, hinting at a cool embrace with temperatures settling near 49 degrees. The air, still and contemplative, offers a slight rustle through the streets, as a soft southeast wind whispers through the city's iconic skyline. As the sun begins its ascent, the morning holds a subtle promise of clarity, albeit with a brief flirtation with drizzles that may tease the early risers during the dawn\u2019s first light.\n\nAs day unfolds into the afternoon, expect a transformation \u2014 the clouds will part to reveal patches of brilliant sun, illuminating the city\u2019s charm as temperatures peep above the horizon towards a pleasant 60 degrees, dipping again to a cooler 56 by late afternoon. While today will be predominantly sunny, there may be residual wisps of fog lingering by the bay, a reminder of the marine layer that often shrouds the Golden Gate in mystery. For those venturing outside, a light jacket layered over a comfortable shirt is advisable, blending practicality with an air of effortless style. Perhaps a stroll along the Embarcadero or a visit to a local caf\u00e9 for a warm drink would be ideal to savor the day. The weather, with its temperate mix of sun and a hint of coolness, beckons both adventurers and casual wanderers to embrace the simple pleasures of the day ahead.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-11-10 05:04:05"
+    "weather_report": "The dawn settles softly over Downtown San Francisco, casting a veil of muted color that suggests the city's distinct charm. The atmosphere is characterized by a subtle haze, as the remnants of last night's marine layer linger in the higher elevations, cloaking the Golden Gate and the surrounding hills in an enigmatic embrace. As morning progresses, the sky gradually clears, revealing patches of blue, although the coastal fog is poised to return later, promising a drizzly evening under cloudy skies.\n\nToday's temperatures will hover around the low sixties, but don\u2019t be surprised if they dip into the fifty-something range by afternoon. With a mild south wind whisking through the streets, it feels both fresh and a tad brisk. Dress comfortably but prepare for a layer or two; a light jacket and perhaps a scarf would serve well against the oncoming drizzle set to sweep in after dark. The splashes of sun peeking through clouds invite a stroll along the waterfront or a leisurely coffee break at your favorite caf\u00e9, perhaps tracing the contours of the sea while the world takes a moment to awaken. As the day rolls on, consider locating a cozy nook to settle in for the evening, where the sound of raindrops provides a gentle soundtrack to the city's heartbeat.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-10 07:01:34"
 }
