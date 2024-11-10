@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-09T17:00:00-08:00",
-                "endTime": "2024-11-09T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 62, with temperatures falling to around 58 in the afternoon. West wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-09T18:00:00-08:00",
                 "endTime": "2024-11-10T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 49. South southwest wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2024-11-10T06:00:00-08:00",
+                "endTime": "2024-11-10T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 9 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain/sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle between 7am and 8am. Mostly sunny. High near 60, with temperatures falling to around 56 in the afternoon. South southwest wind 2 to 9 mph."
             }
         ]
     },
-    "weather_report": "The weather in Downtown San Francisco this afternoon unfolds with a delicate tapestry of partially sunny skies, where warmth hints at a high around 62 but subtly yields to cooler breaths that settle in around 58 by late afternoon. A soft western breeze contributes to a sense of ease, though a faint marine layer lingers in the atmosphere, suggesting a day that may still carry the gentle embrace of fog as the evening approaches. The clouds thickening overhead paint a soothing gray palette against the skyline, whispering of the chill to come as the mercury dips to around 49 later tonight.\n\nFor those venturing out, it\u2019s a perfect moment to don layered clothing\u2014perhaps a light sweater accompanied by a stylish scarf, with a windbreaker for added comfort against the evening\u2019s coolness. This is a prime time to wander through local cafes, sipping on a warm beverage while watching the city transition into a tranquil evening. Alternatively, a leisurely stroll through the nearby parks can offer a respite amid the settling clouds, where the flicker of evening lights begins to dance across the streets. Today, amidst the backdrop of a flickering sunset, one can fully embrace the serene pulse of San Francisco, where every moment brings a soft reminder of its coastal allure.",
+    "weather_report": "As the evening unfolds across Downtown San Francisco, a gentle veil of cloudiness drapes the city, hushed and contemplative under the dimming light. The air is cool, settling into the lower forties, inviting a cozy wrap of cardigan or scarf as one steps outside. The south-southwest breeze carries whispers of moisture, hinting at a slight chance of drizzle come morning, yet the promise of a mostly sunny day ahead imbues the atmosphere with an optimistic glow.\n\nSunday's approach heralds tempered warmth, peaking around sixty but likely dipping to a chillier fifty-six in the afternoon. The marine layer, that signature San Francisco mist, weaves its way through the landscape, perhaps teasing glimpses of the Golden Gate Bridge before the sun stretches across the city to scatter the clouds. For those drawn to the allure of the outdoors, a morning stroll along the waterfront or a leisurely trip to a neighborhood caf\u00e9 could perfectly complement the day\u2019s serene, albeit cool, charm. Dressing in layers will be key\u2014light enough to navigate the fleeting warmth but substantial enough to ward off the evening\u2019s encroaching coolness.",
     "color_code": "#B0C4DE",
-    "timestamp": "2024-11-09 17:28:31"
+    "timestamp": "2024-11-09 18:24:56"
 }
