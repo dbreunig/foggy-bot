@@ -7,7 +7,7 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-11T12:43:00+00:00",
+            "timestamp": "2024-11-11T13:43:00+00:00",
             "temperature_f": null,
             "temperature_c": null,
             "humidity": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-11T05:00:00-08:00",
-                "endTime": "2024-11-11T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy, with a low around 54. South wind around 12 mph, with gusts as high as 20 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Veterans Day",
-                "startTime": "2024-11-11T06:00:00-08:00",
+                "startTime": "2024-11-11T07:00:00-08:00",
                 "endTime": "2024-11-11T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "12 to 17 mph",
+                "windSpeed": "13 to 17 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain before 4pm, then a slight chance of drizzle. Partly sunny. High near 60, with temperatures falling to around 56 in the afternoon. Southwest wind 12 to 17 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain before 4pm, then a slight chance of drizzle. Partly sunny. High near 60, with temperatures falling to around 56 in the afternoon. Southwest wind 13 to 17 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-11T18:00:00-08:00",
+                "endTime": "2024-11-12T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/rain/few?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Clear",
+                "detailedForecast": "A slight chance of drizzle before 10pm. Mostly clear, with a low around 50. West northwest wind 6 to 14 mph, with gusts as high as 22 mph. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the air is thick with the promise of rain, offering a muted, contemplative ambiance. As the night gives way to the early morning hours, the clouds hang heavily in the sky, carrying with them the scent of damp earth and impending showers, which are almost certain to arrive. The temperature hovers around a cool 54 degrees, and a gentle breeze whispers through the city streets, mingling with the sound of raindrops dancing on rooftops. With a complete chance of precipitation throughout the day, expect droplets to fall before the afternoon, tapering to a drizzle towards evening.\n\nAs the remnants of stormy weather push through, the day's high will struggle to reach a modest 60 degrees, before retreating to the cooler embrace of 56. The winds will pick up, gusting from the southwest, urging those outdoors to secure their hats and perhaps find shelter beneath awnings. Fog, that familiar companion of our coastal town, may weave its way through the Golden Gate, creating a soft veil over the landscape, particularly where the ocean mist lingers most heavily.\n\nGiven these conditions, dressing in layers will be essential\u2014think a light waterproof jacket over a cozy sweater, suitable for dodging raindrops and staying warm as temperatures dip. Today is a perfect time to explore the city's cozy indoor cafes or perhaps visit a local bookstore, where the smell of coffee and old paper provides a comforting retreat from the chilly dampness outside. As clouds roll above, let the rain encourage a slower pace, an invitation to linger over a cup of tea, unwinding in the embrace of our enchanting, albeit wet, San Francisco.",
-    "color_code": "#6B8E23",
-    "timestamp": "2024-11-11 06:01:48"
+    "weather_report": "As daylight breaks over Downtown San Francisco, a tapestry of clouds hangs overhead, casting a soft gray hue across the city. The weather whispers of rain, with expectations of moisture lingering until the afternoon. The air carries a chill, measuring around 60 degrees, and with a gusty southwest wind, it might feel even cooler. As you step outside, the anticipation of rain still clings to the atmosphere, while a hint of sun breaks through, promising a fleeting warmth before the clouds settle back in.\n\nFog drapes the hills like a delicate shawl, particularly near the Golden Gate, creating a dreamy backdrop that perfectly complements the city\u2019s iconic landscapes. Visibility wavers among the mist, giving way to sporadic bursts of clarity that reveal the unmistakable silhouette of the skyline. Dressing in layers is prudent today; a light jacket paired with a sweater will serve you well against the brisk winds. Despite the inclement weather, delightful moments await\u2014perhaps a cozy caf\u00e9 visit, where the warmth of a steaming cup of coffee awaits, or a quiet stroll near the waterfront, where the rhythmic lap of the waves offers a soothing antidote to the bustling day. Look out for those unexpected breaks of sunlight; they may just bless your afternoon with a beautiful reprieve.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-11 07:01:35"
 }
