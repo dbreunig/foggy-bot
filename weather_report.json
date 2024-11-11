@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-10T17:00:00-08:00",
-                "endTime": "2024-11-10T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 57 in the afternoon. West southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-10T18:00:00-08:00",
+                "startTime": "2024-11-10T19:00:00-08:00",
                 "endTime": "2024-11-11T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -49,14 +30,33 @@
                     "value": 40
                 },
                 "windSpeed": "5 to 12 mph",
-                "windDirection": "SSW",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/rain,30/rain,40?size=medium",
                 "shortForecast": "Chance Drizzle then Chance Light Rain",
-                "detailedForecast": "A chance of drizzle between 10pm and 4am, then a chance of rain. Mostly cloudy, with a low around 54. South southwest wind 5 to 12 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of drizzle between 10pm and 4am, then a chance of rain. Mostly cloudy, with a low around 54. South wind 5 to 12 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Veterans Day",
+                "startTime": "2024-11-11T06:00:00-08:00",
+                "endTime": "2024-11-11T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "10 to 17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
+                "shortForecast": "Rain Likely",
+                "detailedForecast": "Rain likely before 4pm, then a slight chance of drizzle. Mostly cloudy. High near 61, with temperatures falling to around 56 in the afternoon. West southwest wind 10 to 17 mph, with gusts as high as 28 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As shadows stretch across Downtown San Francisco this evening, the remnants of a sunlit afternoon gradually yield to a blanket of clouds. Temperatures are now settling around a mild 54 degrees, hinting at the gentle chill that accompanies the impending drizzle. The skies, once bright, are shifting towards a more muted, gray palette, with a slight chance of rain dampening the air between tonight and the early morning hours. Through the gradual transitions, the breeze carries a whisper of the South Southwest, ruffling loose jackets and wrapping around the bare arms of those moving through the streets.\n\nWith the encroaching night, the allure of a cozy caf\u00e9 beckons\u2014an ideal refuge against the coolness, where a warm drink can complement the aroma of fresh pastries. Alternatively, a stroll along the waterfront offers the charm of the bay, each gust of wind teasing hints of rising fog. It would be wise to dress in layers, perhaps a light sweater coupled with a water-resistant jacket as the forecast hints at misty conditions later on. As the day's vibrancy wanes, there lies a certain enchantment in this atmospheric shift\u2014inviting contemplative walks or the quiet embrace of shared moments under the soft glow of streetlights, a reminder that beauty can persist even through the clouds.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-10 17:28:26"
+    "weather_report": "The evening in Downtown San Francisco unfolds under a canopy of mostly cloudy skies, with a whisper of drizzle shyly teasing the streets. As the temperature hovers around 54 degrees, a gentle south wind imparts a coolness that invites a cozy sweater or a light jacket. Later, as night deepens, the chance of rain transforms from mere possibility to likelihood, scattering droplets that may linger into the early morning, barely measurable yet softening the edges of the bustling city.\n\nLooking ahead to Veterans Day, the promise of rain looms more substantial, particularly before the afternoon respite. Temperatures are anticipated to wane slightly, sliding down to a mild 56 degrees, while the west-southwest winds usher in gusts that can flirt with 28 mph. Those venturing into the urban tapestry may find the landscape draped in a light veil, as the marine layer creeps in, coaxing the fog that often cloaks the Golden Gate Bridge. This is a day to embrace the indoor comforts of a local caf\u00e9, perhaps with a book in hand, or to enjoy a leisurely stroll under the shelter of an umbrella, finding beauty in the gentle rhythms of a city kissed by rain.",
+    "color_code": "#A4B9D3",
+    "timestamp": "2024-11-10 19:05:48"
 }
