@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T00:43:00+00:00",
-            "temperature_f": 54.122,
-            "temperature_c": 12.29,
-            "humidity": 99.018681486568,
+            "timestamp": "2024-11-12T01:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Veterans Day",
-                "startTime": "2024-11-11T17:00:00-08:00",
-                "endTime": "2024-11-11T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 53 in the afternoon. West northwest wind around 15 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-11T18:00:00-08:00",
+                "startTime": "2024-11-11T19:00:00-08:00",
                 "endTime": "2024-11-12T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 49. West northwest wind 7 to 13 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Mostly clear, with a low around 49. West northwest wind 7 to 10 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2024-11-12T06:00:00-08:00",
+                "endTime": "2024-11-12T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 55 in the afternoon. Northwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "As evening descends on Downtown San Francisco, the sky reveals itself in quiet majesty, the lingering light of day making way for a mostly clear night. The brisk, swirling winds from the west northwest carry with them an invigorating chill, hinting at the approaching winter. With temperatures settling around a cozy 49 degrees, those venturing out should don layers\u2014a soft sweater beneath a light jacket would offer both warmth and comfort against the evening air.\n\nDespite the clear skies, remnants of the day's sun linger, casting a serene vibe over the city\u2014a perfect backdrop for low-key explorations. The absence of fog allows the glittering lights of the city to shine more brightly, beckoning you to take a leisurely stroll along the waterfront or indulging in a quiet evening at a charming caf\u00e9, perhaps with a warm drink in hand. With the world wrapped in a cozy stillness, it is a night best enjoyed on foot; a gentle walk through the vibrant streets feels almost like an invitation to uncover the hidden stories of the city\u2019s heart.",
-    "color_code": "#4A90E2",
-    "timestamp": "2024-11-11 18:21:41"
+    "weather_report": "As dusk settles over Downtown San Francisco, a blanket of clear skies emerges, bejeweled with a few evening stars twinkling overhead. The gentle westerly breeze whispers through the streets, bringing the bracing chill of an idyllic autumn night. The air is crisp, marked by a low temperature that beckons one to layer up\u2014perhaps a light sweater paired with a scarf for added comfort against the briskness. \n\nTomorrow promises to greet the city with bright sunshine, although the afternoon may usher in a slightly cooler embrace as temperatures dip. The forecast predicts delightful clarity, absent of the usual fog, making it an exceptional day to explore the urban landscape. Daydreamers and wanderers alike might find joy in a leisurely stroll along the waterfront, savoring the panoramic views of the bay without a murmur of the marine layer to soften the vision. It\u2019s a fine evening to look ahead to what tomorrow holds, considering the sunlit adventures that are ripe for the taking.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-11 19:03:02"
 }
