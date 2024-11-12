@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-12T11:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-12T14:00:00-08:00",
                 "endTime": "2024-11-12T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 10 mph",
-                "windDirection": "NW",
+                "windSpeed": "7 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 57 in the afternoon. Northwest wind 3 to 10 mph."
+                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 57 in the afternoon. West wind around 7 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-11-12T18:00:00-08:00",
                 "endTime": "2024-11-13T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 48,
+                "temperature": 49,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": null
                 },
-                "windSpeed": "2 to 8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct/rain,30?size=medium",
-                "shortForecast": "Partly Cloudy then Chance Light Rain",
-                "detailedForecast": "A chance of rain after 4am. Partly cloudy. Low around 48, with temperatures rising to around 50 overnight. Southwest wind 2 to 8 mph. Chance of precipitation is 30%."
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle after 4am. Mostly cloudy, with a low around 49. South southwest wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As midday settles over Downtown San Francisco, the city basks in a moment of serene clarity, bathed in sunlight that chases away the morning chill. The high temperature reaches a pleasant 60 degrees, encouraging residents to step outdoors and embrace the day. A gentle northwestern breeze whispers through the streets, bringing a promise of mildness as the sun approaches its zenith. The sky unfolds in vivid blue, adorned with only wisps of cloud that add texture to an otherwise unmarred canvas, suggesting that for now, the notorious fog holds its distance, retreating beyond the bay.\n\nYet, the night brings whispers of change, a chance of rain skirting into the forecast after the clock strikes four. As the temperatures dip towards evening, wear layers; a light jacket will suffice for the afternoon stroll, but keep an umbrella handy in case the heavens decide to shed some moisture later. With such delightful weather unfurling before you, it\u2019s an afternoon perfect for wandering the historic streets of the Mission, perhaps pausing at a beloved caf\u00e9 or exploring the rich tapestry of murals that brighten the neighborhood. Choices abound, from leisurely park visits to a casual chat with friends over warm drinks, all under the watchful eye of a backdrop that still holds the spirit of summer while gently transitioning into the coziness of autumn.",
-    "color_code": "#A9C0D0",
-    "timestamp": "2024-11-12 12:01:38"
+    "weather_report": "In Downtown San Francisco, the afternoon unfolds with a gentle sun illuminating the cityscape. A high near 60 degrees brings a pleasant warmth for those navigating the streets, although temperatures may wane slightly as the hours drift by. The skies are mostly clear, allowing the iconic silhouettes of buildings to stand distinctly against a backdrop of blue, the horizon stretching beautifully toward the Golden Gate Bridge. As the sun descends, a soft west wind whispers through, adding a refreshing touch to the air.\n\nCome evening, the clouds will begin to blanket the sky, hinting at a slight chance of drizzle as the night wraps itself around the city, with lows dipping to around 49 degrees. The South Southwest winds will remain calm, creating a soothing atmosphere but also inviting the thought of layering up in a cozy sweater or light jacket for your evening stroll or caf\u00e9 visit. As the daylight gently fades, consider exploring a local bookshop or weaving through the neighborhoods, absorbing the tranquil city vibe before settling into the comfort of home or a favorite hangout.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2024-11-12 14:01:35"
 }
