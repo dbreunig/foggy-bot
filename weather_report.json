@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-12T06:43:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 100,
+            "timestamp": "2024-11-12T08:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-12T00:00:00-08:00",
+                "startTime": "2024-11-12T02:00:00-08:00",
                 "endTime": "2024-11-12T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "9 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 49. Northwest wind around 9 mph."
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 49. Northwest wind around 7 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-11-12T06:00:00-08:00",
                 "endTime": "2024-11-12T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 58,
+                "temperature": 60,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "3 to 10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 55 in the afternoon. Northwest wind 5 to 10 mph."
+                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 57 in the afternoon. Northwest wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the city of San Francisco welcomes the early dawn hours, it finds itself draped in a tranquil clarity, a stark contrast to the moody fog that often graces its streets. The skies, mostly clear overnight, promise a return to that gentle brilliance with sunlight forecasted to awaken the city alongside the day. With temperatures initially mild, around 49, the day will push towards a high of nearly 58, softening to a cool embrace by the afternoon.\n\nThere's an unmistakable sense of pleasantness in the air. An absence of fog means the iconic silhouette of the Golden Gate Bridge stands proud, allowing the warmth of the sun to interact delightfully with the crisp breeze from the northwest. This gentle wind, blowing between 5 and 10 mph, carries not just a hint of chill but also the vibrant scent of salt from the bay. Dressing in layers is ideal\u2014perhaps a light sweater complemented with a windbreaker for the morning chill, transitioning into a comfortable shirt as the sun asserts its presence.\n\nGiven these inviting conditions, a stroll through the city\u2019s parks or along the waterfront offers a fruitful way to enjoy the morning's serenity. The clear view across the bay invites an exploration of those charming neighborhoods, perhaps indulging in a warm cup of coffee at a corner caf\u00e9 or hitting the trails for an invigorating walk through Golden Gate Park. As the day unfolds gently, it beckons for calm pursuits that mirror the city\u2019s ever-changing landscape.",
-    "color_code": "#F9E6C1",
-    "timestamp": "2024-11-12 00:01:42"
+    "weather_report": "In Downtown San Francisco, the overnight breeze has ushered in a clear and crisp morning, revealing a tranquil skyline that embraces the calm before the day. The air, still carrying the coolness of the night, has settled at a refreshing 49 degrees, barely lifting as the sun prepares its ascent. As morning unfolds, golden rays will gradually warm the city, reaching a modest high of 60 before gently cascading down to 57 come afternoon. A light Northwest wind, whispering between 3 to 10 mph, will accompany you, adding a pleasant chill that feels notably invigorating.\n\nThe expanse above is unmarred by the characteristic fog that often blankets the Bay Area; for now, the marine layer is nowhere to be seen, allowing for unobstructed views that showcase the city's iconic structures in all their glory. It\u2019s an ideal day for a leisurely stroll; a well-fitted sweater or light jacket seems suitable for the morning chill, perfect for sipping coffee al fresco while savoring the sun's slow embrace. Consider visiting one of the local parks, where the muted sounds of the city can be momentarily silenced by the rustling of leaves, or perhaps a quiet morning museum visit, offering both warmth and culture without the crowds of later hours. Today beckons with promise, a gentle reminder of nature\u2019s beauty in the heart of the urban landscape.",
+    "color_code": "#A6C9D3",
+    "timestamp": "2024-11-12 02:01:35"
 }
