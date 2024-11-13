@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-13T00:43:00+00:00",
-            "temperature_f": 56.21,
-            "temperature_c": 13.45,
-            "humidity": 63.981006099117,
+            "timestamp": "2024-11-13T01:43:00+00:00",
+            "temperature_f": 55.094,
+            "temperature_c": 12.83,
+            "humidity": 68.991952157895,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-12T17:00:00-08:00",
-                "endTime": "2024-11-12T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 57 in the afternoon. West wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-12T18:00:00-08:00",
                 "endTime": "2024-11-13T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Drizzle",
                 "detailedForecast": "A slight chance of drizzle after 4am. Mostly cloudy, with a low around 49. South southwest wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2024-11-13T06:00:00-08:00",
+                "endTime": "2024-11-13T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "5 to 18 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,80?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "A slight chance of drizzle before 10am, then rain. Partly sunny. High near 61, with temperatures falling to around 57 in the afternoon. South wind 5 to 18 mph, with gusts as high as 28 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "This evening, Downtown San Francisco greets us with a clear sky, the remnants of the day holding onto a gentle dusk, painting the horizons with a soft golden hue. As the temperatures slide slowly from their afternoon peak, a mild and crisp 57 degrees lingers, accompanied by a light west wind whispering through the streets. The tranquility of the scene belies that a shift is imminent \u2014 a subtle promise of drizzle in the early hours, signaling a gentle embrace from the clouds above. \n\nGiven the relatively serene conditions, a light jacket is advisable for those venturing out into the cool evening air. The absence of fog is a charming surprise, offering unguarded views of the iconic skyline and perhaps even an invitation to stroll along the waterfront or visit a quaint caf\u00e9 tucked away in the neighborhoods. As twilight descends, take a moment to savor a warm drink outdoors or explore the lively art scene \u2014 a perfect way to relish in the beauty of a San Francisco evening.",
-    "color_code": "#B1A0A1",
-    "timestamp": "2024-11-12 18:23:27"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the air carries a crispness, carrying whispers of a slight drizzle that may flirt with the city after four in the morning. The clouds are thick, blanketing the skyline, yet there\u2019s a certain charm in the grayness that envelops the evening. The temperature dips to a cool 49 degrees, coupled with a gentle, almost affectionate breeze from the south that nudges at about 2 to 6 mph, setting the perfect stage for the evening's possibilities.\n\nTomorrow promises to be a dance of sun and rain, with early hints of drizzle yielding to more substantial rainfall by the mid-morning. The day will start dim and dreary, yet there's a prospect of brightness in the afternoon, with temperatures meandering near 61 degrees, then settling around a lovely 57. The picture ahead is one of fluctuating warmth amid the cooling embrace of wind gusts that could reach up to 28 mph, carrying the potential for a fleeting exploration of San Francisco\u2019s hidden gems. Given the likelihood of rain, consider donning a water-resistant jacket and perhaps a light scarf to shield against the chill, opting for comfortable shoes that are no stranger to a puddle or two.\n\nAs the evening finds its way forward, there are pleasant prospects to embrace this weather\u2014a cozy evening sipping hot beverages at a local caf\u00e9, enjoying the rich aromas and the soft sounds of jazz that often grace intimate locales. Alternatively, perhaps a quiet stroll along the waterfront, where the muted light of the city reflects like a whisper onto the bay, might reveal a certain enchantment in the fog-cloaked silhouettes of the bridges and hills. San Francisco, in this misty embrace, invites the soul to linger and reflect.",
+    "color_code": "#7D9D9C",
+    "timestamp": "2024-11-12 19:04:57"
 }
