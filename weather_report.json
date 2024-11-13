@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-13T08:00:00+00:00",
-            "temperature_f": 51.998,
-            "temperature_c": 11.11,
-            "humidity": null,
+            "timestamp": "2024-11-13T08:43:00+00:00",
+            "temperature_f": 50.792,
+            "temperature_c": 10.44,
+            "humidity": 90.003502910937,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,21 +19,21 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-11-13T00:00:00-08:00",
+                "startTime": "2024-11-13T02:00:00-08:00",
                 "endTime": "2024-11-13T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 49,
+                "temperature": 48,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 30
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 4am. Mostly cloudy, with a low around 49. South southeast wind around 5 mph."
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain after 4am. Mostly cloudy. Low around 48, with temperatures rising to around 50 overnight. South wind around 5 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-11-13T06:00:00-08:00",
                 "endTime": "2024-11-13T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 61,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 70
                 },
-                "windSpeed": "5 to 18 mph",
+                "windSpeed": "6 to 18 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,80?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "A slight chance of drizzle before 10am, then rain. Partly sunny. High near 61, with temperatures falling to around 57 in the afternoon. South wind 5 to 18 mph, with gusts as high as 28 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,70?size=medium",
+                "shortForecast": "Drizzle Likely",
+                "detailedForecast": "Drizzle likely. Mostly cloudy. High near 62, with temperatures falling to around 58 in the afternoon. South wind 6 to 18 mph, with gusts as high as 28 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the early hours of Wednesday whisper through Downtown San Francisco, a muted drape of clouds settles in, promising a slight chance of drizzle as the dawn approaches. The city, nestled in its characteristic chill, sits at a soft glow\u2014low temperatures lingering around 49, nudged by a gentle breeze from the south. This delicate moisture hints at an unsettled day, where rain could mingle with dark clouds, punctuated by sporadic moments of sun.\n\nAs the day unfolds, expect a shift; drizzle before mid-morning will give way to light rain, alongside temperatures that greet a peak around 61 but slowly retreat to a cooler 57 as afternoon unfolds. The wind will pick up, swirling at speeds between 5 and 18 mph, with gusts becoming momentarily vigorous, up to 28 mph. The 80% chance of precipitation casts a likely scenario for all ventures undertaken today. In terms of visibility, expect a gloomy elegance, with the marine layer often obscuring views, blurring the iconic bridge and softly cradling the city skyline. Dress in layers to embrace the shifting warmth, perhaps a light waterproof jacket coupled with a comforting scarf to ward off the dampness. \n\nWith Wednesday's weather suggesting a mix of introspection and occasional rain-soaked determination, this is a splendid day to indulge in the city's charm from within\u2014explore its quaint caf\u00e9s, perhaps perched by a window, watching as droplets dance upon the pavement. Alternatively, find solace in the myriad of independent bookstores or museums, where the echoes of creativity thrive in the embrace of a cozy atmosphere. Such pursuits promise a rewarding escape from the weather's whims.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2024-11-13 01:01:31"
+    "weather_report": "As the night drapes softly over Downtown San Francisco, a faint whisper of rain begins to tease the air, a hint of moisture promising a gentle drizzle that will linger throughout the day. The low temperature hovers around 48, but it will inch upwards, as the South wind carries the scent of the Pacific, weaving through the city's iconic streets. The dawn will be shrouded in clouds, a thick blanket that might break in the afternoon, when the temperature retreats slightly to the mid-fifties. \n\nVisibility is tempered today, with pockets of mist curling around the hills and hinting at where the marine layer plays hide and seek with the semi-hidden silhouette of the Golden Gate Bridge. The urban landscape appears muted, sculpted by the clouds, yet it is a peaceful canvas begging for exploration. A light jacket or a windbreaker will be your best companions, perhaps layered over a comfortable sweater for those who appreciate the textured embrace of a chilly November day. There\u2019s solace to find in wandering the quieter neighborhoods, perhaps a leisurely stroll along the Embarcadero or indulging in a quiet caf\u00e9 moment while rain dances softly against the windows, transforming the ordinary into something exquisite\u2014an opportunity to savor the textures of city life as it unfurls under gray skies.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2024-11-13 02:01:40"
 }
