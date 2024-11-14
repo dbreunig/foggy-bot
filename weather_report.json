@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-13T17:00:00-08:00",
-                "endTime": "2024-11-13T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Partly sunny. High near 62, with temperatures falling to around 57 in the afternoon. South southwest wind around 16 mph, with gusts as high as 24 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-13T18:00:00-08:00",
                 "endTime": "2024-11-14T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,50/rain_showers,20?size=medium",
                 "shortForecast": "Chance Light Rain then Slight Chance Rain Showers",
                 "detailedForecast": "A chance of rain before 10pm, then a slight chance of rain showers. Mostly cloudy, with a low around 52. Southwest wind 2 to 14 mph, with gusts as high as 22 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2024-11-14T06:00:00-08:00",
+                "endTime": "2024-11-14T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "2 to 13 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,60?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely. Partly sunny. High near 60, with temperatures falling to around 55 in the afternoon. West southwest wind 2 to 13 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As twilight descends over Downtown San Francisco, the skies wear a vast cloak of clouds, hinting at the rain that lingers on the horizon. The weather carries with it a mild chill, the temperatures slipping from a peak of 62 earlier in the day to a serene dip around 52 by nightfall. The winds whisper through the city, a gentle south-southwest breath at about 16 mph, occasionally punctuated by gusts that dance up to 24 mph. A fifty percent chance of rain hovers over the landscape, suggesting that the possibility of a few light drops might interrupt an otherwise placid evening.\n\nThe ambiance of the city is marked by a blend of partly sunny patches and the familiar gray marine layer that lovingly embraces the waterfront. While fog may not shroud every corner, the mist can often be spotted playing coy around the edges of the Golden Gate, adding a layer of mystery to the already enchanting skyline. The evening invites a thoughtful wardrobe \u2014 perhaps a soft sweater layered beneath a light jacket, delicate enough to accommodate the slight chill yet cozy against the soft caress of the wind. As night approaches, the city whispers of leisurely strolls along the Embarcadero, where the lights twinkle like stars above the bay, or perhaps a quiet evening spent within the nook of a local caf\u00e9, relishing the warm embrace of a steaming cup while the soft patter of rain begins to serenade the streets.",
+    "weather_report": "As twilight settles over Downtown San Francisco, a gentle chill wraps the city, hinting at the moisture that lingers in the air. There's a palpable sense of transition as rain comes into play\u2014expect a few light showers before night fully embraces us, possibly delaying your evening stroll along the Embarcadero. With temperatures dipping to a cool 52 degrees, ensure you have a light jacket to fend off both the wind and the occasional drizzle. The skies remain mostly cloudy, cloaking our iconic landscapes in a soft, gray veil that speaks of the imminent rain.\n\nThursday beckons with a greater promise of rain, marked by a likelihood of showers intertwined with moments of fleeting sunshine. The day will see temperatures peaking at a cool 60 before gently falling into the afternoon. While the wind, though only modestly brisk, adds a touch of bite, it's an excellent excuse to seek solace indoors\u2014perhaps curling up with a good book at your favorite caf\u00e9, or exploring the myriad of small art galleries sprinkled throughout the neighborhoods. Those adventurous spirits might enjoy an early sunset, casting golden hues over the fog-cloaked hills, inviting a cozy evening in this ever-enigmatic city.",
     "color_code": "#B0C4DE",
-    "timestamp": "2024-11-13 17:28:21"
+    "timestamp": "2024-11-13 18:24:06"
 }
