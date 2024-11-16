@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-15T17:00:00-08:00",
-                "endTime": "2024-11-15T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 59, with temperatures falling to around 56 in the afternoon. West northwest wind around 14 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-15T18:00:00-08:00",
                 "endTime": "2024-11-16T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
                 "detailedForecast": "Clear, with a low around 46. Northwest wind 6 to 14 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-11-16T06:00:00-08:00",
+                "endTime": "2024-11-16T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 59, with temperatures falling to around 55 in the afternoon. Northwest wind 3 to 9 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Downtown San Francisco reveals a serene canvas painted in shades of pale blue and soft white, as the sun glides effortlessly across a sky free of fog's oppressive grasp. With temperatures poised to hover just above the chill threshold, it\u2019s a moment to appreciate the gentle warmth of the afternoon sun\u2014an invitation to step outside and soak in the crisp air. Although breezy whispers from the west beckon you to wrap a light jacket snugly around your shoulders, the clear horizon offers dazzling views, notably towards the Golden Gate, where the bridge emerges in sharp relief against the saturated sky.\n\nAs evening approaches and the air cools further, the crystal clarity of the night will unveil a vibrant tapestry of city lights. With the temperatures dipping gracefully and a low just above fifty awaiting you, it\u2019s wise to layer up, perhaps draping a cozy scarf around your neck to fend off the chill. This setup lends itself beautifully to a leisurely stroll along the waterfront, where you might find solace in the soft sounds of laughter and the muted rush of evening waves. Alternatively, consider unwinding in one of the many charming cafes, a warm drink in hand, while savoring the pulse of the city as it transitions into night.",
-    "color_code": "#A6C0D9",
-    "timestamp": "2024-11-15 17:31:44"
+    "weather_report": "As evening settles over Downtown San Francisco, the air carries a crispness that speaks of the approaching cold while remaining clear, revealing the city\u2019s lights twinkling like stars on the ground. The current temperature dips into the cool embrace of 46 degrees, which, accompanied by a gentle northwest breeze whispering through the streets, brings a refreshing chill that cuts through the lingering warmth of the day. Tonight, the sky is brilliantly clear, providing an unobstructed view of the celestial wonders above. There is no fog to veil the scene, nor the telltale marine layer that often surrenders to the day's end; instead, a serene calm rules the atmosphere.\n\nTomorrow promises a generous bounty of sunshine, but the coolness will persist, particularly as the afternoon drapes itself across the city. Dressing in layers will be prudent, perhaps starting with a warm sweater and a light jacket for the evening and transitioning to something more breathable for the day ahead. As San Francisco falls into the quiet rhythm of the night, it invites a slow-paced exploration. Consider a leisurely stroll through the streets, where the distant sounds of laughter from caf\u00e9s and bars mingle with the soft rustle of fallen leaves. Alternatively, a quiet moment with a good book in a cozy nook might suit the evening\u2019s calm, with the city\u2019s pulse gently thrumming outside, reminding you of the vibrant life that flourishes in this fog-kissed haven.",
+    "color_code": "#2B4C78",
+    "timestamp": "2024-11-15 18:25:43"
 }
