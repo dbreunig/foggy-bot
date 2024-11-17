@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-17T00:43:00+00:00",
-            "temperature_f": 54.068,
-            "temperature_c": 12.26,
-            "humidity": null,
+            "timestamp": "2024-11-17T01:43:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 54.011882337696,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-16T17:00:00-08:00",
-                "endTime": "2024-11-16T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 59, with temperatures falling to around 56 in the afternoon. West wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-16T18:00:00-08:00",
+                "startTime": "2024-11-16T19:00:00-08:00",
                 "endTime": "2024-11-17T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "2 to 6 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 48. South wind 2 to 7 mph."
+                "detailedForecast": "Mostly clear, with a low around 48. South wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2024-11-17T06:00:00-08:00",
+                "endTime": "2024-11-17T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "2 to 9 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,50/rain,80?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain after 10am. Mostly cloudy. High near 58, with temperatures falling to around 56 in the afternoon. South wind 2 to 9 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "This evening, Downtown San Francisco unfolds under a serene blanket of mostly clear skies, with the fading light of day casting a soft glow over the city. The air, having reached a comfortable near-59 degrees, is gentle, kissed by a light westerly breeze. As dusk deepens, the temperature will settle around 48, inviting a cozy wrap of layers, perhaps a light jacket or a soft sweater, ideal for a stroll along the waterfront or a quiet evening in your favorite caf\u00e9.\n\nThe absence of fog suggests that the marine layer has retreated for now, allowing the iconic views of the Golden Gate and the shimmering lights of the city to emerge in their full glory. It's a calm moment, perfect for reflection or leisurely exploration\u2014perhaps a walk through Golden Gate Park or a leisurely dinner at one of the local bistros. The night promises clarity and tranquility, creating an atmosphere that feels both comforting and invigorating against the backdrop of San Francisco\u2019s unique charm.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-16 18:28:04"
+    "weather_report": "As the twilight deepens over Downtown San Francisco, the air carries a gentle chill, reflective of a city settling into the cooler embrace of autumn. Tonight, under a mostly clear canopy, temperatures are expected to dip to a refreshing 48 degrees, coaxed only slightly by a soft south wind whispering at two to six miles per hour. The clarity of the evening offers a serene spectacle, revealing the twinkling lights of the bay and the softly illuminated skyline, with no fog to obscure the view. \n\nYet, as dawn approaches, a shift is on the horizon. Tomorrow promises rain after ten o'clock, shrouding the city in a veil of cloudiness that will see high temperatures hovering in the upper range of the twilight we now enjoy. The chance of precipitation looms at an 80% likelihood, suggesting a gentle but persistent drizzling throughout the day, with the potential for less than a tenth of an inch accumulation. For those venturing into the elements, layering becomes wise\u2014perhaps a lightweight waterproof jacket over a warm sweater, along with a sturdy umbrella tucked within arm's reach. Taking a stroll along the waterfront could bring solace, where the sound of raindrops harmonizes with waves lapping against the shore, inviting moments of quiet reflection amid the day-to-day bustle.",
+    "color_code": "#1E2C53",
+    "timestamp": "2024-11-16 19:13:16"
 }
