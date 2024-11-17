@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-16T23:00:00-08:00",
+                "name": "Overnight",
+                "startTime": "2024-11-17T00:00:00-08:00",
                 "endTime": "2024-11-17T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 mph",
+                "windSpeed": "2 mph",
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 48. South southeast wind around 3 mph."
+                "detailedForecast": "Mostly clear, with a low around 48. South southeast wind around 2 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-11-17T06:00:00-08:00",
                 "endTime": "2024-11-17T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 58,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 70
                 },
                 "windSpeed": "2 to 9 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50/rain,80?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain after 10am. Mostly cloudy. High near 58, with temperatures falling to around 56 in the afternoon. South wind 2 to 9 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,50/rain,70?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely after 10am. Partly sunny. High near 59, with temperatures falling to around 55 in the afternoon. South wind 2 to 9 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night settles over Downtown San Francisco, a calm envelopes the city, with the air cooling gently to around 48 degrees. There\u2019s a whisper of wind from the south, barely perceptible at three miles per hour, hinting at the slight shifts that tomorrow will bring. The sky, mostly clear now, offers a tranquil view, unmarred by fog or haze, allowing the city to bask in the serene glow of its streetlights.\n\nCome morning, however, prepare for the embrace of gentle rain beginning around 10 a.m. Clouds, thick and gray, will roll in, shrouding the vibrant cityscape in a muted palette. As temperatures peak in the afternoon near 58 degrees\u2014then subtly sinking to 56\u2014the atmosphere will grow heavier with moisture, making cozy layers a wise choice. Perhaps a soft sweater or a light jacket, accompanied by a sturdy umbrella, would suit the mood as the city readies itself for rain. It will be a day less about grand explorations and more about the simple pleasures of warmth, a perfect backdrop for leisurely coffee at a local caf\u00e9 or the allure of browsing books within the comforting confines of a secondhand bookstore. As the rain falls softly, it will invite reflection and the quiet joy of taking shelter from the world outside.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-11-16 23:01:35"
+    "weather_report": "In the still of the night, Downtown San Francisco rests quietly under a blanket of mostly clear skies as the winds whisper gently from the south. As morning breaks, the forecast hints at a shift, unfurling a tapestry of partly sunny interludes entwined with the likelihood of rain after the mid-morning hours. The day will bring a soothing chill, beginning with a vibrant embrace of 59 degrees, transitioning into a cooler afternoon. The air feels fresh; a slight marine layer may linger, but overall clarity prevails, with the city\u2019s iconic skyline defined against a softening light.\n\nAs the day unfolds, one might consider a stroll through the quiet streets or perhaps a visit to one of the local coffee shops, where the rich aroma of brewing coffee mingles with the anticipation of the day ahead. Dressing in layers is wise\u2014perhaps a light jacket to guard against the cool breeze, and an umbrella tucked away for the afternoon\u2019s forecasted whimsy. Enjoy the moments of serenity that punctuate the day, be it through leisurely exploration or simply savoring the quiet hum of the city awakening, before the rain gently makes its presence known.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-17 00:01:48"
 }
