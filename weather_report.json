@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-17T23:43:00+00:00",
-            "temperature_f": 55.832,
-            "temperature_c": 13.24,
-            "humidity": 79.980438353437,
+            "timestamp": "2024-11-18T01:43:00+00:00",
+            "temperature_f": 54.284,
+            "temperature_c": 12.38,
+            "humidity": 93.993191086685,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-17T17:00:00-08:00",
-                "endTime": "2024-11-17T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 60
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Mostly cloudy. High near 59, with temperatures falling to around 56 in the afternoon. Southwest wind around 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-17T18:00:00-08:00",
+                "startTime": "2024-11-17T19:00:00-08:00",
                 "endTime": "2024-11-18T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 60
                 },
-                "windSpeed": "10 to 18 mph",
-                "windDirection": "WNW",
+                "windSpeed": "12 to 18 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,60/sct?size=medium",
                 "shortForecast": "Light Rain Likely then Partly Cloudy",
-                "detailedForecast": "Rain likely before 10pm. Partly cloudy, with a low around 48. West northwest wind 10 to 18 mph, with gusts as high as 31 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain likely before 10pm. Partly cloudy, with a low around 48. Northwest wind 12 to 18 mph, with gusts as high as 31 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2024-11-18T06:00:00-08:00",
+                "endTime": "2024-11-18T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 17 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 54 in the afternoon. Northwest wind 10 to 17 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As daylight wanes over Downtown San Francisco, a gentle melancholy settles in, accentuated by the dim light filtering through a thick veil of clouds. The forecast suggests rain is imminent\u2014a ghostly promise hovering in the air. The chill of the day lingers around fifty-seven degrees, inviting an early retreat indoors or a cozy stroll beneath the shelter of an umbrella. At this hour, the horizon boasts a muted beauty, the glint of the Golden Gate concealed beneath a brooding marine layer that uncharacteristically clings to the city. \n\nWith the sun slipping below the horizon, the chance of showers, sitting comfortably at sixty percent, encourages a layered wardrobe. A light jacket, perhaps, paired with a scarf, offers not just warmth but an air of urban elegance fitting for the evening's briskness. As night approaches, the wind picks up\u2014a steadfast companion, reminding us of San Francisco\u2019s coastal temperament, gusts curling through streets while the smell of wet pavement begins to fill the air. Tonight, rather than venturing to crowded hotspots, a cozy evening with a novel by the fire or a revisitation of old films might be the more appealing alternative, with the sounds of rain softly drumming against the window, wrapping the world in a tranquil embrace.",
-    "color_code": "#5C6E8D",
-    "timestamp": "2024-11-17 17:28:50"
+    "weather_report": "As evening envelops Downtown San Francisco, a sense of complexity hangs in the air, with rain gently calling down before 10 PM. The sky is partly shrouded, the low temperature offering a crisp touch at around 48 degrees\u2014an invitation to layer up in a warm jacket or a woolen scarf. The brisk northwest winds are painting an energetic brushstroke at 12 to 18 miles per hour, with gusts audibly asserting themselves, reaching up to 31 mph. As the chance of precipitation lingers at 60%, an umbrella could serve as both a shield and a companion for a stroll through the brisk, rain-kissed city.\n\nTomorrow promises a clearer chapter, as the sun graces the day with a high near 58 degrees, gradually descending to a more subdued warmth in the afternoon. The winds will calm slightly, still holding a noticeable presence. The beauty of the city will be revealed in its detail, inviting exploration beyond the hustle of crowded tourist spots. As the fog settles in its slumber, one might find solace in a corner caf\u00e9, holding a warm beverage, or meandering through the quieter neighborhoods adorned with twinkling lights. This time of evening, with the fading light and rich atmosphere, might inspire an evening spent contemplating the sensations of the day, ideally wrapped in layers that blend comfort with style, against the coolness of the encroaching night.",
+    "color_code": "#3C3F48",
+    "timestamp": "2024-11-17 19:13:14"
 }
