@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-19T21:43:00+00:00",
-            "temperature_f": 54.536,
-            "temperature_c": 12.52,
-            "humidity": 54.006638415239,
+            "timestamp": "2024-11-20T01:43:00+00:00",
+            "temperature_f": 52.178000000000004,
+            "temperature_c": 11.21,
+            "humidity": 56.035229511694,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-19T17:00:00-08:00",
-                "endTime": "2024-11-19T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 58, with temperatures falling to around 55 in the afternoon. South wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-19T18:00:00-08:00",
+                "startTime": "2024-11-19T19:00:00-08:00",
                 "endTime": "2024-11-20T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,30/rain,90?size=medium",
                 "shortForecast": "Light Rain",
                 "detailedForecast": "Rain after 10pm. Mostly cloudy. Low around 52, with temperatures rising to around 54 overnight. South wind 10 to 18 mph, with gusts as high as 29 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2024-11-20T06:00:00-08:00",
+                "endTime": "2024-11-20T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "18 to 26 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,90?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy. High near 59, with temperatures falling to around 57 in the afternoon. South wind 18 to 26 mph, with gusts as high as 39 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "This afternoon in Downtown San Francisco, the enveloping clouds cast a soft, grey veil over the skyline as the temperature hovers near a brisk 58 degrees before settling around 55. The air carries a gentle southern breeze, making for a somewhat cool ambiance, not unpleasant but certainly indicative of the impending shift in weather. As twilight descends, the forecast promises rain starting later, a steady patter anticipated after 10 PM, while temperatures will rise slightly to around 54 overnight. It's a time when the city\u2019s iconic hills may appear as mere shadows against the vibrant urban glow, their outlines softened by the low-hanging clouds.\n\nAs the evening draws near, one might find solace in a cozy caf\u00e9, warmed by the aroma of freshly brewed coffee, or perhaps seek refuge in a snug spot with a good book. With the chance of precipitation looming high, dressing in layers becomes a prudent choice\u2014think a light water-resistant jacket over a warm sweater, perfect for transitioning from the damp chill outside to the inviting warmth within. Clarity might be obscured by the marine layer, yet the city has its own charm tonight, inviting a quiet introspection and the kind of serene beauty that thrives just beyond the fog.",
-    "color_code": "#8C8C8C",
-    "timestamp": "2024-11-19 18:26:29"
+    "weather_report": "As twilight drapes itself softly over Downtown San Francisco, the air carries a cool, damp promise of rain. Through the dimming light, the cityscape is cloaked in a veil of moist clouds, reducing visibility and transforming familiar landmarks into shadowy impressions. Tonight, the warmth of the day slips away, with temperatures lingering around the low fiftys, while a brisk south wind rustles through the streets, stirring leaves and creating an atmosphere both alive and expectant. With a 90% chance of precipitation looming, it feels as if the clouds are preparing to release their bounty soon; drizzles may begin as early as ten o'clock.\n\nThe forecast for Wednesday reveals a continuation of this damp theme, with rain expected to persist through the day. The sky will remain a canvas of gray, casting a muted palette over the city. Highs will hover around fifty-nine, cooling by afternoon, as the relentless south winds pick up strength. In such weather, a comfortable jacket layered over a light sweater would be wise, along with sturdy footwear for navigating slippery streets. As this evening unfolds and the rain begins, perhaps cozy indoor activities beckon\u2014a visit to a local bookstore, where the scent of coffee mingles with the pages, or perhaps curling up with a film that mirrors the pensive mood of the night. Whether seeking solace indoors or venturing out into the refreshing rain, one cannot deny the allure of a city wrapped in its own foggy embrace.",
+    "color_code": "#4B6E9C",
+    "timestamp": "2024-11-19 19:10:05"
 }
