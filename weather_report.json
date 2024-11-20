@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-20T10:43:00+00:00",
-            "temperature_f": 53.708,
-            "temperature_c": 12.06,
-            "humidity": null,
+            "timestamp": "2024-11-20T11:43:00+00:00",
+            "temperature_f": 54.428000000000004,
+            "temperature_c": 12.46,
+            "humidity": 39.019144715388,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-20T05:00:00-08:00",
-                "endTime": "2024-11-20T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 52. South southeast wind around 17 mph, with gusts as high as 33 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2024-11-20T06:00:00-08:00",
                 "endTime": "2024-11-20T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,50/rain,80?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain. Cloudy. High near 59, with temperatures falling to around 57 in the afternoon. South southeast wind 18 to 23 mph, with gusts as high as 39 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-20T18:00:00-08:00",
+                "endTime": "2024-11-21T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "20 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,80/rain,90?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a low around 55. South southeast wind around 20 mph, with gusts as high as 36 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible."
             }
         ]
     },
-    "weather_report": "In the early hours of this Wednesday, the city lies beneath a thick shroud of clouds, with the eerie glow of urban lights softened by the encroaching darkness. A gentle whisper of rain is anticipated, mingling with the cool winds that sweep down from the southeast, hinting at the instability of the day ahead. As clouds blanket the sky, the temperature lingers around a brisk 52 degrees, and the promise of rain is both a harbinger of solace and a reminder of the unpredictable nature of the San Francisco fall.\n\nAs the day progresses, expect the clouds to thicken further, morphing into a steady downpour. With temperatures teetering between 57 and 59 degrees, the chill in the air nudges one to reach for a warm coat and perhaps a light scarf. The gusty winds may send chills as strong currents of air stir through the streets. Given this damp atmosphere, a stroll along the waterfront might reveal a quiet beauty\u2014the fog weaving through the structures, giving the city an ethereal quality. While some may seek refuge indoors, perhaps enjoy a leisurely morning coffee by the window, those daring enough to venture out might find solace in the rhythmic sound of rain\u2014a perfect backdrop for a contemplative day.",
-    "color_code": "#7A9B68",
-    "timestamp": "2024-11-20 05:07:17"
+    "weather_report": "In Downtown San Francisco, the morning unfolds under a heavy shroud of clouds, the gray skies weeping gently as rain begins to fall steadily. The wind, a brisk companion, stirs in from the south-southeast, its gusts whispering through the streets at times with a vigorous flurry, moving the delicate scent of rain-slick pavement through the air. There's a palpable chill, as temperatures scale back throughout the day, prompting a retreat into more layers for warmth. As the afternoon approaches, you might see the occasional burst of darker clouds outside, promising an increase in rain that could paint the sidewalks with a glistening sheen.\n\nGiven the prevailing conditions, dressing for warmth and water resistance becomes a must. A cozy sweater beneath a waterproof jacket will shelter against the chill and wetness, while sturdy boots will keep your feet protected from puddles. The air carries that familiar fresh scent of a freshly washed world, inviting the contemplation of indoor pursuits. Perhaps a quiet embrace of a book at your favorite caf\u00e9, where the view of rain droplets can be savored through a warm cup, or a leisurely stroll through the nearby museum, where the city\u2019s vibrant culture shines against the somber backdrop of a stormy day. This is a time for pause and reflection, a day painted in muted tones, urging you to find comfort in small comforts amid the rhythmic cadence of rain against the city.",
+    "color_code": "#4B4E6D",
+    "timestamp": "2024-11-20 06:02:02"
 }
