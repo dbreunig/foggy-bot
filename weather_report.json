@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-21T11:43:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
+            "timestamp": "2024-11-21T12:43:00+00:00",
+            "temperature_f": 54.824,
+            "temperature_c": 12.68,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-21T05:00:00-08:00",
-                "endTime": "2024-11-21T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 60
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy, with a low around 56. South southeast wind around 20 mph, with gusts as high as 36 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2024-11-21T06:00:00-08:00",
                 "endTime": "2024-11-21T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,40?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain. Cloudy. High near 62, with temperatures falling to around 60 in the afternoon. South southeast wind 14 to 22 mph, with gusts as high as 37 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-21T18:00:00-08:00",
+                "endTime": "2024-11-22T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "14 to 22 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30/rain_showers,60?size=medium",
+                "shortForecast": "Light Rain Likely then Rain Showers",
+                "detailedForecast": "Rain likely before 4am, then rain showers. Cloudy, with a low around 57. South southeast wind 14 to 22 mph, with gusts as high as 37 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night lingers over Downtown San Francisco, the city finds itself wrapped in a thick shroud of rainclouds, echoing the gentle rhythm of raindrops above. At this early hour, the air is cool, and the wind whispers insistently from the south, carrying with it a promise of moisture. One can almost feel the weight of the atmosphere, as if the sky were contemplating its next release, with a 60% chance of precipitation lingering like unspoken words. The streets appear dimly lit, but perhaps it's a perfect moment to cozy up in a favorite caf\u00e9, sipping on a warm brew as the world outside gathers its quiet rhythm.\n\nAs dawn breaks, Thursday will greet us with continued rain, the high creeping up to a mild 62 degrees. The clouds will remain stubbornly in place, hinting at a day more suited for introspection than for adventure. As temperatures begin their slow descent towards the afternoon, donning layers would be wise; perhaps a light waterproof jacket over a snug sweater to fend off the chill. Be prepared for gusts that steal the breath away, and an umbrella will be more than just a stylish accessory; it will be a trusty companion for the day ahead. With all this rain, it may not be the day for an impromptu stroll along the waterfront, but rather a chance to explore the hidden gems of the city\u2014think art galleries, independent bookstores, or even the warmth of a local bakery, where the scent of fresh pastries might just rival the sweet respite from the rain.",
-    "color_code": "#6A7F7E",
-    "timestamp": "2024-11-21 05:07:23"
+    "weather_report": "In the heart of Downtown San Francisco this morning, the world awakens to a muted, rainy embrace. As the skies hang heavy with clouds, wrapped in shades of grey, the air carries the tang of fresh rain and a brisk chill that whispers of the day ahead. The temperature, a cool 62 degrees, will gently descend as the afternoon approaches, making it a day best suited for layered clothing\u2014perhaps a well-loved sweater beneath a waterproof jacket to ward off the coming downpour. The winds blow in from the southeast, a playful gusty companion, urging the trees to sway and carrying with it a promise of more rain to come, with a chance of showers lingering into the night.\n\nVisibility is shrouded in a delicate haze, the typical clarity of San Francisco obscured by the marine layer that draws in like an elegant ghost. One might find the streets alive with the rhythm of raindrops, perfect for a leisurely stroll along the waterfront, soaking in the muted charm of a drizzly day. While a hot cup of coffee or tea may be the ideal companion, there is a beauty in the quiet solace that the rain brings; perhaps a visit to a cozy bookstore or a gallery, finding refuge from the elements while savoring the treasures hidden within. Today calls for a gentle exploration of the city\u2019s nooks and crannies, where each drop of rain adds a shimmer to the familiar, inviting you to pause, reflect, and find warmth in both the environment and the company you keep.",
+    "color_code": "#7D7D7D",
+    "timestamp": "2024-11-21 06:02:05"
 }
