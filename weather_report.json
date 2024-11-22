@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-22T00:43:00+00:00",
-            "temperature_f": 61.88,
-            "temperature_c": 16.6,
-            "humidity": 89.006252922161,
+            "timestamp": "2024-11-22T01:43:00+00:00",
+            "temperature_f": 61.592,
+            "temperature_c": 16.44,
+            "humidity": 87.965107617106,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-21T17:00:00-08:00",
-                "endTime": "2024-11-21T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Cloudy. High near 62, with temperatures falling to around 60 in the afternoon. South wind around 14 mph, with gusts as high as 31 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-21T18:00:00-08:00",
                 "endTime": "2024-11-22T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,70/rain,100?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain. Cloudy, with a low around 57. South southeast wind 14 to 17 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-11-22T06:00:00-08:00",
+                "endTime": "2024-11-22T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "15 to 18 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy. High near 62, with temperatures falling to around 58 in the afternoon. South southeast wind 15 to 18 mph, with gusts as high as 36 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon has embraced a shroud of gray, as rain begins to sweep over the streets with a gentle insistence. The atmosphere is thick with clouds, casting a muted light that brings a somber beauty to the familiar skyline. Visibility is a tad obscured, with hints of the city\u2019s iconic structures playing hide and seek with the descending fog. The Golden Gate Bridge, like a forgotten memory, might be just barely distinguishable in the mist, all while the city hums beneath a south wind that dances through the street, stirring leaves and offering a soft chill that tingles on the skin.\n\nAs the evening unfolds, the rain promises to grow more persistent, heralded by gusts of wind that may stir up the sea\u2019s voice. Temperatures will dip slightly, inviting layers into your evening attire. A cozy sweater or a light waterproof jacket would be wise companions tonight, one that allows for tranquility rather than discomfort. While the weather may discourage long outdoor strolls, the warmth of a caf\u00e9 or the embrace of a good book accompanied by a warm drink could create a perfectly pleasant evening escape as the city softens into its shadowy beauty. Remember to listen to the soothing rhythm of the rain against the windows while sipping on something warm; it's a perfect reminder of the magic that exists in these quieter, gentler moments.",
-    "color_code": "#4B4B4B",
-    "timestamp": "2024-11-21 18:26:53"
+    "weather_report": "As night descends upon Downtown San Francisco, a thick blanket of rain-drenched clouds envelops the city, casting an atmosphere of muted grey. The streets glisten under the streetlights, reflecting the steady drizzle that heralds a significant downpour. With temperatures poised to hover around a comfortably cool 57 degrees, the South Southeast winds whip through the air, adding a brisk edge to the damp surroundings. Visibility may be limited, as the promise of substantial rainfall continues, with the forecast hinting at a deluge of up to two inches by tomorrow. As you gaze across the landscapes framed by views of the Golden Gate and downtown towers, any hint of fog lingers, shrouding the hills and softening the sharp contours of the skyline.\n\nDressing for this evening requires an embrace of warmth and water resistance; a good raincoat and sturdy footwear will serve well against puddles and misty air. While outdoor excursions may seem less inviting, the ambiance lends itself beautifully to the simple pleasures of an evening indoors. Consider finding solace in a cozy caf\u00e9 where you can watch the rain dance against the window, perhaps savoring a warm beverage amidst conversations that carry over the gentle patter of droplets. Alternatively, a local bookstore could offer an inviting retreat, where time can be spent lost in the pages of a good book, layered in quiet comfort as the world outside stirs with the rhythm of rain.",
+    "color_code": "#4B4C4C",
+    "timestamp": "2024-11-21 19:11:13"
 }
