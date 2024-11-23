@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T13:43:00+00:00",
-            "temperature_f": 53.942,
-            "temperature_c": 12.19,
-            "humidity": 100,
+            "timestamp": "2024-11-23T14:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-11-23T06:00:00-08:00",
+                "startTime": "2024-11-23T07:00:00-08:00",
                 "endTime": "2024-11-23T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 60
                 },
-                "windSpeed": "6 to 9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,40?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Partly sunny. High near 58, with temperatures falling to around 54 in the afternoon. Southwest wind 6 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/sct?size=medium",
+                "shortForecast": "Rain Showers Likely then Mostly Sunny",
+                "detailedForecast": "Rain showers likely before 11am. Mostly sunny. High near 58, with temperatures falling to around 54 in the afternoon. West southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 30
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "5 to 9 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30/rain,60?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Mostly cloudy, with a low around 48. South southwest wind around 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,30?size=medium",
+                "shortForecast": "Partly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 1am. Partly cloudy, with a low around 48. South southwest wind 5 to 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, a subtle palette of gray blankets the sky, echoing the gentle melancholy of a city caught between rain and its fleeting moments of sun. As we embrace the day, there is a pregnant stillness, a promise of rain hovering in the air, likely to arrive soon as temperatures hover around the mid-fifties. The soft whispers of the southwest wind carry light gusts, barely ruffling the leaves of the streets below. A misting haze may blur the outlines of the Golden Gate, but it also invites you to savor the enchanting allure of the city\u2019s fog\u2014an elegant veil that draws a curtain over the usual clarity of the bay.\n\nOn this cool morning, it may be wise to layer up, donning a light waterproof jacket over a cozy sweater while choosing sturdy shoes to navigate puddles and the occasional slippery sidewalk. As the rain taps gently atop glass and sidewalk, perhaps a quiet moment in a nearby caf\u00e9 would be the perfect way to celebrate the day\u2014sipping a warming cup of tea or a rich cocoa while watching the world drift by, embracing the gentle rhythm of a November rain in a city imbued with a charm all its own.",
-    "color_code": "#A4B8D6",
-    "timestamp": "2024-11-23 07:01:38"
+    "weather_report": "In Downtown San Francisco, a soft fog clings to the morning air, weaving through the streets like a whisper from the bay. The forecast promises a transformation\u2014rain showers are forecasted to yield to mostly sunny skies, though remnants of dampness may linger, with temperatures moving from a cool 58 to a slightly chillier 54. As the day unfolds, expect a gentle west-southwest breeze to accompany these shifts, brushing past with occasional gusts that dance playfully around you. \n\nAs twilight approaches, the potential for rain resurfaces, casting a gentle shadow over the evening\u2019s plans. Tonight could usher in a few scattered showers, yet the evening will also hold the promise of a partly cloudy night, creating a canvas for starlight to peek through. To navigate this ever-changing day, layering is key; a light jacket would be wise, paired perhaps with a snug scarf to ward off the coolness. As you venture outdoors, consider a leisurely stroll along the waterfront, where the crisp air rejuvenates the spirit, or perhaps a quiet visit to your favorite caf\u00e9 where the warmth and aroma of fresh coffee punctuate the dampness outside. Embrace the ebb and flow of this San Francisco day, for even in its clouds, there is much to admire.",
+    "color_code": "#AFAFBA",
+    "timestamp": "2024-11-23 08:01:36"
 }
