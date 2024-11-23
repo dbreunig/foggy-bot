@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T11:43:00+00:00",
-            "temperature_f": 53.492,
-            "temperature_c": 11.94,
-            "humidity": null,
+            "timestamp": "2024-11-23T12:43:00+00:00",
+            "temperature_f": 53.653999999999996,
+            "temperature_c": 12.03,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-23T05:00:00-08:00",
-                "endTime": "2024-11-23T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Mostly cloudy. Low around 52, with temperatures rising to around 54 overnight. South wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2024-11-23T06:00:00-08:00",
                 "endTime": "2024-11-23T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,40?size=medium",
                 "shortForecast": "Light Rain Likely",
                 "detailedForecast": "Rain likely. Partly sunny. High near 58, with temperatures falling to around 54 in the afternoon. Southwest wind 6 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-23T18:00:00-08:00",
+                "endTime": "2024-11-24T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Mostly cloudy, with a low around 48. South southwest wind around 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a blanket of clouds envelops the city, hinting at a day tinged with moisture and muted light. The promise of rain accompanies the rising temperature, resting comfortably in the low fifties as cooler air settles after a night of steady precipitation. Those venturing outside will find a gentle south wind, whispering through the streets and carrying with it the unmistakable scent of wet earth and dampened foliage. Visibility may be limited by a shroud of fog clinging to the hills and the bay, especially near the iconic Golden Gate Bridge, where the marine layer plays hide and seek with the landscape, softening the sharp edges of the city\u2019s silhouette.\n\nSaturday\u2019s forecast calls for the rain to persist, albeit with flashes of sunshine peeking through the clouds, creating a dynamic canvas in which shadows dance across pavements and storefronts. While the high reaches just above fifty-eight, temperatures are set to dip later in the day, urging a sense of anticipation\u2014one that beckons an urban exploration or a cozy afternoon spent indoors with a book. Dressing in layers will serve well, providing comfort against the cool air and potential drizzle, while sturdy boots will ensure a stable footing on slick sidewalks. Consider sipping a warming cup of coffee at a local caf\u00e9, or meandering through the quaint streets where aromas of baked goods linger, each corner promising a quiet moment to absorb the shifting rhythms of this fog-tinged day.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-11-23 05:05:12"
+    "weather_report": "In Downtown San Francisco, the morning unfolds under a shroud of cloudy skies, an unhurried promise of rain lingering in the air. The temperatures, cool yet not harsh, settle around the mid-fifties, hinting at a relatively brisk afternoon as the mercury dips further. The southwest breeze carries a fresh, marine scent, intermingled with the soft sounds of distant traffic, which blend seamlessly into the vibrant urban landscape. While visibility may be diminished by a stubborn marine layer, the iconic outlines of the Golden Gate could still emerge from the mist \u2014 a fleeting glimpse of beauty cloaked in gray. \n\nAs the day progresses, expect rain to tap lightly against windows and umbrellas, with the likelihood of a steady drizzle momentarily lifting as pockets of fleeting sunshine attempt to break through. Given the chill, layering up is wise; a light waterproof jacket accompanied by a snug scarf will ward off the dampness while allowing for comfort. Should you find yourself wandering the city's streets today, consider a warm beverage in one of the local caf\u00e9s, where the convivial atmosphere invites lingering conversations, or perhaps a quiet stroll through a park to breathe in the fresh, rain-kissed air before the evening settles in with a promise of further showers.",
+    "color_code": "#A8B8B4",
+    "timestamp": "2024-11-23 06:01:48"
 }
