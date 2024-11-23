@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-22T17:00:00-08:00",
-                "endTime": "2024-11-22T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy. High near 62, with temperatures falling to around 57 in the afternoon. Southwest wind around 7 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-22T18:00:00-08:00",
                 "endTime": "2024-11-23T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain. Cloudy. Low around 52, with temperatures rising to around 54 overnight. Southwest wind 6 to 9 mph, with gusts as high as 21 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-11-23T06:00:00-08:00",
+                "endTime": "2024-11-23T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,40?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Partly sunny. High near 58, with temperatures falling to around 54 in the afternoon. Southwest wind 6 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the atmosphere hangs thick with anticipation as rain envelops the city this afternoon. The skies are draped in a somber gray, reflecting both the chill and the palpable moisture that fills the air. With temperatures dipping to a cool 57, the day feels distinctly damp and chilly, an invitation to seek warmth indoors. Under the steady drizzle, visibility wanes, teasing the outlines of the Golden Gate, while the streets glisten with rain. The wind stirs gently, yet the promise of heavier gusts lingers, hinting at a restless evening ahead.\n\nAs the sun sinks toward the horizon, expect the terrain to continue its wet embrace, with nighttime temperatures creeping to around 54. This pervasive humidity, paired with low cloud cover, not only shrouds familiar landmarks in a veil of mist but also suggests a lingering marine layer, subtly reminding us of the bay\u2019s temperament. Beneath such conditions, one might find solace in a cozy cafe, savoring a warm drink while watching the world soften outside through the window, or perhaps take a stroll with an umbrella, hearing the rhythmic tap of raindrops on its canopy. Dress in layers, don a waterproof jacket, and keep those comfortable shoes handy, for this evening encourages those simple pleasures that keep us connected to one another and to the rhythm of city life, even beneath the rain.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-11-22 17:29:17"
+    "weather_report": "As twilight descends on Downtown San Francisco, the city is enveloped in a tender veil of rain, the droplets softly tapping against windowpanes as they interlace with the cool air. The temperature lingers around a crisp 52 degrees, gently rising like the promises of a nighttime tale. The clouds, thick with moisture, shroud the skyline, compelling the Golden Gate Bridge to dissolve into a muted silhouette, lost in the hazy romance of the evening. A brisk southwestern wind whispers through the streets, swirling the scent of wet pavement and mossy hills, hinting at the atmospheric change that gathers overhead. \n\nTomorrow greets us with the prospect of rain lingering throughout the day, lightening at moments to reveal fleeting glimpses of sun that may tease the city. A cool high of 58 degrees beckons warmth, suggesting layers\u2014a cozy sweater, perhaps, or a stylish rain jacket. The 70% chance of precipitation dances in the air, carrying the promise of a light drizzle rather than a deluge. For those inclined to venture, consider a quiet afternoon stroll beneath an umbrella, relishing the glistening streets, or perhaps artfully navigating the tender fog that rolls in, wrapping like a soft scarf around the city\u2019s renowned sites. Embrace the calm of this rainy day, whether curled up with a book in a caf\u00e9 or wandering the spacious art galleries where the gray outside gives way to vibrant colors within.",
+    "color_code": "#7F7F7F",
+    "timestamp": "2024-11-22 18:24:55"
 }
