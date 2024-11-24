@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T17:43:00+00:00",
-            "temperature_f": 52.502,
-            "temperature_c": 11.39,
-            "humidity": 79.989649823404,
+            "timestamp": "2024-11-24T18:43:00+00:00",
+            "temperature_f": 54.248,
+            "temperature_c": 12.36,
+            "humidity": 72.97045249164,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-24T11:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-24T12:00:00-08:00",
                 "endTime": "2024-11-24T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 40
                 },
-                "windSpeed": "10 to 14 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,40?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Partly sunny. High near 59, with temperatures falling to around 55 in the afternoon. South wind 10 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "12 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Partly sunny. High near 59, with temperatures falling to around 56 in the afternoon. South southeast wind around 12 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 90
                 },
-                "windSpeed": "7 to 14 mph",
+                "windSpeed": "7 to 12 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50/rain,80?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain,60/rain,90?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "A chance of rain showers before 10pm, then rain. Mostly cloudy, with a low around 51. South southeast wind 7 to 14 mph, with gusts as high as 23 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain. Mostly cloudy, with a low around 51. South southeast wind 7 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In downtown San Francisco, today presents a moody tapestry of shifting weather\u2014a blend of fleeting sun and impending rain. As you step outside, the city greets you with a tentative warmth that contrasts the chill creeping in from the south. The high, hovering around fifty-nine, whispers of a brisk afternoon that will settle into a cooler embrace of fifty-one by nightfall. The clouds linger, ready to coalesce into rain later, particularly once the sun dips below the horizon, wrapping the streets in a cloak of gray. A chance of rain showers still dances lightly in the air, an invitation for umbrellas later in the day, while gusts of wind playfully tussle with the leaves, suggesting a restless atmosphere.\n\nWith signs of the marine layer still softly clinging to the edges of the Golden Gate, visibility isn\u2019t crystal clear, but the city\u2019s characteristic beauty still shines through the haze. It\u2019s a day to wear layers\u2014perhaps a warm sweater beneath a light jacket, ensuring comfort against the chill and sudden winds. As the clock ticks toward evening and the scent of rain becomes more pronounced, consider a stroll through nearby cafes, a perfect setting to sip on warm drinks while the city\u2019s lights start to twinkle against the encroaching clouds. Perhaps a gentle walk towards the waterfront, where the distant sound of waves mingled with the patter of raindrops offers a soothing rhythm to a day still steeped in the unique charm of San Francisco.",
-    "color_code": "#A7C3D5",
-    "timestamp": "2024-11-24 11:01:29"
+    "weather_report": "As the afternoon unfolds in Downtown San Francisco, the atmosphere carries a gentle blend of sun and cloud, revealing glimpses of blue that invite the curious to gaze beyond. With a mild high hovering around 59 degrees, the city's weather reflects its capricious nature: there\u2019s a humidity-laden whisper of rain anticipated, casting a veil over the inherent vibrance of the day. That expected precipitation approaches, but for now, the world feels momentarily bright, even as the clouds begin to assemble for their impending performance.\n\nAs dusk settles in, the rain will make its entrance, cloaked in confident gray. The temperature will drop to a comfortable 51 degrees, softly urging residents to wrap themselves in layers against the refreshing chill of the evening breeze. A casual stroll through the twisting streets may be accompanied by the patter of light rain, an excuse to explore the city\u2019s cozy caf\u00e9s or embrace the warmth of a good book at home. Given the conditions, an umbrella, a light jacket, and perhaps a spirited conversation with a friend would make for a pleasant evening as you savor the city's enchanting ambiance against the impending rain.",
+    "color_code": "#AAB8C9",
+    "timestamp": "2024-11-24 12:01:35"
 }
