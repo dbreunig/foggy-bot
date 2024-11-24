@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T12:43:00+00:00",
-            "temperature_f": 48.379999999999995,
-            "temperature_c": 9.1,
-            "humidity": 94.031832552157,
+            "timestamp": "2024-11-24T13:43:00+00:00",
+            "temperature_f": 48.416,
+            "temperature_c": 9.12,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-24T05:00:00-08:00",
-                "endTime": "2024-11-24T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 48. Southeast wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2024-11-24T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2024-11-24T07:00:00-08:00",
                 "endTime": "2024-11-24T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 40
                 },
-                "windSpeed": "6 to 14 mph",
+                "windSpeed": "8 to 14 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 10am. Partly sunny. High near 59, with temperatures falling to around 55 in the afternoon. South wind 6 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers after 10am. Partly sunny. High near 59, with temperatures falling to around 55 in the afternoon. South wind 8 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-24T18:00:00-08:00",
+                "endTime": "2024-11-25T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,50/rain,80?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "A chance of rain showers before 10pm, then rain. Mostly cloudy, with a low around 51. South southeast wind 7 to 14 mph, with gusts as high as 23 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a veil of clouds embraces the city, cradling it in a subtle, moody serenity. The air is brisk, still holding onto the coolness of the night\u2014the low is around 48 degrees, inviting the day with a promise of chill. The sky, a gentle tapestry of gray, suggests that the sunlight may struggle to pierce through, but glimmers of potential peek through the cloud cover, hinting at what might blossom into a partly sunny day. As the hours pass, there remains a lingering chance of rain showers, particularly after 10 AM, with a mild 40% likelihood of gentle droplets whispering against the pavement.\n\nWith the wind picking up from the south, reaching up to 14 mph with occasional bursts, it\u2019s wise to embrace a layer of warmth\u2014a lightweight jacket, perhaps, or a cozy sweater\u2014to ward off the bite of the chill that dances through the streets. As the weather teeters between sun and rain, the marine layer may weave its foggy magic along the edge of the coastline, softening the contours of the iconic Golden Gate Bridge and blurring the lines between sea and sky. For those who venture out today, it may be an ideal moment to explore the quieter corners of the city, perhaps enjoying a contemplative stroll through the Presidio, or finding shelter in a nearby caf\u00e9, sipping an artisanal brew while watching the clouds dance with the light. Such a day invites a reflective spirit, where the mundane finds beauty in the embrace of uncertainty.",
-    "color_code": "#A7A8AA",
-    "timestamp": "2024-11-24 06:01:48"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a subtle chill is present in the air, hinting at the day's evolving character. The sky is adorned with a gentle backdrop of grayish clouds, with fog lingering closely to the hills in the distance, suggesting the marine layer is still at play. As the hours progress, the day's forecast carries a promise of intermittent rain showers\u2014a playful tease from the clouds that may keep one reaching for an umbrella while the sun attempts its sporadic appearances.\n\nWith temperatures lingering around a cool 55 degrees this afternoon, one might choose to dress in layers, perhaps donning a light jacket to guard against the brisk breeze that the south wind carries. The expected evening rain morphs the atmosphere, intensifying the city's mood. As golden hour approaches, consider taking a stroll through the quieter streets\u2014perhaps a warm cup of coffee in hand, followed by a visit to a local gallery or a cozy bookstore to shelter from the impending spritz. Alternatively, a leisurely sit by the window of a favorite caf\u00e9, watching the world go by as rain taps softly against the glass, may bring its own kind of warmth to the day.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-11-24 07:02:11"
 }
