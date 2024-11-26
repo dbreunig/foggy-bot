@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-25T17:00:00-08:00",
-                "endTime": "2024-11-25T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Cloudy, with a high near 56. West southwest wind around 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-25T18:00:00-08:00",
                 "endTime": "2024-11-26T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,50?size=medium",
                 "shortForecast": "Chance Light Rain",
                 "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 52. South southwest wind 3 to 7 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2024-11-26T06:00:00-08:00",
+                "endTime": "2024-11-26T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,20?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Mostly cloudy. High near 58, with temperatures falling to around 54 in the afternoon. Southwest wind 3 to 7 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the evening shadows deepen over Downtown San Francisco, the city is enveloped in a velvety blanket of clouds, hinting at the possibility of rain. The air carries a chill, typical for this time of year, and the dampness lingers, making it feel even cooler. With temperatures hovering around 52 degrees and winds whispering gently from the south southwest, the atmosphere has an unmistakable hint of maritime influence, suggesting that the fog might soon creep in from the bay, softening the edges of the skyline. \n\nTonight, those hoping for a dry escape might want to reconsider, as a notable 50% chance of rain could bring brief, light showers. Dressing warmly, layered with a light waterproof jacket and perhaps a scarf, will keep the dampness at bay while venturing out. It is a night conducive to quiet introspection, made for sipping hot drinks in cozy caf\u00e9s or strolling beneath the shelter of awnings as the city inches towards evening. For the adventurous, a visit to a nearby theater or a casual dinner could provide the perfect refuge from the cool, drizzly air, offering both warmth and sustenance.",
-    "color_code": "#7C7E9A",
-    "timestamp": "2024-11-25 18:27:20"
+    "weather_report": "As dusk settles over Downtown San Francisco, the atmosphere carries a hint of anticipation, with clouds swirling softly overhead. Tonight, you may encounter a sporadic drizzle, dancing lightly on the pavement, as the temperature hovers around a mellow 52 degrees. A gentle south-southwest breeze whispers through the streets, adding to the evening's embrace but not quite dissipating the pervasive gray that wraps the city. The forecast hints at a 50% chance of light rain, suggesting that, while not a downpour, enough moisture may surface to warrant an umbrella during your evening stroll.\n\nTomorrow promises a cloud-laden sky, with temperatures peaking at a cool 58 degrees before retreating to a brisk 54 by afternoon. There's a 30% chance that the curtain of rain may creep back in, bringing with it the potential for further light showers. With such conditions in mind, dressing in layers is wise\u2014think a light sweater paired with a raincoat, perfect for keeping comfortable as the day transitions from cool to milder temperatures. It's an ideal day for quiet pursuits: perhaps a visit to one of the local caf\u00e9s to sip on warm beverages while observing the gentle patter of rain against the windows, or a leisurely exploration of the quiet streets, where each raindrop seems to breathe new life into the urban landscape.",
+    "color_code": "#A8A8A8",
+    "timestamp": "2024-11-25 19:11:59"
 }
