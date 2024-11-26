@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T11:43:00+00:00",
+            "timestamp": "2024-11-26T12:43:00+00:00",
             "temperature_f": 53.942,
             "temperature_c": 12.19,
-            "humidity": 97.979733739882,
+            "humidity": 90.013601488167,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-26T05:00:00-08:00",
-                "endTime": "2024-11-26T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Cloudy, with a low around 52. South wind around 6 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2024-11-26T06:00:00-08:00",
                 "endTime": "2024-11-26T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,20?size=medium",
                 "shortForecast": "Chance Light Rain then Areas Of Fog",
                 "detailedForecast": "A chance of rain and patchy fog before 9am, then areas of fog and a chance of rain between 9am and 10am, then areas of fog and a slight chance of drizzle between 10am and 4pm. Mostly cloudy. High near 58, with temperatures falling to around 54 in the afternoon. West wind 1 to 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-26T18:00:00-08:00",
+                "endTime": "2024-11-27T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 46. North wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the city is shrouded in a gentle veil of fog, enveloping the familiar skyline in a soft, gray mist. The air is cool, hinting at the promise of rain as a slight breeze rustles through the streets. Clouds hang low, suggesting a day more suited for introspection than outdoor revelry, with the temperature hovering in the low fifties and whisperings of a pattering rain anticipated.\n\nThroughout the morning, the fog lingers, occasionally giving way to fleeting glimpses of the iconic Golden Gate, blurring the boundaries between land and sky. The forecast predicts these murky conditions will persist, with only the faintest chance of drizzle accompanying a primarily overcast sky. Dressing in layers will be advisable; a warm, comfortable sweater paired with a light raincoat would suit the day's temperament. This urban landscape, soaked in cool hues and the promise of rain, offers an invitation to explore the quieter corners of the city. A stroll through one of the museums might provide snug refuge or perhaps a caf\u00e9 visit where one can sip a warming brew, watching the world drift by, as the streets quietly embrace the ethereal charm of a foggy San Francisco morning.",
-    "color_code": "#B0B0B8",
-    "timestamp": "2024-11-26 05:08:08"
+    "weather_report": "As dawn unfolds over Downtown San Francisco, a soft veil of mist envelops the city, blurring the outlines of familiar landmarks. The air carries a dampness, reminiscent of rain mingling with the persistent fog that hugs the hills. Today's forecast speaks of patchy fog early on, and indeed, the skyline is cloaked in that ethereal, gray embrace, casting a serene but slightly melancholic mood. The temperature hovers close to a cool 58 degrees, a reminder that warmth is not to be found in this blanket of cloud, with a gradual descent into the mid-50s as the day progresses. The gentle west winds stir lazily, whispering through the streets, adding to the day's contemplative atmosphere.\n\nAs the hours pass, expect moments of clarity interspersed with wandering fog, shifting in and out like a dream. A slight chance of drizzle lingers, hinting at the possibility of light rain, though its presence may feel more like a soft invitation to find solace indoors. This is a day well-suited for layers: a cozy sweater paired with a light jacket, perhaps, accompanied by a good book or a warm beverage from a local caf\u00e9. For those inclined to wander, a stroll through the fog-laden streets could unveil the hidden charm of a city softened by its marine layer, or perhaps a visit to the Ferry Building, where the aromas of fresh bread and coffee beckon. Embrace this tranquil morning, for the fog, while pervasive, holds its own quiet beauty, weaving through the cityscape as if it shares a secret with every passerby.",
+    "color_code": "#A3A3A3",
+    "timestamp": "2024-11-26 06:01:46"
 }
