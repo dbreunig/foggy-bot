@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-27T11:43:00+00:00",
-            "temperature_f": 50.629999999999995,
-            "temperature_c": 10.35,
-            "humidity": 80.006136772495,
+            "timestamp": "2024-11-27T12:43:00+00:00",
+            "temperature_f": 50.684,
+            "temperature_c": 10.38,
+            "humidity": 76.045908255277,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-27T05:00:00-08:00",
-                "endTime": "2024-11-27T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 46. North northeast wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2024-11-27T06:00:00-08:00",
                 "endTime": "2024-11-27T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 58, with temperatures falling to around 54 in the afternoon. North northwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-27T18:00:00-08:00",
+                "endTime": "2024-11-28T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 44. North wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As the early hours of Wednesday dawn over Downtown San Francisco, a gentle coolness permeates the air, a reminder of the night's lingering clouds. The forecast hints at a change; the promise of sunny skies hangs on the horizon, with temperatures gradually shifting from their overnight lows. As the sun arcs higher, the light will begin to infuse the streets, warming the atmosphere and lifting any remnants of the marine layer that might hang stubbornly along the western edges of the city, particularly near the Golden Gate.\n\nThe day ahead beckons with a tranquil charm, ideal for a leisurely stroll along the waterfront, where the vibrant city meets the expansive bay. A light jacket may offer comfort against the cool breeze that whispers through the streets, especially as temperatures dip slightly in the afternoon. The clarity of the sky invites both the curious and the observant to take in the sights: the bustling farmers\u2019 markets that awaken with fresh produce and local goods, or perhaps a quiet moment in one of the city's serene parks, where the shadows of trees elongate with the advancing sun. It\u2019s a day perfectly suited for a warm cup of coffee at a nearby caf\u00e9, the kind that gives you a front-row seat to the world as it stirs awake.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2024-11-27 05:08:04"
+    "weather_report": "In Downtown San Francisco, the morning unfolds with clear skies that herald a day of splendid sunshine. The light breeze from the north carries a touch of crispness, yet the brightness envelops the city in a warm embrace, even as temperatures hover around the chilling 50s. The absence of fog allows the Golden Gate and the rolling hills beyond to emerge distinctly against the cerulean backdrop, enhancing the urban landscape with a clarity that is both invigorating and inspiring. As the day progresses, the sun will soften the chill slightly, allowing a comfortable warmth, though one might still feel the cool touch of the afternoon.\n\nWith the evening approaching, the skies will remain clear, inviting a chill to seep into the air as the temperatures dip into the 40s. Those venturing out might consider layering their attire; a light jacket over a sweater would balance the lingering coolness while remaining stylish for a stroll along the Embarcadero or a visit to one of the many cozy cafes in the area. The atmosphere is perfect for a leisurely walk through the streets, where the city\u2019s vibrancy remains palpable, or perhaps a quiet moment in Golden Gate Park, framed by the beauty of the setting sun.",
+    "color_code": "#AED9E5",
+    "timestamp": "2024-11-27 06:01:58"
 }
