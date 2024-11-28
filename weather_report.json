@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-27T17:00:00-08:00",
-                "endTime": "2024-11-27T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 54 in the afternoon. West northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-27T18:00:00-08:00",
                 "endTime": "2024-11-28T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
                 "detailedForecast": "Clear, with a low around 44. North wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thanksgiving Day",
+                "startTime": "2024-11-28T06:00:00-08:00",
+                "endTime": "2024-11-28T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 53 in the afternoon. North northeast wind around 9 mph."
             }
         ]
     },
-    "weather_report": "As daylight fades over Downtown San Francisco, the evening presents a tranquil yet crisp clarity in the air, with visibility relatively unhampered by fog\u2014a delight for those who find solace in the city's panoramic views. The sky opens up in hues of warm amber and deepening blue, reflecting the promise of a clear night to come. With temperatures currently dancing around 54 degrees and a gentle breeze whispering from the north, the ambiance feels both serene and invigorating. \n\nAs you bask in these conditions, consider donning a light jacket or a cozy sweater to embrace the evening chill without sacrificing comfort. This atmosphere invites quiet strolls along the waterfront or leisurely exploration of the city\u2019s hidden caf\u00e9s tucked away in the shadows of its famous hills. Perhaps tonight, the allure of a book read by dim candlelight awaits in your favorite nook, or a gentle walk through a nearby park could beckon, allowing the city\u2019s charm to unfurl its magic around you.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-27 17:28:49"
+    "weather_report": "As night descends upon Downtown San Francisco, a serene clarity blankets the landscape. The air is crisp, with temperatures settling around the chill of 44 degrees, prompting a gentle north wind that dances through the streets. The stars begin to reveal themselves, hinting at a peaceful evening. Tomorrow, Thanksgiving Day promises a sunny disposition, with a high near 58. Although it might feel cooler as the afternoon wanes, the sun will remain a welcoming companion along the horizon, its warm essence brightening the city's famed landmarks.\n\nTonight's conditions appear refreshingly clear, without the presence of fog or the marine layer that can often shroud the city. This inviting clarity suggests an ideal setting for leisurely evening strolls or quiet moments atop a favorite hill, allowing for reflection as you gaze upon the twinkling city below. To embrace the chill, consider layering in a cozy sweater or jacket, perhaps with a scarf to ward off the evening breeze. As the last remnants of twilight give way to the soft embrace of night, it is a potent reminder to savor the simple pleasures\u2014be it a warm drink or the company of neighbors, welcoming the warmth of togetherness on this eve of gratitude.",
+    "color_code": "#3F3F3F",
+    "timestamp": "2024-11-27 18:27:59"
 }
