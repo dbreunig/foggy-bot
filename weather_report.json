@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-28T05:00:00-08:00",
-                "endTime": "2024-11-28T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 44. Northeast wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Thanksgiving Day",
                 "startTime": "2024-11-28T06:00:00-08:00",
                 "endTime": "2024-11-28T18:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 58, with temperatures falling to around 55 in the afternoon. Northeast wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-28T18:00:00-08:00",
+                "endTime": "2024-11-29T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 45. North northeast wind around 7 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco this early morning, the air carries a crisp clarity that is both inviting and invigorating. As the city begins to stir, the temperatures hold a chilly embrace around 44 degrees, with a gentle northeast breeze adding to the sense of freshness. The sky overhead is a wide expanse of clear blue, a promise of the sun that will soon rise and warm the surroundings. Not a trace of fog obscures the iconic skyline or the Golden Gate Bridge; instead, the horizon is painted with the vivid remnants of night transitioning to day. \n\nAs Thanksgiving Day unfolds, you can expect the pleasant sun to rise high, bringing temperatures to a comfortable 58 degrees, which will gradually drop towards the afternoon. Dress warmly with layers, a light sweater or jacket as the breeze may still carry a hint of chill, especially near the bay. With the bright and clear weather, this day invites leisurely strolls along the waterfront or a visit to one of the city\u2019s charming parks, perhaps chasing down the perfect cup of coffee at a local caf\u00e9. The clarity of the day beckons to enjoy the beauty of San Francisco, whether it be through a casual outing or a moment of quiet reflection amidst its vibrant urban rhythm.",
-    "color_code": "#D8E2F1",
-    "timestamp": "2024-11-28 05:08:11"
+    "weather_report": "As the dawn breaks over Downtown San Francisco, a soft clarity envelops the city, the promise of a bright Thanksgiving Day lingering in the crisp air. The morning chill, kissing the skin as you step outside, hints at the day's high near 58 degrees, a gentle warmth glowing beneath the sun's embrace. The northeast winds whisper through the streets, carrying a hint of adventure, beckoning those in search of solace and exploration. The visibility is remarkable, free from the fog that often shrouds the Bay Area, allowing for expansive views of the Golden Gate and the bustling cityscape, unblemished by the marine layer.\n\nTonight, the weather will shift to a more tranquil state, with temperatures settling around 45 degrees amidst a partly cloudy sky. As the evening rolls in, the coolness may prompt you to don a light jacket or a cozy sweater, perfect for those leisurely strolls along the waterfront or quiet gatherings with friends over warm drinks. This day, a canvas of serene beauty, invites you to indulge in simple pleasures: perhaps savor a hearty breakfast at a local caf\u00e9, wander through the vibrant streets adorned for the season, or explore one of the city's myriad art galleries, allowing the spirit of the season to infuse your heart.",
+    "color_code": "#B3C7D7",
+    "timestamp": "2024-11-28 06:02:00"
 }
