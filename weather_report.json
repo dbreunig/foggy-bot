@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Thanksgiving Day",
-                "startTime": "2024-11-28T17:00:00-08:00",
-                "endTime": "2024-11-28T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 55 in the afternoon. North wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-11-28T18:00:00-08:00",
                 "endTime": "2024-11-29T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 46. North northeast wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-11-29T06:00:00-08:00",
+                "endTime": "2024-11-29T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 55 in the afternoon. North northeast wind around 8 mph."
             }
         ]
     },
-    "weather_report": "As the evening descends upon Downtown San Francisco, a gentle veil of clouds wraps around the city, softening the outlines of familiar landmarks. The sun has retreated, leaving behind a cool air that carries whispers of the bay. Temperatures hover pleasantly, a touch crisp, aligning beautifully with the forecast. While Thanksgiving day promised mostly sunny skies, the current embrace of clouds hints at an anticipated replenishment of moisture, though the fog\u2014typical for this coastline\u2014is holding back, allowing the sailboats to gently trace their paths in the fading light.\n\nDressed in layers is advisable tonight, with a light jacket that speaks of the evening chill, perhaps a scarf to ward off any sudden drafts. It's a perfect time for a leisurely stroll along the Embarcadero, as the twinkling lights of the city reflect in the calm waters, creating an almost poetic ambiance. For those seeking solace indoors, cozying up in a local caf\u00e9 with a warm beverage while observing the nightly rhythm of the city could be a most suitable alternative. As the clock moves toward night, let the city hum its lullaby, inviting a restful pause to those who take the time to listen.",
-    "color_code": "#5C5D6D",
-    "timestamp": "2024-11-28 17:28:52"
+    "weather_report": "As night envelops Downtown San Francisco, a blanket of clouds hangs in the sky, whispering a gentle chill that dips down to around 46 degrees. The air carries the promise of a cool breeze from the north-northeast, stirring memories of brighter mornings. The golden glow of lights twinkles like stars scattered across a velvet night, yet the famed fog, that elusive motif of the Bay, has drawn a discreet curtain over much of the cityscape, offering only hints of its presence along the fringes of the Golden Gate.\n\nTomorrow greets us with the advent of a mostly sunny day, beckoning residents and visitors alike to step outside and embrace the crisp air. Morning sunshine will rise gently, peaking towards a high near 60, only to soften to a cool 55 as the sun takes its bow in the afternoon. As you venture out, don\u2019t forget a light jacket to navigate the lingering coolness, and perhaps wear a scarf to ward off the chill that traipses through the streets. It\u2019s a perfect day for a casual stroll along the Embarcadero or a leisurely coffee amidst the vibrant energy of Market Street. These are the moments that bring a quiet joy\u2014a balm to the soul as the city reawakens from its fog-laden slumber.",
+    "color_code": "#6D7B76",
+    "timestamp": "2024-11-28 18:27:45"
 }
