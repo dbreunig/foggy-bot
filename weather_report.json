@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T11:43:00+00:00",
-            "temperature_f": 47.48,
-            "temperature_c": 8.6,
-            "humidity": 72.021369671628,
+            "timestamp": "2024-11-29T12:43:00+00:00",
+            "temperature_f": 46.616,
+            "temperature_c": 8.12,
+            "humidity": 77.980276559569,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-29T05:00:00-08:00",
-                "endTime": "2024-11-29T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 45. North northeast wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2024-11-29T06:00:00-08:00",
                 "endTime": "2024-11-29T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 56 in the afternoon. North northeast wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-29T18:00:00-08:00",
+                "endTime": "2024-11-30T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 46. North northeast wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the city awakens to a gentle embrace of partly cloudy skies. The cool air, holding a whisper of the night\u2019s chill, settles around 45 degrees, nudged by a subtle breeze from the north-northeast. The early hours offer an ethereal clarity to the landscape, with the Golden Gate Bridge standing resiliently in the distance, hinting at the adventures that await as the sun begins to rise higher.\n\nBy midday, the sun will stretch its arms over the city, promising a warm flush as temperatures rise to around 60 degrees before gently retreating to a more subdued 56 in the afternoon. The streets will be illuminated with mostly sunny hues, but watch for the telltale signs of the marine layer; the elusive fog may still weave its way through lower elevations, possibly cloaking the bay with a soft veil at times. Dressing in layers will serve you well\u2014an inviting sweater complemented by a light jacket will keep you comfortable from the brisk morning air to the gentle warmth of afternoon sunlight. \n\nGiven this delightful mix of inviting weather, an afternoon stroll along the waterfront could be an exquisite choice. A visit to a local caf\u00e9 for a warm drink, followed by a leisurely walk through the Embarcadero, allows one to soak in the sights and sounds of a waking city. Whether you find yourself drawn to the water\u2019s edge or the charm of local shops, today holds the promise of simple pleasures, framed beautifully by the unique San Francisco skyline.",
-    "color_code": "#A6C9C9",
-    "timestamp": "2024-11-29 05:07:47"
+    "weather_report": "As dawn unfolds over Downtown San Francisco, the day greets us with a contemplative clarity, framed by gentle north-northeast winds whispering promises of a mild afternoon. The sun, pushing through a thin veil of clouds, offers an invitation to embrace the outdoors within a comfortable range of temperatures. The world feels serene, with the air crisp yet inviting, perfect for a morning walk along the Embarcadero or savoring a quiet moment in Golden Gate Park. \n\nYou might notice that the typically pervasive fog is largely absent, allowing the magnificent peaks of the Marin Headlands to stand proud against the skyline. However, as the day progresses, a soft marine layer may begin to cradle the horizon, hinting at the ocean\u2019s embrace for the evening. Dressing in layers is sensible today; a light sweater or jacket will suit the mild coolness lingering in the air, ensuring comfort as you explore the city\u2019s nooks. In this muted morning light, grab a coffee from a nearby caf\u00e9 and enjoy a leisurely stroll through the vibrant streets\u2014there's something distinctly uplifting about beginning the day with such gentle grace.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2024-11-29 06:01:47"
 }
