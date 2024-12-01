@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-01T12:43:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 62.007099214307,
+            "timestamp": "2024-12-01T14:43:00+00:00",
+            "temperature_f": 52.286,
+            "temperature_c": 11.27,
+            "humidity": 66.011149207055,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-01T05:00:00-08:00",
-                "endTime": "2024-12-01T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy. Low around 49, with temperatures rising to around 51 overnight. North northeast wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2024-12-01T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2024-12-01T08:00:00-08:00",
                 "endTime": "2024-12-01T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 62, with temperatures falling to around 58 in the afternoon. North northeast wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 58 in the afternoon. North northeast wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-01T18:00:00-08:00",
+                "endTime": "2024-12-02T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 49. North wind around 5 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the day begins under a veil of gentle transition, where the remnants of the night mingle softly with the first hints of daylight. As the sun rises, it finds room in the partly cloudy canvas overhead\u2014low temperatures hover around fifty, nudging upwards to a refreshing fifty-one, accompanied by a delicate north-northeast breeze that whispers through the streets at about seven miles per hour. The promise of a mostly sunny day looms ahead, with afternoon heights reaching into the comfortable sixties, despite a subtle drop as the day progresses.\n\nThe clarity of the day is commendable, infused with a sense of potential; however, hints of the familiar marine layer are likely lingering at the edges, veiling parts of the bay with its cool embrace. Fog may still cling to the silhouette of the Golden Gate, softening the sharp lines that define the landscape. Considering this atmosphere, it would be wise to dress in layers\u2014perhaps a light sweater over a long-sleeved shirt, paired with comfortable slacks. The day beckons you to step outside for a leisurely stroll along the waterfront, or to visit a local caf\u00e9 for a morning cup of coffee, soaking in the quiet charm of the waking city. Enjoy the tranquil beauty of this San Francisco morning, where the city and the skies seem to conspire in beautiful harmony.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-01 06:01:33"
+    "weather_report": "As the day unfolds over Downtown San Francisco, the sun casts its gentle warmth against the backdrop of an early December sky. The scene is bathed in a golden glow, with only a few wispy clouds dancing sporadically, hinting at the serenity of the moment. Despite the chill in the air\u2014temperatures hovering around 62 degrees\u2014there's little vestige of the infamous fog that lives in the hearts of the city\u2019s residents. Today\u2019s promise of a clear and breezy atmosphere is palpable, with a light north-northeast wind caressing the streets, ushering in a welcoming crispness.\n\nAs dusk approaches, the forecast beckons a tranquil evening. Expect clear skies giving way to a quieter night, as the temperature dips to a comfortable 49 degrees. For those venturing out, layered clothing would serve best\u2014a light sweater or a stylish scarf can add warmth without sacrificing comfort. This weather is perfect for a leisurely stroll through neighborhood parks or a cozy gathering at a local caf\u00e9, perhaps savoring a warm drink while watching the world go by. Engage in quiet contemplation about the day\u2019s adventures or the unfolding stories within the vibrant streets. Whatever your stride, the day invites you to embrace its calmness.",
+    "color_code": "#A3C6D4",
+    "timestamp": "2024-12-01 08:02:02"
 }
