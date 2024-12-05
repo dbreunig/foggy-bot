@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T11:43:00+00:00",
-            "temperature_f": 52.556,
-            "temperature_c": 11.42,
-            "humidity": 82.97582973164,
+            "timestamp": "2024-12-05T13:43:00+00:00",
+            "temperature_f": 52.214,
+            "temperature_c": 11.23,
+            "humidity": 81.006486619409,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-05T05:00:00-08:00",
-                "endTime": "2024-12-05T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 50. West wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2024-12-05T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2024-12-05T07:00:00-08:00",
                 "endTime": "2024-12-05T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -49,14 +30,33 @@
                     "value": null
                 },
                 "windSpeed": "2 to 7 mph",
-                "windDirection": "NW",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 62, with temperatures falling to around 58 in the afternoon. Northwest wind 2 to 7 mph."
+                "detailedForecast": "Mostly sunny. High near 62, with temperatures falling to around 58 in the afternoon. North northwest wind 2 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-05T18:00:00-08:00",
+                "endTime": "2024-12-06T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 49. South wind around 5 mph."
             }
         ]
     },
-    "weather_report": "Amidst the brisk currents of a calm winter morning, Downtown San Francisco awakens, poised beneath a veil of mostly cloudy skies. A gentle west wind whispers through the streets, promising an unhurried day ahead. With the sun breaking through later, the city is set to bask in newfound warmth, although the temperature will recede slightly in the afternoon. The low-hanging clouds may weave a delicate tapestry over the Golden Gate, evoking the ethereal beauty of the bay shrouded in whispered fog\u2014a familiar silhouette of marine layer hugging the coastline while embracing the peaks of the surrounding hills.\n\nAs hours pass and the sun ascends, anticipation lingers in the air. Venture out in layers, perhaps a light sweater offset by a breathable jacket, ready to peel off as the day unfolds. This Thursday invites a spectrum of urban pursuits; consider a leisurely stroll through Golden Gate Park, where muted light filters through the trees, or perhaps a quiet moment in a cozy caf\u00e9, where one can sip a warm brew while watching the city come alive. Whether engaged in simple reflection or lively conversation, the cool, gentle embrace of this San Francisco morning beckons a day of modest pleasure.",
-    "color_code": "#A8C8C0",
-    "timestamp": "2024-12-05 06:01:57"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the city awakens to a mostly sunny sky, bathed in a gentle light casting long shadows across the streets. The air remains crisp, with temperatures hovering around a comfortable 62 degrees, slowly drifting toward a cooler 58 as the day unfolds. A notable tranquility accompanies the north-northwest winds, whispering softly at a mere 2 to 7 mph, adding a sense of calm to the morning bustle.\n\nThough some marine layer lingers in the distance, veiling the Golden Gate Bridge in an ethereal shroud, the clarity of the day promises to grow with each passing hour. Tonight, the skies will clear further, inviting a low around 49 degrees\u2014a perfect opportunity for wrapping oneself in a light jacket as the evening settles in. With the weather so inviting, consider a leisurely stroll along the Embarcadero or perhaps a visit to a local coffee shop, savoring the rich aromas while watching the city come alive. Embrace this vivid palette of near-winter warmth and moderate coolness, allowing it to inspire a day filled with simple, yet delightful moments.",
+    "color_code": "#A3C1E4",
+    "timestamp": "2024-12-05 07:01:57"
 }
