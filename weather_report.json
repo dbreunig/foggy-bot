@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-07T00:43:00+00:00",
-            "temperature_f": 59.936,
-            "temperature_c": 15.52,
-            "humidity": 64.01054329331,
+            "timestamp": "2024-12-07T01:43:00+00:00",
+            "temperature_f": 59.971999999999994,
+            "temperature_c": 15.54,
+            "humidity": 59.007021562526,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-06T17:00:00-08:00",
-                "endTime": "2024-12-06T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 58 in the afternoon. West wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-06T18:00:00-08:00",
                 "endTime": "2024-12-07T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 49. Northwest wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-12-07T06:00:00-08:00",
+                "endTime": "2024-12-07T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 61, with temperatures falling to around 58 in the afternoon. Northwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the sun dips toward the horizon, Downtown San Francisco basks in the golden glow of a crisp winter afternoon, where the chill in the air is accompanied by a brightness that reveals the city in high definition. The forecast hints at temperatures that will flirt with the mid-sixties before letting the cool breeze from the northwest usher in the evening. Currently, the skyline stands proudly, its contours sharp against the rich blue sky, while the deepening twilight suggests a tranquil march toward a clear night.\n\nThere is no fog to obscure the view; instead, the lack of a marine layer allows the city\u2019s beauty to shine, inviting residents to revel in the delights of the evening. As night approaches, temperatures will descend to about 49 degrees, so a light jacket might be wise against the biting chill. The calm winds, barely perceivable, suggest a serene outing; perhaps a leisurely evening stroll along the waterfront, where the twinkling lights of the bay dance in harmony with distant city sounds. Whether exploring the vibrant streets or indulging in the comforting embrace of a cozy caf\u00e9, it is undoubtedly a night to savor the distinctive charm that only San Francisco can offer.",
-    "color_code": "#A2C8E7",
-    "timestamp": "2024-12-06 18:27:45"
+    "weather_report": "As the day drifts into night, Downtown San Francisco reveals its tranquil beauty\u2014a city illuminated by a thousand lights flickering against a backdrop of mostly clear skies. The breeze, gentle and mild, whispers promises of a cool night ahead, complementing the crisp December air. Anticipating a low near 49, one might reach for a layered sweater or a light jacket before venturing out. The city tranquilizes under a veil of twilight, with the faintest hint of fog, a remnant of the day, lingering along the edges of the bay but retreating from the heart of the city.\n\nSaturday brings the warmth of the sun back into the fold, promising a high of around 61 degrees. As daybreak unfolds, the sun's rays will melt into the coolness, lighting up the Golden Gate and the rolling hills beyond. Strolling along the waterfront, one might embrace the moment with a warm beverage in hand, savoring the daylight as it spills over the horizon. The marine layer may dance just beyond view, a reminder of winter's tenderness, yet the day will beckon adventurers to experience the splendor of the city\u2014perhaps a visit to a local caf\u00e9 or exploring the art-laden streets. This is a rare kind of San Francisco day, one where serenity meets possibility, inviting each soul to step out and revel in the quiet joy of an urban December.",
+    "color_code": "#B0C4D9",
+    "timestamp": "2024-12-06 19:14:07"
 }
