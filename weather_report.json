@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-08T11:43:00+00:00",
-            "temperature_f": 52.43,
-            "temperature_c": 11.35,
-            "humidity": 81.022683057025,
+            "timestamp": "2024-12-08T12:43:00+00:00",
+            "temperature_f": 52.376,
+            "temperature_c": 11.32,
+            "humidity": 81.958239627516,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-08T05:00:00-08:00",
-                "endTime": "2024-12-08T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/haze?size=medium",
-                "shortForecast": "Haze",
-                "detailedForecast": "Haze. Mostly cloudy, with a low around 50. North wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2024-12-08T06:00:00-08:00",
                 "endTime": "2024-12-08T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/haze/sct?size=medium",
                 "shortForecast": "Haze then Mostly Sunny",
                 "detailedForecast": "Haze between 8am and 9am. Mostly sunny. High near 62, with temperatures falling to around 57 in the afternoon. North northwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-08T18:00:00-08:00",
+                "endTime": "2024-12-09T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "1 to 5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 47. South wind 1 to 5 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle haze blankets the city, wrapping the skyline in a soft embrace. The air feels cool, a precursor to the day ahead, with temperatures hovering just above 50 degrees. The city, shrouded in a mottled gray, whispers of a transition from night to day, yet the promise of warmth lingers in the lightening sky. A slight north wind stirs, breathing life into the stillness, but the overall atmosphere remains tranquil and inviting, hinting at the sun\u2019s burgeoning presence below the clouds.\n\nAs the morning unfolds, expect splashes of sunshine to pierce through the haze, revealing the city in a tapestry of muted colors. While the high will reach around 62 degrees, a subtle cooling in the afternoon will take place, as temperatures retreat to about 57. With the haze dissipating and sunlight becoming more prevalent, anticipate a pleasant shift, perfect for enjoying a leisurely stroll through the park or a leisurely caf\u00e9 visit. Light layers will serve you well today\u2014a sweater paired with a light jacket should be ideal, providing both comfort and ease. A morning coffee on a cozy patio or an exploration of hidden alley art may suit one\u2019s fancy, capturing the understated beauty of a typical San Francisco day that is both refreshing and inviting.",
-    "color_code": "#B0BEC5",
-    "timestamp": "2024-12-08 05:06:28"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the delicate haze that enveloped the city earlier in the morning begins to dissipate, giving way to a mostly sunny day. The air carries a crispness typical of December, a soft reminder of the invigorating charms of this coastal haven. While temperatures reach a high of around 62, they will gradually drift down to a cooler 57 by afternoon, inviting a cozy knit or light jacket to accompany both the strolls and the occasional chill of the breeze fluttering from the north-northwest.\n\nThroughout the day, the clarity will improve, lifting the ethereal veil of marine layer that lingers over the horizon, hinting at the Golden Gate Bridge in the distance. As evening approaches, partly cloudy skies may stir up romantic possibilities, with temperatures dipping to about 47. The calm whispers of the south wind at 1 to 5 mph will encourage one to venture out, perhaps to explore the pedestrian paths that weave through the parks or engage in quiet conversations over warm beverages at a nearby caf\u00e9. Today holds a quiet beauty, a reminder to embrace simplicity in the ebb and flow of city life.",
+    "color_code": "#A8C3D9",
+    "timestamp": "2024-12-08 06:01:49"
 }
