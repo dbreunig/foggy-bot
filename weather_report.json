@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-08T17:00:00-08:00",
-                "endTime": "2024-12-08T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 56 in the afternoon. West wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-08T18:00:00-08:00",
                 "endTime": "2024-12-09T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear. Low around 46, with temperatures rising to around 48 overnight. South southeast wind 1 to 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2024-12-09T06:00:00-08:00",
+                "endTime": "2024-12-09T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/haze/few?size=medium",
+                "shortForecast": "Haze then Sunny",
+                "detailedForecast": "Haze between 8am and 9am. Sunny. High near 62, with temperatures falling to around 58 in the afternoon. Northeast wind 5 to 10 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "The evening air in Downtown San Francisco is imbued with a calm clarity that heralds a tranquil night ahead. As the sun retreats from its zenith, the sky transitions from a warm embrace to a gentle coolness, settling near 56 degrees\u2014a perfect backdrop for contemplative strolls or quiet moments in the company of familiar sights. The absence of fog on the horizon reveals the Golden Gate Bridge standing proud, silhouetted against a fading light, while the city's outlines feel crisp and distinct, unmarred by the marine layer that can so often veils this iconic landscape.\n\nAs night falls, temperatures dip to a cozy low of around 46. A soft breeze drifts in from the southeast, almost too tender to notice, inviting thoughts of layered clothing\u2014light sweaters or jackets will keep the chill at bay without burdening the spirit. With such inviting conditions, an evening read at a local caf\u00e9 or a leisurely walk along the Embarcadero could be delightful, allowing one to savor the beauty of the twinkling city lights and the gentle lapping of the bay against the shore. The day unfolds with promise, a quiet reminder to step outside and embrace the subtle magic of a San Francisco night.",
-    "color_code": "#A9C3D5",
-    "timestamp": "2024-12-08 17:29:19"
+    "weather_report": "As the evening unfurls over Downtown San Francisco, the air is crisp and the sky is mostly clear, adorned with the faintest sigh of warmth as temperatures linger around 46 degrees, nudging gently towards 48 through the night. The soft whisper of a southeast wind dances through the streets, adding a touch of coolness to the atmosphere. With no immediate threat of fog masking the iconic views, those familiar silhouettes of the Golden Gate Bridge hold their ground against a backdrop of a star-studded expanse.\n\nLooking ahead to Monday, wake to the gentle caress of sunlight as haze rises with the dawn, yielding to a sunny disposition by mid-morning. While temperatures are set to reach a pleasant 62 degrees, a gradual cooling will grace the afternoon. On this delightful day, wrapped in a layer of warmth yet prepared for the coolness to return later, it's wise to don a light jacket over a well-fitted sweater, embodying both style and practicality. Embrace the clear skies for a leisurely stroll through the streets vibrant with life or perhaps visit local caf\u00e9s to savor a warm drink, relishing the subtle shift of seasons that this December afternoon promises.",
+    "color_code": "#A7C6ED",
+    "timestamp": "2024-12-08 18:29:27"
 }
