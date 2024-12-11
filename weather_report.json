@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T11:43:00+00:00",
-            "temperature_f": 47.984,
-            "temperature_c": 8.88,
-            "humidity": 77.019552807724,
+            "timestamp": "2024-12-11T12:43:00+00:00",
+            "temperature_f": 46.67,
+            "temperature_c": 8.15,
+            "humidity": 80.024604614662,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-11T05:00:00-08:00",
-                "endTime": "2024-12-11T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 46. North northeast wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2024-12-11T06:00:00-08:00",
                 "endTime": "2024-12-11T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct/rain,50?size=medium",
                 "shortForecast": "Mostly Sunny then Chance Light Rain",
                 "detailedForecast": "A chance of rain after 4pm. Mostly sunny. High near 59, with temperatures falling to around 56 in the afternoon. Northwest wind around 6 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-11T18:00:00-08:00",
+                "endTime": "2024-12-12T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Mostly cloudy. Low around 50, with temperatures rising to around 52 overnight. South southwest wind 6 to 13 mph, with gusts as high as 21 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a blanket of clouds lingers, casting a gentle shroud over the waking city. The tranquil morning hints at an imminent chill, whispering promises of a low around 46 degrees. The bite of the north-northeast wind adds a crispness to the air, nudging one to layer a soft sweater or a light jacket before venturing outside. \n\nThe daylight is anticipated to unfold with a touch of warmth as the sun tries to pierce through, bringing a high near 59. Yet, like the tide pulling back from the shore, temperatures may drift down to 56 by afternoon. Despite the sun's hopeful appearance, a chance of rain settles in the forecast, especially after 4 p.m., and a confluence of clouds may add a sense of dimness to the vibrant skyline. The possibility of light rain may sway those plans for a leisurely stroll by the waterfront; perhaps a quiet caf\u00e9 visit, with a steaming cup of coffee, might be preferable to enjoy the softer ambiance this weather invites. The day beckons for a sense of ease, a gentle reminder to embrace both enthusiasm and caution, as unpredictable weather can be the unwelcome guest at any event.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-11 05:08:45"
+    "weather_report": "As dawn gently unfolds in Downtown San Francisco, a soft light breaks over the city, yet it carries with it hints of the change lurking just beyond the morning\u2019s embrace. Initially kissed by a refreshing, crisp quality, the atmosphere is still clear, though the forecast suggests a turn towards rain later in the day. With the temperature expected to hover around a modest 59 degrees, it\u2019s a good idea to don layers that can accommodate both the chill of the morning and the potential for a damp afternoon.\n\nBy late afternoon, clouds will gather with an earnestness characteristic of the bay, heralding a 50% chance of rain that will eventually bloom into a certainty as night approaches. The southern winds, gentle yet insistent, will stir to life with gusts, ushering in the expected deluge. The city may cloak itself in fog along the edges, wrapping the Golden Gate Bridge in a ghostly veil, creating a haunting yet beautiful tableau. These conditions invite a slow exploration of the familiar streets, perhaps a pause in a cozy caf\u00e9 to watch the droplets race down the window, or an adventure in the lively markets, where the vibrant colors defy the gray and a warm drink becomes a treasured companion.\n\nAs dusk arrives, the rain settles in, promising to paint the city with a glimmering sheen. With the evening low reaching about 50 degrees, comfort in clothing is essential; think of soft knits and a waterproof jacket that allows for movement through the inviting embrace of the rain. This is a perfect time to find sanctuary in a local bookshop or gallery, where the world outside fades, leaving only the rich textures of human creativity and thought to be explored, reminding us of the warmth and beauty that can be experienced even on the wettest of days.",
+    "color_code": "#6e7f80",
+    "timestamp": "2024-12-11 06:01:58"
 }
