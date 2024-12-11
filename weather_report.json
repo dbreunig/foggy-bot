@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T17:43:00+00:00",
-            "temperature_f": 50.594,
-            "temperature_c": 10.33,
-            "humidity": 74.996088833333,
+            "timestamp": "2024-12-11T18:43:00+00:00",
+            "temperature_f": 52.484,
+            "temperature_c": 11.38,
+            "humidity": 70.038340376032,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-11T10:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-11T12:00:00-08:00",
                 "endTime": "2024-12-11T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 30
                 },
-                "windSpeed": "5 to 14 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/sct/rain,60?size=medium",
-                "shortForecast": "Mostly Sunny then Light Rain Likely",
-                "detailedForecast": "Rain likely after 4pm. Mostly sunny. High near 59, with temperatures falling to around 55 in the afternoon. West northwest wind 5 to 14 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain after 4pm. Mostly sunny. High near 59, with temperatures falling to around 56 in the afternoon. Northwest wind around 7 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "10 to 18 mph",
-                "windDirection": "SW",
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain. Mostly cloudy, with a low around 50. Southwest wind 10 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "detailedForecast": "Rain. Mostly cloudy, with a low around 50. South southwest wind 7 to 14 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "The morning unfolds in Downtown San Francisco with a delicate contrast of sun and cloud; a fleeting sense of clarity weaves through the skyline, yet the expected embrace of rain looms like a gentle whisper in the distance. As the day progresses, the bright but cool air carries an unmistakable chill, signaling the arrival of precipitation later in the afternoon. The high will hover around a modest 59, before seemingly surrendering to the inevitable decline into the warmth of your favorite sweater. Winds from the west-northwest stir softly, hinting at more tumultuous weather ahead.\n\nAs darkness approaches, the ambiance transforms. The promise of rain becomes a certainty, wrapping the city in a shroud of clouds, with the low dipping to the cool comfort of 50. One can sense that evening wear will soon take precedence; consider layers\u2014an easy-to-slip-on jacket over a cozy turtleneck\u2014as you stroll the streets or find solace in a small caf\u00e9. The night is perfect for unwinding indoors, perhaps indulging in a favorite novel or savoring a hot drink while the rhythmic patter of raindrops sets the mood. It\u2019s the kind of evening where a well-worn blanket and a good book beckon, as the soft, steady rain begins to patter down\u2014a call to reflect and relax, an invitation from the heart of the city.",
-    "color_code": "#A5C4E3",
-    "timestamp": "2024-12-11 11:01:38"
+    "weather_report": "This afternoon in Downtown San Francisco, the air carries a palpable anticipation of change. The morning\u2019s sun lingers, a soft brightness illuminating the cityscape, yet the clouds\u2014thinning and pregnant with promise\u2014hint at rain that may roll in as the clock edges toward late afternoon. As temperatures hover around a brisk 59 degrees, a northwest wind whispers coolly, an invitation to wrap yourself snugly in layered attire. \n\nThe evening holds a more somber tale as the rain arrives, drenching the city beneath a blanket of gray. A steady deluge is on the horizon, with the possibility of a half to three-quarters of an inch saturating the urban sprawl by nightfall. As the sky darkens to a muted tapestry overhead, consider retreating indoors for warmth and comfort. Perhaps a visit to a cozy caf\u00e9 or a local bookstore would be ideal, allowing you to unwind while waiting for the weather to shift again. It's an opportunity to savor the moment, even as the clouds signal a definitive end to the day\u2019s fleeting sun.",
+    "color_code": "#A0B0B5",
+    "timestamp": "2024-12-11 12:02:04"
 }
