@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-12T05:00:00-08:00",
-                "endTime": "2024-12-12T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain. Mostly cloudy, with a low around 50. West wind around 18 mph, with gusts as high as 23 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2024-12-12T06:00:00-08:00",
                 "endTime": "2024-12-12T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,60?size=medium",
                 "shortForecast": "Light Rain Likely",
                 "detailedForecast": "Rain likely. Mostly cloudy. High near 57, with temperatures falling to around 54 in the afternoon. West wind 12 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-12T18:00:00-08:00",
+                "endTime": "2024-12-13T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 50
+                },
+                "windSpeed": "8 to 18 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,50?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 50. West wind 8 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn unfurls gently over Downtown San Francisco, the cityscape lies shrouded in a muted embrace, with clouds swirling and wrestling against a hint of moisture in the air. The temperature hovers in that cool and crisp realm, just around 50 degrees, suggesting a need for layers. A light wind whispers through the streets, a soft reminder of the day ahead, promising to stir the coastal fog that may linger like a silent specter in the hills.\n\nToday, the forecast predicts rain\u2014likely to greet us more appreciably as the hours wane on a day that will tread steadily from mildness into the chill of afternoon. With the promise of precipitation unfurling around 60%, it beckons the curious wanderer to prepare, ideally swathed in a waterproof layer and sturdy shoes, perhaps even an umbrella, just in case. This weather invites contemplative indoor pursuits; a leisurely visit to a nearby museum, where the warmth of knowledge and creativity can offset the damp chill, or perhaps a stop at a cozy caf\u00e9 where the smell of freshly brewed coffee mingles with the scent of convenience and the stirrings of conversation. The morning air may feel brisk and sharp, but as the rain begins to fall softly, it invites one to linger longer within the comforting confines of the city.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-12 05:08:40"
+    "weather_report": "The morning in Downtown San Francisco unfolds with a palpable chill, a reminder of the lingering winter as rain drizzles lightly from a slate-gray sky. The clouds hang low and heavy, cloaking the city in a muted veil that softens the outlines of buildings and blurs the distant hills. Visibility is limited, inviting a contemplative mood that pairs well with a steaming cup of coffee. As the day progresses, temperatures will slide lower, peaking at 57 before dipping into the early afternoon. The wind, brisk from the west, carries an energetic bite, rustling through streets and painting a picture of a truly San Franciscan day \u2014 ever-changing and unpredictable.\n\nWith the possibility of rain continuing into the evening, a casual stroll might be interrupted by an unexpected shower, so it would be wise to wear something waterproof or a snug layered outfit, complemented by a soft scarf to ward off the chill. The forecast suggests a 50/50 chance of rain tonight, ensuring the atmosphere remains cozy and calm, perfect for perhaps wandering through local art galleries or finding refuge in a bookstore, savoring the smell of old paper and quiet spaces. In this weather, the city becomes a canvas for quiet introspection, and the streets beckon less to the adventurous and more to those seeking solace amid the vibrant chaos.",
+    "color_code": "#8B8C89",
+    "timestamp": "2024-12-12 06:01:46"
 }
