@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T20:43:00+00:00",
-            "temperature_f": 55.903999999999996,
-            "temperature_c": 13.28,
-            "humidity": 66.993704205516,
+            "timestamp": "2024-12-12T21:43:00+00:00",
+            "temperature_f": 55.778000000000006,
+            "temperature_c": 13.21,
+            "humidity": 73.025379223351,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-12T14:00:00-08:00",
+                "startTime": "2024-12-12T15:00:00-08:00",
                 "endTime": "2024-12-12T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 100
                 },
-                "windSpeed": "20 mph",
+                "windSpeed": "16 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Mostly cloudy. High near 57, with temperatures falling to around 54 in the afternoon. West wind around 20 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy. High near 57, with temperatures falling to around 54 in the afternoon. West wind around 16 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-12-12T18:00:00-08:00",
                 "endTime": "2024-12-13T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 50,
+                "temperature": 51,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 80
                 },
-                "windSpeed": "8 to 18 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,50?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 50. West wind 8 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,80/rain,70?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Mostly cloudy, with a low around 51. Southwest wind 5 to 14 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the air carries a weight of impending rain, as clouds gather in a somber blanket overhead. Afternoon temperatures hover around 57, signaling an invitation to retreat from the chill, while strong westerly winds whip through the streets, creating a brisk atmosphere. The chance of rain looms at 60%, with forecasted rainfall promising to tiptoe between a light drizzle and a modest shower\u2014an urging for umbrellas to take their place alongside the caf\u00e9 lattes on today\u2019s pedestrian paths. \n\nAs the day drifts towards evening, the warmth of a cozy sweater or a light jacket would suffice, perhaps layered over something soft and inviting. The city, usually vibrant with the flicker of sunlight and laughter, exhibits a subdued charm, with the graceful silhouettes of buildings softened by the moisture in the air. There\u2019s an enchanting quietude about days like this, where one can indulge in the mundane pleasures of a caf\u00e9 visit, savoring the rich notes of coffee while watching raindrops race down the window. Embrace the opportunity to wander beneath the shelter of awnings, or even engage in a spirited indoor activity\u2014perhaps visiting a gallery or curling up with a book at a local bookstore. The rain transforms the ordinary into something uniquely special, this intertwining of nature and city life urging one to find warmth in simplicity.",
-    "color_code": "#999999",
-    "timestamp": "2024-12-12 14:02:08"
+    "weather_report": "The afternoon in Downtown San Francisco unfolds under a heavy blanket of clouds, where the patter of rain insinuates itself as a constant companion. The temperature hovers around a cool 57, gradually descending as the hours wane, lending a chill to the air that suggests it is best to don a warm, water-resistant jacket if you venture outdoors. The winds from the west whip briskly at 16 mph, carrying with them the scent of the bay, while gusts might surprise you, urging a tighter grip on your umbrella.\n\nIn this dim light, as the day darkens, the forecast promises not just the persistent rain but offers a short glimpse into the evening, with showers expected to linger into the night. The air feels dense with moisture, hinting at the presence of fog lurking nearby, particularly around the iconic Golden Gate, where the marine layer often blurs the line between sea and sky. A cozy afternoon with a warm cup of tea or coffee might just be the remedy for this weather. Root yourself in a nook of your favorite caf\u00e9, perhaps one with a view of the rain-soaked streets, and enjoy a good book, letting the sounds of the city merge with the rhythm of the rain\u2014after all, there is a beauty in the stillness of a storm that begs for quiet reflection.",
+    "color_code": "#6B7C92",
+    "timestamp": "2024-12-12 15:01:33"
 }
