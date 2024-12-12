@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-11T21:43:00+00:00",
-            "temperature_f": 57.938,
-            "temperature_c": 14.41,
-            "humidity": 49.986821217094,
+            "timestamp": "2024-12-12T02:43:00+00:00",
+            "temperature_f": 54.194,
+            "temperature_c": 12.33,
+            "humidity": 75.029901100449,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-11T15:00:00-08:00",
-                "endTime": "2024-12-11T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 4pm. Mostly sunny. High near 59, with temperatures falling to around 56 in the afternoon. West wind around 7 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-11T18:00:00-08:00",
+                "startTime": "2024-12-11T19:00:00-08:00",
                 "endTime": "2024-12-12T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain. Mostly cloudy, with a low around 50. South southwest wind 7 to 14 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2024-12-12T06:00:00-08:00",
+                "endTime": "2024-12-12T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "12 to 15 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Mostly cloudy. High near 57, with temperatures falling to around 53 in the afternoon. West northwest wind 12 to 15 mph, with gusts as high as 21 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "The afternoon unfolds in Downtown San Francisco, where the air carries a hint of warmth beneath the bright, almost cheerful sky. The sun shimmers defiantly against the grey whispers of clouds, making way for a brief respite before the anticipated rain. As the city stretches out below, one can see the gentle waver of the bay, a promise of the coming moisture, but for now, the brightness holds\u2014just enough to entice a stroll through the vibrant streets. Wind gusts, modest yet persistent, play around you, urging a light jacket to fend off the chill that lingers on the edges.\n\nHowever, as daylight begins to fold into evening, the landscape shifts. The clouds deepen to a foreboding grey, and the rain looms, a steadfast certainty lurking on the horizon. By night, expect the skies to yield, soaking the streets with generous showers. Prepare for the drop in temperature, wrapping yourself in a cozy layer to stave off the coolness that follows. As the rain begins its steady rhythm, consider embracing the indoor charm of a local caf\u00e9, perhaps curling up with a book or enjoying the comforting aroma of freshly brewed coffee\u2014a perfect antidote to the damp evening that awaits.",
-    "color_code": "#A3C1C4",
-    "timestamp": "2024-12-11 15:01:40"
+    "weather_report": "As twilight settles over Downtown San Francisco, a persistent rain transforms the city into a scene that feels almost intimate, with the gentle patter against windows creating a soft lullaby for the senses. The clouds rest heavily above, shrouding the skyline and bringing a coolness that cuts through the evening air, whispering reminders of the impending chill. The forecast forebodes a night full of rain, with gusts stirring, and a feeling of coziness envelops the cityscape, urging residents to seek warmth indoors.\n\nTomorrow, the city will see more of the same, with rain lingering, though it may relent slightly to allow the faintest hints of brightness to peek through the clouds. The temperatures hovering in the mid-fifties suggest that layers will be not just advisable, but necessary\u2014a blend of comfort and utility is key. Think a sturdy jacket paired with a warm scarf, perhaps some waterproof footwear to brave the puddles that will linger throughout the day. \n\nIn such weather, the allure of a quiet caf\u00e9 beckons, where the aroma of ground coffee mingles with baked goods, creating a sanctuary from the drizzly streets. Alternatively, an afternoon spent in one of the city's cozy bookstores indulges the soul as the rain dances against the pavement outside, offering a calm retreat from the bustling world. Embrace the soft glow of indoor lights and enjoy the gentle embrace of a stormy San Francisco evening, letting its unyielding spirit weave through the rhythms of your evening.",
+    "color_code": "#4B4C6D",
+    "timestamp": "2024-12-11 19:15:15"
 }
