@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T11:43:00+00:00",
-            "temperature_f": 51.872,
-            "temperature_c": 11.04,
-            "humidity": 92.993808046995,
+            "timestamp": "2024-12-13T12:43:00+00:00",
+            "temperature_f": 51.854,
+            "temperature_c": 11.03,
+            "humidity": 92.993275163697,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-13T05:00:00-08:00",
-                "endTime": "2024-12-13T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Mostly cloudy, with a low around 51. Southwest wind around 8 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2024-12-13T06:00:00-08:00",
                 "endTime": "2024-12-13T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
                 "shortForecast": "Light Rain Likely",
                 "detailedForecast": "Rain likely. Mostly cloudy. High near 58, with temperatures falling to around 56 in the afternoon. South southeast wind 6 to 17 mph, with gusts as high as 33 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-13T18:00:00-08:00",
+                "endTime": "2024-12-14T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "17 to 31 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,90/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy. Low around 52, with temperatures rising to around 54 overnight. South southeast wind 17 to 31 mph, with gusts as high as 55 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
             }
         ]
     },
-    "weather_report": "As dawn unfurls over Downtown San Francisco, the air is heavy with the promise of rain, a curtain of cloud shrouding the city in a muted palette. The vibrant lights of the urban landscape flicker beneath layers of gray, suggesting a day where visibility may be compromised by both precipitation and a hint of fog yet to fully settle in. With a soft wind rustling through the streets, the temperature hovers around a cool 51 degrees, urging passersby to reach for something warm\u2014a jacket or cozy scarf\u2014before venturing into the day.\n\nFriday's forecast insists upon more rain, with droplets expected to accompany the afternoon and play a melodic tune on rooftops. Ideal for those seeking refuge in charming cafes or snug bookstores, the day invites contemplation. The brisk wind, swirling in from the south, may deter those inclined to outdoor pursuits, yet for the adventurous, a quiet stroll along the waterfront, amidst the gentle sway of the tides, could prove both invigorating and refreshing, a moment to savor before the heavier showers set in. In the embrace of this San Francisco morning, let the rain cleanse the spirit as clouds wrap the city in their tender embrace.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-12-13 05:08:08"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a thick blanket of clouds hangs low in the sky, shrouding the city in a cool embrace that hints at the rain to come. The air is heavy with the scent of impending moisture, whispering of the wetness that will soon envelop the streets. With the temperature hovering around a brisk 58 degrees, an unsettling chill lingers, made more pronounced by a persistent south-southeast wind that sweeps through the city, carrying with it gusts that could rattle window panes and send loose leaves swirling in chaotic dances.\n\nThe day unfolds under a predominantly cloudy canopy, with a 70% chance of rain looming larger as the hours progress. By afternoon, the skies are likely to lower further, transforming the mellow morning light into a dreary dimness as the temperatures edge down to around 56. A transformation into a relentless rain is expected tonight, where conditions intensify into a 100% chance of downpour, drenching the streets with a possible accumulation of up to an inch, as the gusts may reach a fierce 55 mph, making a stroll less inviting and more treacherous.\n\nThis somber weather calls for layered clothing: a sturdy waterproof coat, perhaps a cozy sweater underneath, paired with dependable shoes to maneuver through puddles and slick sidewalks. It\u2019s a perfect moment to seek refuge in a quaint local caf\u00e9, sipping a warm beverage while watching droplets race down the windows, or to lose oneself in the pages of a novel at home, as the world outside is momentarily muted by nature\u2019s rhythmic symphony of rain. Engage with the comfort of indoor pursuits, from series binge-watching to savoring home-cooked meals\u2014embracing the charm of a wet, wintry day in San Francisco.",
+    "color_code": "#585B61",
+    "timestamp": "2024-12-13 06:01:52"
 }
