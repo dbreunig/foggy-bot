@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-13T00:43:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
+            "timestamp": "2024-12-13T01:43:00+00:00",
+            "temperature_f": 52.844,
+            "temperature_c": 11.58,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-12T17:00:00-08:00",
-                "endTime": "2024-12-12T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 80
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,80?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy. High near 57, with temperatures falling to around 54 in the afternoon. West wind around 15 mph, with gusts as high as 23 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-12T18:00:00-08:00",
                 "endTime": "2024-12-13T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,80/rain,70?size=medium",
                 "shortForecast": "Light Rain",
                 "detailedForecast": "Rain. Mostly cloudy, with a low around 51. Southwest wind 5 to 14 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-12-13T06:00:00-08:00",
+                "endTime": "2024-12-13T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "6 to 16 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Mostly cloudy. High near 58, with temperatures falling to around 56 in the afternoon. South southeast wind 6 to 16 mph, with gusts as high as 24 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "The afternoon in Downtown San Francisco unfolds under a thick blanket of rain-drenched clouds, as a steady drizzle adds rhythm to the urban soundtrack. The temperature hovers in the mid-fifties, its coolness coaxing people indoors, where the warmth offers a comforting refuge from the dreary weather. As the day draws closer to evening, gusts from the west whip through the streets, and an 80% chance of continued precipitation lingers thick in the air, promising a moist evening ahead with potential accumulations of a quarter-inch. The skies appear low and heavy, likely obscuring the iconic Golden Gate Bridge from view, and what little visibility remains hints at a pervasive, yet tranquil, fog rolling in from the ocean\u2014a familiar yet haunting presence in San Francisco.\n\nGiven the damp chill of the day, it would be wise to don layers, perhaps a cozy sweater complemented by a waterproof jacket and sturdy footwear\u2014adaptable attire to navigate puddles across the pavement. As twilight embraces the city, consider choosing a snug caf\u00e9 for a warming cup of tea or coffee, perhaps while observing the streets through fogged glass, wrapped in a sense of cozy introspection. The rain lends itself to a quieter pace, inviting those within the city to delve into a good book or contemplate the gentle patter of rain on rooftops, finding beauty in the simple moments offered by this weathered afternoon.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-12-12 17:29:01"
+    "weather_report": "As twilight settles over Downtown San Francisco, a veil of rain drapes itself across the city, the air thick with promise and a chill that whispers of the evening to come. With the low hovering around a cool 51 degrees, the scene is bathed in soft gray, the clouds looming heavy overhead, a harbinger of the anticipated downpour. A gentle southwest wind stirs, its playful gusts reaching up to 22 mph, rustling leaves and carrying the scent of wet earth, though the heart of the city feels the rhythmic patter of raindrops beginning their descent.\n\nThe forecast for tomorrow suggests a continuation of this mood, with rain likely and temperatures that will hover in the upper 50s, gradually cooling as the day unfolds. The marine layer hangs close, lending an ethereal quality to the skyline, wrapping the iconic Golden Gate Bridge in an embrace of fog, transforming familiar landmarks into shadowy silhouettes. For evening adventures, a water-resistant jacket and sturdy footwear are prudent choices to navigate the slick streets, perhaps leading to a cozy caf\u00e9 where one can sip warm coffee amidst the soothing symphony of raindrops. A stroll through the quiet, mist-laden avenues of the city might offer a contemplative respite, allowing the revelatory embrace of a San Francisco winter evening to unfold, if only for a moment.",
+    "color_code": "#7E7B7A",
+    "timestamp": "2024-12-12 18:28:59"
 }
