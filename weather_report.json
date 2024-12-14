@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T12:43:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
+            "timestamp": "2024-12-14T13:43:00+00:00",
+            "temperature_f": 50.702,
+            "temperature_c": 10.39,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-14T05:00:00-08:00",
-                "endTime": "2024-12-14T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,100?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 53. South wind around 18 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2024-12-14T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2024-12-14T07:00:00-08:00",
                 "endTime": "2024-12-14T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "13 to 20 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,100/rain,50?size=medium",
-                "shortForecast": "Showers And Thunderstorms then Heavy Rain",
-                "detailedForecast": "Showers and thunderstorms before 7am, then rain between 7am and 4pm. Some of the storms could produce heavy rain. Partly sunny. High near 58, with temperatures falling to around 53 in the afternoon. West southwest wind 13 to 20 mph, with gusts as high as 44 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,100/rain,50?size=medium",
+                "shortForecast": "Heavy Rain",
+                "detailedForecast": "Rain before 4pm. Partly sunny. High near 58, with temperatures falling to around 53 in the afternoon. West southwest wind 13 to 20 mph, with gusts as high as 38 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-14T18:00:00-08:00",
+                "endTime": "2024-12-15T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 45. Northwest wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the morning unfurls beneath a heavy blanket of clouds, the distinct sound of rain mingling with the distant rumble of thunder. Venturing outdoors reveals a lively scene, albeit one laden with the promise of unfortunate weather. As the forecast hints at storms producing substantial rainfall, it feels as though the city is holding its breath, waiting for the clouds to empty. The air is crisp and cool, hovering around a mild chill, and the pervasive moisture fosters an aura of intimacy among those huddled beneath umbrellas, navigating slick streets.\n\nThroughout the day, the somber clouds will persist, peeling back only slightly by afternoon, revealing fleeting glimpses of sunshine. Wind gusts whip through the streets, enhancing the feeling of urgency amongst passersby. Given these conditions, comfort is key. A water-resistant jacket layered over a cozy sweater, paired with sturdy footwear, will provide both warmth and protection. As the storms give way, consider seeking refuge in one of the city's cozy caf\u00e9s for a warm beverage, indulging in the ambiance that only a rainy day in San Francisco can provide. Or perhaps an afternoon visit to a local gallery might offer a serene escape from the tumultuous weather outside, inviting quiet contemplation amid the creative spirit of this vibrant city.",
-    "color_code": "#7C7D7F",
-    "timestamp": "2024-12-14 06:01:32"
+    "weather_report": "In Downtown San Francisco, the day awakens under a heavy sky, the promise of rain looming as droplets have already begun their descent. A brisk wind carries the unmistakable scent of the ocean, while the air is thick with anticipation for the deluge set to arrive before the sun bows out at four. Looking north towards the Golden Gate, the fog attempts to reclaim its territory, shrouding the bridge in a ghostly veil. The city\u2019s silhouette is mere whispers of color, muted against the approaching tempest.\n\nAs the storm softly raps on windows, it\u2019s a day best suited for layered attire\u2014perhaps a sturdy coat to shield you from the elements, accompanied by a hat to keep the persistent chill at bay. Mismatched but cozy scarves can add not just warmth, but a splash of vibrancy to the otherwise dreary palate. With the rain's embrace, the streets glisten, creating an opportunity for quiet contemplation over a hot cup of coffee or tea at a local caf\u00e9, where you may watch the world transform in the hazy blur of falling rain. Alternatively, for those intrepid enough to venture outside, a stroll along the waterfront can yield striking views\u2014water mingling with clouds, the city bustling with life even as the elements nap under drizzly skies.",
+    "color_code": "#B0C4D4",
+    "timestamp": "2024-12-14 07:01:43"
 }
