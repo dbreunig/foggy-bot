@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-14T00:43:00+00:00",
-            "temperature_f": 56.786,
-            "temperature_c": 13.77,
-            "humidity": 67.970402607892,
+            "timestamp": "2024-12-14T01:43:00+00:00",
+            "temperature_f": 55.796,
+            "temperature_c": 13.22,
+            "humidity": 71.995359165757,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-13T17:00:00-08:00",
-                "endTime": "2024-12-13T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 80
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,80?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Mostly cloudy. High near 58, with temperatures falling to around 56 in the afternoon. South southeast wind around 16 mph, with gusts as high as 33 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-13T18:00:00-08:00",
                 "endTime": "2024-12-14T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,100/tsra,100?size=medium",
                 "shortForecast": "Rain then Showers And Thunderstorms",
                 "detailedForecast": "Rain before 4am, then showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 53. South southeast wind 17 to 28 mph, with gusts as high as 51 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-12-14T06:00:00-08:00",
+                "endTime": "2024-12-14T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "14 to 25 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,100/rain,70?size=medium",
+                "shortForecast": "Showers And Thunderstorms then Heavy Rain",
+                "detailedForecast": "Showers and thunderstorms before 7am, then rain. Some of the storms could produce heavy rain. Partly sunny. High near 58, with temperatures falling to around 54 in the afternoon. West southwest wind 14 to 25 mph, with gusts as high as 44 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
             }
         ]
     },
-    "weather_report": "The streets of Downtown San Francisco are cloaked in a soothing gray, the warmth of the day yielding to an unyielding rain that whispers on rooftops and streets. Patches of thick cloud hover ominously, hinting at the downpour that awaits. As evening approaches, the wind picks up, rustling the city in a vibrant yet restless dance, with gusts that sing at 51 mph, echoing the energy of a city that never really sleeps. The forecast promises an unrelenting cascade of rain, with the heavens opening wide, heralding a night punctuated by heavy downpours and perhaps the rumble of distant thunder.\n\nIn such weather, one might favor layers\u2014a sturdy waterproof jacket, perhaps a scarf to fend off the brisk touch of the southeast winds, and shoes resilient enough to navigate the slick streets. It\u2019s a fine evening for indulging in the comforting embrace of a cozy caf\u00e9, a warm drink in hand while the world outside swirls in a symphony of droplets. Alternatively, the thrill of a bookstore or an art gallery beckons, offering a retreat from the storm\u2014a chance to soak in beauty while the weather tells its own story just beyond the glass.",
-    "color_code": "#7E7C7C",
-    "timestamp": "2024-12-13 17:28:49"
+    "weather_report": "As dusk falls over Downtown San Francisco, a quiet anticipation pervades the air, accompanied by the unmistakable scent of impending rain. The atmosphere hangs heavy with moisture, promising a night filled with showers and the potential for tumultuous thunderstorms. The low gray clouds appear to coalesce, blotting out the playful light of the fading day, as temperatures drop to a cool embrace around fifty-three. Gusts of wind swirl through the streets, rattling the leaves and hinting at the robust nature of the weather to come.\n\nThroughout the night, droplets will transform into heavier streams, perhaps overwhelming the cityscape with between one and two inches of rainfall. The forecast speaks of a relentless downpour continuing into Saturday, punctuated by flashes of lightning and distant rumbles that echo against the iconic skyline. Given these conditions, the typically vibrant city takes on a muted persona, shrouded in mist, with the fog possibly creeping in from the bay, selectively cloaking the Golden Gate Bridge in its timeless veil. For those braving the elements, a warm layer coupled with a sturdy rain jacket would be wise; a reliable umbrella may also prove essential. Activities might lean toward the serene\u2014perhaps immersing oneself in a local caf\u00e9, or catching up on the latest novel, as the rain plays a soothing orchestral piece against the windows. In this moment, the charm of the city reveals itself not in the sunshine, but in the intimate embrace of a stormy evening.",
+    "color_code": "#4D4C52",
+    "timestamp": "2024-12-13 18:26:58"
 }
