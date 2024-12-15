@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T10:43:00+00:00",
-            "temperature_f": 47.174,
-            "temperature_c": 8.43,
-            "humidity": null,
+            "timestamp": "2024-12-15T12:43:00+00:00",
+            "temperature_f": 46.129999999999995,
+            "temperature_c": 7.85,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-15T04:00:00-08:00",
-                "endTime": "2024-12-15T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 45. North northeast wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2024-12-15T06:00:00-08:00",
                 "endTime": "2024-12-15T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny. High near 55, with temperatures falling to around 52 in the afternoon. Northeast wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-15T18:00:00-08:00",
+                "endTime": "2024-12-16T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,90?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain after 10pm. Mostly cloudy, with a low around 47. Southeast wind around 7 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn gently unfurls in Downtown San Francisco, the skies present a partly cloudy canvas, with temperatures settling into the cool embrace of the mid-forties. The whispering winds from the northeast offer a slight chill, reminding passersby of winter's subtle approach. The day is expected to transition into a modest brightness, reaching highs in the low fifties by afternoon, inviting residents to venture outdoors even as the temperature begins to dip again.\n\nWhile the forecast hints at a sunny disposition, the presence of fog lingers just off the coast, a reminder of the bay's marine influence. The vistas toward the Golden Gate may reveal shimmers of sun-drenched landscapes, softened by ghostly wisps of fog clinging to the horizon. It's a day that calls for layered attire; a light jacket, perhaps accompanied by a scarf, will guard against the brisk air while allowing for comfort during the fluctuating warmth of midday. With the sun\u2019s rise, it\u2019s a perfect opportunity to stroll the vibrant streets, meander through local caf\u00e9s, or seek the solace of your favorite library, where the muted glow of winter invites quiet contemplation and delight in the day\u2019s simple pleasures.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-15 04:01:55"
+    "weather_report": "In the heart of Downtown San Francisco, the morning carries a hint of chill, tempered by a gentle embrace of sunlight peeking shyly through the clouds. The temperature, clinging close to fifty-five degrees, whispers promises of a mild day ahead, though it will inevitably yield to a touch of coolness as the afternoon unfolds. A light breeze, barely stirring, wanders through the streets, hinting at the transformation to come as rain begins to play its soft percussion after nightfall. \n\nWhile the morning presents a mostly clear canvas, scattered clouds drift lazily above, creating a mosaic of gray that suggests a looming change. The marine layer, characteristic of this enchanting city, subtly hides the peaks and valleys that define the landscape, ushering in an atmosphere that is both tranquil and intriguing. As evening approaches, expect the anticipation of rain to mount, with a strong chance that droplets will cascade upon the pavement, bringing life to the already vibrant city. Attire should be practical yet thoughtful\u2014opt for layers to navigate the shifting temperatures, perhaps a warm sweater beneath a light coat, perfect for a walk along the Embarcadero or a quiet caf\u00e9 visit. It\u2019s a day that invites both spontaneity and reflection, perfect for leisurely strolls or a comforting cup of tea as the rain dances upon the rooftops at dusk.",
+    "color_code": "#A2B5C4",
+    "timestamp": "2024-12-15 06:02:08"
 }
