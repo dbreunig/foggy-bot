@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-16T11:43:00+00:00",
-            "temperature_f": 47.426,
-            "temperature_c": 8.57,
-            "humidity": 100,
+            "timestamp": "2024-12-16T12:43:00+00:00",
+            "temperature_f": 46.994,
+            "temperature_c": 8.33,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-16T05:00:00-08:00",
-                "endTime": "2024-12-16T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy, with a low around 47. Southeast wind around 7 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2024-12-16T06:00:00-08:00",
                 "endTime": "2024-12-16T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
                 "shortForecast": "Light Rain",
                 "detailedForecast": "Rain. Cloudy. High near 57, with temperatures falling to around 54 in the afternoon. South southeast wind 7 to 10 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-16T18:00:00-08:00",
+                "endTime": "2024-12-17T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,40/bkn?size=medium",
+                "shortForecast": "Chance Light Rain then Mostly Cloudy",
+                "detailedForecast": "A chance of rain before 10pm. Mostly cloudy. Low around 49, with temperatures rising to around 51 overnight. North northwest wind 3 to 7 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the city is shrouded in a soothing veil of rain, a gentle symphony tapping against rooftops and streets, serenading the early risers. The low clouds cloak the skyline, creating a hushed atmosphere that captures the essence of this coastal enclave. With temperatures hovering around a cool 47 degrees, the air carries a damp chill, suggesting the perfect moment for a cozy embrace from your favorite oversized sweater or a stylish raincoat, paired with dependable boots to navigate puddles forming beneath your feet.\n\nAs the day unfolds, the rain is set to continue its steady descent, with afternoon temperatures cooling to around 54 degrees, mirroring the persistent cloud cover overhead. For those reflecting on their plans, indoor activities beckon, perhaps a leisurely visit to a local caf\u00e9 with a steaming cup of coffee, allowing the scent of roasted beans to lift the spirits. Alternatively, the warmth of a bookstore or art gallery can provide respite from the melancholic weather, offering a chance to immerse oneself in a good book or the beauty of creative expression. Today may not inspire outdoor adventures, but it presents a fine opportunity to find joy in the quiet comforts of home or the rich offerings of the city\u2019s beloved indoor spaces.",
-    "color_code": "#4B4C72",
-    "timestamp": "2024-12-16 05:08:53"
+    "weather_report": "This morning, Downtown San Francisco awakens beneath a thick shroud of gray clouds, cloaked in an almost melancholic rain. As the forecast predicted, it's a day where the skies weep, ushering in a persistent drizzle that will not relent until the evening. The temperatures linger in the cool embrace of the mid-50s, and even as the day progresses, they will only drop slightly, creating a bracing chill that cuts through the damp air. Winds whisper softly from the southeast, adding to the day\u2019s sense of intimacy as they weave through the streets.\n\nThe dense overcast blankets the skyline, leaving little room for the sun\u2019s rays to pierce through; visibility feels muted, and any hopes of distant vistas from key landmarks like the Golden Gate Bridge may be dashed, as they lie concealed in mist. Fog hugs the coastal areas, lurking just beyond the city, reminding us of the ever-present maritime influence that defines this unique locale. The air is thick with moisture, evoking the kind of introspection that only rainy days can inspire. \n\nFor those navigating the streets, layered clothing will serve as a prudent choice. A waterproof jacket paired with sturdy shoes will keep the body dry and warm against the chill. It's a perfect time to seek solace in cozy cafes with windows fogged by warmth, or perhaps find a comfortable nook in a local bookstore, where the aroma of brewed coffee mingles with the pages of beloved tales. Indoor activities beckon, urging one to embrace the calm of this rainy Saturday, making it an ideal opportunity to dive into a good novel or indulge in that long-forgotten craft project.",
+    "color_code": "#6C7A98",
+    "timestamp": "2024-12-16 06:02:04"
 }
