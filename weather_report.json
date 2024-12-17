@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-16T17:00:00-08:00",
-                "endTime": "2024-12-16T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy. High near 57, with temperatures falling to around 54 in the afternoon. South southeast wind around 8 mph. Chance of precipitation is 40%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-16T18:00:00-08:00",
                 "endTime": "2024-12-17T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,40/rain,20?size=medium",
                 "shortForecast": "Chance Light Rain",
                 "detailedForecast": "A chance of rain before 4am. Mostly cloudy, with a low around 49. South wind 2 to 7 mph. Chance of precipitation is 40%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2024-12-17T06:00:00-08:00",
+                "endTime": "2024-12-17T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 56 in the afternoon. North wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "Downtown San Francisco is cloaked in a shroud of clouds this evening, the sky painted in muted hues that match the chill in the air. As dusk settles in, the chance of rain lingers, veiling the city with a gentle anticipation that might lead to a light drizzle before the night grows deeper. The temperature, hovering near the mid-fifties, invites a wardrobe of comfort, where layers become your ally. A light jacket, perhaps a cozy scarf, will serve well against the cool South wind that rustles through the streets, hinting at the moisture in the air.\n\nThe fog, an ever-present companion in the bay, makes its presence known in the distance, swirling lightly around the outskirts of the Golden Gate. While it may not envelop the bustling heart of Downtown, there is a hint of a marine layer hovering just at the water's edge, softening the skyline into something almost dreamlike. For those venturing out, the conditions suggest a lovely stroll through the quieter corners of the city, perhaps a warm drink in hand, as you listen to the distant hum of streetcars and the muted conversations of fellow wanderers. The drizzle, if it arrives, will add a certain magic to the evening, enhancing the glow of streetlights reflecting off wet pavements. This is a moment best savored slowly, as the evening unfolds with a quiet unhurriedness that is uniquely San Francisco.",
-    "color_code": "#474B5B",
-    "timestamp": "2024-12-16 18:28:15"
+    "weather_report": "As the evening settles over Downtown San Francisco, a soft veil of clouds drifts lazily across the sky, hinting at the night's rain showers that could come before dawn. The air cools, with a tender chill wrapping around the city, a gentle reminder of the winter season. At this hour, with temperatures dipping to around 49 degrees, the elements conspire to encourage a thoughtful layering\u2014think of slipping into a cozy sweater beneath a light jacket, perhaps accompanied by a scarf to fend off the brisk south breeze that brushes through the streets.\n\nFor those planning their Tuesday, the promise of mostly sunny skies brings a welcome optimism after the dampness of night. Highs near 58 will accompany the day, with a slight descent by afternoon, providing an inviting opportunity for comfortable walks around the neighborhood. The air ought to clear, perhaps revealing hints of the scenic vistas that San Francisco is renowned for. Ideal engagements include a leisurely stroll along the waterfront to revel in the crisp air, or perhaps a visit to a quiet caf\u00e9, where one might enjoy a warm drink while basking in the city\u2019s unfolding beauty. \n\nWith the possibility of morning fog still lingering over the bay, keep an eye out for spots where the marine layer clings, creating ephemeral landscapes that shift with the sun's playful rays. Dress wisely, embrace the layers, and venture forth, as another day of San Francisco's character unfolds with quiet charm.",
+    "color_code": "#A6C3D0",
+    "timestamp": "2024-12-16 19:14:16"
 }
