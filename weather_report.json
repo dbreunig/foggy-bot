@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-18T00:43:00+00:00",
-            "temperature_f": 52.844,
-            "temperature_c": 11.58,
-            "humidity": 85.03530651342,
+            "timestamp": "2024-12-18T01:43:00+00:00",
+            "temperature_f": 52.826,
+            "temperature_c": 11.57,
+            "humidity": 82.994172972602,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-17T17:00:00-08:00",
-                "endTime": "2024-12-17T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 59, with temperatures falling to around 56 in the afternoon. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-17T18:00:00-08:00",
                 "endTime": "2024-12-18T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 47. North northeast wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2024-12-18T06:00:00-08:00",
+                "endTime": "2024-12-18T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Partly Sunny",
+                "detailedForecast": "Patchy fog between 8am and 10am. Partly sunny. High near 58, with temperatures falling to around 55 in the afternoon. North wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon light dims over Downtown San Francisco, the city basks in a gentle embrace of sunshine, with temperatures dipping slightly as twilight approaches. The sky, a canvas awash in soft yellows and cool blues, reflects the anticipated calm. Visibility is clear, and the iconic contours of the Golden Gate Bridge stand defiantly against the backdrop of an ever-shifting horizon, free from the tendrils of fog that often haunt these vistas. A light northwest wind whispers through the streets, offering a refreshing touch as the day transitions towards night.\n\nTonight, the city will be cloaked in partly cloudy skies, with an inviting chill lingering in the air, perfect for those who yearn for a brisk evening walk. It is wise to layer clothing; perhaps a light jacket or a cozy sweater will suffice against the cooler breeze. Those lucky enough to find themselves wandering near the waterfront will be rewarded with shimmering reflections of city lights dancing upon the water's surface. Whether savoring a warm drink at a nearby caf\u00e9 or contemplating the twilight from one of the city's many parks, the evening promises a serene, contemplative delight for those attuned to the subtle beauty of a San Francisco winter's night.",
-    "color_code": "#A8C9E2",
-    "timestamp": "2024-12-17 17:28:50"
+    "weather_report": "As twilight settles over Downtown San Francisco, the evening air carries a gentle chill, wrapping the city in a soft embrace. The forecast predicts a low around 47 degrees, hinting at the crispness of the night. The skyline, punctuated by the twinkling lights of the urban landscape, suggests a patchy fog creeping in from the bay, cloaking parts of the city but leaving enough clarity to appreciate the silhouette of the Golden Gate Bridge in the distance. The serene north-northeast breeze, whispering at around 6 mph, adds to the peaceful ambiance, a reminder of winter\u2019s gentle descent.\n\nLooking ahead to tomorrow, early risers may encounter fog between 8 and 10 a.m., a hint of mystery over the streets before the sun breaks through to reveal a partly sunny day. Highs will flirt with 58 degrees, before descending to 55 in the afternoon, inviting locals to don layers that can easily transition from the cool morning air to the mild afternoon warmth. Perhaps it\u2019s a perfect moment to wrap yourself in a cozy sweater and stroll along the Embarcadero, or to enjoy a warm cup of coffee while gazing at the dynamic interplay of light and shadow that characterizes this vibrant city. As the fog rolls in and out like a whispered secret, San Francisco\u2019s charm remains ever-present, inviting quiet moments of reflection amid its bustling charm.",
+    "color_code": "#AFAFBA",
+    "timestamp": "2024-12-17 18:26:42"
 }
