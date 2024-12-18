@@ -10,7 +10,7 @@
             "timestamp": "2024-12-18T12:43:00+00:00",
             "temperature_f": 47.336,
             "temperature_c": 8.52,
-            "humidity": null,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-18T05:00:00-08:00",
-                "endTime": "2024-12-18T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 47. North northeast wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2024-12-18T06:00:00-08:00",
                 "endTime": "2024-12-18T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
                 "shortForecast": "Areas Of Fog then Partly Sunny",
                 "detailedForecast": "Areas of fog before 10am. Partly sunny. High near 58, with temperatures falling to around 55 in the afternoon. North wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-18T18:00:00-08:00",
+                "endTime": "2024-12-19T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 48. North northeast wind around 7 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of dawn, Downtown San Francisco rests beneath a shroud of patchy fog, a soft veil that whispers across the cityscape. The air is crisp, underscored by a pleasant chill as temperatures hover in the high 40s. Fog lingers gently, hinting at the night\u2019s retreat while promising a gradual unveiling of the urban panorama as the sun ascends. By mid-morning, patches of blue will begin to pierce through the marine layer, casting a muted radiance that highlights the city\u2019s architectural beauty. Expect a high near 58 degrees, though a subtle drop in temperature will accompany the afternoon\u2019s progression, leading to a comfortable coolness, perfect for a stroll along the Embarcadero or perhaps a visit to one of the local caf\u00e9s.\n\nAs you step outside, a light jacket may suffice, paired with layers to accommodate the transition from the brisk morning to a potentially sunnier afternoon. Enjoy the charm of the fog while it lasts; it provides a rare stillness and softness to the bustling streets, making it an ideal time to wander through hidden alleys adorned with murals, or to seek refuge in a bookshop with a warm drink. The day promises a pleasant mix of coastal mist and sunny intervals, an exquisite tapestry emblematic of this vibrant city.",
-    "color_code": "#A1C1D4",
-    "timestamp": "2024-12-18 05:07:02"
+    "weather_report": "In the embrace of early morning, Downtown San Francisco is just awakening from the embrace of fog. The gentle caress of cool air accompanies the fading shadows, hinting at the shifting patterns of sunlight that will soon break through. As the day unfolds, expect a gradual lifting of the clouds, yielding to a partly sunny sky that paints the city in muted hues of grey and soft light. While daytime temperatures hover around 58 degrees, a subtle chill persists, especially as afternoon draws near, suggesting that you may wish to carry a light layer\u2014a cozy sweater or a windbreaker\u2014to shield against the brisk breezes that travel across the Bay.\n\nThe marine layer still clings to the coast, a soft veil that may linger near the Golden Gate, creating a picturesque scene for those who appreciate soft contrasts. Activities today might invite a leisurely stroll along the waterfront, where the views are framed by light and shadow, or perhaps a quiet moment in a caf\u00e9, sipping something warm while watching the world bustle by. For those seeking comfort in simplicity, this day offers a splendid opportunity to lose oneself in the intricate charm of the city\u2019s neighborhoods, breathing in the cooler air infused with a hint of salt from the sea. Enjoy the day, aware that each hour brings with it the promise of beauty, even in the cool and foggy embrace of December.",
+    "color_code": "#A2B359",
+    "timestamp": "2024-12-18 06:02:10"
 }
