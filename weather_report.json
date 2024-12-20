@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T11:43:00+00:00",
-            "temperature_f": 47.336,
-            "temperature_c": 8.52,
-            "humidity": 89.981168230533,
+            "timestamp": "2024-12-20T12:43:00+00:00",
+            "temperature_f": 46.616,
+            "temperature_c": 8.12,
+            "humidity": 93.026567098271,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-20T05:00:00-08:00",
-                "endTime": "2024-12-20T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 48. North wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2024-12-20T06:00:00-08:00",
                 "endTime": "2024-12-20T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
                 "shortForecast": "Patchy Fog then Partly Sunny",
                 "detailedForecast": "Patchy fog before noon. Partly sunny. High near 58, with temperatures falling to around 56 in the afternoon. North wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-20T18:00:00-08:00",
+                "endTime": "2024-12-21T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,100?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain after 10pm. Mostly cloudy. Low around 51, with temperatures rising to around 53 overnight. South southeast wind 7 to 10 mph, with gusts as high as 22 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In the soft, muted light of early morning, Downtown San Francisco awakens beneath a blanket of clouds, the air cool with a hint of moisture. At present, the city is enveloped in a patchy fog that lingers along the coast and creeps into the heart of the city, softening the outlines of familiar edifices. The temperatures hover around a refreshing 48 degrees, inviting a light yet warm layer to ward off the chill. As the day progresses, expect the fog to gradually dissipate, giving way to moments of sunlight that prickle through the clouds, with highs nearing 58 before retreating slightly by afternoon.\n\nAs one navigates the streets, it's prudent to don a versatile attire\u2014perhaps a light jacket over a long-sleeved shirt, ready for the wayward breezes that accompany the gentle north wind. Given the temperate climate, this brisk morning presents opportunities for leisurely strolls along the Embarcadero or a moment spent savoring coffee at a sidewalk caf\u00e9, as you watch the city come alive. For those inclined to wield a camera, the inviting light in the later hours may turn the ordinary into the extraordinary against the backdrop of San Francisco's shifting skyline.",
-    "color_code": "#9FB7D9",
-    "timestamp": "2024-12-20 05:05:20"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a delicate veil of patchy fog clings to the skyline, obscuring the usual sharp contours of the city. The air is crisp, the temperature resting near the chilly end of its range as the sun struggles to break through the mist. A north wind whispers through the streets, sporadically nudging the fog but leaving a gentle chill that suggests dressing in layers\u2014a woolen sweater beneath a snug jacket will provide comfort against the cool breeze.\n\nAs the morning unfolds, the forecast warns of a change, with rain anticipated after ten o\u2019clock. The clouds will gradually thicken, transforming the soft morning light to a muted, more somber hue. While the scene outside remains visually captivating, the moisture in the air transforms it into a tapestry of muted grays and whites. Urban hikers might find the charm of the weather lends itself well to quiet strolls along the waterfront, or perhaps a visit to a cozy caf\u00e9, sheltered from the upcoming rain. With the certainty of precipitation later in the evening, it\u2019s wise to plan for an indoor activity as the hours pass\u2014a bookshop or a gallery could provide a delightful retreat as the city readies itself for a rainy night.",
+    "color_code": "#A8B18D",
+    "timestamp": "2024-12-20 06:01:55"
 }
