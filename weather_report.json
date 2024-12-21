@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-21T11:43:00+00:00",
-            "temperature_f": 49.676,
-            "temperature_c": 9.82,
-            "humidity": 95.98615973703,
+            "timestamp": "2024-12-21T12:43:00+00:00",
+            "temperature_f": 49.91,
+            "temperature_c": 9.95,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-21T05:00:00-08:00",
-                "endTime": "2024-12-21T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. Low around 51, with temperatures rising to around 53 overnight. Southeast wind around 10 mph, with gusts as high as 23 mph. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2024-12-21T06:00:00-08:00",
                 "endTime": "2024-12-21T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,60?size=medium",
                 "shortForecast": "Light Rain Likely",
                 "detailedForecast": "Rain likely before 4pm. Cloudy. High near 59, with temperatures falling to around 56 in the afternoon. South wind 7 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-21T18:00:00-08:00",
+                "endTime": "2024-12-22T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely after 11pm. Cloudy, with a low around 53. Southeast wind 3 to 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the city is cloaked in a soft, muted blanket of clouds, creating an ethereal silence. The air is crisp, settling at a cool 51 degrees, with a gentle southeast wind whispering through the streets, carrying hints of moisture from the bay. While the clouds hint at a potential drenching later in the day, currently, the promise of light rain adds a touch of romance to the morning scene\u2014a lingering mist that clings to the iconic architecture. The Golden Gate Bridge, often wrapped in its signature fog, remains partially obscured, suggesting that the marine layer is still at play but will likely dissipate as the day progresses.\n\nAs Saturday unfolds, expect an active dance of weather with rain likely to arrive before 4 PM, casting a playful shadow over the afternoon plans. Highs will reach the low 60s but will cool slightly in the face of the incoming precipitation. For those venturing out, layers are key; a waterproof jacket would serve you well, combined with something comfortable underneath. Consider a stroll through the quiet streets, perhaps a stop at your favorite caf\u00e9 to enjoy a warm drink and watch the world go by. Artistic corners of the city beckon quieter exploration, allowing one to appreciate the tranquility before the rain arrives. It\u2019s a day that whispers of cozy indoor triumphs or the peaceful rhythm of rain on windowpanes, a perfect canvas for reflection or simple pleasures.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2024-12-21 05:04:05"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the city awakens to a palette of muted grays, shrouded in a blanket of clouds that loom low and heavy. Rain fell gently overnight, and with the forecast predicting more wetness before the day is done, it\u2019s wise to prepare for an afternoon of showers. The persistent breeze carries a chill, making the thought of layering up quite appealing; a warm jacket and sturdy shoes will best serve both comfort and style as you navigate the damp streets. Visibility might be affected as the marine layer hovers, lending a slightly mysterious ambiance to the iconic skyline.\n\nWith the promise of rain today, and a chance of more after nightfall, outdoor activities are best kept to a minimum. Instead, consider sinking into the warm embrace of a local caf\u00e9, where the scent of freshly brewed coffee and baked goods fills the air\u2014a perfect antidote to the dreary chill. Alternatively, a leisurely stroll through the nearby art galleries could be quite enriching, allowing you to enjoy cultural treasures while staying warm indoors. The day may lack the brilliance of sunshine, but it holds its own charm, inviting you to find delight in simple pleasures amidst the clouds.",
+    "color_code": "#A8C3D0",
+    "timestamp": "2024-12-21 06:01:44"
 }
