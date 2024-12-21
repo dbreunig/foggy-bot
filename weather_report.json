@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-21T18:43:00+00:00",
-            "temperature_f": 53.798,
-            "temperature_c": 12.11,
-            "humidity": 100,
+            "timestamp": "2024-12-21T19:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2024-12-21T12:00:00-08:00",
+                "startTime": "2024-12-21T13:00:00-08:00",
                 "endTime": "2024-12-21T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 40
                 },
                 "windSpeed": "7 to 10 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
-                "shortForecast": "Drizzle Likely",
-                "detailedForecast": "Drizzle likely. Cloudy. High near 59, with temperatures falling to around 56 in the afternoon. South wind 7 to 10 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
+                "shortForecast": "Chance Drizzle",
+                "detailedForecast": "A chance of drizzle. Cloudy. High near 59, with temperatures falling to around 56 in the afternoon. South wind 7 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "This afternoon in Downtown San Francisco, the city is cloaked in a gentle drizzle, lending a quiet murkiness to the landscape. The clouds conspire low and heavy, the air thickening with the promise of a more persistent rain later tonight. As the temperatures slide from the mild touches of 59 to the cool embrace of 56, the environment feels damp, a chill settling in with the southerly winds that whisper through the streets. It\u2019s a day that invites you to draw your scarf a little tighter, perhaps donning a water-resistant jacket to shield against both the persistent drizzle and the brisk winds that could surprise with gusts up to 23 mph.\n\nAs evening approaches, expectations of rain linger like a forgotten melody, with potential drizzles arching into a more assured downpour before the night fully descends. The visibility appears muted, almost ethereal, enchanting yet opaque, and the fog that dances over the Golden Gate suggests an intrusive marine layer hanging just above. It\u2019s not a day for picnics in the park or long strolls along the waterfront, but rather an opportunity to savor the solitude of a cozy corner caf\u00e9, perhaps accompanied by a warm cup of something comforting. Look towards the original charm of the Mission District or seek refuge in the warmth of the city\u2019s museums\u2014this weather is certainly an invitation to enjoy the city\u2019s heart from its indoors, where the embrace of warmth can be found away from the rain.",
-    "color_code": "#A3A3A3",
-    "timestamp": "2024-12-21 12:01:45"
+    "weather_report": "In Downtown San Francisco, the atmosphere today possesses a muted charm, cloaked under a grey blanket of clouds that hint at the day's impending drizzle. The cool air, hovering near 56 degrees, is invigorated by a gentle south wind, which carries whispers of moisture from the bay. As the afternoon unfolds, the likelihood of light sprinkles remains a steady companion, allowing for a contemplative stroll rather than a vigorous excursion. \n\nAs twilight approaches, expect the rain to deepen its presence, accompanied by a soft symphony of pattering against pavements. The air's chill calls for layered dressing\u2014a warm sweater paired with a waterproof jacket will serve you well against the impending wetness. Consider seeking refuge in a local caf\u00e9, where you can relish a steaming beverage while watching the world glide by through foggy panes, perhaps indulging in a good book or engaging in the soothing rhythms of conversation. This day, while overcast, invites a slow-paced romance with the city, perfect for weaving moments of quiet reflection along its storied streets.",
+    "color_code": "#7D8C9A",
+    "timestamp": "2024-12-21 13:01:43"
 }
