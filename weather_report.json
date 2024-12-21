@@ -10,7 +10,7 @@
             "timestamp": "2024-12-21T01:43:00+00:00",
             "temperature_f": 51.098,
             "temperature_c": 10.61,
-            "humidity": 80.097676871473,
+            "humidity": 79.988264906175,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-20T17:00:00-08:00",
-                "endTime": "2024-12-20T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 56 in the afternoon. West northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-20T18:00:00-08:00",
+                "startTime": "2024-12-20T19:00:00-08:00",
                 "endTime": "2024-12-21T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 51,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,100?size=medium",
                 "shortForecast": "Light Rain",
                 "detailedForecast": "Rain after 10pm. Mostly cloudy. Low around 51, with temperatures rising to around 53 overnight. South southeast wind 7 to 10 mph, with gusts as high as 22 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-12-21T06:00:00-08:00",
+                "endTime": "2024-12-21T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "8 to 12 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,100/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy. High near 59, with temperatures falling to around 57 in the afternoon. South southeast wind 8 to 12 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the evening unfolds over Downtown San Francisco, the air carries a crispness hinting at the impending rainfall that is set to arrive shortly after 10 PM. The sky, once mostly sunny, now wears a cloak of cloudiness, layered in shades of gray that speak to the moisture gathering in the atmosphere. The temperature, a cool whisper of 51 degrees, will see a slight rise as the night deepens, while the south-southeast wind stirs subtly, rustling through the streets at 7 to 10 mph.\n\nVisibility is diminishing, with the earlier clarity giving way to veils of haze that hint at the presence of the marine layer, suggestive of a damp chill lurking in the air. As the rain approaches, the promise of it unfurls like a familiar melody, hinting at new rainfall amounts gently falling between a tenth and quarter of an inch. For those venturing out, layers are advisable; a warm, lightweight jacket will shield against the evening coolness while being light enough to accommodate the shifting temperatures. Perhaps an evening stroll along the waterfront, where the rhythm of the waves meets the soft glow of street lamps, would beckon one to reflect and unwind on this transitioning day.",
-    "color_code": "#A9A7A3",
-    "timestamp": "2024-12-20 18:21:56"
+    "weather_report": "As the night unfurls in Downtown San Francisco, a blanket of clouds shrouds the city, lending it an air of quiet anticipation. Occasional raindrops begin to tap lightly against windows, hinting at the heavier downpour expected as the clock strikes ten. The temperature hovers in the low fiftys, with a gentle breeze from the southeast that carries the scent of the profound, damp earth intermingled with the urban pulse. The certainty of rain holds a 100% chance tonight, with a promise of new rainfall that could gather between a tenth to a quarter of an inch, transforming the familiar streets with a shiny veneer that invites reflections.\n\nThroughout Saturday, the rain persists, draping the city in a constant embrace that feels both cozy and melancholic. Highs will linger near sixty, gradually giving way to a chill as the day progresses. The wind will accentuate the chill, gusting up to twenty-five miles per hour, making layers essential for comfort. A light waterproof jacket, a scarf, and sturdy footwear will ensure a pleasant venture, whether it's a stroll through a quiet neighborhood or a morning spent at a caf\u00e9, observing the rain paint the world anew. In this atmosphere, finding solace in a favorite book or inviting friends for a cozy gathering would be the perfect antidote to the gloomy weather, turning the day into one of warmth and connection.",
+    "color_code": "#6B7F92",
+    "timestamp": "2024-12-20 19:03:58"
 }
