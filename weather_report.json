@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-22T00:43:00+00:00",
-            "temperature_f": 54.896,
-            "temperature_c": 12.72,
-            "humidity": null,
+            "timestamp": "2024-12-22T01:43:00+00:00",
+            "temperature_f": 54.356,
+            "temperature_c": 12.42,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-21T17:00:00-08:00",
-                "endTime": "2024-12-21T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Cloudy. High near 59, with temperatures falling to around 56 in the afternoon. South wind around 7 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-21T18:00:00-08:00",
                 "endTime": "2024-12-22T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,40/rain,60?size=medium",
                 "shortForecast": "Chance Drizzle then Light Rain Likely",
                 "detailedForecast": "A chance of drizzle before 4am, then rain likely. Cloudy, with a low around 53. East northeast wind 3 to 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2024-12-22T06:00:00-08:00",
+                "endTime": "2024-12-22T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,60/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Mostly cloudy. High near 61, with temperatures falling to around 59 in the afternoon. Southeast wind 5 to 9 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the late afternoon light begins to surrender to the encroaching clouds, Downtown San Francisco sits veiled in a muted, tranquil gray. The air is thick with the promise of drizzle, casting a subdued atmosphere over the bustling streets. A slight chill drifts in from the south, coaxing pedestrians to pull their jackets a bit tighter around their shoulders. It\u2019s a day that feels like the city is holding its breath, the temperature hovering around the mid-fifties, hinting at the rain that is likely to wash over the scene later in the evening.\n\nAs twilight approaches, a sense of introspection may settle in, the shadows lengthening beneath the dimming skies. The drizzle expected to begin shortly adds a melancholic layer to the usual vibrancy of the city, suggesting that warm tea or coffee would be a comforting companion. A gentle wind whispers through the streets, carrying the scent of the ocean mingled with the earth \u2014 a reminder of the bay's proximity. Layering up with a cozy sweater beneath a light rain jacket would serve well against the evening chill. This is a time best spent exploring cozy cafes, where the warmth inside invites quiet reflection or intimate conversations, all while the rain softly dances against the windows.",
-    "color_code": "#A5A8A0",
-    "timestamp": "2024-12-21 17:28:43"
+    "weather_report": "As the evening deepens over Downtown San Francisco, a cloak of cloudiness shrouds the city, hinting at the damp embrace of impending rain. The forecast speaks of drizzle giving way to a more resolute shower as night approaches, the air pregnant with the scent of moisture. In the dim glow of the streetlamps, the low temperature wraps around you like a light scarf, inviting the wise to don a long coat layered with a sweater for warmth. The gentle murmur of the east-northeast wind is at play, carrying with it the whisper of droplets soon to fall.\n\nCome morning, the landscape will remain forebodingly gray, the high barely reaching the low sixties before it turns cooler in the afternoon. The skies will persist in their overcast state, encouraging one to seek solace indoors or appreciate the city\u2019s charm through rain-slicked streets. A stroll along the waterfront might yield delightful reflections, but remember to embrace the cozy indoors\u2014a visit to a quiet caf\u00e9 or an art exhibit would pair well with the atmosphere. In this weather, the persistent possibility of rain adds a layer of introspection to your day, beautifully underscored by the rhythmic patter of raindrops.",
+    "color_code": "#A3B0B6",
+    "timestamp": "2024-12-21 18:26:19"
 }
