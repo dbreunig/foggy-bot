@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-22T07:43:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
+            "timestamp": "2024-12-22T08:43:00+00:00",
+            "temperature_f": 54.41,
+            "temperature_c": 12.45,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2024-12-22T01:00:00-08:00",
+                "startTime": "2024-12-22T02:00:00-08:00",
                 "endTime": "2024-12-22T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -31,9 +31,9 @@
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 53. North northeast wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Cloudy, with a low around 53. North northeast wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-12-22T06:00:00-08:00",
                 "endTime": "2024-12-22T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 61,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 40
                 },
-                "windSpeed": "5 to 9 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,40?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy. High near 61, with temperatures falling to around 59 in the afternoon. North northeast wind 5 to 9 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,20?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Mostly cloudy. High near 62, with temperatures falling to around 60 in the afternoon. East wind 5 to 8 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In the stillness of a December night, Downtown San Francisco brims with a hushed anticipation as light rain showers stir the air, mingling with the scent of damp earth. The clouds hang thick overhead, casting a soft, muted glow, while the temperature settles around the mid-fifties. The gentle north-northeast wind whispers through the streets, offering a slight chill that seeps into the bones. A chance of rain remains, urging a pause in plans, as any venture outdoors could meet an unexpected drenching.\n\nAs dawn breaks, the city will awaken to more clouds than sunshine, with the possibility of lingering rain swirling in the backdrop. Highs will peak in the low sixties before yielding to a gradual cooling in the afternoon. For those who dare to embrace the day, a light jacket or a cozy sweater will be a wise choice against the capricious chill that the breeze promises. Perhaps a meandering stroll through the quieter streets, a stop at a local caf\u00e9 to savor a steaming cup of coffee, or a visit to an art gallery, where the ambiance inside offers refuge from the unpredictable drizzles outside, could weave a comforting narrative for the day. Familiarity amidst the fog and clouds creates a tapestry of San Francisco\u2019s charm, inviting exploration within the city\u2019s atmospheric embrace.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2024-12-22 01:01:34"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle tapestry of clouds drapes the sky, hinting at the promise of rain. The air, cool and crisp, carries with it a touch of moisture that mingles with the scent of earth. The city, while still shrouded in night\u2019s embrace, breathes softly in anticipation of the day ahead. A low of 53 degrees sets the tone for a fairly tranquil morning, with a north-northeast breeze whispering at around five miles per hour, stirring the leaves ever so slightly.\n\nAs the sun rises, the chance of rain lingers, casting a muted palette across the urban landscape. Temperatures will climb to around 62 degrees, with a gradual descent into the early afternoon, creating an almost melancholic charm to the day. Light showers are possible, with moderate rainfall expected, inviting the sound of droplets kissing the pavement. Residents should prepare to dress in layers\u2014perhaps a light sweater or jacket paired with comfortable shoes, ideal for navigating the city\u2019s streets, whether on foot or via public transit. The atmosphere might feel damp, encouraging a leisurely stroll through neighborhood cafes, where one can sip warm coffee while watching the world drift by. With the gentle touch of fog in the distance, a quiet day unfolds, coaxing a more introspective or creative spirit to embrace the cozy confines of home or a favorite nook in the city.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-22 02:01:41"
 }
