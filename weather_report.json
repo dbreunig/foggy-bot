@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-23T11:43:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
-            "humidity": 100,
+            "timestamp": "2024-12-23T13:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-23T05:00:00-08:00",
-                "endTime": "2024-12-23T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 56. South southeast wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2024-12-23T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2024-12-23T07:00:00-08:00",
                 "endTime": "2024-12-23T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
                 "shortForecast": "Slight Chance Light Rain",
                 "detailedForecast": "A slight chance of rain between 8am and 4pm. Mostly cloudy. High near 62, with temperatures falling to around 60 in the afternoon. South southeast wind 3 to 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-23T18:00:00-08:00",
+                "endTime": "2024-12-24T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "8 to 18 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30/tsra_sct,100?size=medium",
+                "shortForecast": "Rain then Showers And Thunderstorms",
+                "detailedForecast": "Rain between 10pm and 4am, then showers and thunderstorms. Mostly cloudy. Low around 52, with temperatures rising to around 54 overnight. South southwest wind 8 to 18 mph, with gusts as high as 31 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "In the early hours, a blanket of clouds envelops Downtown San Francisco, settling into the city with a companionable chill as the temperature hovers at a gentle 56 degrees. The muted south-southeast breeze whispers through the streets, promising a day that requires a layer or two, perhaps a light jacket to guard against the coolness that lingers in the air. As the sun climbs, the clouds will likely play accomplice to the slivers of late morning light, hinting at the possibility of occasional rain with a modest chance of showers. Expect the afternoon to cool further, as the temperature dips towards 60, leaving hints of drizzle in its wake.\n\nThe skyline, partially shrouded in fog, offers a postcard view of soft silhouettes against a backdrop of gray. Today\u2019s vibe leans into the serene, inviting exploration of cozy caf\u00e9s or the spirited atmosphere of the local bookstore, where one can sip warm beverages while exiting the bustle outside. The weather, although somewhat overcast, emits an enticing quality\u2014a perfect reason to explore the nooks and crannies of the city, to find a quiet courtyard or perhaps catch a fleeting glimpse of the Golden Gate Bridge as it diffuses in and out of sight through the fog. Ready your attire for the day, layering up as a gentle reminder that the warmth of home extends into every corner of the city.",
-    "color_code": "#B0C4D0",
-    "timestamp": "2024-12-23 05:05:48"
+    "weather_report": "A muted dawn settles over Downtown San Francisco, the city cloaked in a gentle melancholy reminiscent of early winter. The air hangs cool, pregnant with the promise of rain, as an overcast sky looms above\u2014a heavy quilt of gray enveloping the horizon. The morning whispers of a slight chance of rain, yet there\u2019s an undeniable anticipation that lingers as the day progresses toward a high of 62 degrees, only to dip slightly as afternoon gives way to evening. \n\nBy nightfall, the mood shifts dramatically; rain is expected to drench the city between the hours of ten and four, transforming the streets into glistening ribbons woven through the bustling heart of the metropolis. Thunder rumbles softly in the distance, signaling the oncoming storms, while a vigorous wind stirs, reminding us of winter's presence. For those venturing outside, layering becomes essential\u2014a lightweight waterproof jacket accompanied by a cozy sweater should suffice. As the rain begins, consider savoring a local caf\u00e9's warmth or meandering through the quieter, adorned streets, where holiday lights twinkle against the gray backdrop. The air is crisp, charged with the sweetness of impending rain and the faint aroma of hearth fires; it\u2019s an invitation to find solace in the unhurried moments of a city that beautifully bears the brunt of the elements.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-23 07:01:55"
 }
