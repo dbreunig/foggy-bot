@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-24T12:43:00+00:00",
-            "temperature_f": 52.772,
-            "temperature_c": 11.54,
+            "timestamp": "2024-12-24T13:43:00+00:00",
+            "temperature_f": 52.412,
+            "temperature_c": 11.34,
             "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-24T05:00:00-08:00",
-                "endTime": "2024-12-24T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 90
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,90?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy, with a low around 53. West wind around 14 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2024-12-24T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2024-12-24T07:00:00-08:00",
                 "endTime": "2024-12-24T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -49,14 +30,33 @@
                     "value": 90
                 },
                 "windSpeed": "9 to 15 mph",
-                "windDirection": "W",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,90/rain_showers,40?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers before 4pm, then a slight chance of rain between 4pm and 5pm. Partly sunny. High near 58, with temperatures falling to around 53 in the afternoon. West wind 9 to 15 mph, with gusts as high as 24 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain showers before 4pm, then a slight chance of rain between 4pm and 5pm. Partly sunny. High near 58, with temperatures falling to around 53 in the afternoon. West southwest wind 9 to 15 mph, with gusts as high as 24 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-24T18:00:00-08:00",
+                "endTime": "2024-12-25T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 46. Northwest wind 6 to 13 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfolds over Downtown San Francisco, a shroud of grey envelops the city, lightly tracing the contours of familiar structures. The air, heavy with the promise of rain, swirls about in rhythmic gusts from the west, bringing a brisk chill that cuts through any anticipation for the morning. The forecast assures us of persistent showers today, a gentle reminder of winter's embrace, with temperatures hovering around the mid-fifties. The atmosphere feels damp and atmospheric, cloaked in the mystery of a city often draped in fog and clouds, although today\u2019s overcast suggests more rain than fog\u2014just enough to lend a melancholic charm to the early hours.\n\nWith rain on the horizon, it's best to dress for comfort and practicality; a well-worn raincoat and sturdy boots would serve well against the dampness that lingers in the air. As the day progresses, the rain may ease off slightly, allowing a glimpse of sunlight to dance through the clouds after 4 PM\u2014perfect for a contemplative stroll through the nearby streets, perhaps stopping at a cozy caf\u00e9 for a warm coffee. Alternatively, the steadiness of the rain serves as an invitation to nestle into a good book indoors, where the soft patter of raindrops becomes its own form of soothing ambiance. Today calls for quiet reflection, an appreciation of the city's nuanced beauty seen through the lens of a rainy winter day.",
-    "color_code": "#A4A7B9",
-    "timestamp": "2024-12-24 06:01:45"
+    "weather_report": "In Downtown San Francisco, the day emerges with an atmosphere thickened by the promise of rain, an almost palpable weight in the humidity-laden air. Rain showers are set to grace the city until mid-afternoon, possibly leaving the streets glistening, reflecting the muted tones of a gray sky; optimism hangs on the edge of that lingering moisture. As clouds begin to part, transitioning to a partly sunny afternoon, the temperature will shift, offering a slight respite as it cools to around 53 degrees. The gusts of wind will sweep through with a playful force, dancing between 9 and 15 miles per hour, momentarily mingling warmth with a bracing chill. \n\nAs night falls, the city will wrap itself in the embrace of clarity, revealing a deep cobalt sky, punctuated by stars that peek through the remnants of clouds. With a low dipping to a comfortable 46 degrees, a light jacket or a cozy sweater will be companionable for evening strolls under the moonlit streets. Given the day's weather and festive spirit, consider indulging in a calm escape to a local caf\u00e9, where the aroma of freshly brewed coffee mingles with the cheerful chatter of patrons. Or perhaps a quiet walk along the waterfront, where the gentle lapping of waves serenades your thoughts, could be the perfect way to embrace the day\u2019s transition into a cool, peaceful night.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2024-12-24 07:01:30"
 }
