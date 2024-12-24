@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-24T00:43:00+00:00",
-            "temperature_f": 59.144,
-            "temperature_c": 15.08,
-            "humidity": 100,
+            "timestamp": "2024-12-24T01:43:00+00:00",
+            "temperature_f": 59.234,
+            "temperature_c": 15.13,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-23T17:00:00-08:00",
-                "endTime": "2024-12-23T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy. High near 62, with temperatures falling to around 60 in the afternoon. South southeast wind around 6 mph. Chance of precipitation is 40%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-23T18:00:00-08:00",
                 "endTime": "2024-12-24T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,90/rain,100?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain. Mostly cloudy. Low around 53, with temperatures rising to around 55 overnight. South wind 7 to 17 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2024-12-24T06:00:00-08:00",
+                "endTime": "2024-12-24T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "14 to 21 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,100/tsra_hi,40?size=medium",
+                "shortForecast": "Scattered Showers And Thunderstorms",
+                "detailedForecast": "Rain before 10am, then scattered showers and thunderstorms between 10am and 1pm, then a chance of rain between 1pm and 4pm. Mostly sunny. High near 59, with temperatures falling to around 53 in the afternoon. West wind 14 to 21 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon settles into a quiet prelude of rain. The sky, draped in a heavy cloak of clouds, lends a subdued cast to the cityscape, where the distant silhouettes of the Golden Gate and the urban horizon dissolve into a wash of grey. The air carries a palpable humidity, a reminder of the impending showers, as temperatures hover around 60 degrees, the cool breeze brushing through in gentle gusts that speak of the weather\u2019s impending shift.\n\nAs evening approaches, the forecast predicts a steady downpour, an enveloping rhythm of raindrops beginning to serenade the city in earnest. With the temperatures slightly rising through the night to about 55 degrees, an umbrella and weatherproof layers will be essential for venture beyond the doorstep. The damp atmosphere may invoke a cozy retreat indoors, where one might engage in savoring a warm cup of tea while enjoying the sound of rain against the windows, or perhaps seeking out a hidden gem of a caf\u00e9 to linger in next to fellow patrons escaping the chill. For those brave enough to brave the elements, a leisurely stroll through the neighborhood, with the promise of catching a glint of raindrops on the pavement, could offer a refreshing perspective of the city's quiet resilience against the weather's whims.",
-    "color_code": "#7D9CBA",
-    "timestamp": "2024-12-23 17:28:27"
+    "weather_report": "As evening cloaks Downtown San Francisco, a quiet anticipation hangs in the air, the city preparing to be washed anew by rain. The chill settles comfortably around 53 degrees, with a hint of warmth sneaking in as temperatures nudge upward through the night. A gentle south wind whispers through the streets, promising to caress umbrellas as they open in defiance of the 100% chance of rain. Tonight\u2019s precipitation will arrive steadily, with the promise of a nourishing quarter to half an inch to rejuvenate the landscape. The clouds above loom heavy and gray, their presence obscuring the charm of the city skyline, leaving little room for the sunlight to filter through.\n\nTomorrow will awaken with more rain, an encore that promises to persist before giving way to scattered showers and the occasional clap of thunder. The day will strive to reclaim clarity after 10 a.m., but expect the warmth of sunshine to wane into a cool 59 degrees, falling gradually as the afternoon unfolds. The winds will shift noticeably, ushering in a brisk westward flow that stirs the ocean air, hinting at the marine layer hovering nearby, ever present, shrouding the Golden Gate in a ghostly veil.\n\nConsidering the weather, simple layers will serve you best; a waterproof jacket and sturdy shoes will guide you through this wet city. An umbrella is a wise companion as well, essential for navigating the intimate corners of your favorite caf\u00e9 or cozy bookstore, perfect haunts for a rainy day. The nightlife may beckon with a warm drink in hand, or perhaps indulging in a leisurely stroll, the streets glistening from the rain, where the muffled sounds of distant laughter and conversation echo, creating a melody all their own beneath the muted sky.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2024-12-23 18:23:50"
 }
