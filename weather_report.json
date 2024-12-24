@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-24T15:43:00+00:00",
-            "temperature_f": 51.566,
-            "temperature_c": 10.87,
-            "humidity": 100,
+            "timestamp": "2024-12-24T16:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2024-12-24T08:00:00-08:00",
+                "startTime": "2024-12-24T10:00:00-08:00",
                 "endTime": "2024-12-24T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 60
                 },
-                "windSpeed": "9 to 15 mph",
+                "windSpeed": "12 to 15 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,80/rain_showers,40?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers before 4pm, then a slight chance of rain between 4pm and 5pm. Partly sunny. High near 58, with temperatures falling to around 53 in the afternoon. West wind 9 to 15 mph, with gusts as high as 24 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/rain,40?size=medium",
+                "shortForecast": "Rain Showers Likely then Slight Chance Light Rain",
+                "detailedForecast": "Rain showers likely before 4pm, then a slight chance of rain between 4pm and 5pm. Partly sunny. High near 58, with temperatures falling to around 53 in the afternoon. West wind 12 to 15 mph, with gusts as high as 24 mph. Chance of precipitation is 60%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "Draped in a delicate layer of gray, Downtown San Francisco awakens this morning with an air of dampness, as light rain showers linger before retreating to leaves glistening with moisture. The sky, a muted canvas, suggests the subtle transition from precipitation to partial sun, hinting at a possible reprieve as afternoon arrives but cautioning that the air remains cool, nudging near 58 degrees before it nudges back down to the more brisk 53. Gusty winds, caressing the trees and shifting the fog, whisper with a Westward insistence, but they may not hold long against the playful spirits of sunshine.\n\nWith the evening promising a clearer palette, one may steal away into the heart of the city as trails of the day's drizzle give way to the crispness of nightfall at 46 degrees. As clouds part, the flicker of a distant city one might take in while tucked in a cozy caf\u00e9 stems from that initial morning drape. In such weather, layering becomes an artistic endeavor; a light rain jacket over a warm sweater embodies the spirit of both preparedness and style. For those yearning for simple pleasures, an afternoon spent wandering empty streets, perhaps peering into the window of local boutiques or savoring a warm cup of coffee while observing the city\u2019s gentle return to clarity, strikes the perfect balance of tranquility and engagement. The elements of the day ask for thoughtful choices, drawing an invitation to embrace the beauty of transition.",
-    "color_code": "#A9B0B0",
-    "timestamp": "2024-12-24 09:01:30"
+    "weather_report": "As the morning unfolds in Downtown San Francisco, a gentle curtain of rain showers paints a scene of soft gray skies, hinting at the remnants of a passing storm. The air is electric with the promise of a brief respite in the afternoon, as the clouds may lift to reveal moments of brightness amidst scattered sunlight. The cool temperatures hover around the mid-fifties, bringing a brisk edge that whispers of winter's arrival. Although the rainfall is expected to taper off shortly, it leaves behind a freshness in the air, inviting the city to breathe deep and wander the streets anew.\n\nTonight, as the sun sets, a calm will settle, offering a mostly clear expanse illuminated by the soft glow of streetlights. With temperatures dipping into the cool forties, a light jacket or cozy sweater will serve as a perfect companion for those out and about. Consider an evening stroll along the Embarcadero, where the sight and sound of waves meeting the shore can cradle one's thoughts, or perhaps a visit to a small caf\u00e9 for a warm drink, where conversations and laughter fill the air. It\u2019s a day that invites simple pleasures\u2014an embrace of the elements, wrapped in layers that speak of both comfort and style.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2024-12-24 10:01:51"
 }
