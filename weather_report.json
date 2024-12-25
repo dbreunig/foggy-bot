@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-25T11:43:00+00:00",
-            "temperature_f": 47.138,
-            "temperature_c": 8.41,
-            "humidity": 87.956501995662,
+            "timestamp": "2024-12-25T12:43:00+00:00",
+            "temperature_f": 46.364000000000004,
+            "temperature_c": 7.98,
+            "humidity": 86.054478035886,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-25T05:00:00-08:00",
-                "endTime": "2024-12-25T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 46. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Christmas Day",
                 "startTime": "2024-12-25T06:00:00-08:00",
                 "endTime": "2024-12-25T18:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 55, with temperatures falling to around 53 in the afternoon. West northwest wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-25T18:00:00-08:00",
+                "endTime": "2024-12-26T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,60/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain after 10pm. Mostly cloudy. Low around 50, with temperatures rising to around 52 overnight. South southwest wind 6 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In the tranquil darkness before dawn, Downtown San Francisco awakens to a serene and mostly clear sky, offering a gentle promise of the day ahead. The temperature hovers around a crisp 46 degrees, accompanied by a soft northwest wind that whispers through the stillness. As the sun rises on this beautiful Christmas Day, expect it to bring warmth and clarity, with the high reaching near 55 degrees before settling into a cool embrace of around 53 in the afternoon. The west-northwest winds are delicate, ranging from 3 to 7 mph, adding a pleasant touch to the morning air.\n\nWith the horizon free from fog and the marine layer holding its breath, the city appears to be dressed in a cloak of ethereal light this early morning. As the day unfolds, it beckons you outdoors; perhaps a leisurely stroll along the Embarcadero or a thoughtful visit to one of the local coffee shops, where you can savor the rich warmth of a freshly brewed cup while watching the world begin to move. Dressing in layers will suit the day\u2019s whims\u2014a light sweater beneath a cozy jacket will ensure comfort against the cool breeze while allowing for a transition from morning chill to midday warmth. Today, embrace the ordinary pleasures; nothing feels clich\u00e9d when wrapped in the simple joy of a sunny, winter day in the City by the Bay.",
-    "color_code": "#A9D3E7",
-    "timestamp": "2024-12-25 05:04:54"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle transition from night to day unveils a largely tranquil cityscape. The chill lingers in the air, gently biting, as the day's forecast suggests a high of 55. For now, though, the promise of clearer skies emerges, with only a whisper of clouds gracing the horizon. As the sun continues its ascent, expect the transient warmth to creep in, offering an invitation for a leisurely stroll or perhaps a quiet moment in one of the nearby parks, wrapped in a light jacket against the cool breeze.\n\nBut don\u2019t be deceived by this morning\u2019s serene promise. The evening unveils a different narrative; expect rain to grace the city after 10 pm, with clouds thickening to herald a night cloaked in moisture. The winds from the south southwest, while gentle now, will carry with them lower temperatures and the scent of impending rain. While daytime activities may call for a simple layering of clothing\u2014think comfortable sweaters and light scarves\u2014don\u2019t overlook the potential for wet conditions later on. As the day progresses, consider cozying up with a good book in a caf\u00e9, perfectly content against the thoughtful thrum of city rain, savoring the low rumble of the weather as it unfolds outside.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2024-12-25 06:01:53"
 }
