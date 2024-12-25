@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-25T00:43:00+00:00",
-            "temperature_f": 53.366,
-            "temperature_c": 11.87,
-            "humidity": 76.968655995686,
+            "timestamp": "2024-12-25T01:43:00+00:00",
+            "temperature_f": 53.006,
+            "temperature_c": 11.67,
+            "humidity": 83.006385948262,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-24T17:00:00-08:00",
-                "endTime": "2024-12-24T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 53 in the afternoon. West northwest wind around 14 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-24T18:00:00-08:00",
                 "endTime": "2024-12-25T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 46. Northwest wind 5 to 13 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
+                "name": "Christmas Day",
+                "startTime": "2024-12-25T06:00:00-08:00",
+                "endTime": "2024-12-25T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 55, with temperatures falling to around 53 in the afternoon. Northwest wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "As the day winds down in Downtown San Francisco, the skyline basks in the soft embrace of a fading sun, giving way to a stellar display that dances on the edges of twilight. The air is crisp, invigorating, a brisk northwest wind sweeping through, hinting at winter\u2019s gentle approach. Currently, temperatures hover around a cool 53 degrees, drawing a stark contrast against the fresh golden hues of the late afternoon. There's a distinct clarity to the day; however, the horizon bears the gentle touch of fog, a marine layer clinging to the coastline, framing the Golden Gate with a somewhat ethereal presence. The prevailing winds, unpredictable yet soothing, send gusts of up to 23 mph darting through the cityscape, making it prudent to keep a light jacket close at hand as the temperatures dip further into the night.\n\nThis evening, expect a transition to mostly clear skies, with temperatures slipping to a comfortable 46 degrees. It\u2019s a perfect time to embrace the evening strolls along the waterfront, where shimmering reflections dance on the Bay\u2019s surface, offering a tranquil retreat from the bustling city. Perhaps delight in a leisurely walk to a quaint caf\u00e9 or meander through the charming streets of the Mission, energized by the cool air, while a soft scarf wraps around your neck. The ambiance tonight is undeniably refreshing, inviting moments of contemplation under a canopy of stars, surrounded by the city's gentle hum.",
-    "color_code": "#A6C1D4",
-    "timestamp": "2024-12-24 17:28:22"
+    "weather_report": "As evening gracefully unfolds over Downtown San Francisco, the air carries a crisp, cool touch, with temperatures poised to dip around 46 degrees. The sky remains mostly clear, allowing the last vestiges of daylight to linger, illuminating the city in gentle hues. As the wind whispers from the northwest, it dances lightly between 5 to 13 mph, occasionally gusting up to 22 mph, adding a briskness that energizes the spirit. \n\nTomorrow, Christmas Day, promises to greet the early risers with sunny optimism. The high is expected to reach around 55 degrees, before settling back into the low 50s by afternoon. There\u2019s an invigorating clarity to the day, devoid of fog and marine layer, which often envelops the Bay. Given these conditions, layers are recommended\u2014a light sweater or jacket for the cooler moments, perhaps a scarf to tackle the brisk breeze while strolling through the city streets. It\u2019s a perfect opportunity for a leisurely walk through Golden Gate Park, where the beauty of nature harmonizes with the cheerful atmosphere, or a serene visit to one of the local cafes, where warmth and camaraderie abound, welcoming anyone seeking refuge from the chill outside.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-24 18:22:34"
 }
