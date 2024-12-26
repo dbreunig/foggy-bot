@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-26T06:43:00+00:00",
-            "temperature_f": 50.647999999999996,
-            "temperature_c": 10.36,
-            "humidity": 75.990224996701,
+            "timestamp": "2024-12-26T07:43:00+00:00",
+            "temperature_f": 50.629999999999995,
+            "temperature_c": 10.35,
+            "humidity": 75.988564794739,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-25T23:00:00-08:00",
+                "name": "Overnight",
+                "startTime": "2024-12-26T00:00:00-08:00",
                 "endTime": "2024-12-26T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 40
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,60/rain,80?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Mostly cloudy. Low around 50, with temperatures rising to around 52 overnight. South southeast wind 7 to 10 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain after 2am. Mostly cloudy. Low around 50, with temperatures rising to around 52 overnight. South southeast wind around 12 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-12-26T06:00:00-08:00",
                 "endTime": "2024-12-26T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 58,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 40
                 },
-                "windSpeed": "10 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,80/rain,70?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Mostly cloudy. High near 58, with temperatures falling to around 56 in the afternoon. South southwest wind around 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "windSpeed": "9 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,20?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Mostly cloudy. High near 59, with temperatures falling to around 56 in the afternoon. South wind around 9 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the darkness of the early morning settles over Downtown San Francisco, a gentle rain begins to mingle with the cool air, creating an atmosphere thick with the scent of damp earth. The clouds hang low, promising an evening where visibility is limited and the city's vibrant lights shimmer through a veil of moisture. The forecast hints at a chilly outing ahead, with temperatures hovering just above fifty; the kind of night that calls for a cozy sweater layered beneath a water-resistant jacket. \n\nThursday is set to unfold under a stubborn blanket of clouds, with rain continuing its steady rhythm. As the day progresses, the temperature will dip slightly, lending that invigorating chill that makes hot coffee feel all the more comforting. With the chance of rain at an impressive eighty percent, prudence suggests considering indoor pursuits: a visit to a favorite caf\u00e9 or an art gallery might provide a delightful shelter from the persistent drizzle. Should you be so inclined, a stroll along the waterfront may invigorate the soul, though one might want to don waterproof footwear to sidestep the wet pavements. As San Francisco weather is prone to atmospheric shifts, a casual exploration of what the city offers\u2014perhaps a locally cherished bookstore or an intimate theater\u2014could reveal hidden gems amid the relentless rain.",
-    "color_code": "#5B5B5B",
-    "timestamp": "2024-12-26 00:01:39"
+    "weather_report": "As the moonlight lingers softly over Downtown San Francisco, you find yourself wrapped in a gentle chill typical of this time of year. The night sky is shrouded in clouds, hinting at the rain to come, yet the air carries a warmth, as if the melting frost of winter is yet to fully assert its grip on the city. You might notice the faintest shimmer of moisture settled delicately on the streets below, a prelude to the wetness that might grace the day ahead.\n\nTomorrow unfurls with more clouds than sunlight, carrying a promise of rain which could arrive gently, like a sigh from the heavens. Daylight may be dreary, yet there\u2019s a certain beauty in the muted tones that will descend upon the city. With temperatures hovering around the mid-fifties, it\u2019s wise to don layers\u2014perhaps a cozy sweater underneath a waterproof jacket, ready for the unexpected puddles that will gather. A gentle breeze will whisper through the streets, but it\u2019s unlikely to trouble your stroll if you\u2019re wrapped warmly. \n\nConsider a quiet day spent drifting through an art gallery or savoring a steamy cup of coffee in a nook of your favorite caf\u00e9, watching the city embrace the rain. The flickering streetlights will create a dreamy ambiance, inviting introspective moments and perhaps a chance to lose yourself in a book, accompanied by the rhythmic sound of raindrops pattering against the window. Seek solace in the simple pleasures offered by this wet yet tranquil day, as San Francisco dons a veil of clouds and contemplation.",
+    "color_code": "#7F8C8C",
+    "timestamp": "2024-12-26 01:01:35"
 }
