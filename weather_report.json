@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Christmas Day",
-                "startTime": "2024-12-25T17:00:00-08:00",
-                "endTime": "2024-12-25T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 55, with temperatures falling to around 53 in the afternoon. West wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-25T18:00:00-08:00",
+                "startTime": "2024-12-25T19:00:00-08:00",
                 "endTime": "2024-12-26T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,60/rain,80?size=medium",
                 "shortForecast": "Light Rain",
                 "detailedForecast": "Rain after 10pm. Mostly cloudy. Low around 50, with temperatures rising to around 52 overnight. South wind 5 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2024-12-26T06:00:00-08:00",
+                "endTime": "2024-12-26T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "8 to 13 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,80/rain,70?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Mostly cloudy. High near 58, with temperatures falling to around 56 in the afternoon. South southwest wind 8 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dusk descends upon Downtown San Francisco, the remnants of a partly sunny Christmas Day give way to the anticipation of evening showers. The air carries a hint of moisture, suggesting that the lovely afternoon light has already begun to fade, making way for the more subdued tones of an overcast sky. With temperatures dropping to a cozy 50 degrees, the transitioning breeze gently whispers from the south at about 5 to 13 mph, an invitation to grab a light jacket as you head out.\n\nThe cityscape, adorned with the glow of scattered lights, forms a quiet backdrop for a relaxed evening. Expect some rain starting after 10 PM, with a likelihood of scattered droplets across the sidewalks, so it would be wise to grab an umbrella for your stroll. Given the forecast's indication of an 80% chance of precipitation later, it's a good time to find yourself in a snug spot\u2014perhaps a cozy caf\u00e9 where one can sip a warm drink while watching the world glide by. If you're venturing out, embrace the layers, allowing yourself the comfort of warmth as the marine layer begins to cloak the horizon. Tonight, let the soothing sounds of the city embrace you while you enjoy this peaceful Christmas evening.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2024-12-25 18:22:50"
+    "weather_report": "As evening descends upon Downtown San Francisco, the city is enveloped in a shroud of cloudiness, heralding the arrival of rain shortly after nightfall. With a chill hovering around 50 degrees, and the promise of temperatures creeping minimally upwards through the night, the atmosphere feels damp and heavy, infused with the scent of moisture that precedes a storm. Southerly breezes, gentle yet persistent, carry whispers of the impending precipitation, while the familiar fog, often a companion of the bay, positions itself in the distance, veiling the Golden Gate Bridge and adding an enigmatic quality to the skyline.\n\nTomorrow promises a continuation of this wet trend, as rain takes center stage throughout the day, with temperatures maintaining a cool demeanor, only rising to a modest high of 58 degrees before a gradual descent in the afternoon. It\u2019s a time for layers\u2014perhaps a warm sweater beneath a waterproof jacket, ideally with a sturdy umbrella in hand for those inevitable downpours. The moisture-laden air and dimly lit streets might encourage a cozy evening indoors, perhaps seasoned with the aroma of comfort food brewed at home, or a casual rendezvous in a local caf\u00e9, where soft conversations pair well with steaming mugs. For those undeterred by the rain, a stroll through one of the city's fabled parks can be a serene experience, the sound of raindrops creating a symphony accompanied by the rustling leaves, a gentle reminder of the beauty found even in less-than-perfect weather.",
+    "color_code": "#696969",
+    "timestamp": "2024-12-25 19:05:14"
 }
