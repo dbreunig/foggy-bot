@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-27T00:43:00+00:00",
-            "temperature_f": 57.902,
-            "temperature_c": 14.39,
-            "humidity": 83.004041248851,
+            "timestamp": "2024-12-27T01:43:00+00:00",
+            "temperature_f": 57.092,
+            "temperature_c": 13.94,
+            "humidity": 86.995265390474,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-26T17:00:00-08:00",
-                "endTime": "2024-12-26T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy. High near 56, with temperatures falling to around 54 in the afternoon. South southwest wind around 7 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-26T18:00:00-08:00",
                 "endTime": "2024-12-27T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain. Cloudy. Low around 54, with temperatures rising to around 57 overnight. South southwest wind 8 to 18 mph, with gusts as high as 31 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-12-27T06:00:00-08:00",
+                "endTime": "2024-12-27T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "9 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/bkn?size=medium",
+                "shortForecast": "Chance Light Rain then Mostly Cloudy",
+                "detailedForecast": "A chance of rain before 8am. Mostly cloudy. High near 60, with temperatures falling to around 56 in the afternoon. West wind 9 to 15 mph, with gusts as high as 23 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As evening drapes its soft, gray veil over Downtown San Francisco, the air carries a palpable heaviness, hinting at the rain that is soon to arrive. Cloud cover looms thick, shrouding even the most iconic landmarks, while a gentle yet persistent wind stirs, whispering secrets of the dampness to come. The temperature hovers uncomfortably cool, nudging the residents towards layers of warmth and familiarity. Those venturing outside will find little solace in the chill; a cozy sweater or a stylish rain jacket would serve well against the impending storm.\n\nAs nightfall deepens, the promised rain begins to intensify, falling steadily from the murky heavens. The city, usually sparkling with vibrant lights against the twilight, takes on a muted tranquility, softened by the layering mist that lingers just beyond reach. For the contemplative soul, this is an evening best spent indoors. Consider a leisurely stroll through your favorite nearby caf\u00e9, where the scent of freshly brewed coffee mingles with the rain-soaked air, or luxuriate in the warmth of your living room with a good book. The weather beckons not for grand adventures but for moments of quiet reflection amidst the patter of raindrops.",
-    "color_code": "#465A87",
-    "timestamp": "2024-12-26 17:28:30"
+    "weather_report": "As dusk settles over Downtown San Francisco, a gentle rain begins to dance upon the city streets, the cloudy sky casting a muted light reminiscent of a watercolor painting. The temperature hovers close to a breezy 54 degrees, with a subtle increase as the night unfolds. A south-southwest wind stirs the air, whispering through the alleys and echoing soft raindrops on rooftops, creating a soothing symphony that comforts those tucked indoors. The chance of precipitation remains high, with the promise of generous rainfall, adding a reflective quality to the evening.\n\nTomorrow, the forecast suggests a transition towards a mostly cloudy day, with the warmth of the earlier afternoon yielding to cooler air by day\u2019s end. While the rain may ease before the sun peeks over the horizon, a hint of humidity will linger, lending a muted charm to the landscape. The likelihood of fog remains low, but the marine layer may touch the edges of the city, providing its signature ethereal blanket over the bay. For a stroll through the neighborhoods, layers will serve you well; a light jacket accompanied by an umbrella might just be your best allies against unexpected showers. As the evening draws on and the city glows with a soft luminescence, perhaps a quiet reading nook in a cozy caf\u00e9 beckons, or a gentle walk along the waterfront will enchant those seeking solace in the rhythm of the rain.",
+    "color_code": "#6A9BBA",
+    "timestamp": "2024-12-26 18:23:43"
 }
