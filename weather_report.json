@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-27T12:43:00+00:00",
-            "temperature_f": 57.668,
-            "temperature_c": 14.26,
-            "humidity": 100,
+            "timestamp": "2024-12-27T13:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-27T05:00:00-08:00",
-                "endTime": "2024-12-27T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Cloudy. Low around 55, with temperatures rising to around 57 overnight. West southwest wind around 16 mph, with gusts as high as 28 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2024-12-27T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2024-12-27T07:00:00-08:00",
                 "endTime": "2024-12-27T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "7 to 13 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/bkn?size=medium",
-                "shortForecast": "Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain before 8am. Mostly cloudy. High near 59, with temperatures falling to around 56 in the afternoon. West southwest wind 7 to 13 mph, with gusts as high as 22 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain before 8am. Mostly cloudy. High near 59, with temperatures falling to around 56 in the afternoon. West southwest wind 7 to 13 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-27T18:00:00-08:00",
+                "endTime": "2024-12-28T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,30?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain after 11pm. Mostly cloudy. Low around 54, with temperatures rising to around 56 overnight. South wind around 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "The dawning hours in Downtown San Francisco whisper the promise of a rainy day, the air infused with a crispness that stirs the senses. A muted palette greets you outside as clouds gather overhead, cloaking the city in a soft, shrouded embrace. As the early morning light drifts slowly into view, the temperature lingers around a cool 55 degrees, hinting at a sheltered chill that follows a breeze gently bustling through the streets. What glimpses of the Golden Gate might be visible are softened by low-hanging clouds, hinting at a transient marine layer that drifts with the wind.\n\nAs the day unfolds, expect the warmth of the sun to remain elusive, perhaps peeking through the veil by afternoon, only to be muted by the bite of the wind. The forecast recommends light layers: a well-loved sweater under a sturdy coat, perhaps even a scarf to ward off the morning chill. Those venturing out might find solace in a quiet caf\u00e9, a space where the aroma of freshly brewed coffee mingles with the soft ticking of the clock, or in the quiet corners of a bookshop, where the world outside fades into background murmurs. It\u2019s a day that calls for an invitation to engage with small joys, where the rainfall becomes a soothing soundtrack to the gentle rhythm of days gone by.",
-    "color_code": "#A3C1C3",
-    "timestamp": "2024-12-27 06:01:44"
+    "weather_report": "As the morning unfolds in Downtown San Francisco, a gentle chill hangs in the air, accompanied by the simple promise of a day quietly shrouded in clouds. With a hint of moisture lingering from the slight chance of rain, the atmosphere feels fresh but tempered, as temperatures hover around 56 degrees and are expected to drift slightly lower as the afternoon approaches. The winds whisper at a moderate pace, swaying the branches and ruffling the collars of those hurrying about their morning routines. \n\nLooking out across the city, the familiar outline of landmarks hints at the day ahead. While the iconic Golden Gate Bridge awaits the sun\u2019s embrace, a thin veil of fog may still drape itself gently over some of the bay, particularly along the water's edge, where the marine layer frequently dances. The clouds are expected to persist, offering little respite to those seeking a sun-drenched afternoon, yet they set a calming tone perfect for introspective endeavors or quiet strolls through neighborhoods lined with cozy cafes and art-filled corners. Those venturing out might consider layers\u2014comfortable yet weather-appropriate\u2014perhaps a soft sweater or jacket to fend off the dampness that lingers, particularly as the evening brings a slightly higher chance of further rain. In this atmospheric tranquility, one might find satisfaction in wandering the streets, the promise of a warm drink after a reflective jaunt tempting those weary of the chill.",
+    "color_code": "#A3B2B8",
+    "timestamp": "2024-12-27 07:01:39"
 }
