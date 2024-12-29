@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-29T00:43:00+00:00",
-            "temperature_f": 59.846000000000004,
-            "temperature_c": 15.47,
-            "humidity": 87.994499187564,
+            "timestamp": "2024-12-29T01:43:00+00:00",
+            "temperature_f": 58.712,
+            "temperature_c": 14.84,
+            "humidity": 91.988176036044,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-28T17:00:00-08:00",
-                "endTime": "2024-12-28T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 59, with temperatures falling to around 57 in the afternoon. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-28T18:00:00-08:00",
+                "startTime": "2024-12-28T19:00:00-08:00",
                 "endTime": "2024-12-29T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Light Rain",
                 "detailedForecast": "A slight chance of drizzle between 9pm and 11pm, then a slight chance of rain between 11pm and midnight, then a slight chance of drizzle between midnight and 2am, then a slight chance of rain between 2am and 3am, then a slight chance of drizzle between 3am and 4am, then a slight chance of rain. Mostly cloudy, with a low around 54. South southwest wind 7 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2024-12-29T06:00:00-08:00",
+                "endTime": "2024-12-29T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "12 to 20 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,90/rain,50?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain before 2pm. Mostly cloudy. High near 58, with temperatures falling to around 55 in the afternoon. Southwest wind 12 to 20 mph, with gusts as high as 33 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As twilight descends upon Downtown San Francisco, the atmosphere bears an essence of quiet introspection, wrapped in a veil of muted clouds and lingering whispers of moisture. The afternoon has surrendered its mild warmth, with temperatures retreating towards a cool, crisp 57 degrees, while a gentle breeze stirs from the southwest. The skies, mostly cloaked in gray, suggest a subtle promise of change as hints of drizzle flirt on the horizon, anticipated to grace the streets later in the night. \n\nAlthough the fog remains at bay for now, the marine layer lurks close, concealing the distant skyline and softening the city\u2019s sharp outlines. For the evening ahead, it would be wise to don layers: a cozy sweater beneath a light jacket, and perhaps a scarf to guard against the chill that often drifts in with the fog. Embrace the gentle gloom by exploring the local cafes tucked away in your neighborhood, where the aroma of freshly brewed coffee mingles with the comfortable hum of conversation. Alternatively, a leisurely stroll along the waterfront can invite moments of reflection, especially as the city\u2019s lights begin to twinkle like stars on the bay, casting a serene glow over the evening.",
-    "color_code": "#7B9A9E",
-    "timestamp": "2024-12-28 18:26:50"
+    "weather_report": "In Downtown San Francisco, the air hangs thick with anticipation as the evening draws close, ushering in a blanket of clouds that obscures the city\u2019s familiar outlines. There\u2019s a dampness creeping in from the bay, whispering of light drizzles and the possibility of rain throughout the night. The temperatures slide to a cool 54 degrees, inviting warmth on your skin, though the brisk south-southwest winds rustle gently, hinting at gusts that could invigorate the evening.\n\nTomorrow promises a more persistent rain, beginning before the afternoon settles in, with high temperatures inching towards 58. The steady cadence of 90% chance of precipitation looms, paired with the sound of a southwest wind that will likely keep the coast shrouded. While the early hours may offer brief moments of clarity amongst the cloud cover, the overall mood remains cozy, suggesting a preference for soft layers and water-resistant footwear. \n\nAs darkness descends, the city glimmers softly beneath the marine layer, presenting an atmosphere that beckons a quiet evening indoors. Consider curling up at a local caf\u00e9, lost in a well-worn novel over steaming coffee, or perhaps visiting a nearby art gallery to relish in the stillness before the rain returns. The gentle patter against the window might just be the perfect serendipity for reflection or conversation on a languid winter night.",
+    "color_code": "#6A6F73",
+    "timestamp": "2024-12-28 19:09:21"
 }
