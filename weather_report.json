@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2024-12-29T11:43:00+00:00",
-            "temperature_f": 58.55,
-            "temperature_c": 14.75,
-            "humidity": 80.990357498056,
+            "timestamp": "2024-12-29T12:43:00+00:00",
+            "temperature_f": 58.153999999999996,
+            "temperature_c": 14.53,
+            "humidity": 83.957349596786,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-29T05:00:00-08:00",
-                "endTime": "2024-12-29T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 54. South wind around 14 mph, with gusts as high as 23 mph. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2024-12-29T06:00:00-08:00",
                 "endTime": "2024-12-29T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,80/bkn?size=medium",
                 "shortForecast": "Rain then Partly Sunny",
                 "detailedForecast": "Rain before 11am. Partly sunny. High near 59, with temperatures falling to around 54 in the afternoon. Southwest wind 13 to 20 mph, with gusts as high as 33 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-29T18:00:00-08:00",
+                "endTime": "2024-12-30T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 12 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 46. North northwest wind 8 to 12 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a thick layer of clouds cloaks the city in a blanket of muted gray. The air is cool and a touch damp, a characteristically chilly embrace for the end of December. The forecast hints at rain, imminent and persistent \u2014 a gentle rhythm that will underscore the morning hours. Gazing toward the horizon, one might notice the faint outlines of the Golden Gate Bridge, its grandeur partially obscured as the early light struggles against the shroud of low-hanging clouds, hinting at the possibility of the marine layer quietly retreating by afternoon.\n\nThe day ahead poses challenges to those longing for outdoor excursions, yet it invites more reflective pursuits. A light jacket, perhaps layered with a cozy sweater, and a sturdy umbrella stand as the attire of choice for the day\u2019s adventures. Consider a visit to a local caf\u00e9, where one can sip a hot brew and indulge in the comfort of a favorite read, all while watching the droplets dance against the window. Later, the clouds may part enough to offer patches of blue, inviting a stroll along sheltered pathways or a visit to a museum, where the brilliance of art provides a worthy distraction from the chill outside. Though the weather may appear dreary, it offers a unique charm, inviting introspection and the warmth of simple pleasures.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-29 05:04:05"
+    "weather_report": "In the heart of Downtown San Francisco, the morning unfolds with a tapestry of weather that seems neither entirely dreary nor bright. Rain, lingering from the early hours, has since given way to a partially sunny sky, though the chill remains palpable. Those venturing outdoors can expect temperatures to hover around a cool 54, a reminder of the season\u2019s embrace. The robust southwest winds whip through the streets, carrying with them both a briskness and the scent of impending showers. While the rain may have faded, the clouds still hang low, hinting at a lingering marine layer that cloaks the city, particularly near the Golden Gate, where fog might gently mingle with the iconic views of the bridge.\n\nAs the day progresses towards evening, the promise of clarity grows\u2014the night will usher in a cool calm, with stars potentially peeking through as temperatures drop to around 46, requiring a light jacket snug against the chill. Layering is wise; a comfortable sweater or a light coat will keep one warm against the winds whipping through the city\u2019s charming streets. With the weather offering a mix of calm after the storm, consider a leisurely stroll along the Embarcadero, where the waterfront provides a quiet place for reflection, or perhaps indulge in a local caf\u00e9, savoring a warm drink while animated conversations fill the air. The day bears the potential for simple pleasures, embracing the unique charm of winter in the city.",
+    "color_code": "#A0B3C0",
+    "timestamp": "2024-12-29 06:01:45"
 }
