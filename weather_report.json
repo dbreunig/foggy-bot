@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-29T17:00:00-08:00",
-                "endTime": "2024-12-29T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 59, with temperatures falling to around 54 in the afternoon. West wind around 14 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-29T18:00:00-08:00",
                 "endTime": "2024-12-30T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 46. Northwest wind 8 to 14 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2024-12-30T06:00:00-08:00",
+                "endTime": "2024-12-30T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 54, with temperatures falling to around 52 in the afternoon. North northwest wind 5 to 14 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco this evening, one finds a tranquil serenity pervading the air as the day winds to a close. The sky, painted with the gentle hues of dusk, reveals a mostly clear expanse that promises a pleasant night ahead. The temperatures are declining gracefully, hovering near the mid-forties, while a light northwest breeze whispers through the streets, inviting one to embrace a cozy layer of warmth. Though the forecast spoke of a fading marine layer, the day's promise remains, unclouded by fog's usual embrace, allowing for views that, while perhaps not illuminated, are certainly unhindered.\n\nAs you consider evening activities\u2014perhaps a stroll along the Embarcadero or a quiet cup of coffee in one of the hidden haunts tucked into the city's contours\u2014do dress for the chill. A light jacket would suffice, blending comfort with the evening's inviting calm, as the sun bids its farewell. It\u2019s an ideal time for light conversations, laden with warmth and understanding, in spaces that echo with the laughter and the subtle sounds of city life winding down. Seek moments of connection in this serene twilight, for tonight holds all the promise of a gentle, uncomplicated joy.",
-    "color_code": "#A3C1C3",
-    "timestamp": "2024-12-29 18:24:52"
+    "weather_report": "As the evening cloaks Downtown San Francisco, a tranquil clarity envelops the city. Tonight's sky remains mostly clear, punctuated by the distant twinkling of city lights, casting a soft glow against the darkening horizon. The gentle northwest wind carries a crispness, heralding the approaching cool of the night, with temperatures slipping to a low of around 46. In this serene backdrop, the absence of fog speaks of a rare reprieve from the usual moody marine layer that often blankets the Bay Area. The vistas towards the Golden Gate Bridge shimmer with the promise of calm, while the skyline breathes softly, unmarred by the misty tendrils of fog that usually curl around its edges.\n\nTomorrow ushers in a day of mostly sunny vistas. Though the high will settle around 54, a notable coolness is expected in the afternoon, likely prompting the locals to don layers as they tread through the streets of their beloved city. Consider light sweaters or jackets for comfort, especially as the sun\u2019s warmth ebbs later in the day. These stable weather conditions invite opportunities for leisurely strolls through the nearby parks or a quiet visit to a local caf\u00e9, where the comfort of a warm drink can share the moment with the gentle breeze. Embrace the day with a sense of wonder, taking in the city that bustles with life in its unique, unfettered charm.",
+    "color_code": "#708090",
+    "timestamp": "2024-12-29 19:06:51"
 }
