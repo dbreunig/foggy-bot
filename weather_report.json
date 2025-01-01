@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-31T17:00:00-08:00",
-                "endTime": "2024-12-31T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 54, with temperatures falling to around 52 in the afternoon. West wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-31T18:00:00-08:00",
+                "startTime": "2024-12-31T19:00:00-08:00",
                 "endTime": "2025-01-01T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 46. West northwest wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "New Year's Day",
+                "startTime": "2025-01-01T06:00:00-08:00",
+                "endTime": "2025-01-01T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "ESE",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 56, with temperatures falling to around 54 in the afternoon. East southeast wind around 5 mph."
             }
         ]
     },
-    "weather_report": "In the heart of San Francisco this evening, the air carries a gentle coolness, a reminder of the city\u2019s tranquil charm even as it transitions to night. The sky, mostly cloudy, wraps itself in a soft blanket, hinting at the promise of a serene night, with golden lights flickering across the skyline like scattered stars. As the sun dips beyond the horizon, the temperature gracefully cools, encouraging a retreat into cozy layers. A west northwest breeze whispers through the streets, casual yet refreshing, making light jackets a perfect companion for those venturing out.\n\nThe city seems to hold its breath, with the marine layer hovering nearby but not yet engulfing the view, ensuring moments of clarity where the Golden Gate stands proud and unhidden. Those seeking evening activities may find delight in the quiet charm of a local caf\u00e9 or perhaps a sunset stroll along the Embarcadero, where the waterfront reflects a dance of lights. The mellow evening does not call for grand gestures; rather, it offers the chance to savor the simple pleasures of warm drinks and thoughtful conversation. Tonight is an invitation to stay grounded, to relish in the beauty and calm that envelops San Francisco.",
-    "color_code": "#6B7F9A",
-    "timestamp": "2024-12-31 18:27:01"
+    "weather_report": "As the twilight descends upon Downtown San Francisco, a delicate veil of clouds softens the city skyline, hinting at a tranquil evening. The forecast speaks of a chill, with temperatures dipping to about 46 degrees, accompanied by a gentle west-northwest breeze that whispers through the streets. While the evening sky is predominantly cloudy, there is an unmistakable clarity that hints at the promise of a bright New Year\u2019s Day. Tomorrow, the sun will stretch its golden fingers over the landscape, reaching a high near 56, a welcome reprieve from the chill of night.\n\nCurrently, the only sign of fog resides in the shadows of the city, where the marine layer hugs the horizon, leaving the Golden Gate Bridge just out of reach for an evening stroll. Tonight, dressing in layers is key\u2014a cozy sweater will keep one warm against the evening breeze, perhaps complemented by a light scarf. As you anticipate the celebratory spirit of New Year\u2019s Eve, consider a low-key gathering with friends, or a quiet walk along the waterfront, allowing the city\u2019s lights to reflect your hopes for the upcoming year. As the clock nears midnight, a simple moment of reflection against the backdrop of the softly illuminated bay can be as invigorating as any grand celebration.",
+    "color_code": "#7D9BF9",
+    "timestamp": "2024-12-31 19:09:35"
 }
