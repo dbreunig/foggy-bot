@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "New Year's Day",
-                "startTime": "2025-01-01T17:00:00-08:00",
-                "endTime": "2025-01-01T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 54 in the afternoon. Northwest wind around 3 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-01T18:00:00-08:00",
                 "endTime": "2025-01-02T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 48. North northeast wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-01-02T06:00:00-08:00",
+                "endTime": "2025-01-02T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 57 in the afternoon. North wind around 7 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the evening light casts a gentle glow, gradually succumbing to the enveloping night. The air remains crisp, hinting at the transition from day to night, while temperatures hold steady, inviting residents and visitors to explore the outskirts of the city. With a partly cloudy sky overhead, there\u2019s a comforting clarity that offers up a view of the iconic silhouettes against a softened horizon, yet it\u2019s clear that the marine layer remains a quiet presence, teasing adventurers with the prospect of fog later in the evening.\n\nAs temperatures dip towards a mild 48 degrees, it is wise to don a light jacket that can shield against the light northern winds. This evening, a gentle jaunt along the Embarcadero can provide a refreshing perspective of the Bay, perhaps stopping at a cozy caf\u00e9 with views of the water, savoring a warm drink while absorbing the tranquility that envelops this vibrant cityscape as it winds down for the night. The atmosphere is energetic yet soothing, an invitation to meander through the streets or enjoy an intimate gathering under the soft blanket of clouds. The evening still offers a wealth of possibilities for exploration, as the city settles into its nocturnal rhythm.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-01-01 18:22:47"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the air remains fresh and crisp, gently cradled by the delicate touch of a north-northeast breeze. Tonight\u2019s partly cloudy skies suggest an evening that is quietly inviting; the temperature hovers around 48 degrees, a hint of chill whispering reminders to don a light jacket before stepping outdoors. Gazing out, one may note the city\u2019s lights beginning to flicker to life, twinkling against a backdrop of darkening clouds, while the Golden Gate Bridge stands resolute, hinting at the vessel of evening adventures to come.\n\nThroughout the day on Thursday, expect the golden rays of the sun to weave in and out of a primarily sunny canvas, with temperatures gently nudging towards 60 before retreating to about 57 in the afternoon. It\u2019s a day that holds potential for gentle strolls along the waterfront or quiet moments spent sipping coffee from a local caf\u00e9, where the clarity of the air invites a reflective gaze across the bay. One might even find pleasure in seeking out hidden nooks within the Presidio, away from the busier tourist tracks, where nature and urban life enjoy a harmonious dance. Dress in layers, utilizing breezy fabrics that allow for comfort as the sun dances in and out of sight, ensuring that both warmth and freedom accompany you on your chosen path.",
+    "color_code": "#4B6F82",
+    "timestamp": "2025-01-01 19:04:35"
 }
