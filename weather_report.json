@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-02T17:00:00-08:00",
-                "endTime": "2025-01-02T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 58 in the afternoon. North wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-02T18:00:00-08:00",
+                "startTime": "2025-01-02T19:00:00-08:00",
                 "endTime": "2025-01-03T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -49,14 +30,33 @@
                     "value": 60
                 },
                 "windSpeed": "6 mph",
-                "windDirection": "WNW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct/rain,60?size=medium",
                 "shortForecast": "Partly Cloudy then Light Rain Likely",
-                "detailedForecast": "Rain likely after 4am. Partly cloudy. Low around 50, with temperatures rising to around 52 overnight. West northwest wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain likely after 4am. Partly cloudy. Low around 50, with temperatures rising to around 52 overnight. West wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-01-03T06:00:00-08:00",
+                "endTime": "2025-01-03T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,90?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain before 4pm. Partly sunny. High near 57, with temperatures falling to around 53 in the afternoon. Southwest wind 6 to 12 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon unfolds under a blanket of refreshing sunshine, with temperatures hovering near a comfortable 60 degrees. The air carries the crispness typical of this beautiful city, a gentle reminder of winter's presence softened by a light north wind. As the sun dips lower, the tranquility may be punctuated by the whispers of an impending change; clouds begin to gather on the horizon as dusk approaches. \n\nTonight promises a transition, as rain is likely to grace the streets after the early hours, hinting at the first signs of moisture awakening in the cool air. With the mercury falling to about 50 degrees and a slight rise as the night settles in, it beckons one to embrace layers; a light jacket, perhaps, paired with a cozy scarf will serve well against the chill. The urban landscape, glistening under the possibility of rain, casts an inviting spell. If one finds themselves wandering through this atmospheric shift, a visit to a favorite caf\u00e9 with the comforting aromas of fresh brew or a leisurely stroll through the softly illuminated streets could offer a satisfyingly serene experience on this winter evening.",
-    "color_code": "#A9C0CD",
-    "timestamp": "2025-01-02 18:23:47"
+    "weather_report": "As night drapes its velvety cloak over Downtown San Francisco, the air is punctuated by an impending rainfall, emerging softly after four in the morning. The temperature, a cool whisper hovering around 50 degrees, promises to cradle into a slightly warmer embrace as the night deepens. Tonight's skies, swathed in the gauzy remnants of partly cloudy patches, suggest only a fleeting glimpse of clarity before the rain sets in, making the surrounding hills and the iconic silhouette of the Golden Gate Bridge appear both mystical and elusive. The west wind rustles gently, a reminder of nature's rhythm, while the chance of precipitation rises to a notable 60%, hinting at a mischievous drizzle ready to roll over the city\u2019s bustling streets.\n\nTomorrow, as the dawn breaks, anticipate a day laced with more persistent showers, particularly before the afternoon transforms into a partly sunny tableau. Expect the high to gaze slightly past 57 degrees. The southwest winds will beckon at 6 to 12 mph, ushering in the fresh scent of rain-soaked earth. Whether to an indoor caf\u00e9, where the warmth and aroma of freshly brewed coffee call, or through a simple stroll around the quiet corners of a nearby park, the day beckons casual comfort. Dress for the occasion in layers, perhaps a cozy sweater beneath a waterproof jacket, as the weather oscillates between cool respite and the tantalizing dampness of rain. Perfect for some quiet reflection or an afternoon spent leafing through the pages of a long-neglected novel while the city hums softly outside.",
+    "color_code": "#4A505D",
+    "timestamp": "2025-01-02 19:05:27"
 }
