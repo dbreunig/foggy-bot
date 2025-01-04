@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-04T11:43:00+00:00",
-            "temperature_f": 48.344,
-            "temperature_c": 9.08,
+            "timestamp": "2025-01-04T12:43:00+00:00",
+            "temperature_f": 49.118,
+            "temperature_c": 9.51,
             "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-04T05:00:00-08:00",
-                "endTime": "2025-01-04T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 47. Northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2025-01-04T06:00:00-08:00",
                 "endTime": "2025-01-04T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 56, with temperatures falling to around 53 in the afternoon. North northwest wind 2 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-04T18:00:00-08:00",
+                "endTime": "2025-01-05T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 47. North northwest wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "In the early hours of this crisp January day in Downtown San Francisco, a gentle breeze rustles through the quiet streets as the city slowly awakens. The sky is mostly clear, with the soft glow of dawn illuminating the horizon. There\u2019s a touch of serenity in the air, tempered by the coolness that lingers. Expecting a maximum high of around 56, the day promises a blend of sunshine and brisk northern winds, drawing a whisper of chill that will be felt more keenly in the afternoon.\n\nAs you venture out, this is the kind of morning where layers serve as a perfect companion\u2014perhaps a light sweater over a long-sleeved shirt, complemented by comfortable trousers. The marine layer is subtly present, hovering in some pockets close to the coastal edge, but not imposing on the city\u2019s charm. The outlook feels quite pleasant, with the potential for a serene stroll down along the Embarcadero or a quiet exploration through the winding streets of North Beach. A visit to an intimate caf\u00e9 for a warm drink could enhance the morning, inviting the perfect blend of comfort and caffeine before the day unfolds further.",
-    "color_code": "#A0B2C8",
-    "timestamp": "2025-01-04 05:04:31"
+    "weather_report": "This morning in Downtown San Francisco, serenity cloaks the city, with mostly sunny skies providing a gentle backdrop to the bustling urban life. As temperatures settle near the mid-fifties, the day is heralded by a calm north-northwest breeze, whispering through the streets and hinting at a gradual drop in warmth as afternoon approaches. The golden hour of light is creating a soft glow, painting the breath of fog that often drapes the Golden Gate Bridge in delicate tendrils, seemingly holding back just for today.\n\nAs the sun rises higher and the clouds drift away, expect the temperatures to dip slightly, inviting layers into your wardrobe. A light sweater topped with a jacket would strike the balance against the crisp breeze, a companionable attire for a stroll along the Embarcadero or perhaps a leisurely visit to a local caf\u00e9 to sip on a warm beverage while watching the world stroll by. Given the inviting conditions, today calls not for high-energy adventures but rather for quiet enjoyment: reading a book in a sunlit park, engaging in conversation with friends, or simply pausing to admire the architecture that graces the streets of this storied city.",
+    "color_code": "#D2D6E3",
+    "timestamp": "2025-01-04 06:01:43"
 }
