@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-05T00:43:00+00:00",
-            "temperature_f": 53.204,
-            "temperature_c": 11.78,
-            "humidity": 83.019805597753,
+            "timestamp": "2025-01-05T01:43:00+00:00",
+            "temperature_f": 52.412,
+            "temperature_c": 11.34,
+            "humidity": 77.99343494746,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-04T17:00:00-08:00",
-                "endTime": "2025-01-04T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 56, with temperatures falling to around 53 in the afternoon. West northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-04T18:00:00-08:00",
                 "endTime": "2025-01-05T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Fog",
                 "detailedForecast": "Patchy fog after 3am. Mostly cloudy, with a low around 47. North northwest wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-01-05T06:00:00-08:00",
+                "endTime": "2025-01-05T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Sunny",
+                "detailedForecast": "Patchy fog before 10am. Mostly sunny. High near 58, with temperatures falling to around 56 in the afternoon. North northwest wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As daylight fades over Downtown San Francisco, a gentle current of crisp air sweeps through the streets, a harbinger of the evening chill to come. The sky wears a muted gray, hinting at the clouds that cradle the dusk while the occasional patch of sun peeks through, playing a teasing game of hide and seek. The forecast promises a high of 56, but as the temperatures steadily decline into the mid-forties, it becomes clear that layers are wise; a cozy sweater paired with a light jacket would be most suitable for an evening stroll along the Embarcadero.\n\nWhile the current weather is predominantly clear, the sea air begins to weave its magic, heralding the arrival of patchy fog\u2014first making its subtle appearance along the coast and creeping inland as the night deepens. The dull glow of city lights reflects the fading light, inviting moments of contemplation. One might find joy in wandering through nearby neighborhoods or retreating indoors to a quiet caf\u00e9, savoring a warm drink as the world outside softens into a blanket of mist. The night beckons exploration, whether through the city's hidden alleys or simply indulging in the comfort of a good book by a window, witnessing the transformation of this vibrant city into a serene, fog-laden landscape.",
-    "color_code": "#A9B2B0",
-    "timestamp": "2025-01-04 17:28:52"
+    "weather_report": "As evening descends upon Downtown San Francisco, a soft shroud of fog begins to weave its way through the streets, hinting at the embrace of the marine layer that sweeps in from the ocean. The air, still crisp but unthreatening, promises a low temperature that invites light layers\u2014perhaps a cozy sweater or a light jacket for a comfortable stroll. The skyline, although clouded, still holds a charm beneath its overcast veil, the city lights flickering like stars lost in a winter's dream.\n\nLooking ahead to tomorrow, expect a similar tapestry, punctuated by the morning's patchy fog which may linger a while before yielding to the sun's gentle warmth. The day promises a mostly sunny disposition, though the chill of the air will tame any ambitions of warmer weather. A brisk walk along the waterfront or a quiet morning in one of the neighborhood caf\u00e9s might be just the ticket, a chance to savor the essence of this beautiful city as it awakens from its slumber. Enjoy the simplicity of the moment\u2014the cool breeze, the muted light, and the soft sound of the waves caressing the shore, all perfectly aligned for a peaceful weekend morning.",
+    "color_code": "#A4C8C8",
+    "timestamp": "2025-01-04 18:26:17"
 }
