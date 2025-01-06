@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-05T17:00:00-08:00",
-                "endTime": "2025-01-05T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 55 in the afternoon. West wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-05T18:00:00-08:00",
+                "startTime": "2025-01-05T19:00:00-08:00",
                 "endTime": "2025-01-06T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -49,14 +30,33 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "W",
+                "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog after 9pm. Partly cloudy, with a low around 49. West wind around 5 mph."
+                "detailedForecast": "Patchy fog after 9pm. Mostly cloudy, with a low around 49. West northwest wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-01-06T06:00:00-08:00",
+                "endTime": "2025-01-06T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/day/fog?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog before 1pm. Mostly sunny. High near 58, with temperatures falling to around 55 in the afternoon. North northwest wind 3 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the sun begins its descent, Downtown San Francisco basks in a late afternoon glow, setting the stage for a serene evening. The clear skies exhibit a gentle sweetness, with the temperature wavering around the low fifties, beckoning those who appreciate a brisk yet bright atmosphere. The western breeze, soft and unhurried, carries with it the promise of a hazy night, as patchy fog may canvas the city after dusk, wrapping its tendrils around the iconic Golden Gate and beyond. \n\nToday\u2019s weather invites layers: a light jacket or sweater, perhaps complemented by a comfortable scarf, will shield against the coolness that the approaching fog may bring. As the evening unfolds, consider taking a leisurely stroll along the Embarcadero, where the twinkling lights dance on the water's surface, or settle into a cozy caf\u00e9, perhaps with a warm drink to cradle in your hands. As January prepares to yield to evenings tinged with mystery, the city offers a profound stillness, perfect for quiet contemplation or the simple pleasure of watching the day drift into night.",
-    "color_code": "#A1C3D3",
-    "timestamp": "2025-01-05 17:28:46"
+    "weather_report": "As twilight settles over Downtown San Francisco, the air is thick with the whisper of patchy fog, curling around the corners of familiar landmarks. The sky hangs in a muted gray, the kind that suggests a hushed transition into night, with temperatures gently dipping towards 49 degrees. West-northwest winds carry the coolness through the streets, a subtle reminder of the city\u2019s oceanic embrace. The fog, while not overwhelming, has begun its dance, particularly in the evening hours, lending the scene an ethereal quality that softens the city\u2019s hard edges.\n\nTomorrow promises a shift, with patches of sunlight breaking through the morning mist before midday, casting a warmer glow over the bustling cityscape. Yet, even as the sun rises high, temperatures will linger around 58, slowly spiraling down to the mid-fifties by afternoon. As the day unfolds, it calls for a layering of light attire\u2014perhaps a cozy sweater or a light jacket to navigate the coolness in shadows cast by the glimmering buildings. In these tranquil hours, one might consider a leisurely stroll along the waterfront or a visit to a local caf\u00e9, where the aroma of brewed coffee mingles with the salty air, providing a comforting retreat as the day brightens and the fog begins to retreat.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-01-05 19:08:14"
 }
