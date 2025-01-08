@@ -10,7 +10,7 @@
             "timestamp": "2025-01-08T01:43:00+00:00",
             "temperature_f": 63.518,
             "temperature_c": 17.51,
-            "humidity": 24.854862325835,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-07T17:00:00-08:00",
-                "endTime": "2025-01-07T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 66, with temperatures falling to around 59 in the afternoon. North wind around 18 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-07T18:00:00-08:00",
+                "startTime": "2025-01-07T19:00:00-08:00",
                 "endTime": "2025-01-08T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy. Low around 50, with temperatures rising to around 52 overnight. North northeast wind 14 to 23 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-01-08T06:00:00-08:00",
+                "endTime": "2025-01-08T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 15 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 58 in the afternoon. Northeast wind 6 to 15 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco this evening, the air carries an inviting clarity, illuminated by a waning sun leaving a soft glow across the skyline. The temperature dances around a comfortable 50 degrees, complemented by a refreshing north wind whispering through the streets, sweeping away any remnants of the day's heat. As night unfurls, the clouds gather gently, partly obscuring the night sky, but no marine layer encroaches upon the horizon, allowing for a delightful view of the city lights twinkling like scattered stars.\n\nAs you embrace the evening, consider layering a light jacket over a simple sweater\u2014it will be a perfect companion for the brisk breeze. This pleasant weather invites a stroll along the waterfront or perhaps a visit to a cozy caf\u00e9 tucked away in one of the city\u2019s charming corners. With a clear sky above and vibrant city life below, it's a perfect moment to enjoy a warm drink and watch as the city settles into nighttime, each passerby a story waiting to unfold.",
-    "color_code": "#A6B1C7",
-    "timestamp": "2025-01-07 18:23:27"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the city finds itself under a canvas brushed with scattered clouds, giving way to a somewhat serene evening. The temperature hovers around a cool 50 degrees, teasing the edges of warmth throughout the night, with a gentle north-northeast wind whispering through the streets at 14 to 23 mph. The atmosphere carries a hint of briskness, the kind that invites layers but also encourages a stroll beneath the stars.\n\nAs Wednesday dawns, the forecast promises sunlit expanses, with temperatures rising slightly to a pleasant 62, then retreating to the mid-fifties by the afternoon. The morning might greet the early risers with a clear vista, though the familiar marine layer may encroach as the day matures, veiling some of the distant hills. With the winds shifting to a calmer northeast, it is a delightful day best suited for leisurely activities. Don comfortable layers\u2014perhaps a light jacket or sweater\u2014to navigate the changing temperatures, and consider a mid-morning expedition to one of the city's many local caf\u00e9s, where the warmth of freshly brewed coffee lingers invitingly. A meandering walk along the waterfront might reveal the sparkling bay and the grace of the iconic bridges, especially as the sun bathes them in its golden glow. In the midst of such a splendid day, life feels as though it is weaving together moments of simplicity and beauty.",
+    "color_code": "#5B8C78",
+    "timestamp": "2025-01-07 19:05:15"
 }
