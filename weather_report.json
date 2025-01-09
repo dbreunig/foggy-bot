@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-09T17:43:00+00:00",
-            "temperature_f": 58.604,
-            "temperature_c": 14.78,
-            "humidity": 45.00880801519,
+            "timestamp": "2025-01-09T18:43:00+00:00",
+            "temperature_f": 61.952,
+            "temperature_c": 16.64,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-01-09T11:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2025-01-09T12:00:00-08:00",
                 "endTime": "2025-01-09T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 58 in the afternoon. North northwest wind around 7 mph."
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. North northwest wind around 8 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "N",
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "ENE",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 48. North wind around 5 mph."
+                "detailedForecast": "Mostly clear, with a low around 48. East northeast wind 5 to 9 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the day unfolds under a splendid embrace of sunlight, with the city basking in the glow of unclouded skies. Elevated views capture a vibrant tableau, with the Golden Gate Bridge standing proud against the cerulean backdrop, and the radiant sun painting the buildings in warm hues. A gentle north-northwest breeze stirs, offering a subtle reminder of the bay's proximity, while temperatures maintain a pleasant bite, just above 58 degrees. As the afternoon wanes, that temperature may dip slightly, prompting one to consider adding a light layer for comfort.\n\nTonight, the atmosphere shifts to a quieter tone, with mostly clear skies blanketing the city and temperatures settling near 48. The lack of fog and the clarity of the air present an ideal backdrop for evening strolls along the waterfront or perhaps a modest gathering with friends at a local caf\u00e9. Such conditions invite a leisurely exploration of nearby parks or an unhurried visit to a favorite bookstore, where the warmth of a cozy beverage can enhance the experience. Dress in layers to adapt to the evening chill, and embrace the charm of this San Francisco day as dusk settles softly into the night.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-01-09 11:01:40"
+    "weather_report": "In Downtown San Francisco, the sun graces the city this afternoon, casting warm golden rays that dance across the rooftops and pierce through the still brisk air. Peering towards the Golden Gate Bridge and further northeast to the skyline, a clear blue sky stretches infinitely, devoid of the usual fog that often drapes the bay in a blanket of mist. The temperature hovers pleasantly, encouraging those wandering the streets to embrace light layers that can easily be shed as the sun sinks lower, giving way to a cooler evening.\n\nAs twilight approaches, the warmth will gently retreat, ushering in a crisp night with a soothing breeze. Those seeking evening endeavors might find joy in an unhurried stroll along the Embarcadero, where the lights of the city twinkle like stars against the darkening sky, or perhaps they might settle into a cozy caf\u00e9, savoring a warm drink. It's a perfect day to revel in the outward simplicity of the city\u2019s charm, where nature\u2019s clarity finds harmony with urban vibrancy.",
+    "color_code": "#4BAF4F",
+    "timestamp": "2025-01-09 12:01:44"
 }
