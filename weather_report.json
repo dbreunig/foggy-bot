@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-08T22:43:00+00:00",
-            "temperature_f": 60.656,
-            "temperature_c": 15.92,
+            "timestamp": "2025-01-09T01:43:00+00:00",
+            "temperature_f": 58.082,
+            "temperature_c": 14.49,
             "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-08T16:00:00-08:00",
-                "endTime": "2025-01-08T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 57 in the afternoon. West wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-08T18:00:00-08:00",
                 "endTime": "2025-01-09T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 48. West wind 3 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-01-09T06:00:00-08:00",
+                "endTime": "2025-01-09T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 58 in the afternoon. North northwest wind 5 to 9 mph."
             }
         ]
     },
-    "weather_report": "Downtown San Francisco basks in the waning light of a clear afternoon, enveloped by a serene clarity that accentuates the vibrant hues of the city. Although the temperature holds steady around the low sixties, a subtle chill creeps in as the sun begins its descent, dancing across the horizon. The gentle westerly breeze hums through the streets, a whisper of coastal freshness that reminds one of the nearby ocean's embrace. \n\nAs twilight approaches, the sky remains mostly clear, with a few strands of soft clouds stretching thinly against the blue canvas. There is no sign of the notorious fog that often cloaks the city; instead, the Golden Gate Bridge stands proud and undraped, while the glimmering bay reflects the last vestiges of daylight. For this evening, consider a light jacket to ward off the coolness, and perhaps find a cozy spot in one of the city\u2019s many cafes, where the warmth within offers a lovely counterpoint to the crisp air outside. A leisurely stroll along the waterfront, or even perusing the charming shops dotting the streets, will make for an enjoyable end to the day, a moment to savor the simplicity of life as the city transitions from day to night.",
-    "color_code": "#A8C8E4",
-    "timestamp": "2025-01-08 16:04:39"
+    "weather_report": "As night settles in over Downtown San Francisco, the sky reveals a mostly clear canvas, whispering promises of tranquility. The temperature will dip gently towards 48 degrees, accompanied by a delicate west wind that sways softly, a touch cool but inviting. The evening unfolds with a serene quality, suitable for a quiet stroll along the bay or savoring a warm cup of tea at a cozy caf\u00e9, where reflections of city lights dance in the windows, casting golden hues against the deepening blue of the twilight sky.\n\nTomorrow, the dawn will greet us with bright sunshine, wrapping the city in warmth as temperatures rise to a pleasant 61 degrees, tapering to around 58 by the afternoon. A lightweight sweater should suffice for the morning chill, transitioning seamlessly to a more casual ensemble for the day. The absence of fog, paired with crisp visibility, lends itself to numerous outdoor pursuits\u2014perhaps a leisurely visit to the waterfront or a jaunt through one of the city\u2019s picturesque parks, where the world awakens in vibrant colors and sounds, celebrating the spirit of the season's peaceful, yet invigorating embrace.",
+    "color_code": "#A0C4FF",
+    "timestamp": "2025-01-08 18:34:17"
 }
