@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-11T11:43:00+00:00",
-            "temperature_f": 48.794,
-            "temperature_c": 9.33,
-            "humidity": 100,
+            "timestamp": "2025-01-11T12:43:00+00:00",
+            "temperature_f": 49.244,
+            "temperature_c": 9.58,
+            "humidity": 93.99027320698,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-11T05:00:00-08:00",
-                "endTime": "2025-01-11T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 47. North wind around 15 mph, with gusts as high as 31 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2025-01-11T06:00:00-08:00",
                 "endTime": "2025-01-11T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 62, with temperatures falling to around 58 in the afternoon. North wind 16 to 20 mph, with gusts as high as 38 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-11T18:00:00-08:00",
+                "endTime": "2025-01-12T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "12 to 20 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear. Low around 47, with temperatures rising to around 49 overnight. North wind 12 to 20 mph, with gusts as high as 41 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, an invigorating chill fills the air, hinting at the day to come. Currently, the skies are mostly clear, illuminated by starlight, but there lingers a promise of warmth as the sun rises, preparing to light up the cityscape. But for now, the cool north wind whispers through the streets, carrying a brisk vitality that cuts through the stillness of early morning. Temperatures will linger near the mild 47 degrees, perfect fodder for a light jacket or a cozy scarf, ensuring warmth against the sharp breeze. \n\nAs the day unfolds, expect an inviting sunshine to shower the city in golden hues, particularly as you stroll through the vibrant neighborhoods and quiet parks. The forecast predicts a high near 62, gradually settling to a comfortable 58 in the afternoon, a perfect excuse to venture out for a mid-day escape. The winds will dance briskly, gusting up to 38 mph, but this merely enhances the invigorating atmosphere. Feels of warmth will emerge throughout the day, as the marine layer retreats, revealing the clarity of the day ahead. Such weather beckons a leisurely walk along the waterfront or a quiet moment at one of the city's charming caf\u00e9s, where one might enjoy a warm latte while gazing out at the glistening bay. Consider layering, perhaps donning a light sweater over your outfit, for as the sun dips, its delightful glow will also take the warmth with it.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-01-11 05:04:17"
+    "weather_report": "This morning in Downtown San Francisco unfolds serenely beneath a bright, sunlit sky. The promise of warmth lingers in the air, with temperatures expected to climb near sixty-two, though a gentle chill accompanies the north winds blowing briskly through city streets. As the day progresses, temperatures will gradually settle around fifty-eight, an invitation to relish the crispness without a hint of fog or encroaching marine layer obfuscating the iconic skyline.\n\nTonight, the clarity persists, transforming into a calming clear night with lows dipping around forty-seven. Light winds will keep the chill at bay, rising slightly in the early hours, presenting an ideal evening for a leisurely walk along the waterfront or perhaps a quiet sit in a cozy caf\u00e9, sipping something warm while the city settles into its nighttime rhythm. Layering is advisable today; a comfortable sweater paired with a light jacket will guard against the cool breeze, allowing you to fully embrace the charms of this vibrant urban scene. Whether you venture out to explore the art-laden streets or simply soak in the serene atmosphere, today\u2019s weather invites a peaceful and uncomplicated enjoyment of all that Downtown has to offer.",
+    "color_code": "#e0e0e0",
+    "timestamp": "2025-01-11 06:01:41"
 }
