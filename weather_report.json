@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-11T05:43:00+00:00",
-            "temperature_f": 52.25,
-            "temperature_c": 11.25,
-            "humidity": 85.980079863752,
+            "timestamp": "2025-01-11T06:43:00+00:00",
+            "temperature_f": 52.232,
+            "temperature_c": 11.24,
+            "humidity": 90.00286781081,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-01-10T23:00:00-08:00",
+                "name": "Overnight",
+                "startTime": "2025-01-11T00:00:00-08:00",
                 "endTime": "2025-01-11T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 47,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 14 mph",
+                "windSpeed": "1 to 15 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 47. North wind 5 to 14 mph."
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog before 1am. Mostly clear, with a low around 47. North wind 1 to 15 mph, with gusts as high as 31 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 20 mph",
+                "windSpeed": "16 to 20 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 58 in the afternoon. North wind 15 to 20 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 58 in the afternoon. North wind 16 to 20 mph, with gusts as high as 38 mph."
             }
         ]
     },
-    "weather_report": "As the evening deepens in Downtown San Francisco, the sky above is mostly clear, granting a view of a tranquil night, punctuated only by the soft murmur of the North wind gently sweeping through at 5 to 14 mph. The temperature dips to a refreshing 47 degrees, inviting a cozy layering of clothes\u2014perhaps a light jacket over a warm sweater\u2014perfect for braving the evening chill while strolling through the quiet streets or sipping a warm drink at a nearby caf\u00e9.\n\nCome Saturday, the sun is expected to grace the city, coaxing the temperatures up to a pleasant 62 degrees before retracing to 58 in the afternoon, under a bright and cheerful sky. The North wind will pick up a little, carrying whispers of higher gusts, adding a brisk edge to the day. With clear visibility promising stunning views, it is an ideal day for a leisurely walk or a leisurely brunch at an outdoor caf\u00e9, where one can bask in the warmth of the sun while enjoying heartwarming conversations. The peaceful clarity of the day encourages exploration; perhaps a visit to a local gallery or a meander through the historic streets of the neighborhood would be in order, ensuring the heart of the city is enjoyed to the fullest.",
-    "color_code": "#A7C9E8",
-    "timestamp": "2025-01-10 23:01:30"
+    "weather_report": "As dawn approaches in Downtown San Francisco, a veil of patchy fog lingers, slowly receding from its embrace of the night. While the air remains crisp, a gentle north wind whistles its way through the streets, sending shivers beneath the layers of evening wear. Currently resting at a cool 47 degrees, the city is poised for a transition as the sun mounts in the sky, promising a bright day with temperatures rising to about 62 degrees before softly sliding back to 58 in the afternoon. As the fog dissipates, the horizon will reveal the golden outlines of the Golden Gate Bridge, a visual serenade against the backdrop of this urban landscape.\n\nIn preparation for the day ahead, it would be wise to don a light jacket, perhaps even a cozy scarf, to ward off the post-dawn chill. The robust winds, gusting up to 38 mph, add a bite that lingers in the air. A leisurely stroll through the Presidio or a visit to one of the city\u2019s many cozy cafes could serve as perfect passages for the day, all while experiencing the gradual warming and clarity that the sun brings. The hustle of Saturday beckons, with opportunities both mundane and wonderful awaiting those who wish to savor the day.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-01-11 00:01:46"
 }
