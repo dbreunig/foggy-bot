@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-11T17:00:00-08:00",
-                "endTime": "2025-01-11T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/wind_skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 59 in the afternoon. North wind around 21 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-11T18:00:00-08:00",
+                "startTime": "2025-01-11T19:00:00-08:00",
                 "endTime": "2025-01-12T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/wind_skc?size=medium",
                 "shortForecast": "Clear",
                 "detailedForecast": "Clear, with a low around 49. North northeast wind 15 to 23 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-01-12T06:00:00-08:00",
+                "endTime": "2025-01-12T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 14 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 56 in the afternoon. North wind 3 to 14 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon treats us to a canvas of clear blue, the sun shining gently on a vibrant cityscape. Despite the chill that brushes against your skin, temperatures hover near a modest 62 degrees, before eventually settling around 59 as the day gives way to night. A brisk north wind whispers through the streets, offering a reminder of winter\u2019s grip with gusts that dance around 26 mph. Tonight, expect a tranquil clarity to envelop the city, the sky stretching wide as it deepens into a rich darkness, the low settling at a cool 49 degrees.\n\nWhile fog remains absent today, the marine inlet seems to stay benevolent, casting shadows rather than clouds. It is a splendid day to don a light sweater or a cozy jacket, perfect for an evening stroll along the Embarcadero, where the twinkling city lights reflect in the water. As the hour approaches evening, consider finding solace in one of the cozy cafes dotting the neighborhood or perhaps a quiet bench in a nearby park, allowing the serene atmosphere to wash over you. Such a day invites exploration without the clamor of summertime crowds, making it a lovely moment to savor San Francisco's intimacy, walking along the storied streets that cradle the essence of the city.",
-    "color_code": "#A2C2E8",
-    "timestamp": "2025-01-11 18:27:20"
+    "weather_report": "As night envelops Downtown San Francisco, the city faces a serene calm, punctuated only by the brisk northeast winds that send whispers through the streets. The air is crisp, with temperatures gently settling around the 49-degree mark, providing a refreshing embrace for those venturing outside. The absence of fog offers a clear view of the skyline, painting a tranquil picture perfect for a contemplative evening stroll along the waterfront or through the labyrinthine streets, where the city's character glimmers under the glow of streetlights.\n\nLooking to tomorrow, expect a sunlit dawn, ushering in a day of bright clarity with highs around 60 degrees, perfect for outdoor leisure. As afternoon arrives, temperatures will gracefully dip to about 56 as the sun begins its descent. The gentle caress of a light breeze will accompany any plans, making a light jacket or a cozy sweater a sensible companion. Embrace the day with casual adventures\u2014perhaps a visit to a local caf\u00e9, where the spirit of community thrives, or a leisurely exploration of one of the city\u2019s hidden parks, where warmth and radiance invite the soul to reflect.",
+    "color_code": "#F0E68C",
+    "timestamp": "2025-01-11 19:10:09"
 }
