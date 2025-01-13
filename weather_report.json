@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-13T17:43:00+00:00",
-            "temperature_f": 54.5,
-            "temperature_c": 12.5,
+            "timestamp": "2025-01-13T18:43:00+00:00",
+            "temperature_f": 56.641999999999996,
+            "temperature_c": 13.69,
             "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-01-13T11:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2025-01-13T12:00:00-08:00",
                 "endTime": "2025-01-13T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 12 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 57 in the afternoon. Northeast wind 2 to 12 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 58 in the afternoon. Northeast wind around 9 mph, with gusts as high as 18 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-01-13T18:00:00-08:00",
                 "endTime": "2025-01-14T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 45,
+                "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 45. South southwest wind 2 to 6 mph."
+                "windSpeed": "1 to 5 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 46. Southwest wind 1 to 5 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco today, the sun shines brightly, illuminating the city's iconic landscape with a clear, azure sky. The temperatures hover around a refreshing 60 degrees, gradually descending to a cooler 57 in the afternoon. A gentle northeastern breeze whispers through the streets, occasionally picking up strength with gusts that dance around 23 mph, bringing a crispness that hints at the coolness of the evening to come.\n\nAs twilight approaches, the atmosphere remains mostly clear, with a low settling at around 45 degrees, perfect for a peaceful evening stroll or perhaps a casual gathering with friends wrapped in light layers. With fog shying away from the horizon today, the allure of the city beckons for a variety of activities\u2014consider exploring the quiet charm of a neighborhood caf\u00e9, savoring a warm cup of coffee while watching the world pass by. Alternatively, take the opportunity to wander through the scenic parks that cradle the city, as the warmth of the day gives way to a tranquil dusk, ideal for reflection or quiet conversation.",
-    "color_code": "#88B04F",
-    "timestamp": "2025-01-13 11:01:48"
+    "weather_report": "In Downtown San Francisco, the afternoon unfolds under a sky of remarkable clarity, with the sun illuminating the cityscape in golden hues. Temperatures gently taper off from a high near sixty to a comfortable fifty-eight, accompanied by a light northeast breeze that whispers across the bay, occasionally stirring up playful gusts. The air is crisp and fresh, devoid of the usual fog that cloaks this vibrant metropolis; instead, it offers a rare vantage of the Golden Gate Bridge stretching majestically against the azure sky. \n\nAs evening approaches, the night promises to be equally inviting, with clear conditions allowing for stargazing as the temperature dips to a cozy forty-six. A light southwest wind brushes the air, adding to the serene ambiance of the city, making it an ideal time for leisurely strolls along the waterfront or enjoying an evening cup of coffee at a quaint caf\u00e9. For those venturing outdoors, light layers would suffice, perhaps a light sweater to ward off the cool evening breeze. This day invites a rare opportunity to bask in San Francisco's natural beauty, whether through a quiet walk, a moment of reflection on a park bench, or simply enjoying the fading daylight over the skyline.",
+    "color_code": "#A7C6E5",
+    "timestamp": "2025-01-13 12:02:04"
 }
