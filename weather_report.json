@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-16T23:43:00+00:00",
-            "temperature_f": 59.594,
-            "temperature_c": 15.33,
-            "humidity": 52.996355289288,
+            "timestamp": "2025-01-17T00:43:00+00:00",
+            "temperature_f": 57.757999999999996,
+            "temperature_c": 14.31,
+            "humidity": 53.019559193156,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-16T17:00:00-08:00",
-                "endTime": "2025-01-16T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 56 in the afternoon. West wind around 3 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-16T18:00:00-08:00",
                 "endTime": "2025-01-17T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 46. West southwest wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-01-17T06:00:00-08:00",
+                "endTime": "2025-01-17T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 55, with temperatures falling to around 52 in the afternoon. West southwest wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon sun graces Downtown San Francisco, it casts a warm, inviting glow over the coastal city, yet tinged with the crispness typical of January. Despite hints of coolness with temperatures dipping to the mid-50s, the air remains surprisingly buoyant, a gentle westward breeze almost imperceptible as it meanders through the streets. Clouds tease the horizon, swirling into soft formations that promise a night of partial clarity, while the bay's waters shimmer under the fading light, devoid of the usual veils of fog that can shroud the bridges and hills.\n\nAs twilight approaches, the temperature will retreat, settling around the 40s. One might consider a light jacket to fend off the evening chill, paired perhaps with a cozy scarf for a leisurely stroll down by the waterfront, where the soft sounds of waves lapping against the shore offer a serene backdrop. The waning daylight, laced with the promise of a tranquil night, suggests that a visit to a nearby caf\u00e9 or a quiet moment spent watching the stars emerge might be just the remedy for a winter's day.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-01-16 17:28:14"
+    "weather_report": "As night descends upon Downtown San Francisco, the air carries a chill that hints at the seasonal shift. The sky, a canvas of muted grays and deep blues, mirrors the promise of a calm yet somewhat brisk evening. A gentle breeze whispers through the trees, urging those who venture out to wrap themselves in warm layers, a comfortable sweater or a light jacket complementing the coolness that settles around 46 degrees. The city\u2019s glow sparkles, drawing you into its embrace, even as the evening sea fog lingers at the periphery, softening the outlines of the skyline.\n\nTomorrow hints at the return of sun-kissed rays, though with modest highs near 55 that gradually retreat as afternoon slips into evening. The atmosphere will remain lively yet subdued as cloud cover drifts sporadically, perhaps inviting those who savor the quiet to explore the nooks of local caf\u00e9s or wander through the illuminated streets adorned with the soft hum of urban life at dusk. Choose your path wisely\u2014strolling along the waterfront or finding solace in nondescript bookshops might offer moments of introspection on this pleasant yet slightly brisk day.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-01-16 18:20:11"
 }
