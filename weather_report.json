@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-18T12:43:00+00:00",
-            "temperature_f": 47.498,
-            "temperature_c": 8.61,
-            "humidity": 79.039991813379,
+            "timestamp": "2025-01-18T13:43:00+00:00",
+            "temperature_f": 47.156,
+            "temperature_c": 8.42,
+            "humidity": 80.007491449246,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-18T05:00:00-08:00",
-                "endTime": "2025-01-18T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 47. East wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-01-18T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2025-01-18T07:00:00-08:00",
                 "endTime": "2025-01-18T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 56, with temperatures falling to around 54 in the afternoon. North northeast wind 2 to 6 mph."
+                "windSpeed": "1 to 9 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Sunny",
+                "detailedForecast": "Patchy fog before 10am. Mostly sunny. High near 56, with temperatures falling to around 54 in the afternoon. North northwest wind 1 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-18T18:00:00-08:00",
+                "endTime": "2025-01-19T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 44. West northwest wind 3 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the dawn breaks over Downtown San Francisco, a veil of clouds drapes the city, hinting at an overnight chill that nudged temperatures down to a brisk 47. The morning presents itself with a patchwork of gray as the sun stretches its rays, yet the promise of a sunny Saturday is palpable. By afternoon, expect a gentle shift in warmth, with the temperature climbing to a comfortable 56, then settling back to a cool 54, as if the day wishes to tease us with warmth before retreating.\n\nFar from the cobwebs of fog usually associated with the bay, today offers clarity over the storied skyline, allowing for glimpses of iconic landmarks and the gentle whisper of the East wind. Dress in layers; a light jacket could shield you from the crisp morning air, while a cozy sweater may carry you comfortably through the afternoon. The day invites you outdoors\u2014perhaps a stroll along the Embarcadero, where the rhythm of the waves sets a serene backdrop. Or, you might find joy in securing a seat at a nearby caf\u00e9, watching the city wake and embrace another unfurling chapter of life in this dynamic hub.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-01-18 06:01:43"
+    "weather_report": "In the heart of Downtown San Francisco, the morning begins with an embrace of soft fog, retreating gently as the sun rises. A veil of mist lingers near the Golden Gate Bridge, hinting at a dance between the elements\u2014creeping and then dissipating in the warmth of a mostly sunny day. The air feels crisp and invigorating, with a cool north-northwest wind whispering through the streets, reminiscent of distant coastal seas. As the day unfolds, expect temperatures to linger around the mid-fifties, providing a refreshing balance that calls for layered attire\u2014a light sweater or jacket is prudent for the early hours, shedding outerwear as brightness peaks.\n\nAs evening approaches, the sky will shift to a partly cloudy canvas, settling into a tranquil ambiance around the low forties. This is a night made for gentle strolls along the Embarcadero or cozying up in a local caf\u00e9, where the aromas of freshly brewed coffee mingle with nighttime chatter. Given the mildness that accompanies today, it\u2019s an opportune moment to indulge in a leisurely walk to enjoy the ever-changing beauty of the skyline, or perhaps settle into a good book in a quiet nook of a bookstore. Whether exploring or unwinding, the day promises a serene yet vibrant experience in the city.",
+    "color_code": "#A5B0B5",
+    "timestamp": "2025-01-18 07:01:39"
 }
