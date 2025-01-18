@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-17T17:00:00-08:00",
-                "endTime": "2025-01-17T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 52, with temperatures falling to around 50 in the afternoon. West wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-17T18:00:00-08:00",
                 "endTime": "2025-01-18T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 47. West northwest wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-01-18T06:00:00-08:00",
+                "endTime": "2025-01-18T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 56, with temperatures falling to around 54 in the afternoon. North northeast wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As the sun dips gently over the horizon, the atmosphere of Downtown San Francisco is suffused with the soft embrace of a mostly cloudy evening. Though you may catch glimpses of sunshine earlier in the day, the pleasant tranquility is drawing to a close, and a light veil of gray is settling in. With temperatures lingering around the mid-forties, it's wise to reach for a cozy layer\u2014perhaps a light sweater or a jacket to ward off that creeping chill. The westward winds carry an understated breeze, whispering through the streets but doing little to disturb the calmness of the twilight.\n\nWhile the iconic silhouette of the Golden Gate Bridge remains partly obscured, the marine layer lingers, languidly draping across the bay and contributing to the dreamy, subdued aesthetic of the city. If you venture out, consider a simple stroll along the waterfront; the serenity of the evening beckons a moment of reflection or quiet conversation over a warm cup from a nearby caf\u00e9. There\u2019s no rush in the air, making it a perfect time to capture the beauty of dusk, allowing the developing night to unfold leisurely upon the city.",
-    "color_code": "#4B6E9E",
-    "timestamp": "2025-01-17 17:28:07"
+    "weather_report": "As nighttime envelops Downtown San Francisco, a cloak of clouds lingers overhead, bringing with it a coolness that seems to whisper secrets of the bay. The air is presently calm, with the soft caress of a gentle breeze maintaining just enough movement to keep things feeling fresh. The temperature is settling into the low 40s, inviting those out and about to layer up and embrace the cozy layers that the season affords.\n\nAs Saturday dawns, we are promised a delightful transformation. The sun will break through the murky shroud, peeking out with a promise of warmth that lingers lightly in the mid-50s. The afternoon will bring a slight fading in temperature, but the calm northern breeze will make for a serene backdrop. For those contemplating their plans, a jaunt through the local parks or a leisurely stroll along the waterfront could be the perfect way to savor this beautiful calm. A light jacket or a warm cardigan will suffice, but make sure to wear comfortable shoes\u2014there's beauty to be uncovered in the details of this magnificent city.",
+    "color_code": "#A5B5B5",
+    "timestamp": "2025-01-17 18:18:03"
 }
