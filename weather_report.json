@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-20T11:43:00+00:00",
-            "temperature_f": 45.176,
-            "temperature_c": 7.32,
-            "humidity": 88.040717728826,
+            "timestamp": "2025-01-20T12:43:00+00:00",
+            "temperature_f": 44.204,
+            "temperature_c": 6.78,
+            "humidity": 90.978230160754,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-20T05:00:00-08:00",
-                "endTime": "2025-01-20T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 44. North northeast wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "M.L. King Jr. Day",
                 "startTime": "2025-01-20T06:00:00-08:00",
                 "endTime": "2025-01-20T18:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 60, with temperatures falling to around 58 in the afternoon. Northeast wind 9 to 20 mph, with gusts as high as 24 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-20T18:00:00-08:00",
+                "endTime": "2025-01-21T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 9 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 44. East wind 2 to 9 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfurls over Downtown San Francisco, the city greets the day with a gentle, partly cloudy sky. Overnight temperatures dipped into the cool embrace of the low forties, but expect a gradual warming as the sun rises, casting its rays over the iconic skyline. While the morning carries a refreshing bite in the air, particularly with the gentle north-northeast breeze whispering at near ten miles per hour, it\u2019s poised to rise to a comfortable sixty degrees by midday. \n\nToday promises a sun-drenched afternoon, with the winds intensifying, potentially reaching gusts of up to twenty-four miles per hour. Although visibility appears largely unhindered, one can sense the remnants of a marine layer, clinging delicately to the horizon, perhaps suggesting a slight haze over the bay. Dress in layers, opting for light yet durable attire; a light jacket will keep the chill at bay while still allowing for comfort as the sun warms the air. This delightful, though brisk day invites leisurely strolls along the waterfront or quiet moments in one of the city\u2019s many parks, where the lush greenery meets artful architecture. It\u2019s an opportune day for savoring an outdoor caf\u00e9, sharing casual conversations, or losing oneself in a good book under the twinkling sun.",
-    "color_code": "#A3B0D8",
-    "timestamp": "2025-01-20 05:05:28"
+    "weather_report": "In Downtown San Francisco, the day begins under the gentle embrace of sunny skies, marking a lovely M.L. King Jr. Day. The temperatures, climbing to a pleasant 60 degrees, promise a reprieve from the cooler mornings, while a soft northeast breeze whispers through the city streets, giving a refreshing lift that hints at the change with each gust. The clarity of the air paints a stunning picture, offering expansive views and a treasured stability, free from the often-present dance of fog that drapes the bridges. While the evening beckons with its promise of clear skies and slightly cooler temperatures settling around 44 degrees, the horizon remains invitingly unobstructed.\n\nOne might choose light layers for today's outfit\u2014perhaps a comfortable long-sleeve shirt complemented by a light jacket\u2014perfect for adjusting to the warmth of midday and the coolness of nightfall. The day\u2019s serene atmosphere calls for leisurely endeavors. A stroll along the waterfront could uncover the soothing sounds of waves, or one might find solace in a quaint caf\u00e9, enjoying a hot beverage while watching the world saunter by. Whether sipping coffee or simply taking in the city's charm, this day offers a quiet yet delightful invitation to savor the beauty that envelops San Francisco.",
+    "color_code": "#A8D8E4",
+    "timestamp": "2025-01-20 06:01:54"
 }
