@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-19T17:00:00-08:00",
-                "endTime": "2025-01-19T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 49. West wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-19T18:00:00-08:00",
                 "endTime": "2025-01-20T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 44. Northwest wind 0 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "M.L. King Jr. Day",
+                "startTime": "2025-01-20T06:00:00-08:00",
+                "endTime": "2025-01-20T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 15 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 58 in the afternoon. Northeast wind 6 to 15 mph, with gusts as high as 32 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon light filters through the lingering essence of winter, Downtown San Francisco finds itself enshrined in a gentle brilliance, basking in a sunny disposition with temperatures edging close to the mid-forties. The air is crisp, the city streets echoing with the quiet hum of urban life, and while a light west wind stirs softly at nine miles per hour, it carries with it a sense of clarity that invites exploration. The forecast promises this clear spell will hold, transitioning into a cool night with a comfortable low around 44\u2014an evening perfect for a peaceful stroll along the Embarcadero as the sun takes its leave.\n\nThough the forecast gleams with clarity, whispers of the marine layer are always present along this coastline. Pockets of mist may still cling defiantly to the edges of the horizon, creating an ethereal balance to the otherwise vibrant scenery. Ideal attire for today encourages layers\u2014a light sweater beneath a jacket would serve well to fend off any evening chill, while comfortable shoes will support the wanderer, ready to embrace the charm of the city from rooftop viewings to cozy caf\u00e9s. This blend of sunshine and coolness invites you to take a quiet moment in one of the local parks, perhaps with a book or a warm beverage in hand, reflecting on the day's gentle peace as the city begins to shimmer under a blanket of stars.",
-    "color_code": "#A0B1C2",
-    "timestamp": "2025-01-19 17:28:24"
+    "weather_report": "This evening in Downtown San Francisco welcomes a blanket of mostly clear skies, inviting the cool tranquility of the night, with temperatures dipping to a brisk 44 degrees. A gentle northwestern breeze will waft through the streets, adding just a hint of freshness to the air. As the sun rises tomorrow, the promise of a sun-drenched M.L. King Jr. Day emerges, bringing warmth that will peak near 60. Yet, as the afternoon progresses, temperatures will subtly recede to a cooler 58, while the northeast winds begin to animate the day, likely rustling the palms along the waterfront.\n\nTonight, the visibility is notably clear, granting city-dwellers an unobstructed view of the starry heavens. As dawn breaks, the clarity will hold, providing an ideal setting for long walks along the Embarcadero or a leisurely caf\u00e9 visit in a sunlit spot. For appropriate attire, layering is advisable; a light jacket will serve well in the evening chill, but come midday, a simple long-sleeve top should suffice to enjoy the sun's embrace. These temperate conditions beckon a stroll through the city's vibrant neighborhoods, perhaps enjoying an art exhibit or savoring a quiet moment in Baker Beach\u2019s beauty as the sun casts its golden glow over the bay.",
+    "color_code": "#A6C1DA",
+    "timestamp": "2025-01-19 18:22:24"
 }
