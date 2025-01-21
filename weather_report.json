@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-21T00:43:00+00:00",
-            "temperature_f": 61.556000000000004,
-            "temperature_c": 16.42,
+            "timestamp": "2025-01-21T01:43:00+00:00",
+            "temperature_f": 59.18,
+            "temperature_c": 15.1,
             "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "M.L. King Jr. Day",
-                "startTime": "2025-01-20T17:00:00-08:00",
-                "endTime": "2025-01-20T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 58 in the afternoon. Northeast wind around 12 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-20T18:00:00-08:00",
+                "startTime": "2025-01-20T19:00:00-08:00",
                 "endTime": "2025-01-21T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
                 "detailedForecast": "Clear, with a low around 44. East wind 1 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-01-21T06:00:00-08:00",
+                "endTime": "2025-01-21T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 59, with temperatures falling to around 56 in the afternoon. North wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As the sun dips low over Downtown San Francisco, the day unfolds in a tableau of brilliant blue skies, unmarred by clouds or fog. The chill of the evening is just beginning to settle in, whispering along the streets with a crispness that heralds a drop in temperature. With the gentle push of a northeast wind, the air carries a refreshing clarity, enhancing the beauty of the iconic skyline. There are no shadows of the marine layer here; only the bright outline of the Golden Gate Bridge bridges the bay to the horizons beyond, inviting passersby to linger a moment longer.\n\nAs evening approaches, the temperature will ease down toward a cool embrace around 44 degrees. A light jacket or a cozy sweater will be the perfect accompaniment as the breeze dances with the air. A stroll along the waterfront, perhaps paired with the soft murmur of conversation at a local caf\u00e9, would make for a delightful way to enjoy this vibrant evening. Tonight holds the promise of stillness and serenity, perfect for winding down the day as the city hums gently with life.",
-    "color_code": "#90B7E8",
-    "timestamp": "2025-01-20 18:21:23"
+    "weather_report": "As the evening deepens in Downtown San Francisco, the city is cloaked in a serene clarity, with the night air crisp and cool, settling in around 44 degrees. A gentle east wind whispers through the streets, adding a touch of atmosphere to the evening. Tomorrow promises a golden embrace of sunshine, as the sun casts its warm rays down, reaching a mild high of 59. As afternoon approaches, an effortless transition to cooler temperatures will turn the day from bright to pleasantly mild.\n\nThe cityscape appears vibrant, with lights twinkling against the backdrop of the Bay. Tonight is devoid of fog; instead, a soft stillness prevails, creating an inviting environment for evening strolls or quiet moments spent at a cozy caf\u00e9. Layering in comfortable attire would suit this transitional weather well; perhaps a light sweater over a t-shirt, perfect for both warmth and mobility. It is an ideal time for a leisurely walk along the Embarcadero, or simply to enjoy the beauty of the bay, listening to the gentle lapping of waves against the shoreline amidst the fading sunlight and rising stars.",
+    "color_code": "#1E1E1E",
+    "timestamp": "2025-01-20 19:02:16"
 }
