@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-21T12:43:00+00:00",
-            "temperature_f": 44.582,
-            "temperature_c": 6.99,
-            "humidity": 69.052021406467,
+            "timestamp": "2025-01-21T13:43:00+00:00",
+            "temperature_f": 44.384,
+            "temperature_c": 6.88,
+            "humidity": 70.023769213483,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-21T05:00:00-08:00",
-                "endTime": "2025-01-21T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "1 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 44. East wind around 1 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2025-01-21T06:00:00-08:00",
                 "endTime": "2025-01-21T18:00:00-08:00",
                 "isDaytime": true,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "N",
+                "windSpeed": "3 to 12 mph",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 59, with temperatures falling to around 56 in the afternoon. North wind 2 to 6 mph."
+                "detailedForecast": "Sunny. High near 59, with temperatures falling to around 56 in the afternoon. North northwest wind 3 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-21T18:00:00-08:00",
+                "endTime": "2025-01-22T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "1 to 8 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 44. North wind 1 to 8 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a crisp clarity envelops the city, promising a day defined by sunshine. The air is cool, with the overnight chill settling into the corners of your jacket, but the gentle tug of warmth is imminent. The forecast suggests a high of 59, yet you might feel the temperature drop slightly as afternoon whispers of the impending dusk approach. A soft north wind rustles through the streets, barely disturbing the trees, adding a serene soundtrack to the morning.\n\nYou may notice that the marine layer has retreated, leaving behind a bright sky that invites you to explore. It\u2019s a fine day for a casual stroll around the Embarcadero or perhaps a quiet visit to a local caf\u00e9, where the fresh aroma of coffee mingles with the gentle chatter of early risers. Dressing in layers would suit you best\u2014think a cozy sweater with a light jacket for those cool breezes. This weather beckons for simple pleasures. Run your errands, chat with a friend, or find a spot to sit and soak in the warmth while watching the world bustle by. Embrace this tranquil moment; the day has just begun, and its possibilities are limitless.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-01-21 06:02:09"
+    "weather_report": "In Downtown San Francisco, the morning unfolds under a bright, sunny sky, casting a gentle radiance over the iconic skyline. The air is crisp yet inviting, a promising start to a day that will see temperatures gradually descend from the near 59 degrees to a comforting 56 by the afternoon. The breeze whispers softly, swirling through the streets at a mild pace, adding to the day's charm, making it an ideal moment for a stroll along the waterfront or through the city's vibrant neighborhoods. As the sun rises, it illuminates every corner, unveiling a landscape devoid of fog, with the Golden Gate Bridge standing proudly against the azure expanse.\n\nAs day transitions to evening, the skies will remain largely clear, with temperatures dipping to around 44 degrees, calling for light layers to embrace the cooler air. A sweater or light jacket would be wise attire for those venturing out for an evening walk, perhaps stopping by one of the local caf\u00e9s for a warm drink. The pleasant conditions beckon opportunities for exploration; consider a visit to a hidden garden or an outdoor art exhibit. With the serenity of the day\u2019s beginning and the promise of a tranquil evening, it is a splendid time to savor the beauty of this enchanting city.",
+    "color_code": "#A2C2D4",
+    "timestamp": "2025-01-21 07:02:11"
 }
