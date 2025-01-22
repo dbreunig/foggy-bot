@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-21T17:00:00-08:00",
-                "endTime": "2025-01-21T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 59, with temperatures falling to around 56 in the afternoon. North northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-21T18:00:00-08:00",
                 "endTime": "2025-01-22T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 43. North wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-01-22T06:00:00-08:00",
+                "endTime": "2025-01-22T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 57 in the afternoon. North northeast wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon sun casts a gentle glow over Downtown San Francisco, the city stands wrapped in a soft embrace of clarity, with temperatures nestled around a comfortable 56. The vibrant atmosphere seems to breathe with a soft north-northwest breeze, as distant views of the Golden Gate Bridge shimmer against the backdrop of a flawless blue sky. The marine layer has kept its distance today, leaving the air crisp and bright, inviting both locals and visitors to explore the city\u2019s hidden gems.\n\nAs daylight softly transitions into dusk, expect the subtle arrival of harmless clouds, offering a serene spectacle across the horizon. With a low of about 43 on the way tonight, it's wise to layer slightly for the evening stroll, perhaps opting for a light sweater. Given the delightful weather, you might find joy in wandering along the Embarcadero, stopping by a quaint caf\u00e9 for a warm beverage, or simply soaking in the tranquil views of the Bay. There\u2019s an unmistakable charm in this mild winter day, beckoning you to seize the moment with a gentle acknowledgment of nature's embrace.",
-    "color_code": "#A0C8E0",
-    "timestamp": "2025-01-21 17:28:47"
+    "weather_report": "As the twilight descends upon Downtown San Francisco, the atmosphere radiates a pleasant coolness, tempered by a gentle north wind that caresses the undulating hills. The current conditions suggest a tranquil evening, with partly cloudy skies giving way to twinkling stars above. With temperatures dipping to around 43 degrees, a cozy layer of attire is advisable\u2014consider a warm jacket complemented with a light scarf, evoking a sense of comfort as one strolls through the city's architectural wonder.\n\nAs dawn approaches, the promise of Wednesday brightens the horizon. The forecast hints at a sunny day, with delightful highs around 61 degrees, perfect for a mid-morning jaunt to one of the neighborhood caf\u00e9s, perhaps savoring a warm pastry while indulging in the morning's quiet bustle. The clarity of the day should be inviting, though one might observe remnants of the marine layer softening the edges of the Golden Gate; it\u2019s best to anticipate pockets of mist lingering along the waterfront. So, embrace the coolness of the morning, giving way to warmer afternoon rays that beckon one outdoors for a casual wander through the galleries or parks, all while the city breathes in its vibrant, unassuming charm.",
+    "color_code": "#4e5b7b",
+    "timestamp": "2025-01-21 18:23:05"
 }
