@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-22T20:43:00+00:00",
-            "temperature_f": 61.448,
-            "temperature_c": 16.36,
+            "timestamp": "2025-01-22T21:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
             "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -19,21 +19,21 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2025-01-22T14:00:00-08:00",
+                "startTime": "2025-01-22T15:00:00-08:00",
                 "endTime": "2025-01-22T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 65,
+                "temperature": 61,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
+                "windSpeed": "6 mph",
+                "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 58 in the afternoon. West wind around 7 mph."
+                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 58 in the afternoon. North northwest wind around 6 mph."
             },
             {
                 "number": 2,
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "3 to 7 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear. Low around 46, with temperatures rising to around 48 overnight. North wind 3 to 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear. Low around 46, with temperatures rising to around 48 overnight. North wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon unfolds with a serene clarity, as gentle sunshine bathes the streets. The high hovering around a comfortable 65 degrees carries a pleasant warmth, contrasting sweetly with the coolness of the air. Winds whisper softly from the west, creating a light breeze that flutters leaves and stirs the minds of those wandering outdoors. As the temperatures are set to ease into the late afternoon, expect a gradual descent to the mid-fifties, inviting you to savor the moment before evening draws its curtain.\n\nTonight will embrace the city in a patchwork of warmth and cool breezes, presenting a lovely opportunity for evening strolls under mostly clear skies. The low will settle comfortably at around 46 degrees, allowing for a cozy embrace of layers. Unfortunately, the infamous fog, so characteristic of this coastal region, seems to have held off for now, allowing for expansive views throughout the day. This clear weather encourages a spontaneous excursion to the waterfront or perhaps a quiet moment at a local caf\u00e9 sipping something warm. Consider dressing in breathable layers with a light jacket, perfect for the delightful transition as daylight gives way to dusk.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-01-22 14:01:39"
+    "weather_report": "As the sun casts a gentle glow over Downtown San Francisco this afternoon, the city basks in a rare clarity, adorned with soft blue skies. The air, though crisp, is remarkably pleasant, with temperatures sliding toward the mild embrace of the mid-50s\u2014a welcome reprieve from the chill of winter's grip. The light north-northwest breeze whispers through the streets, a subtle reminder of the ocean's proximity, but for now, the fog forsakes its usual haunt, leaving landmarks like the Golden Gate Bridge cradled in unclouded brightness.\n\nAs evening approaches, the sky will transform into a tapestry of stars, inviting a tranquil descent into cooler nighttime temperatures. Under these conditions, a light jacket or cozy layer would be prudent, ensuring warmth against the brisk air as one enjoys an evening stroll through the city or perhaps a quiet moment at a local caf\u00e9. The clarity beckons to those who appreciate simple pleasures\u2014a meandering walk along the Embarcadero, a visit to a bookstore, or simply pausing to take in the views as twilight settles gently into the cityscape.",
+    "color_code": "#A3C3D3",
+    "timestamp": "2025-01-22 15:01:42"
 }
