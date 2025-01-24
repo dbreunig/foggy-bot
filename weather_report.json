@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-24T00:43:00+00:00",
-            "temperature_f": 63.35600000000001,
-            "temperature_c": 17.42,
-            "humidity": null,
+            "timestamp": "2025-01-24T01:43:00+00:00",
+            "temperature_f": 60.943999999999996,
+            "temperature_c": 16.08,
+            "humidity": 32.01975665265,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-23T17:00:00-08:00",
-                "endTime": "2025-01-23T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 60 in the afternoon. North wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-23T18:00:00-08:00",
+                "startTime": "2025-01-23T19:00:00-08:00",
                 "endTime": "2025-01-24T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
                 "detailedForecast": "Clear, with a low around 46. North northeast wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-01-24T06:00:00-08:00",
+                "endTime": "2025-01-24T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 59, with temperatures falling to around 55 in the afternoon. North northwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "Evening descends upon Downtown San Francisco with a serene clarity settling over the skyline. The fading light gracefully outlines the iconic structures against a soothing backdrop, the air feeling crisp after a day embraced by sunshine. The forecast holds promise, with temperatures gently giving way from the higher whisperings of the afternoon down to a comfortable coolness that nudges into the evening. No fog drapes the city tonight, and the golden hues of twilight morph seamlessly into the tranquil darkness, allowing the urban glitter to shimmer brightly beneath the stars.\n\nClad in layers, one might find comfort in light sweaters or jackets that shield against the gentle north winds, while still allowing for the warmth of the day to linger. A stroll along the Embarcadero could be particularly inviting, as couples and solitary wanderers savor the fresh air and the calming lull of the bay. Alternatively, a cozy caf\u00e9 beckons; the perfect spot to indulge in a warm drink while gazing at the twinkling lights that dot the horizon. As the evening unfolds, let the city capture your senses, offering a moment of peace amid the vibrant pulse of life.",
-    "color_code": "#4B9CD3",
-    "timestamp": "2025-01-23 18:21:15"
+    "weather_report": "In the heart of Downtown San Francisco, the night sky unfolds a tranquil tapestry of clarity, interspersed only by the soft shimmer of distant city lights. The chill of the evening air creeps in, a gentle reminder of the season, with temperatures softly settling into the low forties. A light, north northeast breeze finds its way through the streets, carrying hints of the ocean, yet there is no marine layer to obscure the city\u2019s charm tonight. The golden light from the bridge glimmers, reaching out across the bay, offering a warm contrast to the cooling air.\n\nAs dawn approaches on Friday, expect a gradual unveiling of the sun, casting its gentle rays over the cityscape. The pleasant daylight will beckon those who appreciate the quiet beauty of a mostly sunny day, perfect for exploring the corners of your neighborhood or indulging in a leisurely coffee at a local caf\u00e9. Consider layering up in a light sweater or a denim jacket, ideal attire for both the warm midday sun and the crisp morning air. It\u2019s a splendid day for quiet walks along the Embarcadero or perhaps a visit to one of the city\u2019s storied parks, while wrapping yourself in the simple pleasures that San Francisco offers.",
+    "color_code": "#BAC3C5",
+    "timestamp": "2025-01-23 19:02:42"
 }
