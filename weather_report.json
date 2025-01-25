@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-25T18:43:00+00:00",
-            "temperature_f": 52.232,
-            "temperature_c": 11.24,
-            "humidity": 62.991186229795,
+            "timestamp": "2025-01-25T19:43:00+00:00",
+            "temperature_f": 55.471999999999994,
+            "temperature_c": 13.04,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2025-01-25T12:00:00-08:00",
+                "startTime": "2025-01-25T13:00:00-08:00",
                 "endTime": "2025-01-25T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 30
                 },
-                "windSpeed": "7 to 10 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Partly sunny. High near 54, with temperatures falling to around 52 in the afternoon. North wind 7 to 10 mph. Chance of precipitation is 50%."
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 54. North northeast wind 7 to 13 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-01-25T18:00:00-08:00",
                 "endTime": "2025-01-26T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 43,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 30
                 },
-                "windSpeed": "7 to 13 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 43. North northeast wind 7 to 13 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "9 to 15 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Partly cloudy. Low around 44, with temperatures rising to around 46 overnight. Northeast wind 9 to 15 mph, with gusts as high as 18 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "A glimpse at Downtown San Francisco shows a day that dances somewhere between briskness and a gentle tease of sunshine. As the afternoon sun struggles to pierce through the clouds, a chance of rain looms, wrapping the air in a cool embrace. Temperatures are playing a shy game\u2014hovering around 54 but drifting lower as the clouds gather and the wind blows gently from the north. The promise of rain hangs alongside the partly sunny patches, leaving those wandering the streets to feel an invigorating mix of anticipation and chill. \n\nAs evening draws near, the cloud cover thickens, and the wind picks up, whispering of potential showers that may fall softly, barely dampening the vibrant energy of the city. Those planning to venture outdoors would do well to don layers\u2014perhaps a light sweater paired with a windbreaker to combat the cooler breeze. A stroll through one of the city\u2019s many parks could be a delightful reprieve, or perhaps a warm cup of coffee enjoyed at a local caf\u00e9 by the window, where the splashes of rain can be admired without getting wet. The day\u2019s charm is colored with the ever-changing moods of the sky, urging you to find beauty in both sun and shadow.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2025-01-25 12:01:23"
+    "weather_report": "As the afternoon unfolds in Downtown San Francisco, a soft dance of clouds curtains the sky\u2014remnants of a day that's neither grim nor entirely inviting. The gentle breeze carries with it whispers of potential rain, yet the sun peeks intermittently, hinting at the stillness beneath the surface chill. The high temperature settles delicately near fifty-four, just warm enough to evoke optimism amidst a lingering bite in the air. Visibility seems generous, but the horizon wears a gauzy veil; it\u2019s not quite fog, but a marine layer gently nudging its way in, reminding us how close we sit to the swirling embrace of the Pacific.\n\nAs twilight rolls in, temperatures will drop, inviting the cozy layers of jackets or cardigans\u2014perhaps a scarf for good measure as the night deepens. The sense of intimacy in the cool air draws one towards the comforting eateries lining the streets, perhaps a local caf\u00e9 to retreat into with a warm cup, or a bookstore where the flickering of pages offers escape from the gathering clouds. The evening holds promise, a tender calm in the midst of uncertainty, making it an ideal time to explore the lingering warmth of community before the night settles fully with its chances of scattered showers.",
+    "color_code": "#B0C4D3",
+    "timestamp": "2025-01-25 13:01:33"
 }
