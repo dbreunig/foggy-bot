@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-25T11:43:00+00:00",
-            "temperature_f": 50.324,
-            "temperature_c": 10.18,
-            "humidity": 79.108611160335,
+            "timestamp": "2025-01-25T12:43:00+00:00",
+            "temperature_f": 48.326,
+            "temperature_c": 9.07,
+            "humidity": 92.007316342528,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-25T05:00:00-08:00",
-                "endTime": "2025-01-25T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 45. Southeast wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2025-01-25T06:00:00-08:00",
                 "endTime": "2025-01-25T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,50?size=medium",
                 "shortForecast": "Chance Light Rain",
                 "detailedForecast": "A chance of rain after 10am. Mostly sunny. High near 54, with temperatures falling to around 52 in the afternoon. Northeast wind 6 to 10 mph. Chance of precipitation is 50%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-25T18:00:00-08:00",
+                "endTime": "2025-01-26T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 50
+                },
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,50/rain,40?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 43. North northeast wind 7 to 13 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the city remains wrapped in a gentle embrace of clouds, a subtle veil that speaks to the lingering chill of winter mornings. Currently resting at 45 degrees, the air possesses a crisp freshness, ushering in the promise of a day that will oscillate between sunny clarity and the potential for light rain after the late morning. This interplay between sun and cloud hints at a rather moody landscape, where the silhouettes of the iconic skyline meld with the soft hues of a faded horizon.\n\nAs the hours unfold and the sun ascends, fleeting glimpses of brightness are expected to counterbalance the more somber elements of the morning. The breeze, a soft whisper from the northeast, carries with it both a hint of moisture and the allure of exploration. By afternoon, temperatures are likely to hover around 52 degrees, and attire that balances warmth with comfort\u2014perhaps a layered sweater over a breathable tee\u2014would suit both the spirited wanderer and the casual stroller alike. The chance of rain lingers at 50%, suggesting that while umbrellas might remain tucked away, a light jacket should not be forgotten.\n\nToday invites a leisurely stroll along the waterfront or a visit to one of the many cozy caf\u00e9s dotting the streets, where one can savor a warm beverage and watch the rhythms of city life unfold against a backdrop of ever-shifting skies. The marine layer, starting to lift, might create moments where one catches a glimpse of the stunning Golden Gate Bridge, partially obscured yet hauntingly beautiful. And so, with a day that oscillates between promise and character, San Francisco beckons to those who enjoy its unpredictable charm\u2014an invitation to embrace the unique beauty of a city that thrives in the embrace of fog and sun alike.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-01-25 05:03:22"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the skies tease with a soft interplay of sunlight and clouds. The forecast hints at a chance of rain later in the day, yet for now, the city basks in a moment of mostly sunny disposition, inviting the light to cascade across its iconic landscape. The air is crisp, carrying a gentle but noticeable chill, especially in the early morning hours before the warmth of the sun starts to truly linger. A subtle northeast wind stirs, rustling leaves and offering a reminder of the vibrant alive city.\n\nAs the day unfolds, temperatures are expected to meander around the low fifties, dipping slightly into the afternoon\u2014a whisper of chill for those unprepared. For those venturing outside, a layered ensemble would provide comfort; a light jacket is advisable, perhaps over a woolen sweater, allowing one to embrace the moderate temperatures while anticipating the potential dampness. The trees sway lightly, and although the clouds gather ominously at times, the collective energy of the city pulses with promise. Those eager to enjoy the day might stroll along the Embarcadero or explore the engaging community of the Mission, all while keeping an eye out for the marine layer making its slow encroachment, reminding us that San Francisco weather can shift as unpredictably as life itself.",
+    "color_code": "#A9C5C6",
+    "timestamp": "2025-01-25 06:01:36"
 }
