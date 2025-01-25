@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-25T05:43:00+00:00",
-            "temperature_f": 50.504,
-            "temperature_c": 10.28,
-            "humidity": 85.996832540051,
+            "timestamp": "2025-01-25T06:43:00+00:00",
+            "temperature_f": 51.044,
+            "temperature_c": 10.58,
+            "humidity": 80.973673806631,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-01-24T23:00:00-08:00",
+                "name": "Overnight",
+                "startTime": "2025-01-25T00:00:00-08:00",
                 "endTime": "2025-01-25T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 45,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "5 to 9 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 45. South southwest wind 5 to 9 mph."
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 45. South wind 5 to 9 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-01-25T06:00:00-08:00",
                 "endTime": "2025-01-25T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 55,
+                "temperature": 54,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 50
                 },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,40?size=medium",
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,50?size=medium",
                 "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 10am. Mostly sunny. High near 55, with temperatures falling to around 53 in the afternoon. North northeast wind 5 to 10 mph. Chance of precipitation is 40%."
+                "detailedForecast": "A chance of rain after 10am. Mostly sunny. High near 54, with temperatures falling to around 52 in the afternoon. Northeast wind 6 to 10 mph. Chance of precipitation is 50%."
             }
         ]
     },
-    "weather_report": "As the night wraps its cool embrace around Downtown San Francisco, the air is crisp and tinged with the promise of a serene evening punctuated by scattered clouds. With the temperature dipping to a gentle 45 degrees, a light breeze from the south southwest stirs, whispering through the streets in a tender caress. It is a peaceful moment, perfect for a contemplative stroll along the waterfront or perhaps a quiet corner caf\u00e9, where the soft hum of conversation may mingle with the aromas of freshly brewed coffee.\n\nLooking ahead to tomorrow, the sun plans a modest appearance, battling its way through clouds to grace us with brief intervals of warmth. Expect a chance of rain after 10 AM, but until then, the forecast teeters between sunny patches and a gathering chill, with afternoon temperatures settling around 53 degrees. It might be prudent to dress in layers, donning a light jacket to guard against the coolness, leaving room for a sweater should temperatures dip unexpectedly. \n\nWhile fog has not yet rolled in to veil the familiar skyline, a delicate marine layer might tease the horizon in the coming hours. The city, often cloaked in its characteristic mist, offers a curious blend of moods\u2014some parts basking in the sunlight while others remain caught in a dance of shadows and light. This is a day best suited for exploration: visit the local galleries now free of crowds, or embrace a leisurely afternoon in Golden Gate Park, watching as the clouds drift lazily overhead.",
-    "color_code": "#d3d3d3",
-    "timestamp": "2025-01-24 23:01:36"
+    "weather_report": "In the stillness of the night, Downtown San Francisco glimmers beneath a blanket of cloud, its contours softened and muted by an air that holds the promise of rain. As the temperature rests gently around 45 degrees, a light wind stirs, carrying whispers of moisture and coolness. The dawn will invite a dance of weather; a hint of sunshine will appear, leading to a possibility of rain after ten o\u2019clock. The high will linger around 54 degrees, easing into a slightly chillier afternoon, a subtle reminder of the ocean\u2019s influence.\n\nThe morning may dawn clear yet fleetingly, only for clouds to reclaim the stage as the day unfolds. With a 50% chance of precipitation looming, one might consider an umbrella or light layers\u2014a clever nod to the fickle nature of the season. The scenery may seem melancholic yet romantic, perfect for a quiet stroll along the Embarcadero or a cozy moment spent in a caf\u00e9, watching the world shift through filtered light. As the temperatures dip, the city will beckon for stopovers; perhaps a visit to the galleries of Fort Mason or a contemplative walk among the trees of Golden Gate Park, where the promise of rain nourishes the greenery and the fog blankets everything in a soft embrace.",
+    "color_code": "#708090",
+    "timestamp": "2025-01-25 00:01:41"
 }
