@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-26T00:43:00+00:00",
-            "temperature_f": 52.304,
-            "temperature_c": 11.28,
-            "humidity": 63.000469682553,
+            "timestamp": "2025-01-26T01:43:00+00:00",
+            "temperature_f": 51.764,
+            "temperature_c": 10.98,
+            "humidity": 65.261429967777,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-25T17:00:00-08:00",
-                "endTime": "2025-01-25T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 54. North wind around 13 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-25T18:00:00-08:00",
                 "endTime": "2025-01-26T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium",
                 "shortForecast": "Chance Rain Showers",
                 "detailedForecast": "A chance of rain showers. Partly cloudy. Low around 44, with temperatures rising to around 46 overnight. Northeast wind 9 to 15 mph, with gusts as high as 18 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-01-26T06:00:00-08:00",
+                "endTime": "2025-01-26T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "9 to 18 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers before 4pm. Mostly sunny. High near 56, with temperatures falling to around 54 in the afternoon. Northeast wind 9 to 18 mph, with gusts as high as 24 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the air carries a chill, hinting at the approaching evening, where the whispers of rain showers dance lightly over the landscape. The day has offered a mix of patchy sunshine and cloud cover, contributing to a somewhat muted palette of grays and soft blues, as the sun retreats behind the horizon. While visibility remains adequate, the moisture in the atmosphere creates a subtle haziness that might veil the outline of the Golden Gate Bridge, hanging in the distance like a gentle echo of fog.\n\nAs we transition into the evening, temperatures will settle into a cool embrace, rising only slightly as the night rolls in. The promise of rain lingers, with a 30% chance that could turn the pavement slick, painting patterns of reflective light. It\u2019s a moment to adorn oneself with layers\u2014perhaps a lightweight jacket and a scarf, to ward off the dampness without feeling weighed down. The city hums with possibility; the nearly deserted streets invite a calming stroll or perhaps an exploration of local caf\u00e9s, where the warmth of a steaming drink can counter the cool breath of the sea. Embrace the evening with quietude, allowing the city's urban rhythm to unfold softly around you, as shadows play along the cobblestones.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-01-25 18:23:00"
+    "weather_report": "As twilight settles over Downtown San Francisco, a soft haze clings to the air, hinting at the coming rain. Tonight's forecast whispers of light showers, brushing against the city with a gentle promise of moisture. The temperature lingers around a cool 44 degrees, gradually nudging up to a mild 46 overnight, all the while a northeast wind dances through the streets at a brisk pace, stirring a sense of anticipation in the atmosphere. \n\nLooking ahead to Sunday, there is a tentative hope for blue skies as the day unfolds, yet don\u2019t grow too comfortable\u2014shower possibilities remain until the afternoon. As the sun rises, it might illuminate the city in splashes of errant light, elevating spirits with a high near 56, before tapering off as the day progresses. The northeast winds may pick up, creating a fresh, almost invigorating feel as they gust through at up to 24 mph. For those venturing out, layered clothing accompanied by an umbrella would serve well against the unpredictable charm of December\u2019s whims. While the marine layer may obscure some views, the promise of sunshine invites strolls along less crowded streets or perhaps settling into a cozy nook at a local caf\u00e9, watching the world outside shift with the weather.",
+    "color_code": "#A6A8AB",
+    "timestamp": "2025-01-25 19:03:16"
 }
