@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-27T17:00:00-08:00",
-                "endTime": "2025-01-27T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 57, with temperatures falling to around 55 in the afternoon. West wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-27T18:00:00-08:00",
                 "endTime": "2025-01-28T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 42. South southwest wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-01-28T06:00:00-08:00",
+                "endTime": "2025-01-28T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "ENE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 56, with temperatures falling to around 53 in the afternoon. East northeast wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "The afternoon sun bathes Downtown San Francisco in a gentle warmth, as the high drifts just a touch below 57 degrees. The sky stretches out, clear and inviting, promising a few hours of golden light before it succumbs to dusk. A soft breeze whispers from the west at just six miles per hour, creating a comforting ambiance for wandering through the city\u2019s myriad streets. You might find the Golden Gate Bridge standing tall against the backdrop of a blue sky, hinting at the beauty this city continues to offer even as day transitions to night.\n\nAs evening approaches, the temperatures will settle around 42 degrees, accompanied by a calm, south-southwest wind. The clarity of the sky mirrors the serene beauty of a gentle twilight, devoid of fog or the characteristic marine layer often associated with coastal locales. It is a night inviting you to wrap on a light jacket or sweater, perhaps allowing for a leisurely stroll along the Embarcadero or a quiet visit to one of the cozy caf\u00e9s. Consider gathering with friends for a cup of coffee, enjoying the simple pleasure of conversation under the emerging stars, as the city quietly pulses with life, hinting at the stories yet to unfold.",
-    "color_code": "#A2BFFF",
-    "timestamp": "2025-01-27 17:28:21"
+    "weather_report": "As the evening envelops Downtown San Francisco, the sky remains mostly clear, granting a serene haze to the city. With temperatures dipping down to a cool 42 degrees, a gentle breeze whispered through the streets, creating a refreshing contrast against the warmth of a cozy indoor retreat. The day ahead promises sunshine, but the air feels crisp with anticipation, hinting that the sun\u2019s ascent will only bring a modest high near 56 degrees, giving way to a cooling charm by afternoon. \n\nThe evening twilight bathes the landscape in soft shadows, with hints of marine fog lingering just beyond the familiar skyline. The cycle of day and night is evident in the way the city lights twinkle like stars that have found their way to Earth, momentarily overshadowing the chill of the night. This is a perfect moment for a leisurely stroll, perhaps along the Embarcadero or through the winding streets of the Mission, where the aroma of roasted coffee mingles with the cool air. As the weather suggests relishing the outdoors, a light jacket would serve well against the evening's crispness, maintaining warmth while allowing one to savor the sensations that a San Francisco night effortlessly brings.",
+    "color_code": "#1A1A1A",
+    "timestamp": "2025-01-27 18:20:47"
 }
