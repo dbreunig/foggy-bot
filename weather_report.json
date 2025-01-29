@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-29T12:43:00+00:00",
-            "temperature_f": 49.370000000000005,
-            "temperature_c": 9.65,
-            "humidity": 76.029805164698,
+            "timestamp": "2025-01-29T13:43:00+00:00",
+            "temperature_f": 49.55,
+            "temperature_c": 9.75,
+            "humidity": 75.000102729029,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-29T05:00:00-08:00",
-                "endTime": "2025-01-29T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 45. West southwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-01-29T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2025-01-29T07:00:00-08:00",
                 "endTime": "2025-01-29T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny. High near 54, with temperatures falling to around 51 in the afternoon. West southwest wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-29T18:00:00-08:00",
+                "endTime": "2025-01-30T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 45. West wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "In the early hours of Wednesday morning, Downtown San Francisco awakens beneath a shroud of mostly cloudy skies, with a gentle chill in the air that lingers like a soft whisper. The temperature sits comfortably around 45, and the whispers of the west-southwest wind barely rustle the hair, coming in at a languid pace of just a few miles per hour. As the sun rises, expect a transition to partly sunny skies, though mid-afternoon may usher in a cool retreat to around 51 degrees, as the playful sun dips and sways behind the gathering clouds.\n\nThe day is not so much saturated with fog as it is sprinkled with the remnants of the marine layer, which tucks itself into the nooks and crannies of the bay. The tops of the hills and the famous Golden Gate Bridge may find themselves veiled in a mysterious haze, becoming a canvas for the soft strokes of the clouds conspiring overhead. Wardrobe choices should lean towards layers\u2014perhaps a light sweater over a long-sleeved shirt\u2014alongside a comfortable pair of shoes for ambulating around the city\u2019s cobblestone paths and steep streets. This is a day suited for strolls through the quiet corridors of lesser-known parks or perusing art galleries showcasing local talent. Engage with a bookstore\u2019s solitude or sip a warm drink at a caf\u00e9, where you can watch the world embrace yet another unique San Francisco moment.",
-    "color_code": "#A7C3D7",
-    "timestamp": "2025-01-29 06:01:46"
+    "weather_report": "In the gentle embrace of a San Francisco morning, the city awakens under a partly sunny sky, although the sun\u2019s efforts are tempered by a modest chill. Temperatures are poised to reach a maximum of around 54 degrees, fading to a cooler 51 by afternoon, as the west-southwest winds whisper softly between 2 to 6 mph. However, a blanket of clouds wraps the skyline, hinting at the ever-looming marine layer\u2014the intermingling tendrils of fog that tease the edges of the Golden Gate. Visibility might not be crystal clear, as the horizon blends into a muted palette of greys, softening the lines of the city\u2019s iconic silhouette.\n\nAs the day unfolds, it may be wise to don a light jacket, perhaps paired with a cozy scarf, perfect for these cool temperatures. The early hours lend themselves to wandering among the quiet streets or perhaps enjoying a leisurely stroll along the waterfront as the city slowly rouses itself. The muted light and fresh breeze invite an exploration of your favorite local caf\u00e9, a chance to savor a warm drink while watching the world go by. Today is best suited for reflective moments rather than grand adventures, offering the unique charm that Downtown San Francisco always promises, wrapped in its enigmatic fog.",
+    "color_code": "#A0B2C8",
+    "timestamp": "2025-01-29 07:01:48"
 }
