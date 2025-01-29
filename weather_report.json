@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-28T17:00:00-08:00",
-                "endTime": "2025-01-28T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 55, with temperatures falling to around 52 in the afternoon. West wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-28T18:00:00-08:00",
                 "endTime": "2025-01-29T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 45. West southwest wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-01-29T06:00:00-08:00",
+                "endTime": "2025-01-29T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 54, with temperatures falling to around 51 in the afternoon. West southwest wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "As the day unfolds in Downtown San Francisco, a gentle, sunlit afternoon greets the city, where temperatures hover around 55 degrees, offering a refreshing chill that tempers the warmth of the midday sun. The skies are mostly clear, a canvas painted with soft hues of blue, though hints of a lingering marine layer can be detected just offshore, hovering lazily near the Golden Gate, suggesting that the evening may bring a whisper of clouds. The tranquility of this moment invites a serene walk along the waterfront, perhaps a stroll past the lively piers where the echoes of laughter mingle with the gentle sound of the waves lapping against the shore.\n\nAs evening approaches, the temperature will dip to around 45 degrees, making a light jacket advisable for those venturing out. A brisk stroll through the neighborhood will reveal the city's charm, with cozy cafes beckoning for a quiet cup of coffee or maybe a light bite. The west southwest wind, a soft companion at 3 to 7 miles per hour, brushes through the streets, carrying with it the scents of the bay and the crispy promise of nightfall. Tonight, the city will glow beneath the stars, embodying both vibrancy and tranquility, inviting you to pause and simply exist in its delightful embrace.",
-    "color_code": "#A8C8E2",
-    "timestamp": "2025-01-28 17:28:18"
+    "weather_report": "As evening deepens over Downtown San Francisco, the sky wears a gauzy veil of clouds, whispering hints of the crisp air that wraps the city in an embrace of tranquility. The murmur of the wind is gentle, carrying with it an invitation to step outside and breathe in the bracing scent of impending fog rolling in from the ocean. With temperatures settling into the lower forties, this is the time for layers\u2014perhaps a lightweight sweater beneath a thicker coat, comfortable enough to stroll down the streets, yet snug against the chill of the bay.\n\nThe conditions promise a day that straddles the line of luminosity and somber gray. Cloud coverage will dance with intermittent bursts of sunshine, especially as the morning melts into the afternoon, while temperatures hover in the mid-fifties. However, the romantic interlude of fog will weave its way through the buildings and streets, particularly towards the coast, painting the iconic skyline in muted tones of gray and white. As the day unfolds, the elegance of a walk along the Embarcadero, perhaps stopping for a warm drink at one of the cozy cafes, could be the sort of mundane indulgence the spirit craves on a day like this. Engaging with the city\u2019s rich patchwork of life\u2014immersed in a book at a quiet corner or simply gazing across the bay\u2014feels particularly right amidst the serene embrace of the fog.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-01-28 18:20:32"
 }
