@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-29T17:00:00-08:00",
-                "endTime": "2025-01-29T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 54, with temperatures falling to around 51 in the afternoon. West wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-29T18:00:00-08:00",
                 "endTime": "2025-01-30T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 45. West wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-01-30T06:00:00-08:00",
+                "endTime": "2025-01-30T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 53. West southwest wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "Downtown San Francisco is basking in a mostly sunny afternoon that whispers of clarity amid the chill. As daylight fades beyond the horizon, temperatures hover around a crisp 54 degrees, gradually dipping towards 51 as the sun's rays retreat. The light westerly breeze dances at around six miles per hour, further emphasizing the coolness in the air. The city skyline stands proud under a backdrop of blue, yet the emerging clouds forecast a gentle wrap of gray for the night ahead, with temperatures expected to drop to a slightly cooler 45 degrees.\n\nThe clarity of the day contrasts intriguingly with the ever-present marine layer that lingers just off the coast, a subtle reminder of San Francisco's unique climate. While there might be patches of fog lingering over the Golden Gate, the atmosphere remains surprisingly pleasant for an evening stroll or a quiet cup of coffee at a local caf\u00e9. As the evening unfolds, a light jacket or a cozy sweater would serve well against the cooling temps. Potential activities could include leisurely exploring the eclectic shops of North Beach or simply enjoying the comforting ambiance of a nearby library, surrounded by good books and warm teas.",
+    "weather_report": "As dusk settles over Downtown San Francisco, the cool embrace of the evening begins, aligning with the weather forecast, which hints at a mostly cloudy night ahead with temperatures dipping into the mid-forties. The city skyline, cloaked in a soft haze, quietly reinforces the forecast of a gentle marine layer lingering near the Golden Gate, while the wind, a mere whisper from the west, carries the scent of damp earth and salt. A low visibility hints at the presence of fog creeping in, particularly along the bay, where the waters blend seamlessly into the muted gray sky, veiling the outlines of distant structures.\n\nTomorrow promises a hint of brightness as the sun wrestles with the clouds, set to emerge partially in a high of about fifty-three degrees. The conditions will invite you to don a light jacket layered over a long-sleeve shirt and perhaps a scarf\u2014perfect for those who plan to stroll along the waterfront or nurture a quiet spot in a local caf\u00e9. Given the atmospheric charm of the day ahead, consider a visit to a nearby park, where the embrace of the trees will make even the cool air feel inviting, or perhaps a leisurely exploration of local galleries, allowing for inspiration amid the gentle swirl of creativity that San Francisco embodies.",
     "color_code": "#B0C4DE",
-    "timestamp": "2025-01-29 17:28:11"
+    "timestamp": "2025-01-29 18:19:44"
 }
