@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-31T11:43:00+00:00",
-            "temperature_f": 48.002,
-            "temperature_c": 8.89,
-            "humidity": 76.008859939551,
+            "timestamp": "2025-01-31T12:43:00+00:00",
+            "temperature_f": 47.678000000000004,
+            "temperature_c": 8.71,
+            "humidity": 79.993350524103,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-31T05:00:00-08:00",
-                "endTime": "2025-01-31T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,70?size=medium",
-                "shortForecast": "Drizzle Likely",
-                "detailedForecast": "Drizzle likely. Cloudy, with a low around 47. South southeast wind around 8 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2025-01-31T06:00:00-08:00",
                 "endTime": "2025-01-31T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Drizzle likely before 10am, then rain. Cloudy. High near 55, with temperatures falling to around 53 in the afternoon. South southeast wind 9 to 17 mph, with gusts as high as 21 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-31T18:00:00-08:00",
+                "endTime": "2025-02-01T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "14 to 18 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy. Low around 51, with temperatures rising to around 54 overnight. South wind 14 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, the night clings to a chill that speaks of impending rain. The sky, a shroud of gray, whispers promises of drizzle, already dribbling down in soft droplets. The air is heavy with humidity, wrapping the city in a damp embrace that seems almost alive. As the early hours stretch on, the distinct outline of the Golden Gate Bridge is obscured, tucked away within a thick marine layer that rolls off the Bay, cloaking landmarks in a veil of mystery. This is a day defined by tenacity, with a forecast calling for persistent rain, the kind that washes away frivolities and invites contemplation instead.\n\nAs the sun rises, expect a cascade of gray clouds to unfurl and unleash their bounty, ultimately drenching the streets of this beloved city. The high will linger around a brisk 55 degrees, nudging closer to the reality of the afternoon, where the temperature subtly declines. Wind will swirl through the streets at an ambivalent pace, gusting here and there, lending an energizing bite to the air. Given these conditions, one might reach for a warm knit sweater, a sturdy raincoat, and perhaps those loyal waterproof boots that will forsake the puddles. Today is one of those hidden treasures, encouraging you to duck into a local caf\u00e9, where the aromas of fresh coffee and sweet pastries mingle, as you rest from the weather outside. Or perhaps take a moment to wander through one of the city\u2019s legendary bookstores, perhaps snatching a novel to accompany you through the rain-soaked hours ahead, ensuring the day remains decidedly yours.",
-    "color_code": "#4B9CD3",
-    "timestamp": "2025-01-31 05:04:35"
+    "weather_report": "As dawn unfurls its muted glow over Downtown San Francisco, a shroud of clouds lingers, wrapping the city in a damp embrace. The day begins with a promise of rain, a steady drizzle likely lingering until late morning, followed by more substantial downpours. The air feels cool, hinting at a temperature slide that will keep things cool throughout the day, as the winds from the south gently whisper through the streets, adding a briskness that may just linger in one's bones. \n\nVisibility may lack clarity, with the fog rolling in and out, dancing between the grandeur of the Golden Gate and the skyline\u2019s unique silhouettes. Dress warmly and in layers; a raincoat or a sturdy umbrella will be your companions as you navigate the slick, glistening pavement. The cool air invites a quiet day indoors, perfect for a moment spent nestled in your favorite cafe with a good book or enjoying the gentle rhythm of rain tapping against the window. As the day wears on, the prospect of staying cozy and dry might be the wisest choice, allowing one to savor the soft, contemplative mood that this rainy day brings.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2025-01-31 06:01:53"
 }
