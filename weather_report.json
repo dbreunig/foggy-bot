@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-01-31T00:43:00+00:00",
-            "temperature_f": 50.504,
-            "temperature_c": 10.28,
-            "humidity": 62.019376491597,
+            "timestamp": "2025-01-31T01:43:00+00:00",
+            "temperature_f": 49.388,
+            "temperature_c": 9.66,
+            "humidity": 64.01058857056,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-30T17:00:00-08:00",
-                "endTime": "2025-01-30T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 53. West southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-01-30T18:00:00-08:00",
                 "endTime": "2025-01-31T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,80?size=medium",
                 "shortForecast": "Drizzle",
                 "detailedForecast": "Drizzle after 10pm. Mostly cloudy. Low around 47, with temperatures rising to around 49 overnight. South southwest wind 5 to 8 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-01-31T06:00:00-08:00",
+                "endTime": "2025-01-31T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "9 to 17 mph",
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Drizzle before 10am, then rain. Cloudy. High near 56, with temperatures falling to around 54 in the afternoon. South southeast wind 9 to 17 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "Downtown San Francisco greets the late afternoon with an optimistic stretch of mostly sunny skies, though a crisp chill lingers in the air. The temperature hovers around a brisk 53 degrees, courtesy of a gentle west-southwest breeze that may wrap you in its cool embrace as the sun begins its descent toward the horizon. Those soft rays will soon be replaced by cloud cover as twilight arrives, leading into an expected drizzle that will likely commence after an early dinner, with an 80% chance of moisture to greet the night.\n\nAs the light fades, the atmosphere thickens with clouds, hinting at the encroaching marine layer, which cloaks the Golden Gate in its characteristic mist. You might notice shadows lingering over the bay, suggesting pockets of fog may start to creep in. Dressing in layers would be wise; consider a light jacket to ward off the evening chill and drizzles. As day transitions to night, a stroll along the waterfront or a quiet caf\u00e9 visit can offer respite. Lean into the satisfying embrace of a warm drink while the world outside shifts from stark clarity to the soft, damp glow of an urban evening, making for a remarkably contemplative experience.",
-    "color_code": "#A8C8C8",
-    "timestamp": "2025-01-30 17:28:25"
+    "weather_report": "As twilight envelops Downtown San Francisco, the city lies beneath a blanket of gray, a prelude to the soft drizzle that is expected to wash over the landscape tonight. With temperatures lingering modestly around the upper 40s, it feels distinctly chillier, urging you to reach for a cozy sweater or a light jacket before stepping out. The pervasive clouds hang low, concealing the usual sights that inspire awe, including the iconic outlines of the Golden Gate Bridge and the sprawling cityscape, now shrouded in a veil of mist. The air carries the promise of rain, a tangible weight hinting at an 80% chance of precipitation, as soft wisps of fog dance along the hills, painting a melancholic backdrop.\n\nMoving into Friday, the forecast calls for a continuation of this liquid embrace, with rain expected to transform the city into a different realm. The drizzling will last until the midday hours before yielding fuller rainfall, leading to a cozy indoors kind of day. Wind gusts may occasionally tease with their chill, so securing a scarf or layering beneath that jacket might provide relief against the brisk air. As the world outside grows dimmer with the onset of evening, the prospect of curling up with a book at a cafe or indulging in a warm meal becomes quite inviting. With clouds merging seamlessly into fog, the city\u2019s character bends towards introspection, inviting one to slow down and savor the moment.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-01-30 18:21:00"
 }
