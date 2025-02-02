@@ -10,7 +10,7 @@
             "timestamp": "2025-02-02T01:43:00+00:00",
             "temperature_f": 58.622,
             "temperature_c": 14.79,
-            "humidity": null,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2025-02-01T18:00:00-08:00",
+                "startTime": "2025-02-01T19:00:00-08:00",
                 "endTime": "2025-02-02T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 90
                 },
-                "windSpeed": "17 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,90?size=medium",
+                "windSpeed": "16 to 20 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy. Low around 55, with temperatures rising to around 57 overnight. South southwest wind around 17 mph, with gusts as high as 28 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain. Cloudy, with a low around 55. South wind 16 to 20 mph, with gusts as high as 24 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-02-02T06:00:00-08:00",
                 "endTime": "2025-02-02T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 60,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 90
                 },
-                "windSpeed": "16 to 20 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
+                "windSpeed": "18 to 22 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,90?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy. High near 60, with temperatures falling to around 58 in the afternoon. South southwest wind 16 to 20 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain. Cloudy. High near 59, with temperatures falling to around 57 in the afternoon. South wind 18 to 22 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As twilight descends upon Downtown San Francisco, the rain drizzles steadily, casting a muted sheen over the pavement. The air is thick with the unmistakable scent of wet earth, and the soft patter of droplets creates an intimate serenade as they dance against rooftops and sidewalks alike. The clouds brood overhead, cloaking the sky in gray hues that promise an unyielding chill throughout the night. Wind gusts rush through, playfully sweeping across corners and alleyways, reminding one of the city's ceaseless rhythm. \n\nTomorrow brings with it similar layers of moisture, as the rain persists in its tender embrace, reducing visibility and saturating the landscape. The temperature lingers in the cool 50s, urging residents to don thicker, weather-resistant attire. A stylish raincoat, perhaps a sturdy umbrella, and practical footwear would serve well in navigating the slick streets. As you consider how to spend this drizzly day, perhaps a cozy seat at a local caf\u00e9, warm drink in hand, would be the perfect antidote\u2014offering solace as you watch the world glide by, wrapped in the intimate scenario that only a stormy day can create.",
+    "weather_report": "As twilight descends on Downtown San Francisco, a shroud of clouds and rain envelops the city, painting an atmosphere rich with moisture and movement. The whispering warmth of the evening air blends with the dampness, heralding a night filled with the rhythmic patter of raindrops. The low temperature teeters around a comfortable 55 degrees, accompanied by brisk winds that whisk through the streets, carrying the promise of prolonged rainfall. With gusts reaching up to 24 mph, it is a moment to secure your umbrella and perhaps don a light jacket, as the persistent rain is expected to accumulate, nourishing the earth beneath.\n\nOn Sunday, the forecast foretells an equally damp day, with the rain continuing its gentle assault. The high will hover near 59, yielding to a gradual drop as afternoon settles in. These weathered skies offer a perfect backdrop for an afternoon of introspection. One might find solace in the cozy embrace of a local caf\u00e9, cradling a warm drink while watching the parade of umbrellas glide past the window. Alternatively, take a slow stroll through one of the city\u2019s tranquil parks, where the soft ground hugs your steps and the scent of rain-kissed greenery fills the air. Evening plans may call for a movie or a visit to a gallery, where the warmth of indoor spaces becomes invitingly essential amidst the crisp wetness outside.",
     "color_code": "#4A4A4A",
-    "timestamp": "2025-02-01 18:22:45"
+    "timestamp": "2025-02-01 19:03:15"
 }
