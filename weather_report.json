@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-02T09:43:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
+            "timestamp": "2025-02-02T10:43:00+00:00",
+            "temperature_f": 57.614,
+            "temperature_c": 14.23,
             "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2025-02-02T02:00:00-08:00",
+                "startTime": "2025-02-02T04:00:00-08:00",
                 "endTime": "2025-02-02T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 90
                 },
-                "windSpeed": "16 to 20 mph",
+                "windSpeed": "14 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,80?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy, with a low around 55. South wind 16 to 20 mph, with gusts as high as 24 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy, with a low around 55. South wind around 14 mph, with gusts as high as 23 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "18 to 22 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,80/rain,90?size=medium",
-                "shortForecast": "Rain Showers then Light Rain",
-                "detailedForecast": "Rain showers before 4pm, then rain. Cloudy. High near 59, with temperatures falling to around 57 in the afternoon. South wind 18 to 22 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "windSpeed": "16 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy. High near 59, with temperatures falling to around 57 in the afternoon. South southwest wind around 16 mph, with gusts as high as 24 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In the early hours of a damp February morning in Downtown San Francisco, the city is cloaked in plush, tranquil grayness, the air heavy with an inviting coolness tinged by the scent of rain. As raindrops patter softly, the sound mingles with the whisper of a brisk south wind, wrapping the streets in a cozy embrace. The forecast hints at more showers throughout the day, ushering in a climate that wavers between serene gloom and a more animated resilience, with high temperatures struggling to reach the low sixties. The clouds command the sky, obscuring the sun\u2019s warm intentions, while visibility remains challenged by the low-hanging marine layer hugging the coastline, perhaps extending its fingers toward the Golden Gate, softly blurring its outline against the backdrop of a brooding sky.\n\nFor those venturing out, a bit of thought towards attire will pay off\u2014layering with a waterproof jacket and cozy scarf is wise, offering both comfort and protection from the cool breeze that may threaten to steal warmth. As the day unfolds, consider a leisurely stroll through the nearby parks, where the patter of raindrops on leaves creates a symphony of nature, or perhaps indulge in a quiet caf\u00e9, warming chilled fingers around a steaming cup of coffee while watching the world outside drift by. Embrace the day's melancholic charm, a moment to reflect amidst the soft chaos of city life, where even gray skies can inspire quiet joy.",
-    "color_code": "#6B7B9E",
-    "timestamp": "2025-02-02 03:01:17"
+    "weather_report": "As night blankets Downtown San Francisco, the city grapples with the soft embrace of rain, a gentle reminder of nature\u2019s whims. The air is thick with promise, cloudy skies roiling with whispers of moisture. A southward wind carries fragrant hints of damp earth, rustling through the streets as the temperature hovers comfortably in the mid-fifties. Rainfall serenades the sidewalks, echoing the mood of a city steeped in introspection. The lingering shadows of the evening invite one to wrap in layers, perhaps donning a light raincoat and sturdy shoes for those who dare step outside.\n\nWith the dawn will come more rain, draping the Golden Gate in a mist that dances like a memory. The day promises to stick to its overcast narrative, with peaks barely brushing sixty, hinting at a slow descent into cooler air as the afternoon wears on. The marine layer will drape itself over familiar landmarks, softening the edges of the city\u2019s iconic skyline into dreamy silhouettes, a quiet allure for the contemplative soul. Consider the comfort of a caf\u00e9, where the warmth of a good book and the rich aroma of coffee can provide solace against the rain\u2019s rhythm. Alternatively, find a cozy nook in the library, where stories await beneath the soft glow of afternoon light, creating a peaceful retreat from the world.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2025-02-02 04:01:51"
 }
