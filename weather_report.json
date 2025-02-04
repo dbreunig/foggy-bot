@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-04T11:43:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
+            "timestamp": "2025-02-04T12:43:00+00:00",
+            "temperature_f": 52.664,
+            "temperature_c": 11.48,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-04T05:00:00-08:00",
-                "endTime": "2025-02-04T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 60
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy, with a low around 53. South wind around 14 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2025-02-04T06:00:00-08:00",
                 "endTime": "2025-02-04T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,90/tsra,90?size=medium",
                 "shortForecast": "Rain then Showers And Thunderstorms",
                 "detailedForecast": "Rain before 10am, then rain showers between 10am and 4pm, then showers and thunderstorms. Cloudy. High near 59, with temperatures falling to around 54 in the afternoon. South southwest wind 14 to 22 mph, with gusts as high as 37 mph. Chance of precipitation is 90%. New rainfall amounts between 1 and 2 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-04T18:00:00-08:00",
+                "endTime": "2025-02-05T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "6 to 17 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,90/few?size=medium",
+                "shortForecast": "Showers And Thunderstorms then Mostly Clear",
+                "detailedForecast": "Showers and thunderstorms before 10pm. Mostly clear. Low around 44, with temperatures rising to around 46 overnight. West northwest wind 6 to 17 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, the night drapes a curtain of rain, soft and persistent, bidding the city to draw close under layers of warmth. The winds whisper through the streets, carrying the scent of moistened earth and the promise of more deluge to come. Clouds blanket the sky, cloaking the Golden Gate Bridge and hills beyond in a shroud of gray, with a chill that seeps through even the coziest of sweaters. As dawn approaches, the murmur of raindrops forms a tranquil symphony, vibrating off the pavement and mingling with the bustling energy of the waking city.\n\nBy midday, the weather offers little respite, as the rains transition into hearty showers, punctuated by the occasional rumble of distant thunder. Visibility will be muted, as the marine layer stretches across the bay, obscuring the familiar vistas that might otherwise invite a stroll. Layering becomes essential; a waterproof jacket paired with sturdy shoes could transform a damp outing into an adventure rather than a chore. For those seeking refuge from the elements, perhaps a leisurely afternoon at a local caf\u00e9, where rain-soaked views become a tapestry of nature's rhythm, would be the perfect escape. In such moments, one discovers not merely the weather outside, but a cozy capital for quiet reflection held within the city's embrace.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-02-04 05:05:18"
+    "weather_report": "The atmosphere over Downtown San Francisco is thick with a heavy tapestry of clouds, damp and draped in a shroud of impending rain. With droplets expected to dance from the skies shortly, the morning brings with it the promise of rain before ten, followed by a parade of showers and the distant rumble of thunderstorms. The winds, bold and invigorating, cut through the air, reminding us of the ocean's breath\u2014a brisk whisper from the south-southwest. One may feel the cool grip of the day, with temperatures teetering between the mid-fifties, as the city sinks into a gray embrace.\n\nAs night approaches, the rain will relinquish its hold, making way for moments of clarity under a star-studded sky, albeit fleeting. Wrapped in layers of warmth such as a sturdy jacket and perhaps a comfortable scarf, one can venture out, embracing the damp air. In the spirit of the day, perhaps consider wandering through the quieter side streets, where the sheen of pavement underfoot reflects the city lights, or cozying up in a beloved caf\u00e9, sipping a warm drink while people-watching through misted windows. The charm of a rainy day in San Francisco lies not just in its challenges, but in the intimate moments it invites us to cherish.",
+    "color_code": "#6A7B8A",
+    "timestamp": "2025-02-04 06:02:06"
 }
