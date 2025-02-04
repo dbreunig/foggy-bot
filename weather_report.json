@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-04T10:43:00+00:00",
-            "temperature_f": 52.484,
-            "temperature_c": 11.38,
-            "humidity": 100,
+            "timestamp": "2025-02-04T11:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2025-02-04T04:00:00-08:00",
+                "startTime": "2025-02-04T05:00:00-08:00",
                 "endTime": "2025-02-04T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 60
                 },
-                "windSpeed": "14 to 17 mph",
+                "windSpeed": "14 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy, with a low around 53. South wind 14 to 17 mph, with gusts as high as 28 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain. Cloudy, with a low around 53. South wind around 14 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 90
                 },
                 "windSpeed": "14 to 22 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100/tsra,100?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain,90/tsra,90?size=medium",
                 "shortForecast": "Rain then Showers And Thunderstorms",
-                "detailedForecast": "Rain before 10am, then rain showers between 10am and 4pm, then showers and thunderstorms. Cloudy. High near 59, with temperatures falling to around 54 in the afternoon. South southwest wind 14 to 22 mph, with gusts as high as 37 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+                "detailedForecast": "Rain before 10am, then rain showers between 10am and 4pm, then showers and thunderstorms. Cloudy. High near 59, with temperatures falling to around 54 in the afternoon. South southwest wind 14 to 22 mph, with gusts as high as 37 mph. Chance of precipitation is 90%. New rainfall amounts between 1 and 2 inches possible."
             }
         ]
     },
-    "weather_report": "As the early hours embrace Downtown San Francisco, the city is cloaked in a dark, rain-soaked shroud, as if nature herself has drawn the curtains against the inevitable storm. The rooftops glisten under the relentless drizzle, which whispers promises of substantial rainfall through the night. With temperatures lingering in the low fifties, a brisk south wind pushes through the narrow streets, its gusts carrying a chill that speaks of a winter's heart. The chance of precipitation, a steadfast 100%, turns the morning into a symphony of raindrops, composing a melody seemingly echoed in every corner of the city.\n\nAs the day unfolds, expect a continuation of this water-drenched narrative. Showers will persist through the morning into the afternoon, punctuated by the occasional thunderstorm, while temperatures may rest at a soft 59, dipping as the afternoon wanes and the clouds thicken. Visibility will be reduced, as the marine layer weaves through the hills, wrapping the Golden Gate in a gray, ghostly embrace. It\u2019s a day where bundled layers are necessary\u2014think warm, water-resistant outerwear paired with sturdy shoes, as the sidewalks will shimmer with the reflections of a moody sky. With the storm outside, perhaps a cozy nook in a local cafe, a book in hand and coffee warming your palms, would provide a perfect refuge from the tempest, while the world outside quietly washes anew.",
-    "color_code": "#6B8EAB",
-    "timestamp": "2025-02-04 04:02:03"
+    "weather_report": "In the heart of Downtown San Francisco, the night drapes a curtain of rain, soft and persistent, bidding the city to draw close under layers of warmth. The winds whisper through the streets, carrying the scent of moistened earth and the promise of more deluge to come. Clouds blanket the sky, cloaking the Golden Gate Bridge and hills beyond in a shroud of gray, with a chill that seeps through even the coziest of sweaters. As dawn approaches, the murmur of raindrops forms a tranquil symphony, vibrating off the pavement and mingling with the bustling energy of the waking city.\n\nBy midday, the weather offers little respite, as the rains transition into hearty showers, punctuated by the occasional rumble of distant thunder. Visibility will be muted, as the marine layer stretches across the bay, obscuring the familiar vistas that might otherwise invite a stroll. Layering becomes essential; a waterproof jacket paired with sturdy shoes could transform a damp outing into an adventure rather than a chore. For those seeking refuge from the elements, perhaps a leisurely afternoon at a local caf\u00e9, where rain-soaked views become a tapestry of nature's rhythm, would be the perfect escape. In such moments, one discovers not merely the weather outside, but a cozy capital for quiet reflection held within the city's embrace.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-02-04 05:05:18"
 }
