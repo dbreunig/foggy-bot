@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-05T11:43:00+00:00",
-            "temperature_f": 42.926,
-            "temperature_c": 6.07,
-            "humidity": 86.036000640126,
+            "timestamp": "2025-02-05T13:43:00+00:00",
+            "temperature_f": 42.278,
+            "temperature_c": 5.71,
+            "humidity": 91.031230883107,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-05T05:00:00-08:00",
-                "endTime": "2025-02-05T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain. Partly cloudy. Low around 44, with temperatures rising to around 46 overnight. West northwest wind around 3 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-02-05T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2025-02-05T07:00:00-08:00",
                 "endTime": "2025-02-05T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
                 "shortForecast": "Slight Chance Light Rain",
                 "detailedForecast": "A slight chance of rain before 4pm. Mostly sunny. High near 54, with temperatures falling to around 52 in the afternoon. South wind around 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-05T18:00:00-08:00",
+                "endTime": "2025-02-06T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/sct/rain,60?size=medium",
+                "shortForecast": "Partly Cloudy then Light Rain Likely",
+                "detailedForecast": "Rain likely after 4am. Partly cloudy, with a low around 44. North wind around 5 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the air carries a refreshing chill imbued with the tender promise of a new day. The sky, partly cloaked in veils of cloud, hints at a touch of precipitation, with a slight chance of rain lingering in the forecast\u2014a gentle reminder of the city\u2019s character. At the moment, a faint marine layer hovers, softening the outlines of the skyline, and the distant Golden Gate Bridge remains an elegant specter emerging from the mist.\n\nThroughout the day, as the sun begins to rise higher, expect a gradual shift from the cool embrace of morning to a mildly sunny afternoon. Highs near 54 degrees will gradually yield to cooler temperatures, settling around 52 as the daylight wanes. The slight southern breeze, barely a whisper in the trees, adds a refreshing touch, although the remnants of morning fog may linger in pockets along the water\u2019s edge. Dress in layers to embrace the shifting temperature, perhaps a cozy sweater complemented by a light jacket for those moments when the wind stirs lively. An invigorating stroll along the Embarcadero, a quiet moment in one of the city's many parks, or simply savoring a warm beverage while perched on a patio are perfect choices for today\u2019s subtle blend of weather and charm, inviting you to enjoy the day\u2019s quiet adventures.",
-    "color_code": "#4A90E2",
-    "timestamp": "2025-02-05 05:05:28"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle coolness lingers in the air, hinting at the day\u2019s gradual transition from the crisp early morning. For now, the skies remain largely clear, though wisps of fog can be seen embracing the Golden Gate Bridge, promising a dramatic play of light as the sun rises higher. As you step outside, a subtle warmth begins to mingle with the chill, suggesting a day that will flirt with sunshine and the possibility of light rain later on.\n\nThe forecast hints at a slight chance of drizzle this afternoon, cloaked in a shroud of clouds, and it might be wise to dress in layers. A light jacket or sweater will serve you well as temperatures hover between the brisk and the mild, allowing for comfortable strolls through the city\u2019s vibrant streets. As the sun arcs overhead and the chance of rain increases closer to evening, consider local cafes or quiet parks where you might savor a warm drink, watching the city\u2019s pulse change as day merges into night. Engage in leisurely activities\u2014perhaps peruse an independent bookstore or marvel at the elegantly aging architecture that lends character and history to these storied streets.",
+    "color_code": "#A2C2D4",
+    "timestamp": "2025-02-05 07:02:05"
 }
