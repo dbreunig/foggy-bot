@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-06T05:43:00+00:00",
-            "temperature_f": 48.362,
-            "temperature_c": 9.09,
-            "humidity": 68.995099792505,
+            "timestamp": "2025-02-06T06:43:00+00:00",
+            "temperature_f": 48.686,
+            "temperature_c": 9.27,
+            "humidity": 65.989048206497,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-05T22:00:00-08:00",
+                "name": "Overnight",
+                "startTime": "2025-02-06T00:00:00-08:00",
                 "endTime": "2025-02-06T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": null
                 },
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "ENE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,50?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Light Rain",
-                "detailedForecast": "A chance of rain after 4am. Mostly cloudy, with a low around 44. East northeast wind 7 to 13 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. Low around 44, with temperatures rising to around 46 overnight. East northeast wind around 7 mph. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-02-06T06:00:00-08:00",
                 "endTime": "2025-02-06T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 57,
+                "temperature": 58,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 90
                 },
-                "windSpeed": "6 to 22 mph",
-                "windDirection": "ESE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy. High near 57, with temperatures falling to around 54 in the afternoon. East southeast wind 6 to 22 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "windSpeed": "6 to 18 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,90/tsra,70?size=medium",
+                "shortForecast": "Rain then Showers And Thunderstorms Likely",
+                "detailedForecast": "Rain before 10am, then rain showers between 10am and 4pm, then showers and thunderstorms likely. Cloudy, with a high near 58. Southeast wind 6 to 18 mph, with gusts as high as 28 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "As the clock gently ticks toward dawn in Downtown San Francisco, an air of anticipation lingers. The night is mostly cloudy, cloaked in a cool embrace with temperatures around 44, while an east-northeast breeze whisks through the streets at a steady pace. Those venturing out will likely feel the promise of rain that hangs in the air, with an anticipated 50% chance of showers after 4 a.m. The city, a shimmering tapestry of lights, seems to hold its breath, awaiting the soft patter of raindrops.\n\nThursday dawns to a definitive change, as the forecast predicts rain to envelop the city with unyielding certainty. The cloud cover will deepen, casting a cool pallor over the skyline, where the iconic Golden Gate Bridge may appear shrouded in mist. Winds will shift, sweeping in from the east-southeast, and the day will settle at about 57 degrees, finally descending to around 54 in the afternoon. The precipitation expected ranges generously, preparing for a soaking of half to three quarters of an inch. It may be wise to dress in layers\u2014think a cozy sweater under a waterproof jacket\u2014as one prepares to embrace the weather's unpredictable grace. Activities may take a more reflective turn, perhaps wandering into a welcoming caf\u00e9 for a warm cup of coffee, or losing oneself in the quiet corners of a local bookstore, as the rain serenades the world outside.",
-    "color_code": "#5E6D8B",
-    "timestamp": "2025-02-05 23:01:38"
+    "weather_report": "Downtown San Francisco wakes under a veil of clouds, the cool embrace of the night lingering as temperatures rise gently. The air is crisp, with hints of moisture promising rain soon, heralded by a soft east northeast breeze whispering through the empty streets. As dawn breaks, expect rain to mingle with the morning fog, transforming the cityscape into a soft watercolor of grays and blues. The persistent chance of showers throughout the day lingers in the air, sprinkled with the thrilling potential of thunderstorms, while the surrounding hills hide in mist, blurring the line between earth and sky.\n\nAs the hours pass and the high reaches near 58, a well-timed jaunt through the rain-drenched streets might be invigorating; perhaps a stroll across the Golden Gate Park\u2019s damp trails. Dress in layers\u2014comfortable footwear and a waterproof jacket will serve you well, allowing you to venture outdoors while embracing the brisk elements toeing the line of the early winter chill. And if the heart seeks solace from the rain, a warm caf\u00e9 corner beckons, offering steaming beverages that inspire quiet conversations or delightful daydreams, as the city pulsates faintly outside\u2014beautiful, haunting, and ever-so real amid the fog and rain.",
+    "color_code": "#3B3B3B",
+    "timestamp": "2025-02-06 00:01:50"
 }
