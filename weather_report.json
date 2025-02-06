@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-06T18:43:00+00:00",
-            "temperature_f": 46.58,
-            "temperature_c": 8.1,
-            "humidity": 100,
+            "timestamp": "2025-02-06T19:43:00+00:00",
+            "temperature_f": 48.11,
+            "temperature_c": 8.95,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-06T11:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-06T12:00:00-08:00",
                 "endTime": "2025-02-06T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 100
                 },
-                "windSpeed": "9 to 17 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/tsra,70?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely before 4pm, then showers and thunderstorms likely. Cloudy, with a high near 58. South southeast wind 9 to 17 mph, with gusts as high as 39 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+                "windSpeed": "18 to 23 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Rain showers before 1pm, then showers and thunderstorms. Cloudy, with a high near 58. South wind 18 to 23 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 90
                 },
-                "windSpeed": "10 to 21 mph",
+                "windSpeed": "12 to 23 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,70/tsra,40?size=medium",
-                "shortForecast": "Showers And Thunderstorms Likely",
-                "detailedForecast": "Showers and thunderstorms likely before 4am, then a chance of rain between 4am and 5am. Mostly cloudy. Low around 48, with temperatures rising to around 50 overnight. Southwest wind 10 to 21 mph, with gusts as high as 38 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,90/tsra_sct,50?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Showers and thunderstorms. Mostly cloudy. Low around 48, with temperatures rising to around 50 overnight. Southwest wind 12 to 23 mph, with gusts as high as 31 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon unfolds under a heavy shroud of gray, with rain showers casting a somber hue across the landscape. The skyline looms mysteriously as clouds roll in, thick and pregnant with the promise of precipitation. Winds whip through the streets, their strength almost a reminder of the San Francisco spirit\u2014unyielding yet tempered with a dash of unpredictability. The air carries the scent of rain, a comforting prelude to the thunderstorms expected before dusk.\n\nAs day shifts to night, the weather offers little in the way of reprieve. The thick clouds maintain their vigil, veiling the flicker of city lights against the subdued backdrop. With temperatures slinking down to a cozy 48 degrees, layers will serve you well\u2014a warm jacket, perhaps with a scarf, as evening descends and the rain lightly taps upon rooftops. For the urban dwellers seeking solace in the rhythm of the city, it may be a perfect moment for a cozy caf\u00e9 visit, where steam mingles with stories, or a stroll through the rain-soaked streets. Embrace the melancholy charm of a rainy San Francisco evening; there is beauty to be found even in the often-overlooked gray.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-02-06 12:01:50"
+    "weather_report": "In Downtown San Francisco, the afternoon unfolds under a ceiling of heavy clouds and a palpable spirit of urgency as rain showers precede a veritable symphony of thunder. The temperature treads a cool path around fifty-eight degrees, under the brisk south winds that stir the air like whispers through the alleys, gusting to thirty miles per hour. It's a day marked by the relentless drumming of raindrops and the certainty of a hundred percent chance of precipitation. With the promise of new rainfall accumulating between a quarter and half an inch, one cannot escape the hint of dampness that clings to the heart of the city.\n\nAs evening approaches, the ambiance transforms but retains its brooding charm. Showers and thunderstorms persist, accompanied by a soothing lead-in of clouds that wrap the city like a well-worn blanket. Drops will continue to fall, and with low temperatures hovering around forty-eight degrees\u2014but inching toward a soft fifty overnight\u2014the brisk southwest winds echo a suggestion for cozy attire. Layers will serve the day well; a waterproof jacket and sturdy shoes will prepare any wanderer for an unexpected deluge. Embrace the warm interior of a local caf\u00e9, or perhaps find solace in the pages of a book at home as the weather invites introspection. The skies may be gray, but there is beauty in the storm, a gentle reminder that even the most dreary days can cradle moments of creativity and warmth.",
+    "color_code": "#A2B9D4",
+    "timestamp": "2025-02-06 13:01:38"
 }
