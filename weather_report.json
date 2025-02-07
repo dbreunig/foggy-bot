@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-07T00:43:00+00:00",
-            "temperature_f": 59.018,
-            "temperature_c": 15.01,
-            "humidity": 88.993796850266,
+            "timestamp": "2025-02-07T01:43:00+00:00",
+            "temperature_f": 59.324,
+            "temperature_c": 15.18,
+            "humidity": 86.036767468919,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-06T16:00:00-08:00",
-                "endTime": "2025-02-06T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 90
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,90?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Showers and thunderstorms. Cloudy, with a high near 58. South southwest wind around 21 mph, with gusts as high as 29 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-06T18:00:00-08:00",
                 "endTime": "2025-02-07T06:00:00-08:00",
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "12 to 23 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,90/tsra_sct,50?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Showers and thunderstorms. Mostly cloudy. Low around 48, with temperatures rising to around 50 overnight. Southwest wind 12 to 23 mph, with gusts as high as 31 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,90/rain,40?size=medium",
+                "shortForecast": "Showers And Thunderstorms then Light Rain",
+                "detailedForecast": "Showers and thunderstorms before 7pm, then rain. Mostly cloudy, with a low around 48. Southwest wind 12 to 23 mph, with gusts as high as 31 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-02-07T06:00:00-08:00",
+                "endTime": "2025-02-07T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "7 to 16 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,20?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain before 4pm. Mostly sunny. High near 55, with temperatures falling to around 52 in the afternoon. West northwest wind 7 to 16 mph, with gusts as high as 21 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "As the sun undertakes its slow retreat toward the horizon, Downtown San Francisco finds itself enveloped in a blanket of impending rain and the rumble of distant thunder. The clouds hang heavily, shrouding the graceful heights of the Golden Gate, casting a melancholic hue over the streets below. The atmosphere is laden with moisture, announcing the arrival of showers that promise to wash the day away. At this hour, the temperature hovers around a cool 58 degrees, and the wind whistles through the city, carrying with it a brisk reminder of the evening's chill.\n\nWith a persistent 90% chance of precipitation, this is a day best suited for the warmth of a cozy sweater or a light raincoat, complemented by sturdy shoes that withstand the march through puddles. As the night deepens, the low temperature will gently rise, akin to the lingering warmth of a comforting embrace, though it may not deter one from seeking refuge indoors. The vibrant murals of local cafes, the warm hum of conversation, and perhaps a well-loved book could provide solace from the storm's embrace. For those who venture out, an evening stroll through a nearby gallery or a quiet dinner might offer a chance to savor the beauty of the season\u2019s rain while sheltered from the elements.",
-    "color_code": "#4A90E2",
-    "timestamp": "2025-02-06 17:28:29"
+    "weather_report": "As the evening draws near in Downtown San Francisco, a subtle tension hangs in the air, a noticeable shift that hints at the showers and thunderstorms that might dance through before the hour falls past seven. Overhead, a quilt of clouds blankets the sky, transforming its usual blue expanse into a muted gray. The atmosphere is laced with the scent of impending rainfall, promising a gentle accumulation that will refresh the earth, yet also chill the spirits slightly as temperatures dip towards the low 50s. The winds, spirited from the southwest, whip about at a clip, their gusts reminding us of nature\u2019s playful unpredictability.\n\nTomorrow, a glimpse of sunshine may break through the clouds, softening the chill with its warmth, but the morning may still harbor lingering raindrops, making it a day for layers. As you make your way through the streets, an umbrella wouldn't be out of place, nor would a light jacket to wrap around your shoulders, creating an armor against the lingering effects of the rain. Perhaps take a moment in one of the cozy coffee shops scattered about the city, watching the world drift by, or wander into a local gallery to explore the rich tapestry of creativity amidst the muted gray. Tonight\u2019s rain will offer stories to share, a prelude to a day that promises both clarity and a hint of whimsy\u2014perfect for a quiet adventure.",
+    "color_code": "#A8B8C5",
+    "timestamp": "2025-02-06 18:22:58"
 }
