@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-07T19:43:00+00:00",
-            "temperature_f": 55.166,
-            "temperature_c": 12.87,
-            "humidity": 68.295916747857,
+            "timestamp": "2025-02-07T20:43:00+00:00",
+            "temperature_f": 53.816,
+            "temperature_c": 12.12,
+            "humidity": 65.016693971492,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2025-02-07T12:00:00-08:00",
+                "startTime": "2025-02-07T14:00:00-08:00",
                 "endTime": "2025-02-07T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/rain?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle before 4pm. Sunny. High near 55, with temperatures falling to around 53 in the afternoon. West northwest wind 7 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain before 4pm. Sunny. High near 55, with temperatures falling to around 53 in the afternoon. West northwest wind around 10 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "6 to 9 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "NNW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 42. North northwest wind 6 to 9 mph."
+                "detailedForecast": "Mostly clear, with a low around 42. North northwest wind 7 to 10 mph."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, the afternoon unfolds gently, with occasional hints of drizzle tapering off. The sun persistently breaks through, painting a canvas of crisp clarity across the cityscape. Despite a modest high of 55 degrees, the air carries a coolness that whispers for a light jacket, particularly as temperatures dip ever so slightly into the early evening. Winds from the northwest add a playful chill, inviting one to revel in the invigorating atmosphere.\n\nAs twilight approaches, the skies remain predominantly clear, though a soft veil of marine layer dances along the edges of the Bay, most notable near the Golden Gate, where the horizon blurs into a gentle embrace of fog. With a low settling around 42 degrees tonight, it would be wise to don layers; a sweater or light coat will provide comfort against the evening breeze. The day is ripe for simple pleasures\u2014a solitary stroll along the waterfront, where the mingling of ocean mist and city lights crafts a magical ambiance, or perhaps a quiet visit to a local caf\u00e9, where the warmth inside contrasts delightfully with the cool air just outside. Each moment invites contemplation and calm, perfectly capturing the spirit of this charming urban enclave.",
-    "color_code": "#A6C1DB",
-    "timestamp": "2025-02-07 13:01:27"
+    "weather_report": "As the afternoon sun makes a tentative appearance, Downtown San Francisco experiences a gentle interlude between stormy skies and the shimmering promise of clearer days. The temperature is on the cusp of a cool 55 degrees, sinking slowly to 53 as the day matures. A mere whisper of rain lingers in the hours before four, cast aside by the feeble sunlight overhead. Despite the vigorous wind from the northwest, the city is mostly clear, with the familiar embrace of the marine layer retreating, leaving the horizon free of fog and inviting exploration.\n\nTonight, expect a restful blanket of clarity, the sky wide and unobstructed as the temperature drops towards a refreshing 42 degrees. The north-northwest wind carries a refreshing chill, reminding you of the evening's quiet promise. Dressing in layers is wise\u2014a light jacket will keep the cool air at bay, revealing the warmth nestled beneath. As dusk sets in, a leisurely stroll along the Embarcadero or an intimate evening at a cozy caf\u00e9 will provide respite from the day's cool embrace. There is beauty in the simple moments today brings, so savor them.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-02-07 14:01:26"
 }
