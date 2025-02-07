@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-07T12:43:00+00:00",
-            "temperature_f": 49.388,
-            "temperature_c": 9.66,
-            "humidity": 80.018084290877,
+            "timestamp": "2025-02-07T13:43:00+00:00",
+            "temperature_f": 49.604,
+            "temperature_c": 9.78,
+            "humidity": 79.049516183586,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-07T05:00:00-08:00",
-                "endTime": "2025-02-07T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
-                "shortForecast": "Chance Drizzle",
-                "detailedForecast": "A chance of drizzle. Mostly cloudy, with a low around 48. West wind around 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-02-07T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2025-02-07T07:00:00-08:00",
                 "endTime": "2025-02-07T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,40/rain?size=medium",
                 "shortForecast": "Chance Drizzle",
                 "detailedForecast": "A chance of drizzle before 4pm. Mostly sunny. High near 55, with temperatures falling to around 53 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-07T18:00:00-08:00",
+                "endTime": "2025-02-08T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 42. North northwest wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the city sits enveloped in a blanket of gentle cloud cover that shrouds the skyline in shades of grey. The air is cool, with temperatures lingering around the mid-forties, a familiar chill that eases into day as the sun begins its ascent. Currently, there is a whisper of drizzle in the air, adding a splash of moisture to the atmosphere that complements the soft murmur of the winds gusting from the west. The chance of precipitation lingers around a modest 40%, hinting at fleeting showers that may grace your umbrella throughout the day.\n\nAs Friday unfolds, anticipate a gradual lifting of the overcast, revealing patches of blue that hint at the sun\u2019s return, although temperatures are set to cool slightly in the afternoon. The promise of a mostly sunny day holds an allure, especially as the morning fog gives way to clearer skies, one can envision the silhouettes of the Golden Gate standing tall against a backdrop of crisp visibility. Dress in layers\u2014perhaps a light sweater and a jacket\u2014to adapt to the shifting temperatures, and don\u2019t forget the sturdy footwear for an afternoon stroll along the Embarcadero. A visit to the Ferry Building for artisan coffee and baked goods would be a delightful way to immerse yourself in the flavors of the city, while the brisk winds invite a cozy shared moment at home, perhaps with a well-worn book and a steaming mug.",
-    "color_code": "#7F8C8C",
-    "timestamp": "2025-02-07 06:01:34"
+    "weather_report": "In Downtown San Francisco, the morning greets you with a subdued light filtering through a thin veil of cloud. Drizzle kissed the pavement earlier, and while the skies begin to clear, a gentle marine layer hangs closely to the bay, softly cloaking the iconic structures that define the landscape. The temperature, hovering near a cool 55\u00b0F, combines with a whispering wind from the west, making it advisable to pull on a light jacket to fend off the lingering chill as the day unfolds. While the forecast foretells a potential for sun later in the afternoon, the air retains a freshness that beckons you outside.\n\nAs the day stretches ahead, with visibility improving and the city waking, consider ease over extravagance: a quiet stroll along the Embarcadero or through one of the city\u2019s storied parks might present the perfect antidote to the morning's hush. Conversations with friends over coffee or leisurely moments spent browsing local boutiques can illuminate the day far better than the sunniest spots. Remember, today's allure resides in its subtlety\u2014embracing the captivating light and sounds of a waking city as it shakes off the remnants of fog.",
+    "color_code": "#A3A3A3",
+    "timestamp": "2025-02-07 07:01:54"
 }
