@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-08T05:00:00-08:00",
-                "endTime": "2025-02-08T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 42. North wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2025-02-08T06:00:00-08:00",
                 "endTime": "2025-02-08T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 55. North northwest wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-08T18:00:00-08:00",
+                "endTime": "2025-02-09T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear. Low around 42, with temperatures rising to around 44 overnight. North northwest wind 5 to 8 mph."
             }
         ]
     },
-    "weather_report": "In the quiet hours of the morning, with the chill still lingering in the air, Downtown San Francisco awakens beneath a gentle blanket of clarity. As the first hints of dawn begin to soften the night, the city stands mostly clear, allowing the soft glow of streetlights to peek through like stars fallen to earth. The cool breeze from the north carries an invigorating promise, brushing against your skin with a refreshing touch, perfect for those who revel in the purity of early February. \n\nAs day breaks, the sun will ascend to its rightful place, casting golden rays across a landscape that will soon be basked in warmth, promising a high near 55. The expected sunshine brings with it an inviting atmosphere, ideal for leisurely strolling through the city\u2019s streets. As the morning unfolds, the absence of fog fosters an appealing brightness, allowing the Golden Gate Bridge and the soft silhouette of coastal hills to emerge in sharp relief. Dressing in layers is advisable; a light sweater or jacket paired with comfortable jeans will provide the perfect shield against the lingering coolness of the morning and the welcoming warmth of the afternoon. Perhaps, as the day unfolds, consider meandering through Golden Gate Park, where the tranquility invites reflection, or finding a cozy caf\u00e9 to savor a warm drink while observing the vibrant life of the city beyond the window.",
-    "color_code": "#A9C8E4",
-    "timestamp": "2025-02-08 05:03:28"
+    "weather_report": "The morning light embraces Downtown San Francisco with a promise of warmth that seems to linger just beyond the layered rooftops and historic boulevards. Under a vast expanse of blue sky, the air is crisp and clear, devoid of the usual fog that dances around the bay. Today\u2019s high approaches a gentle 55, kissed by the north-northwest breezes murmuring softly at 8 mph. As evening unfolds, anticipate tranquility with the temperature dipping to a slight 42, enveloped by clarity that outlasts the dusk.\n\nAs the city stirs to life, consider a stroll along the Embarcadero, where the sparkling waters reflect the sun's early glow. A light jacket will suffice against the cool air, allowing you to bask in the serenity that descends with the twilight. The absence of fog might urge some to explore the nearby hills, taking advantage of the unobstructed views that invite a contemplative pause. Whether it\u2019s a quiet moment with a coffee in hand or an afternoon spent rambling through one of the city\u2019s lively markets, today offers an opportunity to relish in the charm of this iconic landscape.",
+    "color_code": "#A8DADC",
+    "timestamp": "2025-02-08 06:01:42"
 }
