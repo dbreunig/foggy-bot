@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-11T17:43:00+00:00",
-            "temperature_f": 47.858000000000004,
-            "temperature_c": 8.81,
-            "humidity": 65.005452194007,
+            "timestamp": "2025-02-11T18:43:00+00:00",
+            "temperature_f": 50.468,
+            "temperature_c": 10.26,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-11T11:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-11T12:00:00-08:00",
                 "endTime": "2025-02-11T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 60
                 },
-                "windSpeed": "7 to 10 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,60?size=medium",
-                "shortForecast": "Mostly Cloudy then Light Rain Likely",
-                "detailedForecast": "Rain likely after 4pm. Mostly cloudy. High near 53, with temperatures falling to around 51 in the afternoon. West northwest wind 7 to 10 mph. Chance of precipitation is 60%."
+                "windSpeed": "9 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely after 4pm. Mostly cloudy. High near 53, with temperatures falling to around 51 in the afternoon. West wind 9 to 14 mph, with gusts as high as 18 mph. Chance of precipitation is 60%."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 60
                 },
-                "windSpeed": "5 to 9 mph",
-                "windDirection": "SE",
+                "windSpeed": "5 to 12 mph",
+                "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
                 "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely before 4am. Mostly cloudy. Low around 43, with temperatures rising to around 45 overnight. Southeast wind 5 to 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain likely before 4am. Mostly cloudy. Low around 43, with temperatures rising to around 45 overnight. South southeast wind 5 to 12 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "The morning unveils a mixture of heavy clouds draping over Downtown San Francisco, weaving a narrative of impending rain. As the clock ticks toward the afternoon, the crisp air turns noticeably colder, promising a descent in temperature to the low fifties. This cloudy canvas hints at the rain that is likely to arrive after four, yet for now, the city glimmers under the soft white of the clouds, the Golden Gate Bridge barely visible in the backdrop, despite the tenuous sun making its efforts known. The breeze carries a gentle chill, instilling a sense of quietude as the southeast winds whisper their way through the streets.\n\nAs the day progresses, one might consider dressing in layers, perhaps a warm sweater paired with a light waterproof jacket\u2014perfect for those soon-to-come drizzles. A stroll through the quieter streets, enjoying a newly opened caf\u00e9 or delving into a book at a cozy library, feels just right in such weather. While the persistent clouds and the anticipated rain may suggest a day spent indoors, the charm of the city lies in making the most of its rhythms, perhaps indulging in the aroma of freshly brewed coffee or losing oneself in the pages of an engaging story, allowing the soft patter of rain to be the perfect backdrop for a day well spent.",
-    "color_code": "#A3B1C3",
-    "timestamp": "2025-02-11 11:01:56"
+    "weather_report": "As the afternoon unfolds over Downtown San Francisco, a tapestry of muted gray clouds blankets the sky, hinting at the rain that is expected to grace the city later today. With a chill in the air, one can sense the heaviness of moisture moving in, making for a day that is more somber than sunny. The high of 53 degrees feels more like a gentle nudge towards warmth\u2014perfect for cozy layers. One might find comfort in a thick cardigan or a well-loved jacket, accompanied by a scarf to ward off the crisp breeze that wafts in from the west, rustling the trees and whispering promises of rain.\n\nLooking toward the horizon, the marine layer lingers just off the coast, a gentle shadow that softens the outlines of the Golden Gate and the iconic skyline. With clouds embracing the city and the promise of rain, this is not the day for grand outdoor adventures. Instead, the inviting warmth of a local caf\u00e9 becomes a refuge\u2014an ideal spot to sip a warm drink while watching the world go by, oblivious to the chill. As the clock ticks toward evening, balance the quiet of the rain with the hum of city life, perhaps taking a leisurely stroll through the bustling streets, umbrella in hand, to experience the unique charm of a drizzly San Francisco afternoon.",
+    "color_code": "#A3A3A3",
+    "timestamp": "2025-02-11 12:01:49"
 }
