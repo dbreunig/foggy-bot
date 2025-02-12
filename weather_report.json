@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-12T06:43:00+00:00",
-            "temperature_f": 45.068,
-            "temperature_c": 7.26,
-            "humidity": 75.042290654972,
+            "timestamp": "2025-02-12T07:43:00+00:00",
+            "temperature_f": 45.122,
+            "temperature_c": 7.29,
+            "humidity": 74.994479105505,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2025-02-12T00:00:00-08:00",
+                "startTime": "2025-02-12T01:00:00-08:00",
                 "endTime": "2025-02-12T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 43,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 70
                 },
-                "windSpeed": "8 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "ESE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,70?size=medium",
                 "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely before 4am. Mostly cloudy. Low around 43, with temperatures rising to around 45 overnight. East wind around 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain likely before 4am. Mostly cloudy. Low around 43, with temperatures rising to around 45 overnight. East southeast wind 5 to 9 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-02-12T06:00:00-08:00",
                 "endTime": "2025-02-12T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 55,
+                "temperature": 54,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 90
                 },
-                "windSpeed": "1 to 12 mph",
-                "windDirection": "ENE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely after 10am. Partly sunny. High near 55, with temperatures falling to around 53 in the afternoon. East northeast wind 1 to 12 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "3 to 12 mph",
+                "windDirection": "ESE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,90?size=medium",
+                "shortForecast": "Mostly Cloudy then Light Rain",
+                "detailedForecast": "Rain after 4pm. Mostly cloudy, with a high near 54. East southeast wind 3 to 12 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "The gentle nighttime rain blankets Downtown San Francisco, embodying the city's romantic moody essence. As the clock tiptoes past midnight, temperatures linger around the 43-degree mark, softly cradled by an eastward breeze. The skies overhead are draped in a veil of clouds, promising glimpses of softer light as dawn approaches. Yet, before the sun's embrace takes hold, scattered showers may linger, teasing you with the possibility of a brighter afternoon.\n\nAs Wednesday dawns, the transition from ink-black to twilight reveals a hint of promise. Expect rain later in the morning, although these droplets will play a tender background note to a reprise of sun and clouds amidst the cool coastal air. Dress in layers; a light jacket will fend off the chill, while comfortable shoes are advisable for a stroll through the city's vibrant streets. It may be an ideal day for winding through art-filled aisles of a local bookstore or savoring a warm cup from your favorite caf\u00e9, allowing the tender whispers of rain to accompany your thoughts. The day beckons with a balance of coolness and the thrill of sporadic sunshine, a perfect canvas for both indoor refuge and brisk exploration.",
-    "color_code": "#5D6B83",
-    "timestamp": "2025-02-12 00:01:49"
+    "weather_report": "As the dark veil of night envelops Downtown San Francisco, whispers of rain ripple through the cool air, hinting at the coming deluge predicted with the dawn. The streets lay quiet under a blanket of clouds, their thickness heavy with moisture, harboring the promise of a rain-soaked morning. A breeze from the southeast stirs gently, brushing against the chill, a prelude to the atmospheric shift that will soon embrace the city. The temperature hovers just above the threshold of chilly, urging a layer of warmth. \n\nAs day breaks, the city will unfurl its damp, gray wings, revealing a landscape draped in mist and shadows. Expect rain to punctuate the rhythm of the afternoon, offering a somber yet soothing serenade to the ears. The world outside will glisten, with puddles catching fleeting glimpses of the fading light. For those venturing out, dressing in layers will serve as your best defense against the chill; a waterproof coat and sturdy shoes are wise companions for navigating the slick sidewalks. Perhaps take comfort in a quiet caf\u00e9, where the steam from your cup mingles with the aroma of fresh pastries, a simple indulgence against the moody backdrop of the sky above.",
+    "color_code": "#8BAAAD",
+    "timestamp": "2025-02-12 01:01:42"
 }
