@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-12T17:00:00-08:00",
-                "endTime": "2025-02-12T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 90
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,90?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy. High near 55, with temperatures falling to around 53 in the afternoon. South southwest wind around 2 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-12T18:00:00-08:00",
+                "startTime": "2025-02-12T19:00:00-08:00",
                 "endTime": "2025-02-13T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "1 to 25 mph",
+                "windSpeed": "5 to 25 mph",
                 "windDirection": "SSE",
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Heavy Rain",
-                "detailedForecast": "Rain. Cloudy. Low around 50, with temperatures rising to around 56 overnight. South southeast wind 1 to 25 mph, with gusts as high as 48 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+                "detailedForecast": "Rain. Cloudy. Low around 50, with temperatures rising to around 56 overnight. South southeast wind 5 to 25 mph, with gusts as high as 48 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-02-13T06:00:00-08:00",
+                "endTime": "2025-02-13T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "21 to 25 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Rain before 7am, then showers and thunderstorms between 7am and 10am, then rain between 10am and 4pm, then showers and thunderstorms. Cloudy. High near 58, with temperatures falling to around 56 in the afternoon. Southwest wind 21 to 25 mph, with gusts as high as 46 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
             }
         ]
     },
-    "weather_report": "As the evening descends upon Downtown San Francisco, an air of gray predominates the horizon, thick clouds blanketing the skyline in a soothing embrace. The rain falls steadily, a soft percussion tapping against windows, whispering promises of renewal to the city below. Temperatures hover at a cool 50 degrees, rising subtly as the night unfolds, yet the chill in the air has a way of sneaking into your bones. Gusts of wind, spirited and strong, serve as reminders of nature's unpredictable temperament, rattling loose branches and stirring the dampness that lingers on the streets.\n\nIn this muted, misty atmosphere, the city may not beckon for outdoor adventures but it does whisper for more intimate reflections. It's an ideal time to indulge in the warmth of a cozy caf\u00e9, gently cradling a hot beverage while watching the rain paint patterns on the windowpanes. For those drawn to creativity, nestling into a quiet nook with a book or journal seems just right, allowing the rhythm of the droplets to inspire thoughts and dreams. Attire should skew toward warmth: a comfortable sweater, perhaps layered with a raincoat, and sturdy shoes to navigate the slick sidewalks. As the world quiets under the weight of the rain, let the evening be a gentle retreat into the heart of the city, where the serenity of winter evenings offers refuge from the bustling tempo of life.",
-    "color_code": "#6B7C89",
-    "timestamp": "2025-02-12 18:22:58"
+    "weather_report": "In Downtown San Francisco, the city is enveloped in a thick blanket of clouds, promising a night filled with rain as strong as the gusts of wind swirling through its streets. The temperature hovers around a cool 50 degrees, with hints of warmth as it rises gently overnight. As you step outside, the wet air wraps around you, the scent of impending rain mingling with the urban aromas of the city. With a 100% chance of precipitation, it\u2019s wise to prepare for a good soaking; umbrellas will be your faithful companions.\n\nTomorrow carries the same promise of rain, punctuated by showers and the occasional clap of thunder, adding a touch of drama to the gray backdrop. The temperature will dip slightly in the afternoon, creating a chilly environment that calls for layers. A waterproof jacket accompanied by warm, comfortable clothing is advisable for braving the elements. Yet, even in this bleak landscape, there are activities to embrace. Perhaps you might stroll through the comforting embrace of a local caf\u00e9 with a good book, where the warmth inside contrasts beautifully with the cold outside, or seek solace in one of the city\u2019s many galleries, where inspiration beckons in the form of art. It may not be a day for grand adventures, but in the melody of rain and the soft whispers of the wind, there lies a poetic charm, waiting to be discovered.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2025-02-12 19:04:30"
 }
