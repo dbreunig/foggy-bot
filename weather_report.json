@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-13T11:43:00+00:00",
-            "temperature_f": 56.156,
-            "temperature_c": 13.42,
-            "humidity": 100,
+            "timestamp": "2025-02-13T12:43:00+00:00",
+            "temperature_f": 54.428000000000004,
+            "temperature_c": 12.46,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-13T05:00:00-08:00",
-                "endTime": "2025-02-13T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "26 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy. Low around 50, with temperatures rising to around 56 overnight. South southwest wind around 26 mph, with gusts as high as 52 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2025-02-13T06:00:00-08:00",
                 "endTime": "2025-02-13T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,100/tsra,100?size=medium",
                 "shortForecast": "Rain then Showers And Thunderstorms",
                 "detailedForecast": "Rain before 1pm, then showers and thunderstorms. Cloudy. High near 58, with temperatures falling to around 55 in the afternoon. Southwest wind 22 to 25 mph, with gusts as high as 48 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-13T18:00:00-08:00",
+                "endTime": "2025-02-14T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "20 to 24 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,90/rain,80?size=medium",
+                "shortForecast": "Showers And Thunderstorms then Light Rain",
+                "detailedForecast": "Showers and thunderstorms before 10pm, then rain. Mostly cloudy. Low around 50, with temperatures rising to around 52 overnight. West southwest wind 20 to 24 mph, with gusts as high as 38 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn gently breaks over Downtown San Francisco, the city is cloaked in a thick shroud of rain-spattered clouds, delivering an atmosphere both moody and invigorating. The relentless rain drapes the streets with a refreshing coolness, while the wind howls a brisk tune, stirring the mind and soul. Despite the view being obscured by grey skies, the rhythmic patter of raindrops offers a soothing backdrop, inviting one to remain indoors, cradled in warmth. Visibility may falter, but the vibrant city feels alive, the glimmer of the wet pavement reflecting the rallying spirit of San Francisco.  \n\nThroughout the day, the rain will persist, intermingling with sporadic thunderstorms. Clad in layers, a waterproof jacket and sturdy shoes will maintain comfort against the elements. The promise of a warm beverage in hand might very well enhance your exploration of the city's vibrant caf\u00e9s or local bookstores, where the scent of fresh coffee meets the romance of printed pages. As afternoon sets in, the temperatures will drop slightly, providing an opportunity to savor the cozy transitions of indoor life against the cocktail of weather outside, a dance between windswept rain and the ever-present energy of the city.",
-    "color_code": "#3C3C3C",
-    "timestamp": "2025-02-13 05:05:45"
+    "weather_report": "This morning in Downtown San Francisco, the sky hangs heavy with the promise of rain, obscuring the once-vibrant landmarks with a sodden shroud. The air feels rich and damp, imbued with the unmistakable scent of wet earth and impending storms. As the clock ticks toward midday, a steady parade of rain is expected to cloak the streets, accompanied by thunder that may rattle windows and fill the air with a sense of unease. The chill lingers around 55 degrees, not quite cold enough to encourage layers but definitely enough to don a light waterproof jacket to keep the moisture at bay.\n\nAs day transitions into night, the showers will continue, inviting the well-prepared individual to find solace indoors. The recommended attire leans toward the practical: perhaps a cozy sweater beneath that waterproof shell, paired with sturdy shoes to navigate the slick sidewalks. While the elements may not favor outdoor ventures today, perhaps an afternoon spent in a snug caf\u00e9, sipping a well-crafted espresso while watching the droplets race down the window, would be a delightful alternative. Or, if venture calls, an amble through the wet streets wrapped in your favorite coat could reveal the city's more subdued beauty.",
+    "color_code": "#7A9B8C",
+    "timestamp": "2025-02-13 06:01:53"
 }
