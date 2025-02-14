@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-13T23:43:00+00:00",
-            "temperature_f": 54.518,
-            "temperature_c": 12.51,
-            "humidity": 97.022524386254,
+            "timestamp": "2025-02-14T00:43:00+00:00",
+            "temperature_f": 54.698,
+            "temperature_c": 12.61,
+            "humidity": 97.986303109413,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-13T17:00:00-08:00",
-                "endTime": "2025-02-13T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 90
-                },
-                "windSpeed": "22 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,90?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Showers and thunderstorms. Cloudy. High near 58, with temperatures falling to around 55 in the afternoon. Southwest wind around 22 mph, with gusts as high as 37 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-13T18:00:00-08:00",
                 "endTime": "2025-02-14T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/tsra,90/rain,80?size=medium",
                 "shortForecast": "Showers And Thunderstorms then Light Rain",
                 "detailedForecast": "Showers and thunderstorms before 7pm, then rain. Mostly cloudy. Low around 50, with temperatures rising to around 52 overnight. West southwest wind 20 to 24 mph, with gusts as high as 38 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-02-14T06:00:00-08:00",
+                "endTime": "2025-02-14T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "16 to 21 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/wind_sct?size=medium",
+                "shortForecast": "Chance Light Rain then Mostly Sunny",
+                "detailedForecast": "A chance of rain before 10am. Mostly sunny. High near 56, with temperatures falling to around 53 in the afternoon. West northwest wind 16 to 21 mph, with gusts as high as 29 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "The day in Downtown San Francisco drapes itself in a blanket of pregnant clouds, thick with the promise of rain. Showers and thunderstorms are already playing their part, with the high ebbing ever so slightly, cascading down to a cooler embrace as dusk edges closer. The atmosphere carries a briskness, whipped along by gusty winds, as if the city itself is bracing for the sweeping torrents that may soon engulf the streets. The air turns wet and heavy, inviting the scent of petrichor, while the visibility recedes into the delicate obscurity of low-hanging fog.\n\nAs the sun retreats behind the clouds, the evening beckons with a cool, damp chill. A light jacket or a cozy sweater becomes essential attire, woven to ward off the encroaching cold. Footsteps may stir along worn pathways, perhaps leading one to a quiet caf\u00e9, where the warm glow of light offers solace amidst the storm. Alternatively, the more daring might choose to brave the elements, relishing in the electric thrill of the stormy skies overhead. Tonight\u2019s rain, as intense as it may be, holds a gentle beauty\u2014a reminder that even in a bustling city, nature has its way of pausing life in a tender dance of storm and calm.",
-    "color_code": "#A0B0D9",
-    "timestamp": "2025-02-13 17:28:20"
+    "weather_report": "As twilight descends upon Downtown San Francisco, a chill lingers in the air, bringing with it the promise of rain and perhaps a faint murmur of thunder. The skies are draped in a thick, gray-washed canopy, punctuated by a 90% chance of precipitation that lingers like a whispered secret among the buildings. Current temperatures are hovering around the low fifties, and as the night unfolds, they will gently rise to coincide with the damp embrace of fog and mist. West-southwest winds whip through the streets, reminding onlookers of their power; the gusts radiate energy, rustling leaves and sending a shiver down the spine.\n\nLooking ahead to Friday, there is a brief flicker of hope in the forecast, hinting at a chance of sunshine before the day is half-spent. Clouds will part for a moment's respite, unveiling glimmers of blue as the high temperature settles comfortably near fifty-six. However, the wind will remain brisk, a reminder that the warmth of sun does not necessarily banish the cool embrace of the Pacific. For those braving the conditions tonight, don layers\u2014perhaps a waterproof jacket to shield against the drumming rain\u2014and shoes designed to withstand an unexpected puddle. As you step outside, an evening spent cozied up in a neighborhood caf\u00e9 or exploring a local bookstore may be the antidote to the looming storm. Embrace the day\u2019s peculiar theater, for there is beauty even amidst the gray and rain.",
+    "color_code": "#4B6F84",
+    "timestamp": "2025-02-13 18:22:44"
 }
