@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-14T11:43:00+00:00",
-            "temperature_f": 51.962,
-            "temperature_c": 11.09,
-            "humidity": 84.009975335161,
+            "timestamp": "2025-02-14T12:43:00+00:00",
+            "temperature_f": 50.792,
+            "temperature_c": 10.44,
+            "humidity": 84.04876903885,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-14T05:00:00-08:00",
-                "endTime": "2025-02-14T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain. Mostly cloudy, with a low around 49. West northwest wind around 16 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2025-02-14T06:00:00-08:00",
                 "endTime": "2025-02-14T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,30/sct?size=medium",
                 "shortForecast": "Slight Chance Light Rain then Mostly Sunny",
                 "detailedForecast": "A slight chance of rain before 10am. Mostly sunny. High near 55, with temperatures falling to around 52 in the afternoon. West northwest wind 14 to 17 mph, with gusts as high as 24 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-14T18:00:00-08:00",
+                "endTime": "2025-02-15T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 12 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 44. North northwest wind 2 to 12 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a blanket of clouds crowns the skyline, hinting at a day that may begin with whispers of rain. The air carries a crisp chill, draping the city in an enveloping coolness that lingers around 49 degrees. The steady caress of the west-northwest winds, gusting lightly, adds an invigorating energy to the otherwise tranquil atmosphere. Pockets of the marine layer are playing coy, while a mere suggestion of rain falls quietly into the morning, a gentle reminder that the Pacific is never far from this beloved urban expanse.\n\nAs we transition through the morning, the sun is poised to break through, scattering the clouds in a dance of brightness. Expect the temperatures to creep upward, settling around 55 before dipping back toward a cooler 52 by afternoon. While the chance of rain lingers, it seems less likely that the day will experience heavy precipitation; rather, it may merely greet us with moments of clarity, punctuated by the occasional misty whisper. A layered approach to attire is wise\u2014perhaps a light jacket to fend off the morning chill, shedding it as the sun establishes its rule over the skies. Consider a leisurely stroll along the Embarcadero, where the vibrant energy of the waterfront complements the gentle lapping of the tides. Or explore the warm atmosphere of a quiet caf\u00e9, where books and conversations thrive in the glow of daylight, offering a perfect sanctuary from the brisk winds.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-02-14 05:05:21"
+    "weather_report": "In the early hours of this February morning, Downtown San Francisco awakens to a palette of muted grays and gentle breezes. The slight chance of rain has dissipated, leaving a subtle clarity in the air. Though the sun has yet to illuminate the horizon, the promise of a mostly sunny day lies ahead, with temperatures expected to gently peak around 55 degrees. A cool west-northwest wind, brisk yet soothing, whispers through the city streets, carrying with it the essence of a typical San Francisco day. \n\nAs the morning unfolds, the city might find some lingering fog attempted to cling to the edges of the Golden Gate, yet it appears largely unfazed by the promise of sunshine. With the low hanging clouds retreating, the retreat creates an inviting atmosphere perfect for a leisurely stroll. Dressing in layers will be key; perhaps a light jacket over a soft sweater, balancing comfort against the coolness that may linger in the shaded corners. For the day ahead, a visit to a local bakery to enjoy a fresh pastry while absorbing the sights and sounds of the waking city could be a perfect way to revel in the serene beauty of urban life. As you navigate the streets, whether by foot or perhaps on a leisurely bike ride, take a moment to embrace the charm that blankets this vibrant city, where every corner has a story waiting to be discovered.",
+    "color_code": "#A5B3C2",
+    "timestamp": "2025-02-14 06:02:14"
 }
