@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-14T17:00:00-08:00",
-                "endTime": "2025-02-14T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 55, with temperatures falling to around 52 in the afternoon. West northwest wind around 13 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-14T18:00:00-08:00",
                 "endTime": "2025-02-15T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 44. North northwest wind 2 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-02-15T06:00:00-08:00",
+                "endTime": "2025-02-15T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 56, with temperatures falling to around 54 in the afternoon. East wind around 5 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Downtown San Francisco, a blanket of sunshine wraps the city, caressing the waves of the bay with its warm embrace. The atmospheric brightness reveals a crispness typical of this urban landscape, where the chill of the northwest wind dances around at a lively pace. With temperatures nudging near the mid-fifties, the air retains a refreshing clarity, hinting at the absence of the fog that often cloaks the Golden Gate Bridge. The city stands in serene splendor under a wide blue expanse, and the parks and streets seem to invite those who would serenely wander or enjoy a respectful moment of pause amidst the beauty.\n\nAs night descends, the sky will hint at later layers of twilight, transitioning to a gentle stillness, with temperatures softly dipping to around 44 degrees. A sweater or light jacket will be sufficient, as the whisper of a north northwest breeze brushes past. This evening calls for idle promenade along the Embarcadero or perhaps a quiet gathering at a nearby caf\u00e9, allowing the warmth of conversation to harmonize beautifully with the coolness of the night air. The day\u2019s well-deserved pause invites a leisurely exploration of the city\u2019s nooks and crannies, promising unexpected moments to treasure.",
-    "color_code": "#A1B2C3",
-    "timestamp": "2025-02-14 17:28:12"
+    "weather_report": "Tonight in Downtown San Francisco, the skies present a serene clarity, a calm canvas punctuated only by the faint glow of distant lights. With a gentle north-northwest breeze whispering through the city, temperatures will settle around a crisp 44 degrees. The air feels almost purified, inviting a deep breath as the evening unfolds, layering the city in a hush that seems to cradle its many stories. \n\nAs Saturday dawns, the city will embrace a mix of sun and scattered clouds. The sun\u2019s gradual ascent hints at warmth, with the high nudging close to 56 degrees, before yielding to a cooler afternoon breeze. Fog may be lingering beyond the Golden Gate, but within the city, the day is set to unfurl pleasantly. An ideal way to experience this tranquil weather would be to slip into comfortable layers\u2014perhaps a light sweater paired with a cloak of timeless denim\u2014perfect for the gentle chill. Engaging in a leisurely stroll, perhaps along the waterfront or a quiet corner caf\u00e9, would allow for both warmth and connections with the vibrant hum of city life beneath a brushed canvas of blue and white.",
+    "color_code": "#8C9BA5",
+    "timestamp": "2025-02-14 18:21:59"
 }
