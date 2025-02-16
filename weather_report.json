@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-16T11:43:00+00:00",
-            "temperature_f": 47.714,
-            "temperature_c": 8.73,
-            "humidity": 89.016637826646,
+            "timestamp": "2025-02-16T12:43:00+00:00",
+            "temperature_f": 47.552,
+            "temperature_c": 8.64,
+            "humidity": 86.004035418471,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-16T05:00:00-08:00",
-                "endTime": "2025-02-16T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 47. West southwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2025-02-16T06:00:00-08:00",
                 "endTime": "2025-02-16T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Light Rain",
                 "detailedForecast": "A slight chance of rain between noon and 3pm. Mostly cloudy. High near 56, with temperatures falling to around 54 in the afternoon. South wind 2 to 6 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-16T18:00:00-08:00",
+                "endTime": "2025-02-17T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 47. West wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the early hours unfold in Downtown San Francisco, a dense veil of clouds blankets the city, shrouding it in a muted hush. The air is cool, lingering around the mid-forties, and invites a gentle west-southwest breeze that dances at a whisper of two miles per hour. This foggy embrace creates a soft focus on the craggy outlines of the Golden Gate, where the bay gently lulls in its eternal cadence. Although the sun will soon attempt to break through this cloudy fortress, the mood remains solemn, with afternoon temperatures anticipated to barely inch above fifty.\n\nToday offers a delicate chance for rain, particularly between noon and three, as if the skies might shyly spill a drop or two in quiet grace. Those venturing outdoors should prepare for the unpredictable; a light jacket layered over a casual tee would suffice, perhaps accompanied by a sturdy pair of shoes for a spontaneous jaunt along waterfront paths, with the occasional sprinkle urging one to pause and relish the gentle rhythm of the day. Indoor pursuits might beckon as well\u2014a charming caf\u00e9 with rich, velvety coffee and a nook to nestle into with a well-loved book is an inviting option. While nature appears somewhat reserved, today nonetheless whispers possibilities for warmth, contemplation, and a slow dance with the clouds.",
-    "color_code": "#4B4B4B",
-    "timestamp": "2025-02-16 05:03:59"
+    "weather_report": "The dawn light drapes over Downtown San Francisco with a muted grayness, a prelude to the day ahead, where the promise of rain whispers softly in the air. A slight chance of showers dances between noon and three o'clock, beckoning you to prepare for the gentle touch of droplets. The clouds loom like specters overhead, a thick blanket muffling the warmth that normally graces this vibrant city. As the day unfolds, temperatures will descend ever so subtly, leaning toward a brisk 54 degrees\u2014a reminder to wrap yourself in layers to guard against the creeping chill.\n\nThe marine layer, typical for this time of year, hangs low like a curtain, though it offers a hint of the golden hues of the distant bridge and the enchanting skyline\u2014evidence of San Francisco's undying allure beneath muted skies. While the day may offer only the subdued beauty of a cloudy panorama, it is the perfect opportunity to traverse the quieter streets, perhaps indulging in a leisurely stroll at the waterfront or settling into a cozy caf\u00e9 for a moment of solace. Seek the warmth of a good book or the glow of a warm cup of coffee as you embrace the understated elegance of a day that asks for simple pleasures over grand adventures.",
+    "color_code": "#A3A3A3",
+    "timestamp": "2025-02-16 06:01:50"
 }
