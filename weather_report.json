@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-17T11:43:00+00:00",
-            "temperature_f": 47.696,
-            "temperature_c": 8.72,
-            "humidity": null,
+            "timestamp": "2025-02-17T12:43:00+00:00",
+            "temperature_f": 47.408,
+            "temperature_c": 8.56,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-17T05:00:00-08:00",
-                "endTime": "2025-02-17T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 48. West northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Washington's Birthday",
                 "startTime": "2025-02-17T06:00:00-08:00",
                 "endTime": "2025-02-17T18:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 55 in the afternoon. West northwest wind 5 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-17T18:00:00-08:00",
+                "endTime": "2025-02-18T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy. Low around 45, with temperatures rising to around 47 overnight. Northwest wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "The morning in Downtown San Francisco unfolds under a canvas of muted clouds, casting a gentle veil over the cityscape. With night\u2019s lingering chill still in the air, temperatures hover around a cool 48 degrees, brushed by a calm west-northwest breeze that whispers through the streets. As daybreak approaches, one can expect a shift; the clouds may part to reveal hints of sunshine, elevating the temperature to a more inviting 57 degrees by mid-afternoon.\n\nThe horizon towards the Golden Gate Bridge might be softened with a hint of the marine layer, subtly cloaking the iconic vista in a shroud of gray, while the city itself remains somewhat clear, allowing its vibrant life to breathe softly beneath the morning gloom. Dressing in layers provides the smartest approach\u2014an adaptable jacket allows one to greet the day\u2019s gentle descent into warmth while keeping the chill at bay. \n\nThis quiet winter day, adorned with the promise of sun peeking through the clouds, invites a contemplative stroll along the Embarcadero or a leisurely visit to a cozy caf\u00e9. One might lean into the tranquil atmosphere, savoring a warm drink while watching the pulse of the city awaken gradually. Engage in the simple pleasures today offers, as urban life melds with the serenity of the winter sky.",
-    "color_code": "#A9A8A7",
-    "timestamp": "2025-02-17 05:06:37"
+    "weather_report": "Downtown San Francisco awakens to the gentle embrace of a partly sunny morning, where the anticipated high near 57 degrees begins to weave warmth through the air. As the day progresses, temperatures will slide gracefully to around 55 in the afternoon, a reminder of the maritime influences that often linger in this coastal enclave. A soft breeze from the northwest, whispering between 5 and 12 mph, adds a refreshing quality, inviting those who venture outdoors to carry light jackets or cardigans; layering will be your ally today. The evening beckons with partly cloudy skies, a cool breeze swirling softly, and a low dipping to around 45 degrees, perfect for cozying up while absorbing the sights and sounds of the city as they shift with the fading light.\n\nWhile the horizon appears generously clear, hints of haze may linger near the water, a subtle reminder of the marine layer that often graces the city in early mornings. The crisp air invites you to stroll through Golden Gate Park or sip a warm coffee from a nearby caf\u00e9 while people-watching, a quieter pace that matches the day\u2019s gentle unfolding. As twilight approaches, consider a leisurely walk along the waterfront\u2014a chance to absorb the beauty of this unique location, forever caught between the rolling waves of the Pacific and the vibrant life of the city.",
+    "color_code": "#A4A8C2",
+    "timestamp": "2025-02-17 06:01:39"
 }
