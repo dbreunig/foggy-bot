@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-17T05:43:00+00:00",
-            "temperature_f": 50.522,
-            "temperature_c": 10.29,
+            "timestamp": "2025-02-17T06:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
             "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-16T23:00:00-08:00",
+                "name": "Overnight",
+                "startTime": "2025-02-17T00:00:00-08:00",
                 "endTime": "2025-02-17T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "6 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 48. West northwest wind around 6 mph."
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 48. West wind around 6 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 to 12 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 55 in the afternoon. West northwest wind 5 to 10 mph."
+                "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 55 in the afternoon. West northwest wind 5 to 12 mph."
             }
         ]
     },
-    "weather_report": "Tonight, Downtown San Francisco finds itself under a serene, partly cloudy sky, with the chill of the evening setting in gently around a low of 48 degrees. Winds from the west-northwest whisper softly through the streets, providing just enough movement to stir the crisp air. As you glance out, a marine layer lingers discreetly near the coast, creating a soft veil that slightly dulls the lights of the city but adds a hushed charm to the panorama.\n\nLooking ahead to Washington's Birthday, expect a dance of sunshine with a high reaching near 57. The warmth will gradually fade to a cooler 55 as the day draws on. With a gentle breeze of 5 to 10 mph, it promises to be both inviting and refreshing, perfect for a leisurely stroll. Dressing in layers will serve you well; a light sweater paired with a jacket will keep you comfortable as the temperatures shift. On this day, consider venturing through the vibrant corridors of local shops or savoring a quiet moment in one of the nearby parks, soaking in the interplay of warmth and coolness as the day unfolds slowly and beautifully.",
-    "color_code": "#A1C1D9",
-    "timestamp": "2025-02-16 23:01:30"
+    "weather_report": "As the clock delicately ticks past midnight, Downtown San Francisco is enveloped in a gentle embrace of clouds, offering a soft blanket of gray that hints at the stillness of early morning. The temperature rests patiently in the high forties, inviting a cozy layer of warmth. The gentle west wind whispers through the streets, creating a calming soundtrack to the city's nocturnal slumber.\n\nAs dawn begins to unfurl, expect a gradual unveiling of partly sunny skies over Washington's Birthday, with temperatures poised to rise near fifty-seven before descending to a cooler fifty-five in the afternoon. The remnants of the marine layer may linger, a delicate veil obscuring the Golden Gate Bridge at times, yet providing a serene backdrop for the day's activities. Dress in layers to accommodate the day's variability, perhaps donning a light jacket paired with a scarf, allowing for a comfortable transition from the brisk morning air to the pleasantly mild afternoon. \n\nFor the day ahead, consider a stroll along the Embarcadero, where the fresh scent of the bay mingles with the gentle taste of coffee from a nearby caf\u00e9. Seek out a quiet corner in a local park to reflect with a book or engage with a friend in thoughtful conversation, reveling in the understated beauty of the day. Each moment offers a whisper of tranquility amidst the city's vibrant heartbeat, waiting to be uncovered in the delicate play of light and cloud.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-02-17 00:01:47"
 }
