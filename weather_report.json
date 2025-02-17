@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-16T17:00:00-08:00",
-                "endTime": "2025-02-16T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 56, with temperatures falling to around 54 in the afternoon. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-16T18:00:00-08:00",
                 "endTime": "2025-02-17T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 48. West wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Washington's Birthday",
+                "startTime": "2025-02-17T06:00:00-08:00",
+                "endTime": "2025-02-17T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 55 in the afternoon. West northwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, a thick blanket of clouds hangs low, casting a muted light that seems to soften the contours of the city. The air is cool, creeping towards the evening, and as the afternoon wanes, temperatures inch down to around 54 degrees. The gentle whisper of a southwest breeze carries a hint of moisture, a reminder that the fog is never far in this maritime metropolis. Currently, the skyline emerges only faintly through the haze, as the city appears to sway in and out of clarity, the promise of a feigned sun cloaked by the dampness of a West Coast evening.\n\nAs night descends, expect mostly cloudy skies, with a low settling around 48 degrees, calling for layers to keep the gentle chill at bay. A classic wind from the west adds a brisk note to the air, a perfect prompt to pull on a cozy cardigan or scarf before heading out. This is not the kind of day for grand outdoor escapades; rather, it\u2019s ideal for strolling through the softer side of the city\u2014perhaps a quiet visit to a local caf\u00e9, curling up with a book, or wandering through the fog-veiled streets, letting the soothing murmur of the Bay guide your thoughts. The evening\u2019s embrace suggests a warm drink, perhaps, to cradle in your hands as you watch the world wrap itself in evening hues.",
-    "color_code": "#A5C9D8",
-    "timestamp": "2025-02-16 17:28:33"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the atmosphere thickens with a gentle layer of clouds, whispering promises of a cool evening ahead. The temperature, dipping towards the low 50s, will invite a hint of crispness as the west winds stir softly at around six miles per hour. The sky, mostly cloaked in grey, may obscure the sun\u2019s last rays, casting a tranquil yet muted light over the city\u2019s iconic landmarks. As the coast remains shrouded, the fog drapes itself like a veil across the Golden Gate, hinting at the marine influence so characteristic of this area. \n\nLooking ahead to Washington\u2019s Birthday, the day beckons with the possibility of some sun breaking through the clouds, as temperatures cling to the mid-50s. The winds may usher in a refreshing feel, but the lingering chill will prompt one to layer wisely\u2014perhaps a light jacket to fend off the evening breeze. This is a day to embrace the understated beauty of the city; a meander along the Embarcadero, a visit to a cozy caf\u00e9 for warm drinks, or a leisurely stroll through the Presidio, where the trees stand sentinel against the lazy fog. Enjoy the quietude that accompanies a holiday, where the path less traveled invites exploration at a leisurely pace.",
+    "color_code": "#B0C4E6",
+    "timestamp": "2025-02-16 18:24:45"
 }
