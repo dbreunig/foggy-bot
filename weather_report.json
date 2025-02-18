@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-18T00:43:00+00:00",
-            "temperature_f": 54.446,
-            "temperature_c": 12.47,
-            "humidity": 68.026367701478,
+            "timestamp": "2025-02-18T01:43:00+00:00",
+            "temperature_f": 53.275999999999996,
+            "temperature_c": 11.82,
+            "humidity": 71.291104109706,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Washington's Birthday",
-                "startTime": "2025-02-17T17:00:00-08:00",
-                "endTime": "2025-02-17T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 55 in the afternoon. West northwest wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-17T18:00:00-08:00",
                 "endTime": "2025-02-18T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 46. Northwest wind 3 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-02-18T06:00:00-08:00",
+                "endTime": "2025-02-18T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 59, with temperatures falling to around 56 in the afternoon. North wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As twilight descends on Downtown San Francisco, the air is imbued with a crispness that carries the promise of an idyllic evening. The sky is painted in soft pastels, a gentle farewell to the day, with diminishing sunlight casting a warm glow on the cityscape. The forecast suggests a continuation of this cheerful weather through the evening, with mostly sunny conditions expected to give way to a comfortable night whose chill will encourage layered attire\u2014think a light jacket over your favorite sweater, perhaps even a scarf as the breeze picks up slightly. \n\nThe view from atop Sutro Tower reveals that while the city remains largely free of fog, the faint whisper of the marine layer can be sensed drifting along the horizon, its presence most notable near the iconic Golden Gate Bridge. This fleeting veiling adds a hint of mystery, inviting the curious to ponder the stories hidden within that ethereal embrace. With the tranquil scenery and mild temperatures, the evening beckons you to take a leisurely stroll through the streets or perhaps settle into an out-of-the-way caf\u00e9 to sip coffee while watching the world saunter by, each person a vessel of their own stories.",
-    "color_code": "#A5C4D8",
-    "timestamp": "2025-02-17 17:28:22"
+    "weather_report": "As night wraps Downtown San Francisco in its quiet embrace, the air feels still and crisp, with the temperature dipping to a refreshing 46 degrees. Partly cloudy skies usher in a gentle northwest wind, brushing through the streets at a mild pace, lending an almost ethereal quality to the evening. Peering into the horizon, the city\u2019s lights twinkle like constellations scattered beneath a blanket of soft cloud cover. There\u2019s no hint of fog suffocating the view tonight; rather, a mellow clarity settles over the landscape, revealing the city's skyline with a serene intimacy.\n\nAs we transition into Tuesday, the dawn will greet us with mostly sunny skies, though the warmth will gradually shift as the afternoon beckons, cooling to around 56 degrees. For those venturing out, comfort is key; a light jacket or sweater would be wise as the breeze may carry a chill. The day holds a perfect invitation to enjoy quiet strolls along the waterfront, where the sun dances on the bay\u2019s surface, or perhaps to explore the nooks of a local caf\u00e9, savoring the warmth of a fresh brew while the city comes alive around you. Seek out moments that unfold with ease; this weather whispers of calm opportunities to connect with the heart of San Francisco\u2019s vibrant life.",
+    "color_code": "#6B8E23",
+    "timestamp": "2025-02-17 18:22:27"
 }
