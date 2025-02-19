@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-19T11:43:00+00:00",
-            "temperature_f": 51.494,
-            "temperature_c": 10.83,
-            "humidity": 80.019417313075,
+            "timestamp": "2025-02-19T12:43:00+00:00",
+            "temperature_f": 50.936,
+            "temperature_c": 10.52,
+            "humidity": 81.020852924072,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-19T05:00:00-08:00",
-                "endTime": "2025-02-19T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 49. Southwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2025-02-19T06:00:00-08:00",
                 "endTime": "2025-02-19T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,20?size=medium",
                 "shortForecast": "Chance Light Rain",
                 "detailedForecast": "A chance of rain and patchy fog before 4pm. Partly sunny, with a high near 58. Southwest wind 5 to 12 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-19T18:00:00-08:00",
+                "endTime": "2025-02-20T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear. Low around 46, with temperatures rising to around 48 overnight. Northwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "In the early hours of this Wednesday morn, Downtown San Francisco awakens to a cool embrace, the air laden with the scent of possibility as rain whispers its intentions, albeit timidly. Cloud cover drapes the city like an enigmatic veil, a prelude to the day\u2019s unfolding narrative. Expecting a modest high around fifty-eight, the gentle swells of the southwest wind serve as a reminder of the ocean\u2019s proximity, the chill a subtle cue to wrap yourself in layers that offer both warmth and comfort\u2014perhaps a cozy cardigan or a well-loved scarf.\n\nAs the sun begins its lazy ascent, the chance of rain lingers, accompanied by lingering hints of fog hovering close to the Golden Gate, teasing the edges of visibility and encasing the iconic bridge in a soft embrace of mystery. The day\u2019s split personality comes alive, offering moments of sun where the playful patches of blue break forth, allowing for a breath of fresh air. In light of these surroundings, a stroll through the Presidio remains an inviting option, the trails brushed by cool winds and the brush of nature, urging one to embrace the serenity woven into the heart of the city.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-02-19 05:05:52"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the city awakens under a canopy of uncertainty, with hints of fog lazily clinging to the hills and a soft sprinkle of rain lingering in the air. The forecast calls for a day that may hold a touch of drama, with clouds occasionally parting to reveal the sun\u2019s shy countenance around midday. Anticipate the day to warm slightly, reaching a high that flirts with the cool end of comfortable; the gentle southwest breeze whispers stories from the bay at a brisk five to twelve miles per hour. \n\nAs the morning unfolds, the patchy fog will likely retreat, though it may leave behind a fleeting coolness best known to San Franciscans. It's advisable to layer up\u2014think a light sweater beneath a classic windbreaker, perfect for the dance of sunshine and shadow. With a mild evening waiting to wrap itself around the city, it could be an opportune time for a stroll along the waterfront or a visit to one of the quaint caf\u00e9s that dot the landscape. Whether savoring a warm drink while watching the gentle movements of the bay or simply breathing in the crisp air, it\u2019s a day meant for embracing the unique character that defines this city.",
+    "color_code": "#A4B4D4",
+    "timestamp": "2025-02-19 06:02:04"
 }
