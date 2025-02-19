@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-19T17:43:00+00:00",
-            "temperature_f": 55.652,
-            "temperature_c": 13.14,
-            "humidity": 74.007960259837,
+            "timestamp": "2025-02-19T18:43:00+00:00",
+            "temperature_f": 52.52,
+            "temperature_c": 11.4,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-19T10:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-19T12:00:00-08:00",
                 "endTime": "2025-02-19T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 30
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "7 to 13 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain before 4pm. Partly sunny, with a high near 58. West southwest wind 8 to 12 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain before 4pm. Partly sunny. High near 58, with temperatures falling to around 56 in the afternoon. West southwest wind 7 to 13 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "6 to 10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear. Low around 46, with temperatures rising to around 48 overnight. Northwest wind 5 to 10 mph."
+                "detailedForecast": "Mostly clear. Low around 46, with temperatures rising to around 48 overnight. Northwest wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the day unfolds in Downtown San Francisco, a delicate tranquility hangs in the air, punctuated by a slight chance of rain that may stir faint memories of wet pavement. The sun, shy yet persistent, peers through a thin veil of clouds, casting a muted light over the city, hinting at a mild high of 58. The breeze, gentle and cool, rustles the leaves, a reminder of the capricious nature of this coastal enclave, while the chance of precipitation lingers at an unassuming 20%. \n\nAs twilight approaches, the evening promises to be mostly clear, with temperatures gracefully transitioning to a comfortable 46 degrees by nightfall. For those venturing outside, a light jacket would suffice, perhaps accompanied by a cozy scarf to fend off the chill. Given the day's ambiance, one might find pleasure in a leisurely stroll along the waterfront or perhaps an impromptu visit to a local caf\u00e9 to savor a warm drink and watch the city\u2019s rhythm unfold. The scenery, while not drenched in brilliant light, holds a charm in its understated beauty\u2014a perfect backdrop for a quiet moment of reflection or simply to enjoy the ebb and flow of daily life.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2025-02-19 11:01:31"
+    "weather_report": "As midday unfolds in Downtown San Francisco, a muted chill lingers in the air. The clouds, thick and brooding, cast a soft gray veil over the city. There\u2019s the scent of impending rain, a whisper suggesting that the moisture may soon punctuate the forecasted afternoon with a brief but welcomed shower. Temperatures dance around the mid-fifties, a fleeting warmth that teeters gently before succumbing once more to the encroaching coolness of the afternoon wind, nudging through with the familiar saltiness of the bay. \n\nAs daylight fades into evening, the sky offers the promise of clarity, lifting to reveal the twinkling lights of the cityscape once more as darkness descends. With a low resting at 46 degrees, you might find comfort in layering, perhaps a soft sweater underneath a light jacket to ward off the bite of the northwest breeze. In these elusive hours of dusk, a stroll along the Embarcadero could serve well, allowing the rhythm of the city to envelop you, where the echoes of laughter and the murmur of waves harmoniously blend into the evening. Alternatively, a quiet retreat to one of the many cozy cafes to sip warm brew while observing the gentle ebb and flow of life around you feels simply right.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2025-02-19 12:01:41"
 }
