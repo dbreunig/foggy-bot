@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-22T11:43:00+00:00",
-            "temperature_f": 48.614000000000004,
-            "temperature_c": 9.23,
-            "humidity": 86.005968120331,
+            "timestamp": "2025-02-22T12:43:00+00:00",
+            "temperature_f": 48.362,
+            "temperature_c": 9.09,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-22T05:00:00-08:00",
-                "endTime": "2025-02-22T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 47. West wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2025-02-22T06:00:00-08:00",
                 "endTime": "2025-02-22T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 65, with temperatures falling to around 60 in the afternoon. West northwest wind 2 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-22T18:00:00-08:00",
+                "endTime": "2025-02-23T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 50. West southwest wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a cool tranquility prevails. The skies are partly cloudy, with hints of light struggling to pierce through the lingering veil of night. A gentle breeze whispers through the streets, carrying with it the promise of a mild day ahead. Settle into the comforting embrace of a cozy sweater or light jacket, as the morning chill crawls toward 47 degrees, before the afternoon offers a pleasant respite, nudging temperatures near 65.\n\nThe day unfolding will be predominantly sunny, though the afternoon may greet us with a subtle shift, as the warmth recedes to a comfortable 60 degrees. While there are no immediate signs of the infamous fog that often blankets this area, the edges of the city may wear a light mist that dances along the waterfront\u2014silent and serene. As the sun rises higher, the clarity of the day will reveal stunning views, perfect for a leisurely stroll along the Embarcadero or a quiet moment in one of the many parks. Embrace a simple caf\u00e9 visit with a warm beverage, allowing the day to reveal its charm in unhurried exploration.",
-    "color_code": "#A3B0B7",
-    "timestamp": "2025-02-22 05:03:39"
+    "weather_report": "In the early light of daybreak, Downtown San Francisco awakens under mostly sunny skies, offering a gentle reprieve from the chill of winter nights. The coolness in the air still carries traces of overnight fog, which seems to linger just beyond the city, shrouding the Golden Gate Bridge in a whisper of marine mist, though the sun\u2019s steady ascent promises to disperse it soon. The high, reaching near 65, invites residents outdoors, where a light wind dances in from the west, barely stirring the leaves as the temperature gradually settles into a more midday warmth.\n\nToday is a chance to revel in the city's charm, your attire perhaps a light sweater paired with a long-sleeve shirt, harmonizing comfort with the remnants of morning coolness. An afternoon stroll along the Embarcadero may be particularly delightful\u2014where the iconic waterfront meets bustling life\u2014offering opportunities to explore local boutiques or simply to savor a tranquil moment by the bay. As evening descends, the skies will shift to a delicate partly cloudy tableau, the temperatures gently retreating toward the low 50s, inviting a cozy atmosphere perfect for an intimate dinner at your favorite caf\u00e9. This day holds the promise of simple pleasures, a harmonious blend of sunlit jaunts and quiet reflection.",
+    "color_code": "#A2B3C4",
+    "timestamp": "2025-02-22 06:01:26"
 }
