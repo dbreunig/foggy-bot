@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-23T11:43:00+00:00",
-            "temperature_f": 52.268,
-            "temperature_c": 11.26,
-            "humidity": 86.971748519401,
+            "timestamp": "2025-02-23T13:43:00+00:00",
+            "temperature_f": 51.44,
+            "temperature_c": 10.8,
+            "humidity": 91.988149875,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-23T05:00:00-08:00",
-                "endTime": "2025-02-23T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 50. West southwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-02-23T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2025-02-23T07:00:00-08:00",
                 "endTime": "2025-02-23T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 63,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy. High near 63, with temperatures falling to around 60 in the afternoon. Southwest wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-23T18:00:00-08:00",
+                "endTime": "2025-02-24T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 52. West southwest wind around 5 mph."
             }
         ]
     },
-    "weather_report": "The early morning in Downtown San Francisco drapes the city in a soft layer of quiet, veiled beneath a shroud of cloud cover that hints at the cooler, muted tones of the day ahead. The air is crisp and fresh, carrying with it the scent of damp earth and distant ocean, creating a calming backdrop for the early riser. With temperatures gently cradled in the low fifties, the atmosphere feels inviting yet underlines the necessity of a light jacket or a cozy sweater to ward off the chill as the sun seeks to pierce through the ever-present gray.\n\nAs the day unfolds, the clouds will linger, retracting only slightly as warmth rises to a comfortable sixty-three degrees before rolling back into the brisk coastline. This tapestry of the city, where fog graces the hills and wraps tenderly around the Golden Gate, inspires a sense of contemplation. The marine layer softly hugs the shoreline, suggesting a perfect moment for a serene stroll along the Embarcadero. Instead of the bustling cafes, consider finding solace in the quieter corners of Treasure Island, where the whispers of the wind converge with distant views of the Bay and city skyline. Simple endeavors like enjoying a warm drink while watching the fog dance across the waters might be what today calls for, offering a gentle reminder to savor the understated beauty of the city even amidst its gray cloak.",
-    "color_code": "#A8B9C4",
-    "timestamp": "2025-02-23 05:04:03"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a veil of gray wraps the city, a soft blanket of cloud that patiently lingers like a shy friend waiting to be invited in. Beneath the muted light, the temperature hovers near a crisp 63, dipping ever gradually as the hours turn to afternoon. The gentle whispers of the southwest wind carry a promise of more chill to come with an evening low settling around 52. Although the clouds impart an ethereal glow to the skyline, the presence of fog on the fringes hints at the marine layer's encroaching grip, discreetly wrapping around the Golden Gate and caressing the bay.\n\nThe day\u2019s offerings compel introspection\u2014perhaps a leisurely stroll along the Embarcadero, where the rhythm of the water mirrors the subdued hues above. Or a quiet moment in a cozy caf\u00e9, savoring a warm drink as the world bustling outside fades into a blur of soft shadows. Attire should lean towards comfort, perhaps a layer or two more than usual, wrapping oneself in light knits or an unassuming sweater, ensuring one is sheltered against the coolness of the afternoon without sacrificing ease. In this tranquil, cloudy interlude, simplicity reigns\u2014embrace the day as it unfolds lazily, a gentle reminder of life\u2019s quieter moments.",
+    "color_code": "#BDC3C7",
+    "timestamp": "2025-02-23 07:01:50"
 }
