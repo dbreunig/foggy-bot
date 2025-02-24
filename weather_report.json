@@ -7,7 +7,7 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-24T11:43:00+00:00",
+            "timestamp": "2025-02-24T12:43:00+00:00",
             "temperature_f": null,
             "temperature_c": null,
             "humidity": null,
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-24T05:00:00-08:00",
-                "endTime": "2025-02-24T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 52. West southwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2025-02-24T06:00:00-08:00",
                 "endTime": "2025-02-24T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy. High near 61, with temperatures falling to around 57 in the afternoon. South southwest wind 3 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-24T18:00:00-08:00",
+                "endTime": "2025-02-25T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 49. West northwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a blanket of clouds lingers in the sky, weaving a tapestry of muted grays and soft whites. The crisp air, hovering just above the chill, invites those awake to embrace the tranquility of a morning where the sun remains shy, hidden behind the veil of encroaching clouds. With a gentle breeze from the west, you may find the city whispering promises of warmth, yet, the day is destined to remain largely overcast, with temperatures dipping to a more temperate 57 by afternoon.\n\nWhile the fog may not rule the day, wisps of the marine layer flirt with the skyline, wrapping the Golden Gate Bridge in its elusive embrace. The ambiance is quiet, subdued, but not oppressive; there\u2019s a certain comfort in this weather that beckons one toward mundane pleasures. Think of meandering through quieter neighborhoods, perhaps pausing at a local caf\u00e9, savoring a warm drink as the day unfolds. Attire that offers layers will serve you best\u2014think a lightweight jacket over a soft sweater, allowing for those periodic glimpses of warmth as the clouds shift. For the urban explorer, today is less about grand adventures and more about delightful moments stolen among the city's charms.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-02-24 05:06:27"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the city enveloped in a blanket of soft gray clouds evokes a sense of calm and quietude. The forecast hints at a day where the sun will shyly peek through the blend of clouds and cool air, with temperatures nudging towards the low 60s before settling back in the afternoon chill. A gentle south-southwest breeze breathes life into the air, adding a touch of freshness to the morning. \n\nIn this serene setting, the marine layer lingers, hinting at the presence of fog just off the coast, its ethereal wisps caressing the iconic Golden Gate. While the visibility may fluctuate, the overall atmosphere remains clear enough to appreciate the city's architectural gems, their silhouettes softly defined against the muted sky. For the day, those venturing outside may find comfort in layered clothing\u2014perhaps a light sweater paired with a windbreaker, allowing one to adapt to the shifting temperatures. Activities could include a leisurely stroll along Market Street, where the world slowly awakens, or perhaps indulging in a warm cup of coffee at a cozy caf\u00e9, where the chatter of fellow San Franciscans fills the air, painting the morning with warmth.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-02-24 06:01:46"
 }
