@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-23T23:43:00+00:00",
-            "temperature_f": 58.694,
-            "temperature_c": 14.83,
-            "humidity": 80.148817126409,
+            "timestamp": "2025-02-24T01:43:00+00:00",
+            "temperature_f": 55.652,
+            "temperature_c": 13.14,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-23T17:00:00-08:00",
-                "endTime": "2025-02-23T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 60, with temperatures falling to around 58 in the afternoon. West wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-23T18:00:00-08:00",
                 "endTime": "2025-02-24T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Fog",
                 "detailedForecast": "Patchy fog after midnight. Mostly cloudy, with a low around 53. West southwest wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-02-24T06:00:00-08:00",
+                "endTime": "2025-02-24T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Cloudy",
+                "detailedForecast": "Patchy fog before 10am. Mostly cloudy. High near 61, with temperatures falling to around 58 in the afternoon. Southwest wind 3 to 9 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the day unfolds under a blanket of mostly gray clouds, which hang like a delicate veil over the city. As the afternoon edges towards evening, temperatures hover around the chilly 60-degree mark, and a gentle breath of wind from the west carries with it the faint promise of change. Below, the streets bustle quietly, but a gauzy layer of fog creeps in after midnight, softening the line where sky meets water near the Golden Gate, hinting at the marine layer's subtle embrace.\n\nAs twilight approaches, heavy sweaters or light jackets would serve well against the briskness in the air, while footwear suited for a stroll along the waterfront might offer an enjoyable distraction from the crisp chill. The landscape invites a leisurely evening out, perhaps meandering through the winding streets or seeking refuge in one of the cozy local cafes, each promising warmth and comfort in welcome defiance of the mist. The charm of the fog, though persistent, molds the night into one of serene introspection, making the city appear quietly enchanting as it prepares to whisk you into the soothing lull of nightfall.",
-    "color_code": "#9CA6B5",
-    "timestamp": "2025-02-23 17:28:43"
+    "weather_report": "As the sun settles into its slumber, Downtown San Francisco wraps itself in a gentle embrace of twilight. The air carries a cool breath, whispering hints of fog that huddle close to the bay. Tonight's chill kisses the skin, dropping to a comfortable low, perfect for a light jacket. Above, a quilt of clouds cloaks the heavens, bringing a promise of patchy fog after midnight that may morph the skyline into a dreamlike tableau. \n\nMonday will dawn softly, the morning likely veiled in a fleeting mist, but as the day progresses, that fog will lift, revealing patches of gray and blue in the afternoon sky, with temperatures teetering in the low sixties. A casual stroll along the Embarcadero, perhaps with coffee in hand, seems an ideal way to embrace the milky light filtering through the clouds. The cool southwesterly breeze serves as a reminder of the ocean's proximity, encouraging layers to ward off the evening's chill as one finds solace in quiet caf\u00e9s or lively bookstores. Dress comfortably\u2014think breathable fabrics topped with a snug cardigan\u2014and let the city's gentle vibrancy guide your evening plans.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-02-23 18:25:28"
 }
