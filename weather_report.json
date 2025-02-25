@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-24T16:00:00-08:00",
-                "endTime": "2025-02-24T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 61, with temperatures falling to around 57 in the afternoon. West southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-24T18:00:00-08:00",
                 "endTime": "2025-02-25T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy. Low around 48, with temperatures rising to around 50 overnight. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-02-25T06:00:00-08:00",
+                "endTime": "2025-02-25T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. Northwest wind around 8 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco this afternoon, a thick blanket of clouds lingers above, wrapping the city in a muted embrace. The high temperature hovers near a cool 61 degrees, gradually yielding to a slightly chillier 57 as the day wanes. The west-southwest wind whispers through the streets, gentle yet persistent, offering a subtle reminder of the coastal influence that shapes this vibrant locale. While the city needs only to look to its immediate surroundings to catch sight of the looming marine layer, it arrives with an air of mystery that softens the skyline, leaving the Golden Gate Bridge partially obscured and ethereal.\n\nAs evening approaches, the clouds will continue to cloak the city, drifting softly across the sky. A low of around 48 degrees is expected, transitioning to a slightly warmer 50 overnight. It\u2019s a time for layers; a light jacket or sweater will provide comfort against the chill that settles in as darkness envelops the streets. As you contemplate your afternoon, consider meandering through one of the local cafes, savoring a warm beverage while watching the world pass quietly by. Alternatively, an early evening stroll along the Embarcadero, framed by the soft glow of lights reflecting on the water, invites a moment of connection with the pulse of the city, even in its clouded serenity.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-02-24 17:28:31"
+    "weather_report": "As the residents of Downtown San Francisco settle into the evening, they are greeted by a muted atmosphere, cloaked in a veil of clouds that gently obscure the twilight sky. The chill of the night begins its slow creep, promising a low around 48 degrees. The muted rumble of conversations mingles with the soft whispers of a west wind, brushing past at a modest seven mph, while a sense of quiet anticipation lingers in the air. With a promise of warmth holding on just for the moment, the temperatures may rise to 50 overnight, offering a slight comfort against the encroaching cool.\n\nAs dawn beckons tomorrow, the city could awaken to a bright and inviting canvas painted with vibrant sunshine. A high near 62 degrees is anticipated, though it\u2019s wise to be prepared for a gradual fall to around 60 by afternoon. With a northwestern breeze tickling the streets at eight mph, it would be prudent to layer clothing for the day ahead\u2014perhaps a light jacket or a cozy sweater to ward off early morning briskness, and a comfortable shirt beneath to find solace in the sunny embrace as the hours pass. For those seeking invigorating simplicity, a stroll through one of the city\u2019s warm parcelling among the delightful shops or perhaps a leisurely visit to a caf\u00e9 can be an excellent way to embrace the unfolding day, all while dodging the lingering marine air that might subtly shift through the atmosphere.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-02-24 18:24:51"
 }
