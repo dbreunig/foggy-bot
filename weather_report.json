@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-02-26T17:43:00+00:00",
-            "temperature_f": 57.488,
-            "temperature_c": 14.16,
-            "humidity": 66.997269803542,
+            "timestamp": "2025-02-26T18:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-26T10:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2025-02-26T12:00:00-08:00",
                 "endTime": "2025-02-26T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 67,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
+                "windSpeed": "7 mph",
+                "windDirection": "NNE",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 67, with temperatures falling to around 65 in the afternoon. North wind around 6 mph."
+                "detailedForecast": "Sunny. High near 67, with temperatures falling to around 65 in the afternoon. North northeast wind around 7 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2025-02-26T18:00:00-08:00",
                 "endTime": "2025-02-27T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 51,
+                "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -49,14 +49,14 @@
                     "value": null
                 },
                 "windSpeed": "6 mph",
-                "windDirection": "NW",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 51. Northwest wind around 6 mph."
+                "detailedForecast": "Mostly clear, with a low around 50. North wind around 6 mph."
             }
         ]
     },
-    "weather_report": "Today in Downtown San Francisco, the sun graces the city, casting a warm glow against the clear blue backdrop of the sky. The temperature, peaking near a pleasant 67 degrees, will gently nestle its way down to a comfortable 65 by the afternoon, inviting inhabitants to revel in the day's mild charm. The air is permeated with a gentle northwesterly breeze, lending a refreshing touch that dances through the streets. As the evening approaches, the skies will remain mostly clear, with the temperature retreating to a tranquil 51 degrees, perfect for a serene night out.\n\nThe absence of fog signifies clarity, allowing the iconic landmarks of the Bay Area to stand boldly against the horizon. With such delightful weather, a leisurely stroll along the waterfront could be a rejuvenating escape, or perhaps a visit to a local caf\u00e9, where the soothing hum of conversation mingles with the aroma of freshly brewed coffee. Dressing in layers would be wise, as the warmth of the day may give way to a cool evening, and a light jacket could serve as a cozy companion as the twilight settles in.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-02-26 11:01:30"
+    "weather_report": "The sun is casting its golden light over Downtown San Francisco this afternoon, knitting a tapestry of warmth amidst the cool breeze. A gentle northeasterly wind brushes against your skin, while the crisp clarity of the day offers a pleasant embrace, edging temperatures near a comfortable 67 degrees as they settle down to around 65. The expansive blue sky leaves little room for doubt; the fog has decided to remain absent, its marine layer nowhere in sight. Instead, there is a shimmering brilliance that speaks of exploration and respite.\n\nAs the day inches towards evening, the clear skies will make way for a gentle descent in temperature, falling to a cozy 50 degrees tonight. With this blend of late-winter warmth and evening chill, consider dressing in layers\u2014perhaps a light sweater accompanied by a jacket for later, when the night whispers of coolness but still offers a peaceful respite. As the afternoon unfolds, why not wander through the city's vibrant streets, indulge in a cozy caf\u00e9, or stroll along the waterfront? Wherever you choose to roam, today beckons with the kind of clarity that invigorates the spirit and holds the promise of simple joy.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-02-26 12:01:37"
 }
