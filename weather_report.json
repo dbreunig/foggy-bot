@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-02T10:43:00+00:00",
-            "temperature_f": 51.278000000000006,
-            "temperature_c": 10.71,
-            "humidity": 75.009616073785,
+            "timestamp": "2025-03-02T13:43:00+00:00",
+            "temperature_f": 48.308,
+            "temperature_c": 9.06,
+            "humidity": 96.027401981249,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-02T05:00:00-08:00",
-                "endTime": "2025-03-02T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 48. West wind around 12 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-03-02T06:00:00-08:00",
+                "name": "Today",
+                "startTime": "2025-03-02T07:00:00-08:00",
                 "endTime": "2025-03-02T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 50
                 },
-                "windSpeed": "13 to 20 mph",
+                "windSpeed": "14 to 20 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,50/rain,30?size=medium",
                 "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Partly sunny. High near 54, with temperatures falling to around 51 in the afternoon. West northwest wind 13 to 20 mph, with gusts as high as 28 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain. Partly sunny. High near 54, with temperatures falling to around 51 in the afternoon. West northwest wind 14 to 20 mph, with gusts as high as 28 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-02T18:00:00-08:00",
+                "endTime": "2025-03-03T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "14 to 18 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain before 4am. Partly cloudy, with a low around 47. West northwest wind 14 to 18 mph, with gusts as high as 29 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the dawn gives way to Sunday, a soft haze lingers over Downtown San Francisco, wrapping the city in an understated embrace. The promise of rain hovers, the air cool and invigorating at around 48 degrees, with winds whispering from the west. With a chance of 40% precipitation overnight and a cloudiness that stretches across the skyline, the morning presents a wandering spirit with hints of sunlight trying to break through. The temperatures are expected to gently fall throughout the day, making its way toward a high near 54\u2014a cool day which may crank down to the low 50s in the afternoon as winds pick up, sending gusts that dance between 13 to 20 mph.\n\nUnder these conditions, while the day may lack the brilliance of blue skies, there remains an opportunity for a contemplative stroll through the quieter streets or along the waterfront. One might even find pleasure in a cozy caf\u00e9, sipping a warm beverage while watching droplets trace pattern across windows and feeling the pulse of the city as it stirs awake. As for attire, an extra layer is advisable\u2014a light jacket or an easy knit, paired with a comfortable pair of shoes\u2014ideal for both the occasional drizzle and the brisk touch of wind, readying you for the urban adventure that unfolds in this fog-kissed morning ambiance.",
-    "color_code": "#B0C4D8",
-    "timestamp": "2025-03-02 05:04:03"
+    "weather_report": "In Downtown San Francisco, the morning unfolds with a blend of lingering clouds and scattered promises of rain. A cool breeze whistles through the streets, nudging temperatures downward from their peak, which will hover around 54 degrees. The scent of moisture fills the air as darkened clouds drift overhead, hinting at the rain that could fall at any moment. Gusty winds, ranging from brisk to invigorating, will beckon you to grab something warmer before stepping outside. A 50% chance of rain accompanies these clouds, with the possibility of a light shower lingering through the morning hours.\n\nAs the day continues, the sun may make brief appearances, casting a soft glow against the backdrop of the rugged hills and the glistening bay. With a low temperature settling around 47 tonight, it's wise to dress in layers\u2014perhaps a cozy sweater under a light jacket, perfect for the cool evening ahead. Those willing to embrace the weather might find pleasure in a stroll through Golden Gate Park or a visit to a quaint caf\u00e9, where the warm atmosphere counteracts the chilled air outside. With a little bit of preparation, today holds the potential for quiet adventures amidst the shifting skies\u2014an invitation to draw in the inner warmth, no matter how the weather dances above.",
+    "color_code": "#A3A3A3",
+    "timestamp": "2025-03-02 07:02:04"
 }
