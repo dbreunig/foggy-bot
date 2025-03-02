@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-02T17:43:00+00:00",
-            "temperature_f": 51.728,
-            "temperature_c": 10.96,
-            "humidity": 72.965303577824,
+            "timestamp": "2025-03-02T18:43:00+00:00",
+            "temperature_f": 53.978,
+            "temperature_c": 12.21,
+            "humidity": 64.009386930316,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,22 +18,22 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-03-02T10:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-02T12:00:00-08:00",
                 "endTime": "2025-03-02T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 54,
+                "temperature": 56,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 20
                 },
-                "windSpeed": "16 to 20 mph",
+                "windSpeed": "15 to 18 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Partly sunny. High near 54, with temperatures falling to around 51 in the afternoon. West northwest wind 16 to 20 mph, with gusts as high as 28 mph. Chance of precipitation is 40%."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers before 4pm. Partly sunny. High near 56, with temperatures falling to around 53 in the afternoon. West northwest wind 15 to 18 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": null
                 },
-                "windSpeed": "14 to 18 mph",
+                "windSpeed": "10 to 17 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain before 4am. Partly cloudy, with a low around 47. West northwest wind 14 to 18 mph, with gusts as high as 29 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 47. West northwest wind 10 to 17 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, a subdued charm pervades the air, marked by a gentle interplay of sunlight and cloud. The morning offers a hint of warmth, though temperatures rest just around the chill of mid-fifties. As daylight unfurls, clouds drift gracefully, allowing pockets of blue to breathe a bit of life into the panorama. Yet, there\u2019s a sense that the city\u2019s typical marine layer lingers nearby, teasing whispers of mist that may drift in as the day unfolds. A refreshing wind from the west-northwest, carrying the salty essence of the bay, plays a welcome tune at 16 to 20 mph, reminding us that this town, with all its nuances, is still very much at the whims of nature.\n\nAs the afternoon approaches, clouds might take a more central role, presenting a chance of rain threading through the carry of a brisk breeze. To embrace the day, a light coat or layered outfit would be wise, especially as temperatures slip into the forties come evening. While the weather may evoke a certain chill, the heart of the city calls for exploration; a leisurely walk through the Presidio or a stop at a local caf\u00e9 could provide a cozy reprieve. There\u2019s beauty in the layered skies, a canvas inviting contemplation, offering moments that compel one to pause and appreciate the rhythm of urban life.",
-    "color_code": "#BDC2D4",
-    "timestamp": "2025-03-02 11:01:26"
+    "weather_report": "As the afternoon settles over Downtown San Francisco, a tenuous warmth begins to envelop the city, though it carries with it the cool breath characteristic of the area. The clouds, a softened marbled array, dance above, permitting glimpses of a muted sun that casts shadows on the iconic outlines of the skyline. A slight chance of rain lingers until the early hours, yet the air remains refreshingly brisk, stirring the leaves and whispering promises of more seasonal transitions ahead. Notably absent is the thick fog that typically drapes the Golden Gate; today it allows an unobstructed view of the bay, instilling a sense of clarity that feels almost rare.\n\nAs twilight approaches, temperatures will gently descend, inviting layers into your attire\u2014perhaps a light jacket, or a cozy sweater paired with sturdy shoes for an evening stroll along the waterfront. Embrace the low-hanging clouds as they gather, hinting at the crispness of dusk. This is a splendid opportunity to wander through the vibrant streets, perhaps stopping by a quiet caf\u00e9 or venturing through the varied neighborhoods, each illuminated by luminous street lamps. Tonight's gentle breeze along with a hint of chill will remind you that San Francisco\u2019s charm favors those who venture out to meet it\u2014an ideal evening for quiet reflection among the city\u2019s secrets.",
+    "color_code": "#A2C7D4",
+    "timestamp": "2025-03-02 12:01:29"
 }
