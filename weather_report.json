@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-04T00:43:00+00:00",
-            "temperature_f": 52.07,
-            "temperature_c": 11.15,
-            "humidity": 74.010543548899,
+            "timestamp": "2025-03-04T01:43:00+00:00",
+            "temperature_f": 50.918,
+            "temperature_c": 10.51,
+            "humidity": 76.015108612053,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-03T17:00:00-08:00",
-                "endTime": "2025-03-03T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 55 in the afternoon. West wind around 14 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-03T18:00:00-08:00",
+                "startTime": "2025-03-03T19:00:00-08:00",
                 "endTime": "2025-03-04T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "3 to 13 mph",
+                "windSpeed": "3 to 12 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,30?size=medium",
                 "shortForecast": "Mostly Cloudy then Chance Light Rain",
-                "detailedForecast": "A chance of rain after 4am. Mostly cloudy, with a low around 49. West southwest wind 3 to 13 mph. Chance of precipitation is 30%."
+                "detailedForecast": "A chance of rain after 4am. Mostly cloudy, with a low around 49. West southwest wind 3 to 12 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-03-04T06:00:00-08:00",
+                "endTime": "2025-03-04T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 50
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Mostly cloudy. High near 57, with temperatures falling to around 55 in the afternoon. South wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As evening falls upon Downtown San Francisco, the air feels crisp, presenting a mixture of clarity and the signature fog that the city occasionally wears like a shroud. The sun, now just a memory hovering on the horizon, has gifted a mostly sunny afternoon that has eased into a gentle coolness. Currently, the temperature hovers around a modest fifty-eight degrees, while a whispering westward wind dances around fourteen miles per hour, a brisk yet familiar companion for those traversing the city.\n\nTonight, the clouds gather to weave a tapestry of gray, hinting at the possibility of rain after the stroke of four in the morning. With a low around forty-nine, the chill may coax you into a cozy sweater or light jacket as you stroll through the less populated streets or find a quiet corner in a favorite caf\u00e9. The promise of a 30% chance of precipitation brings with it an invitation to linger in indoor spaces where warmth and comfort reign. As twilight deepens, consider unwinding with an evening stroll through the quieter neighborhoods, or perhaps indulging in a low-key dinner at a local eatery. Despite the chance of rain, the evening glows with the kind of anticipation that only a city like San Francisco can inspire.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2025-03-03 18:25:46"
+    "weather_report": "Tonight, the city breathes under a blanket of clouds, a soft veil that hints at the possibility of rain after the hour of dawn. The air is brisk, with a gentle wind whispering from the west-southwest, reminding us of the ocean's proximity, a cool companion in the evening's embrace. Current temperatures hover around a mild 49 degrees, perfect for layering\u2014a light jacket will serve well against the chill, especially with the increasing threat of precipitation. \n\nAs we turn to Tuesday, the forecast reveals a continuation of the cloud-covered sky, as the sun prepares to retreat, with temperatures peaking at a cool 57 before softly falling to 55. The city's silhouette will rest against a backdrop that feels moody yet alluring; the likelihood of rain rises to 50%, coupled with the faint promise of droplets, perhaps less than a whisper upon the pavement. It's an ideal day for a quiet stroll through the heart of the city, perhaps pausing at a cozy caf\u00e9 where warmth and comfort invite you to linger. Embrace the gentle melancholy of the season\u2014whether it\u2019s reading a novel, catching up with a friend, or simply daydreaming in a corner as the world drizzles quietly outside.",
+    "color_code": "#3B3C36",
+    "timestamp": "2025-03-03 19:09:29"
 }
