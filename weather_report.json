@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-05T05:43:00+00:00",
-            "temperature_f": 54.824,
-            "temperature_c": 12.68,
-            "humidity": 71.992428700221,
+            "timestamp": "2025-03-05T06:43:00+00:00",
+            "temperature_f": 53.653999999999996,
+            "temperature_c": 12.03,
+            "humidity": 75.234500912826,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-03-04T23:00:00-08:00",
+                "name": "Overnight",
+                "startTime": "2025-03-05T00:00:00-08:00",
                 "endTime": "2025-03-05T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 70
                 },
-                "windSpeed": "5 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,40?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Light Rain",
-                "detailedForecast": "A chance of rain after 1am. Mostly cloudy, with a low around 50. North wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,70?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain after 1am. Mostly cloudy, with a low around 50. North wind around 3 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-03-05T06:00:00-08:00",
                 "endTime": "2025-03-05T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 57,
+                "temperature": 56,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 70
                 },
-                "windSpeed": "5 to 15 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
+                "windSpeed": "3 to 15 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,50?size=medium",
                 "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Partly sunny. High near 57, with temperatures falling to around 53 in the afternoon. Northwest wind 5 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "A chance of rain. Mostly cloudy. High near 56, with temperatures falling to around 53 in the afternoon. West northwest wind 3 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the clock winds down towards midnight, the air in Downtown San Francisco feels layered with a hint of chill, an invitation to draw one's scarf a little tighter. The lower temperatures flirt with the edges of discomfort, hovering around 50 degrees while a gentle north wind drifts through the streets. Nighttime clouds hang overhead, a precursor whispering of possible rain that may return before dawn, when the city can expect scattered drops to kiss the pavement and a glimmer of moisture in the air. \n\nTomorrow brings a promise of contrast: a flicker of sunshine may break through, but expect the sky to toggle between sun and shadow, with high temperatures gently easing up to just shy of 60. The breeze may pick up, gusting sporadically, allowing for an invigorating walk always under the watchful gaze of the iconic landmarks. As the fog creeps closer, especially towards the coastline, dressing in layers becomes essential\u2014sweaters and light jackets will serve as allies against the potential chill and unpredictability of the day ahead. It\u2019s a fine time to explore quaint cafes or wander among local art galleries, soaking up the vibrant pulse of the city while remaining ever aware of the shifting clouds.",
-    "color_code": "#AAB8C2",
-    "timestamp": "2025-03-04 23:01:36"
+    "weather_report": "As the early hours unfold in Downtown San Francisco, a veil of clouds hangs heavily, whispering promises of rain ahead. The gentle rustling of the trees hints at a subtle breeze, while the forecast assures a steady chance of precipitation throughout the day, casting a soft pall over the city waking to the sound of moisture gathering in the air. With the temperature lingering around a cool 50 degrees, layering becomes essential for those venturing outside \u2014 think of a warm sweater paired with a light rain jacket, an elegant armor against the impending drizzle. \n\nAs the sun rises, struggling against the grey, we can expect a continuation of this muted sky with high temperatures teetering around 56, reflecting the day\u2019s uncertain mood. Hints of fog may cling near the shores, blurring the line where the water meets the horizon, while gusts of wind flirt with the promise of chill, whisking through the streets and inviting residents to seek solace indoors. One might find joy in quiet pursuits today \u2014 exploring the corners of a cozy local caf\u00e9, sipping a warm brew and watching the world splash by, or perhaps diving into the pages of a good book while the rain softens the city's heartbeat outside. Such an ambiance invites reflection and a gentle pause in the daily rush, perfect for savoring life\u2019s small moments away from the bustling routines that often dominate our lives.",
+    "color_code": "#AFAFAF",
+    "timestamp": "2025-03-05 00:01:49"
 }
