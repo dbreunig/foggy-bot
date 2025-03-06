@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-06T05:00:00-08:00",
-                "endTime": "2025-03-06T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain. Mostly cloudy, with a low around 46. West northwest wind around 10 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2025-03-06T06:00:00-08:00",
                 "endTime": "2025-03-06T18:00:00-08:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,20?size=medium",
                 "shortForecast": "Chance Light Rain",
                 "detailedForecast": "A chance of rain before 4pm. Mostly sunny, with a high near 56. West northwest wind around 10 mph. Chance of precipitation is 40%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-06T18:00:00-08:00",
+                "endTime": "2025-03-07T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 45. North northwest wind 5 to 8 mph."
             }
         ]
     },
-    "weather_report": "In the early hours of a San Francisco morning, a delicate shroud of clouds blankets the city, teetering on the edge of a fleeting rainfall. The air drapes itself around you with a crispness that speaks of a chill lingering before dawn truly breaks. As the sun prepares its ascent, a gentle breeze whispers through the streets, promising a gradual clearing. Yet, the forecast hints at a chance of rain before midday, suggesting an unpredictable companionship of sunshine and moisture may linger through the morning.\n\nThe day ahead unfurls with a tentative promise: mostly sunny skies emerging from the clouds by afternoon, though the heaviness of fog still clings to the edges of the bay. If you're stepping outside, layer yourself in the comfort of warm clothing, perhaps a light jacket to protect against the brisk wind that rustles through the city. A stroll through the streets could lead you to enjoy a warm beverage in one of the local caf\u00e9s or perhaps a visit to an art gallery, where the growing light will enhance the colors of creatures and creations alike, infusing a sense of life into every brushstroke. The pervasive beauty of this morning invites you to explore the softer hues of San Francisco before the full vibrancy of the day ignites.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-03-06 05:06:58"
+    "weather_report": "As dawn unfolds in Downtown San Francisco, the city awakens beneath a dynamic sky. With a 40% chance of rain fading gracefully, the lingering humidity paints a vivid backdrop for the day. The sun breaks through the clouds, casting a gentle glow over the landscape, while the refreshing breeze whispers from the west. Despite the promise of brighter moments, there's an unmistakable, soft haze lingering, suggestive of a marine layer creeping in from the bay, particularly around the Golden Gate area, which may still hide in veils of mist.\n\nToday\u2019s high will hover at a cool 56 degrees, inviting a round of layered attire \u2014 perhaps a light shirt coupled with a cardigan or a stylish jacket, perfect for the variable temperatures. As the sunshine struggles to break through completely, the city\u2019s famed park trails or cozy corner caf\u00e9s would present ideal escapes. A stroll along Ocean Beach could prove stimulating yet serene, particularly if the sun fully emerges to chase away the shadows. Alternatively, exploring the artful alleys of the Mission or the lively streets of North Beach holds appeal, promising a pleasant day despite the dance of sun and cloud overhead.",
+    "color_code": "#A7A8D9",
+    "timestamp": "2025-03-06 06:02:03"
 }
