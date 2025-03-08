@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-07T17:00:00-08:00",
-                "endTime": "2025-03-07T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 58 in the afternoon. West wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-03-07T18:00:00-08:00",
                 "endTime": "2025-03-08T06:00:00-08:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 46. Southwest wind 2 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-03-08T06:00:00-08:00",
+                "endTime": "2025-03-08T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 57 in the afternoon. South southwest wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "The afternoon air in Downtown San Francisco boasts an unclouded brilliance as the sun casts a warm glow across the skyline. With temperatures hovering in the low sixties, the enticing weather invites residents to indulge in leisurely strolls or perhaps settle into a favorite caf\u00e9 to bask in the serenity of the moment. Gone are the foggy whispers of previous days; a delightful clarity reveals picturesque views of the Golden Gate Bridge, standing tall against an azure canvas. A gentle westward breeze, whispering around nine miles an hour, adds a refreshing touch, making this an ideal afternoon for casual outdoor activities.\n\nAs night approaches, the clear skies promise to shift to a slightly cooler ambiance, with temperatures dipping around forty-six degrees. The soft southwest wind will continue to comfort those wrapped in light layers, perfect for an evening walk along the Embarcadero, where the distant lights of the Bay Bridge twinkle like stars. For the discerning, a layered outfit\u2014perhaps a light sweater accompanied by a long scarf\u2014would embrace the changing atmosphere seamlessly. This is a moment to savor a quiet dinner outdoors or to simply bask in the beauty of the city as evening descends, each moment a reminder of San Francisco's unique charm.",
-    "color_code": "#A6B8E2",
-    "timestamp": "2025-03-07 17:26:35"
+    "weather_report": "As evening descends on Downtown San Francisco, the sky stretches wide and clear, its deep blue tinged with the last whispers of daylight. With a gentle breeze softly circulating through the streets, temperatures whisper around a mild 46 degrees, inviting a sense of calm. A serene clarity envelops the city, unmarred by fog or the notorious marine layer, allowing the graceful structures of the skyline to stand proudly against the horizon. \n\nTomorrow promises a sunlit embrace, reaching for the low sixties before yielding to a cooler afternoon. The day will be ushered in by mellow winds, encouraging a leisurely stroll through the Presidio or a casual caf\u00e9 rendezvous in the Mission District. As the sun dips lower, those venturing outside might consider layers\u2014perhaps a light sweater or a stylish jacket\u2014to accommodate the lingering chill. With the pleasant weather beckoning, it\u2019s a fine chance to explore the hidden corners of this vibrant city, perhaps unwinding with a good book in one of the many parks or delighting in the local culinary offerings at an outdoor eatery.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-03-07 18:12:26"
 }
