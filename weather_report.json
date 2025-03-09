@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-09T10:43:00+00:00",
-            "temperature_f": 48.272,
-            "temperature_c": 9.04,
-            "humidity": 74.981935784091,
+            "timestamp": "2025-03-09T11:43:00+00:00",
+            "temperature_f": 48.146,
+            "temperature_c": 8.97,
+            "humidity": 68.004977163116,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-09T05:00:00-07:00",
-                "endTime": "2025-03-09T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 46. South wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2025-03-09T06:00:00-07:00",
                 "endTime": "2025-03-09T18:00:00-07:00",
                 "isDaytime": true,
@@ -49,14 +30,33 @@
                     "value": null
                 },
                 "windSpeed": "2 to 10 mph",
-                "windDirection": "S",
+                "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 58 in the afternoon. South wind 2 to 10 mph."
+                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 58 in the afternoon. South southwest wind 2 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-09T18:00:00-07:00",
+                "endTime": "2025-03-10T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 46. West southwest wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "As dawn lightly brushes the horizon, Downtown San Francisco stirs quietly under a mostly clear sky, suggesting a pleasant day ahead. The temperature dips around forty-six degrees, an invitation to wrap oneself in a light sweater or jacket\u2014enveloping warmth for the morning chill while remaining comfortable as the sun ascends. The gentle south winds, barely stirring at two miles per hour, carry a hint of the sea, mingling soft scents of salt and adventure.\n\nAs sunlight bathes the city, expect a cheerful embrace of warmth, climbing to the low sixties. The allure of the day beckons to those looking for simple pleasures; a stroll along the Embarcadero could evoke a sense of serenity as you watch the boats glide on shimmering waters. Alternatively, finding a cozy caf\u00e9 to sip on a warm beverage while observing the world can transform an ordinary Sunday into a cherished moment. There\u2019s an added charm to the way the city appears unclouded; although a faint marine layer spills off the shores, it does not intrude upon the beauty unfolding\u2014a perfect day for casual exploration and quiet reflection.",
-    "color_code": "#A7C9E9",
-    "timestamp": "2025-03-09 05:01:55"
+    "weather_report": "The morning sun rises steadily over Downtown San Francisco, casting a warm glow that holds the promise of a bright day ahead. As the shadows stretch across the buildings, there\u2019s a gentle whisper of a breeze moving through the streets, hinting at the tranquility that today will bring. The skies above are mostly clear, revealing patches where the golden light breaks through, but the wispy remnants of the marine layer may linger, particularly near the edges of the bay, giving a soft outline to the Golden Gate Bridge as the day unfolds.\n\nThough the afternoon temperatures may dip slightly, wrapping the area in a comforting chill, the warmth of the sun will likely be inviting. Dressing in layers would provide both comfort against the cool breeze and versatility to adapt to the shifting temperatures, allowing for both a casual stroll along the waterfront and the opportunity to embrace a cozy caf\u00e9 for a warm beverage. The pleasant day offers a chance to explore the neighborhoods, perhaps wandering through the vibrant arts district or finding a quiet corner in one of the many parks, immersing oneself in the everyday beauty that often goes unnoticed.",
+    "color_code": "#B3C0D8",
+    "timestamp": "2025-03-09 06:01:42"
 }
