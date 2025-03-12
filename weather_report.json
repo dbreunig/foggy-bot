@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-12T17:43:00+00:00",
-            "temperature_f": 55.471999999999994,
-            "temperature_c": 13.04,
-            "humidity": 79.204585868207,
+            "timestamp": "2025-03-12T18:43:00+00:00",
+            "temperature_f": 55.598,
+            "temperature_c": 13.11,
+            "humidity": 72.268501561432,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-03-12T09:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-12T14:00:00-07:00",
                 "endTime": "2025-03-12T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 90
+                    "value": 100
                 },
                 "windSpeed": "23 to 36 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60/tsra,90?size=medium",
-                "shortForecast": "Rain then Showers And Thunderstorms",
-                "detailedForecast": "Rain before 5pm, then showers and thunderstorms. Cloudy. High near 57, with temperatures falling to around 52 in the afternoon. South wind 23 to 36 mph, with gusts as high as 54 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain before 5pm, then rain showers. Cloudy. High near 57, with temperatures falling to around 52 in the afternoon. South southwest wind 23 to 36 mph, with gusts as high as 54 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 90
                 },
                 "windSpeed": "14 to 24 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,80?size=medium",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,90/tsra,80?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Showers and thunderstorms. Mostly cloudy. Low around 45, with temperatures rising to around 47 overnight. Southwest wind 14 to 24 mph, with gusts as high as 33 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain showers before 8pm, then showers and thunderstorms. Mostly cloudy. Low around 45, with temperatures rising to around 47 overnight. West southwest wind 14 to 24 mph, with gusts as high as 33 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "The day dawns under a heavy blanket of clouds, casting a stark gray over Downtown San Francisco. As the afternoon unfolds, rain has begun to stir, whispering promises of a downpour to come. The air is crisp, laced with the tang of moisture, offering a stark contrast to the warmth still clinging to the remnants of yesterday's sun. With winds sweeping from the south at a keen pace, the atmosphere hums with energy, hinting at the thunderstorms that loom on the horizon. A chance of precipitation hangs thick in the air\u2014a palpable tension between the clouds and the city below.\n\nIn this moody setting, it would be wise to dress in layers\u2014think a sturdy waterproof jacket that can fend off the stinging raindrops, and perhaps a comfortable pair of shoes that can handle both damp sidewalks and the occasional splash. While the conditions might suggest an afternoon indoors, consider a stroll through the cozy streets, sheltering under eaves, or exploring the vibrant local cafes, where the warmth of a good cup of coffee can be a small oasis amidst the splattering rain. \n\nAs daylight wanes, the showers promise to persist, mingling with the soft sounds of the city as the night approaches, inviting a sense of intimacy to the urban landscape\u2014a chance to embrace the quiet joy of shelter, conversation, and the rhythm of rain.",
-    "color_code": "#4B4F50",
-    "timestamp": "2025-03-12 13:01:56"
+    "weather_report": "In Downtown San Francisco, the day unfolds under a thick quilt of overcast skies, where the drama of rain paints a rather gray tableau. As the afternoon progresses, dark clouds weave themselves into a cloak of moisture, heralding a 100% chance of rain. The brisk south-southwest wind howls through the streets, creating a cacophony of whispers while rustling the trees and rattling umbrellas. In this damp embrace, temperatures linger around the upper 50s, gradually yielding to cooler air as the day wears on. \n\nAs evening descends, expect a symphony of rain showers coupled with the occasional thunderclap, evoking a sense of cozy introspection indoors. Tonight, with the thermometer dipping to the mid-40s, the scenery may be dreary, but it offers a chance for reflective moments, perhaps best enjoyed from a comfortably warm caf\u00e9 window with a good book or over shared stories with friends. Dress in layers\u2014warm socks, a sturdy coat, and a resilient umbrella will be your allies against the elements. The fog hangs low, wrapping the city in a gentle veil, quietly reminding you of the ever-present beauty even in moments of shadow.",
+    "color_code": "#6B6F7A",
+    "timestamp": "2025-03-12 14:01:43"
 }
