@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-12T02:43:00+00:00",
-            "temperature_f": 53.294,
-            "temperature_c": 11.83,
-            "humidity": 78.974236497035,
+            "timestamp": "2025-03-12T03:43:00+00:00",
+            "temperature_f": 53.546,
+            "temperature_c": 11.97,
+            "humidity": 76.984579441118,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-03-11T16:00:00-07:00",
+                "endTime": "2025-03-11T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 57 in the afternoon. West southwest wind around 12 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-11T21:00:00-07:00",
+                "startTime": "2025-03-11T18:00:00-07:00",
                 "endTime": "2025-03-12T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 51,
@@ -30,33 +49,14 @@
                     "value": 80
                 },
                 "windSpeed": "7 to 10 mph",
-                "windDirection": "S",
+                "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,30/rain,80?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "Rain after 11pm. Mostly cloudy, with a low around 51. South wind 7 to 10 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-03-12T06:00:00-07:00",
-                "endTime": "2025-03-12T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "12 to 20 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain before 5pm, then rain showers. Cloudy. High near 56, with temperatures falling to around 52 in the afternoon. South southwest wind 12 to 20 mph, with gusts as high as 32 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+                "detailedForecast": "Rain after 11pm. Mostly cloudy, with a low around 51. South southwest wind 7 to 10 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As twilight deepens over Downtown San Francisco, the foreboding embrace of moisture-laden clouds looms overhead, punctuated by the promise of rain. Tonight heralds the onset of precipitation, with showers likely to begin breathing life into the parched streets shortly after 11pm. A low of around 51 degrees invites the crisp bite of the evening air, flanked by a southeasterly breeze that dances gently at 7 to 10 mph, hinting at the unpredictable gusts that will later swell from the southwest tomorrow. \n\nAnticipation hangs in the air for Wednesday, as the day prepares to unfold beneath a heavy curtain of clouds, saturated with the expectation of rain. The forecast assures a steady deluge, with potential accumulations transforming the cityscape by evening. Residents bracing themselves for the wet weather might consider layering in warm, moisture-resistant fabrics\u2014perhaps a light waterproof jacket paired with comfortable, breathable layers beneath. As for activities, the atmospheric gloom and impending downpour paint a perfect opportunity to explore intimate cafes filled with the aroma of coffee, or perhaps indulge in a heartfelt conversation with a friend while cozily nestled indoors, listening to the gentle patter of rain against the window. In this setting, the city's vibrant soul continues to pulse, coaxed alive by fleeting moments of connection even amidst the wash of obscuring fog and rainfall.",
-    "color_code": "#4A5568",
-    "timestamp": "2025-03-11 21:01:32"
+    "weather_report": "As dusk settles over Downtown San Francisco, the sky is painted with the fading light of a mostly sunny afternoon. The warmth of a high near sixty has gently ebbed into the cool embrace of early evening, while the soft whisper of a west-southwest breeze lingers, hinting at the night to come. Presently, the horizon is cloaked in clouds, an omen of the rain that will make its presence felt after 11 PM. The streets still hum with life, illuminated by the glow of city lights, complemented by a promising drizzle that is anticipated to tease the urban landscape with its soft touch.\n\nAs the temperature dips to around fifty-one, one might consider wrapping themselves in layers\u2014a light sweater perhaps, with a jacket at hand to combat the cool night air. With the rain looming and humidity in the forecast, a walk through the city\u2019s winding streets could be invigorating yet serene. The allure of a cozy caf\u00e9 beckons, promising warmth and solace against the rhythmic patter of anticipated raindrops. Whether it's a stroll to enjoy the fleeting warmth before night falls or a moment spent savoring the ambiance indoors, tonight holds simple pleasures beneath a canopy of shifting clouds.",
+    "color_code": "#4E6E94",
+    "timestamp": "2025-03-11 22:01:30"
 }
