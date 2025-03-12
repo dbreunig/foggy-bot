@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-12T10:43:00+00:00",
-            "temperature_f": 52.286,
-            "temperature_c": 11.27,
-            "humidity": 96.993833513205,
+            "timestamp": "2025-03-12T11:43:00+00:00",
+            "temperature_f": 52.556,
+            "temperature_c": 11.42,
+            "humidity": 93.014013234823,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-12T05:00:00-07:00",
-                "endTime": "2025-03-12T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Cloudy, with a low around 51. South wind around 14 mph, with gusts as high as 28 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2025-03-12T06:00:00-07:00",
                 "endTime": "2025-03-12T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,70/tsra,90?size=medium",
                 "shortForecast": "Rain then Showers And Thunderstorms",
                 "detailedForecast": "Rain before 5pm, then showers and thunderstorms. Cloudy. High near 57, with temperatures falling to around 52 in the afternoon. South wind 14 to 36 mph, with gusts as high as 54 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-12T18:00:00-07:00",
+                "endTime": "2025-03-13T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "14 to 24 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,80?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Showers and thunderstorms. Mostly cloudy. Low around 45, with temperatures rising to around 47 overnight. Southwest wind 14 to 24 mph, with gusts as high as 33 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In the stillness of early morning, Downtown San Francisco finds itself engaged in a weary dance with the rain. The atmosphere hangs heavy with moisture, thick clouds weaving an intricate tapestry over the skyline, as the world slowly shakes off the remnants of the night. With temperatures gently cradling around 51 degrees, a soft whisper of the wind slips through the streets, heralding the approach of the day\u2019s tempestuous promise. \n\nAs the sun makes a reluctant appearance, it does so not with warmth and light, but cloaked in a shroud of graying clouds that promise rain and, shortly thereafter, the stirring of thunderstorms. The day ahead harbors a near certainty of precipitation\u2014rain that will trickle down and soak the earth, transforming the streets into glistening mirrors of sky. A wise choice for clothing would lean towards layers, perhaps a light waterproof jacket over a cozy sweater, accompanied by sturdy shoes that can withstand puddles and the inevitable gusts of wind sweeping in from the south. \n\nIn the embrace of this tempest, one might find peace in the solitude of a cozy caf\u00e9, where the scent of rich brewed coffee intertwines with the backdrop of hushed conversations. Alternatively, a walk through the muted splendor of the rain-soaked streets could reveal a city transformed\u2014its beauty quietly magnified by the shimmering droplets clinging to every surface. Tonight, as thunderstorms roll in with a dramatic flourish, the city holds its breath, preparing for the symphony of nature\u2019s orchestra.",
-    "color_code": "#A6A6A6",
-    "timestamp": "2025-03-12 05:02:16"
+    "weather_report": "As a gentle rain begins to drape Downtown San Francisco, the city awakens under a thick, gray blanket of clouds, shrouded in a cloak of moisture. The vibrant energy of the streets is tempered by the incoming weather, as umbrellas scatter like wildflowers against the sidewalks where life insists on its rhythm. Though the day promises a high of 57, a chill in the air reminds one that this is not the sunlit embrace of summer; temperatures will dip, and winds will howl, reaching up to 36 mph, as if nature itself exclaims the arrival of spring's tempestuous moods. The horizon whispers of thunder, hints of electric brilliance lingering in the brooding clouds, while the prospect of substantial rainfall persists\u2014enough to drench the parched earth.\n\nFor those braving the elements, preparation is key. A good waterproof jacket and sturdy shoes might save one from the inevitable splashes of puddles forming in the city\u2019s nooks and crannies. As the night climbs higher and temperatures nudge upwards in a peculiar dance, the prospect of varied indoor activities emerges. Perhaps a quiet afternoon sipping a rich, dark coffee in a favorite corner caf\u00e9 while watching the world rush by; or perhaps an invitation to explore the depths of a captivating museum\u2014where the realms of art and history promise escapism from the elements outside. Tonight calls for an embrace of warmth, as the storms persist, offering a reminder of nature\u2019s mercurial beauty.",
+    "color_code": "#808080",
+    "timestamp": "2025-03-12 06:07:20"
 }
