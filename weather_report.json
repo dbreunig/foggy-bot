@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-13T00:43:00+00:00",
-            "temperature_f": 50.576,
-            "temperature_c": 10.32,
-            "humidity": 88.007528237173,
+            "timestamp": "2025-03-13T01:43:00+00:00",
+            "temperature_f": 51.314,
+            "temperature_c": 10.73,
+            "humidity": 78.006280618291,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-12T14:00:00-07:00",
-                "endTime": "2025-03-12T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "23 to 36 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain before 5pm, then rain showers. Cloudy. High near 57, with temperatures falling to around 52 in the afternoon. South southwest wind 23 to 36 mph, with gusts as high as 54 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-12T18:00:00-07:00",
+                "startTime": "2025-03-12T20:00:00-07:00",
                 "endTime": "2025-03-13T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 45,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "14 to 24 mph",
+                "windSpeed": "14 to 20 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/tsra,90/tsra,80?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Rain showers before 8pm, then showers and thunderstorms. Mostly cloudy. Low around 45, with temperatures rising to around 47 overnight. West southwest wind 14 to 24 mph, with gusts as high as 33 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Showers and thunderstorms. Mostly cloudy. Low around 45, with temperatures rising to around 47 overnight. West southwest wind 14 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-03-13T06:00:00-07:00",
+                "endTime": "2025-03-13T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "18 to 23 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,70/tsra_hi,30?size=medium",
+                "shortForecast": "Showers And Thunderstorms Likely",
+                "detailedForecast": "Showers and thunderstorms likely before 5pm. Mostly sunny, with a high near 53. West northwest wind 18 to 23 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the sun casts its last reluctant rays over Downtown San Francisco, a melancholic dance of clouds gathers in response to the evening's somber promise of rain. The air is thick with anticipation, kissed by the gusty winds that whisper through the streets, hinting at the tempest to come. The once bright vigor of the day gives way to a muted palette of grays and blues, with visibility waning as the horizon blurs, leaving the iconic outlines of the Golden Gate Bridge and the skyline shrouded in mystery. \n\nTonight, the city will embrace a symphony of rain showers and the distant rumble of thunder, compelling denizens to seek comfort indoors. The chill, punctuated by the wind's sharp caress, suggests layering and warmth\u2014perhaps a cozy jacket paired with rich scarves to fend off the brisk air. While the streets may seem uninviting, the splashes of rain can ignite a sense of wanderlust for the brave who dare venture out. A quiet stroll beneath the shelter of an umbrella, a stop for a warm drink from a beloved caf\u00e9, or an evening spent lost in a book at home, cocooned in the soft glow of light, beckon as evening pursuits. The city\u2019s pulse remains, a momentary solace in the rain's embrace, intimate and reflective, inviting a pause beneath its resplendent showers.",
-    "color_code": "#4B6E77",
-    "timestamp": "2025-03-12 19:26:45"
+    "weather_report": "As twilight drapes over Downtown San Francisco, the atmosphere hums with the promise of rain. Tonight unfolds under a shroud of gray, with showers and thunderstorms likely casting a spectral glow across the city. The air is crisp, whispering of moisture, as temperatures dip gently toward the cooler side of mid-forties, only to rise slightly through the night. The winds whip through the streets, invigorating and brisk, compelling one to seek shelter or revel in the elemental dance of the storm.\n\nTomorrow emerges on the horizon with a softer touch; showers may linger but will likely dissipate, giving way to patches of blue battling against the clouds. Though the chill may persist, the sun has intentions of breaking through, promising a moderately pleasant day ahead. In light of these shifting conditions, layering becomes a pragmatic choice\u2014think cozy sweaters beneath light jackets, bolstered by scarves that can fend off the evening chill. With the local terrain cloaked in a gentle fog that mingles with the city\u2019s lights, tonight might be best spent seeking refuge in a quiet caf\u00e9, sipping something warm and watching the rain streak against the window, a perfect backdrop for reflection or conversation as the thunder rolls softly in the distance.",
+    "color_code": "#4B8EBC",
+    "timestamp": "2025-03-12 20:10:15"
 }
