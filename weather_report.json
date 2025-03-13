@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-13T16:43:00+00:00",
-            "temperature_f": 45.662,
-            "temperature_c": 7.59,
-            "humidity": 80.056321783388,
+            "timestamp": "2025-03-13T17:43:00+00:00",
+            "temperature_f": 48.397999999999996,
+            "temperature_c": 9.11,
+            "humidity": 67.98649935687,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-03-13T11:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-13T12:00:00-07:00",
                 "endTime": "2025-03-13T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 30
                 },
-                "windSpeed": "20 to 23 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers before 5pm. Mostly sunny, with a high near 53. West northwest wind 20 to 23 mph. Chance of precipitation is 20%."
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain before 5pm. Mostly sunny, with a high near 53. West wind 10 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-03-13T18:00:00-07:00",
                 "endTime": "2025-03-14T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 45,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "8 to 21 mph",
+                "windSpeed": "7 to 14 mph",
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain after 11pm. Mostly cloudy, with a low around 45. South southwest wind 8 to 21 mph, with gusts as high as 26 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain after 11pm. Mostly cloudy, with a low around 44. South southwest wind 7 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, the bustle of life intertwines with the elements, giving the city a character that is ever-unfolding. Today, a hint of rain lingers in the air, holding onto the promise of showers before the sun dips beyond the horizon. The atmosphere carries a coolness, with the temperature settling near a modest fifty-three degrees. A fleet of clouds looms overhead, thick and grey, casting a soft shadow over the city and rendering the famed Golden Gate Bridge a near-mythical silhouette against the backdrop of the untamed Bay. Though the morning may present a startling clarity with blustery northwest winds whipping through the streets, a definitive shift is on the horizon as nightfall approaches.\n\nAs twilight beckons the rain, now forecasted without reservation, the city dons a more contemplative cloak. Wind gusts swirl, urging those on the streets to seek warmth and shelter, and a stylish, layered outfit might serve best against the elements\u2014perhaps a light waterproof jacket over a cozy sweater. With the impending storm, evening activities turn inward; it\u2019s an ideal time to explore the cozy confines of a local caf\u00e9, sip long-neglected books, or gather with friends for a game night. The calm before the storm imbues a sense of purpose; an invitation not merely to brave the weather but to relish the moments spent together, sheltered from the tempest outside.",
-    "color_code": "#696969",
-    "timestamp": "2025-03-13 11:01:52"
+    "weather_report": "As the afternoon unfolds in Downtown San Francisco, a delicate dance of clouds plays across the sky, filtering the sunlight into a muted glow. Presently, the air feels brisk, the temperature hovering unseasonably cool, with anticipatory hints of rain that swirl in from the west. With the forecast hinting at a chance of showers before evening, one might glimpse the Golden Gate Bridge shrouded softly by low-hanging clouds, suggesting the presence of that familiar marine layer creeping in, a reminder of the city\u2019s ever-changing weather. \n\nBy nightfall, the rain is sure to embrace the city more fervently, transforming the streets into a shimmering tableau. Residents would do well to dress warmly, perhaps donning a sturdy jacket beneath which a soft sweater can ward off the chill, complemented by an umbrella, just in case the evening\u2019s forecast holds true. With a forecast of steady showers ahead, the time could be best spent enjoying a quiet moment in a local caf\u00e9 with warm coffee or tea, perhaps gazing out at the veils of rain that create a serene backdrop, or taking a leisurely stroll under the canopy of clouds, appreciating the vibrant greens of the parks as they awaken in the gentle embrace of rain.",
+    "color_code": "#A7B2C2",
+    "timestamp": "2025-03-13 12:01:40"
 }
