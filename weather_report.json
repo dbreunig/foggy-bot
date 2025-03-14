@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-14T09:43:00+00:00",
-            "temperature_f": 46.076,
-            "temperature_c": 7.82,
-            "humidity": 80.033254641149,
+            "timestamp": "2025-03-14T11:43:00+00:00",
+            "temperature_f": 44.438,
+            "temperature_c": 6.91,
+            "humidity": 82.007063825744,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-14T05:00:00-07:00",
-                "endTime": "2025-03-14T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 80
-                },
-                "windSpeed": "30 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,80?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy, with a low around 45. South southeast wind around 30 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2025-03-14T06:00:00-07:00",
                 "endTime": "2025-03-14T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,80/rain,60?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain. Mostly cloudy, with a high near 56. West southwest wind 18 to 26 mph, with gusts as high as 37 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-14T18:00:00-07:00",
+                "endTime": "2025-03-15T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 24 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/rain/wind_sct?size=medium",
+                "shortForecast": "Chance Light Rain then Partly Cloudy",
+                "detailedForecast": "A chance of rain before 11pm. Partly cloudy, with a low around 47. West northwest wind 8 to 24 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the city is enveloped in a thick blanket of rain and cloud. The night\u2019s moisture lingers in the air, a constant reminder of the storm that has settled uninvited. The chilling wind whispers through the streets, carrying hints of the ocean, and with gusts inviting uncertainty, it promises a day best suited for staying cozy indoors. The expectation of precipitation looms with an 80% chance hanging heavily in the atmosphere, prepping the earth for yet another soaking. \n\nFriday will usher in similar weather, a conflicted affair between warmth and chill, with temperatures barely cresting 56 degrees. The clouds are a leaden shroud, and visibility dips, making the iconic Golden Gate Bridge a distant, elusive vision rather than a vibrant landmark. Dress for the weather would be a layer of warmth beneath a sturdy raincoat, while a sturdy pair of shoes would keep one grounded against the wet pavement. As for activities, this might be an excellent day for leisurely exploring a hidden caf\u00e9, sipping on rich coffee while the world outside dances with raindrops. The allure of a good book coupled with the soft hum of a rainy morning could very well create the perfect haven in the heart of the storm.",
-    "color_code": "#B0C4D1",
-    "timestamp": "2025-03-14 05:02:27"
+    "weather_report": "A muted morning envelops Downtown San Francisco, where the atmosphere feels thick with the promise of rain. The day begins under a drape of clouds, casting a grayish hue across the skyline, hinting at the day\u2019s anticipated downpour. The city seems to breathe in the cool, moist air, and as the winds swirl from the west southwest, they carry with them the echo of impending rain. Visibility is limited, further amplified by a dense marine layer, veiling landmarks just beyond the immediate view\u2014especially the Golden Gate, which may appear faint in this obscured light.\n\nAs the day unfolds, one might find solace in the comforts of a warm scarf and a water-resistant jacket, for the forecast promises a persistent drizzle with gusts whipping between 18 to 26 mph. Such weather invites an indoor reprieve\u2014perhaps a visit to a cozy caf\u00e9 nestled in the heart of the city, where the aroma of fresh coffee mingles with the sound of rain against the windows. Alternatively, grabbing a good book and retreating to a quiet corner of home may well be the most delightful way to embrace the ambiance of a rainy day. By evening, as the rain dissipates, the coolness will linger, and the chance of a star-studded sky may emerge, but for now, the day is set against a tapestry of gray and the soothing rhythm of raindrops.",
+    "color_code": "#A3A3A3",
+    "timestamp": "2025-03-14 06:05:54"
 }
