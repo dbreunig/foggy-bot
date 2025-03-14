@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-13T22:43:00+00:00",
-            "temperature_f": 51.134,
-            "temperature_c": 10.63,
-            "humidity": 53.044238234748,
+            "timestamp": "2025-03-13T23:43:00+00:00",
+            "temperature_f": 50.954,
+            "temperature_c": 10.53,
+            "humidity": 55.027433594383,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-13T17:00:00-07:00",
-                "endTime": "2025-03-13T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 53. West wind around 15 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-03-13T18:00:00-07:00",
                 "endTime": "2025-03-14T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain after 11pm. Mostly cloudy, with a low around 44. South southwest wind 7 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-03-14T06:00:00-07:00",
+                "endTime": "2025-03-14T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "12 to 16 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,100/rain,60?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Mostly cloudy, with a high near 56. South southwest wind 12 to 16 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As daylight wanes over Downtown San Francisco, the scene is painted in sharp contrasts between the clarity of the afternoon and the impending arrival of rain. Currently, the sun graces the city, illuminating the golden hues lingering against a backdrop of cobalt skies. The temperature hovers in the low fifties, reflecting the briskness often characteristic of this coastal town. Anticipation hangs in the air, for as night approaches, the forecast promises a complete transformation; clouds will draw together, and rain will commence just after eleven, leaving a shimmering trace of rainfall that could register between a quarter and half an inch.\n\nThough the sun is still shining, it teases the senses with hints of chill borne on winds gusting from the West, weaving through the streets and inviting layers to keep warm. The marine layer, ever-present yet dormant for now, may soon cloak the golden panorama as the day yields to the embrace of moisture-laden skies. For those navigating the downtown streets, a light jacket and sturdy footwear would serve well, preparing one for both the brilliant sunlight and the promise of evening's downpour. As the sun dips, consider a stroll through the city's eclectic neighborhoods, where caf\u00e9s bustle and warm aromas beckon, offering the perfect prelude to a cozy night indoors as storm clouds gather on the horizon.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-03-13 17:04:27"
+    "weather_report": "As evening drapes its muted mantle over Downtown San Francisco, a palpable heaviness tugs at the air, foretelling the rain that is set to arrive after 11 PM. The atmosphere carries an unmistakable tension, a gathering storm that harmonizes with the low grumble of distant thunder. Tonight's forecast calls for a retreat into warmth, urging residents to don layers that breathe easily yet insulate against the emerging chill, ideally thick sweaters or hooded jackets that shield against the wind's playful yet biting nature. The temperature will settle around 44, and the winds, sweeping in from the south southwest, carry both promise and peril, gusting up to 20 mph.\n\nFriday's dawn will usher in a relentless rain, with dark, heavy clouds casting a shadowy hue across the day. A high of 56 creates a sense of stark contrast, as the drumming rain might resonate with comforting familiarity to some yet feel dreary to others. With 100% chance of precipitation, the urban landscape will take on a softer, blurred outline, kissed by droplets that weave slivers of silver light through the gray. Those brave enough to venture outside may find joy in the rhythmic plunk of rain, perhaps seeking solace in a caf\u00e9 with steam curling upward from a freshly brewed cup, or enjoying a quiet moment on a covered stoop as the world softens into a quiet lullaby. Today invites reflection rather than revelry\u2014a canvas ready to be colored by the rich, heavy rain, painting the city in shades of tranquility.",
+    "color_code": "#6C7B8B",
+    "timestamp": "2025-03-13 18:28:36"
 }
