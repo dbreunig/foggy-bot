@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-14T01:43:00+00:00",
-            "temperature_f": 49.262,
-            "temperature_c": 9.59,
-            "humidity": 62.031056426162,
+            "timestamp": "2025-03-14T02:43:00+00:00",
+            "temperature_f": 48.614000000000004,
+            "temperature_c": 9.23,
+            "humidity": 61.025735166044,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-13T17:00:00-07:00",
-                "endTime": "2025-03-13T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 53. West wind around 15 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-13T18:00:00-07:00",
+                "startTime": "2025-03-13T21:00:00-07:00",
                 "endTime": "2025-03-14T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "7 to 14 mph",
-                "windDirection": "SSW",
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain after 11pm. Mostly cloudy, with a low around 44. South southwest wind 7 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain after 11pm. Mostly cloudy, with a low around 44. South wind 7 to 13 mph, with gusts as high as 20 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-03-14T06:00:00-07:00",
+                "endTime": "2025-03-14T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "12 to 16 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,100/rain,60?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Mostly cloudy, with a high near 56. South southwest wind 12 to 16 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "This evening in Downtown San Francisco, a sense of inevitability hangs in the air as the sun bids farewell behind a curtain of clouds. The promise of rain looms, sharpening the edges of the skyline with an anticipatory chill. As the temperatures dip to a modest 44 degrees, a gentle breeze from the south southwest stirs, offering a reminder of the warmth that lingered earlier in the day, now swept away into memory. The gathering clouds whisper of imminent rain, and the certainty of precipitation at 11 PM transforms the landscape, cloaking it in an atmosphere of quiet solitude.\n\nFor those moving through the city, a cozy jacket becomes the evening's essential companion, perhaps layered over a light sweater, ready to fend off the brisk embrace of the wind. It\u2019s a night to retreat to a local caf\u00e9, indulge in a warm drink while watching the droplets tap against glass, or explore the vibrant lights of the city reflected in puddles along the streets. As the evening evolves, the rhythmic pulse of the rain might draw out the heart of San Francisco, inviting reflection amidst its urban beauty, where the natural and the manmade intertwine in a dance of contrasts.",
-    "color_code": "#6B9BC2",
-    "timestamp": "2025-03-13 20:09:25"
+    "weather_report": "As the clock ticks toward the evening, Downtown San Francisco finds itself under a gray blanket of cloud cover, hinting at the rain that promises to wash over the city shortly after nightfall. The air carries a distinct chill, settling around 44 degrees, crafted by a gentle yet persistent breeze from the south. Stark against the cloudy backdrop, the twinkling city lights provide a comforting contrast, illuminating the streets with a soft glow as residents and visitors alike prepare for the dampness to come. The certainty of rain is unwavering, with a 100% chance looming large across the forecasted hours.\n\nLooking ahead to the morrow, Friday's skies will remain mostly cloudy, hardly dispelling the atmosphere of a rainy day. Expect the chill to linger, with highs not much warmer than 56 degrees, and the wind will play a constant role, invigorating the landscape with gusts reaching 24 mph. Such conditions would call for a wardrobe equipped for warmth and water resistance; a sturdy raincoat layered over a cozy sweater, perhaps, alongside comfortable waterproof shoes for those who dare to wander amid the showers. While some may seek refuge indoors, consider embracing the charm of the moment: find a quiet caf\u00e9 to sip on a warm drink, delve into a good book, or simply sit and watch the world go by through fogged windows, feeling that uniquely San Francisco magic even as the rain falls softly around you.",
+    "color_code": "#7C7F7F",
+    "timestamp": "2025-03-13 21:01:41"
 }
