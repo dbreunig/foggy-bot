@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-14T16:43:00+00:00",
-            "temperature_f": 45.266,
-            "temperature_c": 7.37,
-            "humidity": 96.967316680876,
+            "timestamp": "2025-03-14T17:43:00+00:00",
+            "temperature_f": 52.106,
+            "temperature_c": 11.17,
+            "humidity": 86.029899339721,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-03-14T10:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-14T12:00:00-07:00",
                 "endTime": "2025-03-14T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 56,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 70
                 },
-                "windSpeed": "22 to 25 mph",
+                "windSpeed": "14 to 18 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50/rain,60?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Mostly cloudy, with a high near 56. West wind 22 to 25 mph, with gusts as high as 33 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Partly sunny. High near 56, with temperatures falling to around 54 in the afternoon. West wind 14 to 18 mph, with gusts as high as 28 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-03-14T18:00:00-07:00",
                 "endTime": "2025-03-15T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 47,
+                "temperature": 48,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
-                "windSpeed": "8 to 24 mph",
+                "windSpeed": "6 to 16 mph",
                 "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/rain/wind_sct?size=medium",
-                "shortForecast": "Chance Light Rain then Partly Cloudy",
-                "detailedForecast": "A chance of rain before 11pm. Partly cloudy, with a low around 47. West northwest wind 8 to 24 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain. Partly cloudy, with a low around 48. West northwest wind 6 to 16 mph, with gusts as high as 24 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As March unfolds in Downtown San Francisco, one finds themselves enveloped in a blanket of gray, punctuated by the gentle rhythm of raindrops against pavements. The air carries a chill, hovering around fifty-six degrees, while a brisk west wind sweeps through the streets, whispering hints of the stormy weather overhead. Today\u2019s forecast holds a promise of rain\u2014clouds swirl in a muted display, adorned with occasional gusts that will test the resolve of even the most seasoned umbrella. The chance of precipitation looms at sixty percent, a mild disturbance that entwines itself with the atmosphere, inviting the city to slow down and embrace the quietude.\n\nAs dusk approaches, the sky may offer slight relief with a possibility of clearing, but one may still encounter a lingering mist, especially close to the water where the marine layer plays hide-and-seek with the sun. In this damp and cool ambience, visitors might opt for a light jacket layered over a comfortable sweater, ideally coupled with waterproof footwear, as the streets glisten with moisture. An unhurried stroll through the local art galleries, perhaps followed by a warm cup of coffee at a cozy caf\u00e9, could be the perfect antidote to the elements. This day, with its various shades of gray, beckons for introspection\u2014a moment to linger over the intricacies of life as raindrops orchestrate their gentle symphony.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-03-14 11:02:00"
+    "weather_report": "As afternoon descends upon Downtown San Francisco, a distinct chill underscores the day, accompanied by rain that lingers in the air like a pleasant yet persistent reminder of seasonal transitions. The sky dances between sunlit patches and darker clouds, casting a moody, reflective quality over the city. The high of 56 degrees drifts into the low 50s, urging citizens to wrap up in layers \u2014 a light jacket perhaps, and a scarf that can withstand the steadiness of the west wind, which swirls about at 14 to 18 mph. A substantial dose of gusts punctuates the day, reaching up to 28 mph, carrying with them the fresh scent of impending rain.\n\nWith a forecasted chance of rain at 70%, the atmosphere is hardly conducive to a leisurely stroll in the park, though a slight chance of reprieve exists this evening, allowing for a comfortable interlude around 48 degrees. People might find the allure of indoor spaces to be a welcome escape; perhaps a cozy caf\u00e9 or a hidden bookshop might invite those seeking shelter from the elements while sipping warm beverages and immersing themselves in stories. For the adventurous, venturing to the museums or art galleries, where the lush creativity of the exhibits can distract from the blustering gusts outside, offers a fitting diversion. All in all, while the sun plays hide and seek, the day promises an aromatic blend of rain and comfort, perfect for quiet moments or shared laughter over cups steaming with warmth.",
+    "color_code": "#A7C3D7",
+    "timestamp": "2025-03-14 12:01:41"
 }
