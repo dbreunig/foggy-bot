@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-15T01:43:00+00:00",
-            "temperature_f": 52.34,
-            "temperature_c": 11.3,
-            "humidity": 73.027348079786,
+            "timestamp": "2025-03-15T02:43:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 75.991888403961,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-14T16:00:00-07:00",
-                "endTime": "2025-03-14T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Partly sunny. High near 56, with temperatures falling to around 54 in the afternoon. West wind around 18 mph, with gusts as high as 28 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-14T18:00:00-07:00",
+                "startTime": "2025-03-14T21:00:00-07:00",
                 "endTime": "2025-03-15T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "6 to 16 mph",
+                "windSpeed": "6 to 13 mph",
                 "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain. Partly cloudy, with a low around 48. West northwest wind 6 to 16 mph, with gusts as high as 24 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain. Partly cloudy, with a low around 48. West northwest wind 6 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-03-15T06:00:00-07:00",
+                "endTime": "2025-03-15T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain before 5pm. Mostly sunny, with a high near 58. West southwest wind 5 to 10 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As evening settles over Downtown San Francisco, a gentle chill penetrates the air, carrying whispers of impending rain. The city wears an ensemble of shifting clouds, casting a muted light over the skyline, as the day gives way to twilight. With a high of 56 earlier, the temperature now hovers comfortably around 48, inviting those out for a late stroll to dress warmly but simply\u2014perhaps a soft sweater or a light jacket paired with sturdy shoes, should a brief drizzle commence. \n\nThe weather forecast hints at a slight chance of rain, but for now, the atmosphere feels almost serene, with the crispness of late winter still palpable in the breeze. Gusts of wind flirt with the fresh scents of the bay, swirling around corners and dancing through the streets. Although fog may be absent, a marine layer lingers in the distance, hinting at a forthcoming transformation as the fog rolls in during the night. The fading daylight invites close friends to share a cozy meal in one of the city\u2019s many intimate restaurants or perhaps to lose themselves in the quiet yet vibrant hum of a local caf\u00e9. Here, the warmth of conversation is as necessary as the warmth of a good cup of coffee.",
-    "color_code": "#A3A8B2",
-    "timestamp": "2025-03-14 20:07:45"
+    "weather_report": "As night drapes itself over Downtown San Francisco, a delicate interplay of partly cloudy skies hints at the possibility of a few drops of rain, though the air remains crisp and cool, holding a low temperature of around 48 degrees. The gentle waft of the evening breeze carries the scent of the nearby sea, with winds whispering softly from the west northwest, promising a somewhat mild venture into the night ahead. The city lights flicker against the backdrop of darkening clouds, lending an air of mystique to the streets below.\n\nTomorrow unfolds with a similar story\u2014a potential sprinkle of rain weaving its way through the daylight hours, yet the sun will valiantly break through, coaxing warm rays to dance on the cool temperature of around 58 degrees. The embrace of a light west-southwest wind may offer just the right touch for comfort. As you step outside, a layered look of a light jacket or sweater paired with a comfortable shirt would suit the shifting weather beautifully. Consider a stroll along the waterfront, perhaps indulging in a quiet morning coffee or a contemplative walk among the still waking city\u2014allowing the gentle fluctuations of weather to become a companion in your exploration as the day breathes life back into its vibrant corners.",
+    "color_code": "#B0BEC5",
+    "timestamp": "2025-03-14 21:01:34"
 }
