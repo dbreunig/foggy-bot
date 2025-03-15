@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-14T16:00:00-07:00",
-                "endTime": "2025-03-14T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Partly sunny. High near 56, with temperatures falling to around 54 in the afternoon. West wind around 18 mph, with gusts as high as 28 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-03-14T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-03-15T02:00:00-07:00",
                 "endTime": "2025-03-15T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "6 to 16 mph",
-                "windDirection": "WNW",
+                "windSpeed": "7 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain. Partly cloudy, with a low around 48. West northwest wind 6 to 16 mph, with gusts as high as 24 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain after 5am. Partly cloudy, with a low around 48. West wind around 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-03-15T06:00:00-07:00",
+                "endTime": "2025-03-15T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain before 5pm. Mostly sunny, with a high near 58. West southwest wind 5 to 10 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, as we settle into the afternoon hours, the air carries a mixture of promise and reluctance. A tentative sun peeks through the clouds, casting a muted glow over the city, its warmth tempered by a persistent westerly wind that whispers along the streets, rustling leaves and shifting the clouds overhead. The forecast predicts a high of about 56 degrees, although cool breezes may drop that sensation, making outer layers necessary for comfort. With a 70% chance of rain, the grey skies threaten occasional showers, teasing the streets with the prospect of fleeting droplets, while a slight chance of rain lingers into the evening.\n\nThe absence of fog casts a clear view of the cityscape, revealing outlines of neighborhoods and glimmers of light. For those meandering through the urban labyrinth, the chill suggests embracing layers\u2014perhaps a light waterproof jacket paired with a cozy sweater beneath. It\u2019s a day ripe for quiet explorations through coffee shops where the scent of fresh brews mingles with the sound of soft conversations or an afternoon visit to a snug bookstore filled with the promise of new worlds to discover. A simple stroll along the waterfront, with the wind at your back and a warm drink in hand, serves as an invitation to savor the taste of the everyday, as the city softly glistens in anticipation of a damp yet vibrant evening ahead.",
-    "color_code": "#A6A8B0",
-    "timestamp": "2025-03-15 01:01:31"
+    "weather_report": "As dawn approaches Downtown San Francisco, the cool air carries with it a whisper of the ocean\u2019s embrace, teasing the possibility of rain with just a hint of moisture lingering in the atmosphere. The city\u2019s iconic skyline, often draped in the delicate shroud of fog, remains somewhat clear at this hour, although shadows of the marine layer inch towards the horizon. Expect a slightly brisk start today, with temperatures around 48 degrees inviting a cozy jacket\u2014a gentle barrier against the morning chill. \n\nAs the sun makes its leisurely ascent, the day promises a gentle evolution from the overcast to a mostly sunny disposition, reaching highs of about 58. The cool, west-southwest breeze will be a steady companion, whisking away any heaviness from the air and lending a refreshing touch. Dress in layers that can adapt to the day\u2019s transformations, perhaps a light sweater paired with a sturdy scarf. Engage in mundane yet soothing activities such as a stroll along the waterfront, where the gentle kiss of the waves and the stretch of the bay practice their quiet allure. As the city awakens, consider wandering into your favorite caf\u00e9, savoring the aroma of freshly brewed coffee while viewing the day unfold from within the warm embrace of your spot by the window.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-03-15 02:01:29"
 }
