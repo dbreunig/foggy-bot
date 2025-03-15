@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-15T05:43:00+00:00",
-            "temperature_f": 51.638,
-            "temperature_c": 10.91,
-            "humidity": 78.99978810782,
+            "timestamp": "2025-03-15T06:43:00+00:00",
+            "temperature_f": 49.928000000000004,
+            "temperature_c": 9.96,
+            "humidity": 80.005672397615,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-15T00:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-14T16:00:00-07:00",
+                "endTime": "2025-03-14T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "18 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Partly sunny. High near 56, with temperatures falling to around 54 in the afternoon. West wind around 18 mph, with gusts as high as 28 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-14T18:00:00-07:00",
                 "endTime": "2025-03-15T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "6 to 9 mph",
-                "windDirection": "W",
+                "windSpeed": "6 to 16 mph",
+                "windDirection": "WNW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain after 5am. Partly cloudy, with a low around 48. West wind 6 to 9 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-03-15T06:00:00-07:00",
-                "endTime": "2025-03-15T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain before 5pm. Mostly sunny, with a high near 58. West southwest wind 5 to 10 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain. Partly cloudy, with a low around 48. West northwest wind 6 to 16 mph, with gusts as high as 24 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As you wake to the tranquil hum of the city, the air holds a hint of something more ebullient than dawn. A slight chill lingers, with temperatures whispering around 48 degrees. A delicate veil of clouds dances above, hinting at the day's potential for rain later this morning\u2014though still just a tease, with a mere twenty percent chance promising little more than a misty kiss. The westward breeze carries a gentle promise, stirring the air between the hills and valleys of San Francisco, merging its cool breath with the awakening cityscape.\n\nThroughout the day, expect a return to the sun's embrace, with those fleeting moments of rain giving way to mostly sunny skies. The afternoon temperature will nudge up to a crisp 58 degrees as the sun bathes the streets in a warm, golden hue. The skyline stands proud against the horizon, possibly shrouded in a thin marine layer, but clarity will dominate as the day unfolds. Dress in layers\u2014a light jacket to fend off the morning chill will suffice, while a comfortable sweater serves as an ally against the cooler moments that linger in the shade. \n\nWith the day promising a blend of activities\u2014perhaps a stroll through the serene pathways of Golden Gate Park or a languid exploration of the less-traveled streets of the Mission District, bask in the local charm over a coffee from a nearby caf\u00e9. Let the evolving weather draw you out, allowing you to chart your course as you embrace the gentle pulse of this vibrant city.",
-    "color_code": "#A9C0D0",
-    "timestamp": "2025-03-15 00:01:31"
+    "weather_report": "In Downtown San Francisco, as we settle into the afternoon hours, the air carries a mixture of promise and reluctance. A tentative sun peeks through the clouds, casting a muted glow over the city, its warmth tempered by a persistent westerly wind that whispers along the streets, rustling leaves and shifting the clouds overhead. The forecast predicts a high of about 56 degrees, although cool breezes may drop that sensation, making outer layers necessary for comfort. With a 70% chance of rain, the grey skies threaten occasional showers, teasing the streets with the prospect of fleeting droplets, while a slight chance of rain lingers into the evening.\n\nThe absence of fog casts a clear view of the cityscape, revealing outlines of neighborhoods and glimmers of light. For those meandering through the urban labyrinth, the chill suggests embracing layers\u2014perhaps a light waterproof jacket paired with a cozy sweater beneath. It\u2019s a day ripe for quiet explorations through coffee shops where the scent of fresh brews mingles with the sound of soft conversations or an afternoon visit to a snug bookstore filled with the promise of new worlds to discover. A simple stroll along the waterfront, with the wind at your back and a warm drink in hand, serves as an invitation to savor the taste of the everyday, as the city softly glistens in anticipation of a damp yet vibrant evening ahead.",
+    "color_code": "#A6A8B0",
+    "timestamp": "2025-03-15 01:01:31"
 }
