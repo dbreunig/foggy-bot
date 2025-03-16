@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-16T05:43:00+00:00",
-            "temperature_f": 52.52,
-            "temperature_c": 11.4,
-            "humidity": 69.993992260214,
+            "timestamp": "2025-03-16T06:43:00+00:00",
+            "temperature_f": 51.998,
+            "temperature_c": 11.11,
+            "humidity": 69.262118845952,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-03-15T20:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-03-16T01:00:00-07:00",
                 "endTime": "2025-03-16T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
                 "windSpeed": "9 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/sct/rain,20?size=medium",
-                "shortForecast": "Partly Cloudy then Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain after 5am. Partly cloudy, with a low around 49. South wind around 9 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+                "windDirection": "SSE",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 49. South southeast wind around 9 mph, with gusts as high as 18 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-03-16T06:00:00-07:00",
                 "endTime": "2025-03-16T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 60,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 30
                 },
                 "windSpeed": "9 to 24 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Mostly cloudy. High near 60, with temperatures falling to around 58 in the afternoon. South wind 9 to 24 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,30?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain after 8am. Mostly cloudy, with a high near 59. South wind 9 to 24 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Downtown San Francisco, the air holds a gentle chill, hinting at the brisk day to come. The forecast suggests a low around 49, with the south winds whispering promises of rain that may arrive softly after five. A modest 20% chance for light showers looms, but the heavens seem to conspire for something more substantial on this Sunday. \n\nThe day will soon awaken with rain, the clouds thick and sorrowful, ready to drench the city in a much-needed embrace. With a peak around 60, drifting down to a cooler 58, the atmosphere might initially appear dreary under the weight of cloudy skies. Gusts will dance with a fervor, reaching up to 35 mph, necessitating a thoughtful choice of attire\u2014perhaps a water-resistant jacket layered over a cozy sweater, as who doesn\u2019t relish the feel of warmth against the brisk coastal winds? The likely presence of fog swirling around, particularly along the bay and near the bridge, adds an ethereal quality to the mood of the day. \n\nFor those who might choose to venture outdoors, opt for cozy cafes where the smell of brewing coffee mingles with baked goods. A stroll along the waterfront, umbrella in hand, can be a serene way to experience the city's rich essence even amidst the gloom. Alternatively, embrace the indoor charm of local art galleries or bookstores, sanctuary against the rain, where the heart of creativity beats warmly just inside the threshold. Whatever you choose, the day carries a certain grace, inviting you to slow down and savor the layers of this foggy San Francisco Sunday.",
-    "color_code": "#6B8DA4",
-    "timestamp": "2025-03-16 00:01:37"
+    "weather_report": "As the night unfurls over Downtown San Francisco, the air holds a soft chill, wrapping around the city like a delicate cloak. Partly cloudy skies stretch above, hinting at the possibility of rain with dawn's arrival. The streets, now still, are painted in a muted palette, illuminated by the glow of streetlamps and the flicker of distant lights. Ocean breezes whisper through the city, with gentle gusts hinting at the marine layer not far off, reminding us of the close proximity of the restless sea.\n\nTomorrow promises to be a dance of clouds, with the chance of rain sprightly tiptoeing in after 8 am. A high near 59 will offer a cool embrace, encouraging layered dressing to navigate both warmth indoors and briskness outside. A lightweight jacket or a layered cardigan will serve well against the south wind that will pick up during the day. As rain softly taps on windows and the world beyond becomes a canvas of muted colors, there will be a certain comfort in a cozy caf\u00e9, where one can savor a warm drink while watching the city pulse quietly through the glass.\n\nThe day may demand a mix of spontaneity and calm; why not wander through the fog-kissed paths of Golden Gate Park or explore a hidden bookstore, with the scent of damp pages mingling with the aroma of brewed coffee? Each endeavor will blend well with the atmosphere, capturing the essence of a day brimming with understated charm amidst the changing weather.",
+    "color_code": "#4A4E69",
+    "timestamp": "2025-03-16 01:01:46"
 }
