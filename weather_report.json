@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-16T16:43:00+00:00",
-            "temperature_f": 51.512,
-            "temperature_c": 10.84,
-            "humidity": 82.007692451787,
+            "timestamp": "2025-03-16T17:43:00+00:00",
+            "temperature_f": 53.618,
+            "temperature_c": 12.01,
+            "humidity": 74.01035930179,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-03-16T11:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-16T12:00:00-07:00",
                 "endTime": "2025-03-16T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 100
                 },
-                "windSpeed": "18 to 24 mph",
+                "windSpeed": "14 to 20 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/wind_bkn/rain,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Light Rain",
-                "detailedForecast": "A chance of rain after 5pm. Mostly cloudy, with a high near 59. South wind 18 to 24 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Mostly cloudy. High near 59, with temperatures falling to around 57 in the afternoon. South wind 14 to 20 mph, with gusts as high as 36 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-03-16T18:00:00-07:00",
                 "endTime": "2025-03-17T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 50,
+                "temperature": 49,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 100
                 },
-                "windSpeed": "10 to 25 mph",
+                "windSpeed": "9 to 20 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,80/rain,60?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,80?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain. Mostly cloudy. Low around 50, with temperatures rising to around 52 overnight. South southwest wind 10 to 25 mph, with gusts as high as 44 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain. Mostly cloudy. Low around 49, with temperatures rising to around 51 overnight. South southwest wind 9 to 20 mph, with gusts as high as 39 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "The scenes before you reveal San Francisco wrapped in a thick gray embrace, a city cloaked in a blanket of clouds that stretches toward the Golden Gate, hinting at the hint of rain that looms just a few hours away. The day is caught in a cycle of cool dampness and the restless breath of the south wind, stirring the streets and rustling through the trees. Visibility is diminished, as the fog hangs low, weaving in and around the buildings, whispering secrets only familiar to the seasoned San Franciscan. \n\nAs the clock slides towards evening, the promise of rain beckons\u2014an invitation to cozy up indoors, perhaps with a good book and a cup of rich coffee. If you must venture out, it\u2019s wise to don layers; a warm jacket draped over a light sweater should serve you well against the brisk currents racing through the city. A stroll along the Embarcadero could unveil a captivating atmospheric dance of light as the clouds gather, but carry an umbrella, for the showers are expected to begin soon, unfurling throughout the night. Whether you seek the solace of a warm caf\u00e9 or the gentle rhythm of the rain against your window, tonight in San Francisco, the weather sings a lullaby of comfort from the gray skies above.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-03-16 11:01:39"
+    "weather_report": "As the early afternoon unfolds over Downtown San Francisco, the city finds itself nestled within a shroud of relentless rain, the clouds swirling above in a somber embrace. With temperatures hovering around fifty-nine degrees, the landscape appears muted\u2014a symphony of gray, punctuated only by the occasional shimmer of droplets cascading from rooftops. The south wind carries with it a chill, amplifying the dampness that envelops the day, making it less than inviting for outdoor ventures.\n\nAs evening looms, the rain will persist, and temperatures will gently rise to about fifty-one, drenching the streets while casting a reflective glow on the pavement. This murky weather, dense with moisture, obscures the once-familiar contours of the Golden Gate and the distant cityscape, while any hint of the typically vibrant marine layer takes a back seat, leaving only the weight of the clouds. It\u2019s a day that calls for waterproof attire\u2014an umbrella clutched tightly, a warm jacket layered beneath\u2014but also offers a chance for quiet indulgences. Perhaps a stroll through the emerald-lined corridors of the nearby parks is in order, as the rain creates a soothing backdrop, or one might opt for the cozy confines of a local caf\u00e9, where the aroma of freshly brewed coffee mingles with the scent of pastries, embracing the spirit of the season.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-03-16 12:01:23"
 }
