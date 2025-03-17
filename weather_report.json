@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-17T00:43:00+00:00",
-            "temperature_f": 56.714,
-            "temperature_c": 13.73,
-            "humidity": 70.977920424781,
+            "timestamp": "2025-03-17T01:43:00+00:00",
+            "temperature_f": 55.184,
+            "temperature_c": 12.88,
+            "humidity": 79.983517634419,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-03-16T16:00:00-07:00",
+                "endTime": "2025-03-16T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "20 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy. High near 59, with temperatures falling to around 57 in the afternoon. South wind around 20 mph, with gusts as high as 36 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-16T19:00:00-07:00",
+                "startTime": "2025-03-16T18:00:00-07:00",
                 "endTime": "2025-03-17T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "9 to 18 mph",
+                "windSpeed": "9 to 20 mph",
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,80?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain. Mostly cloudy. Low around 49, with temperatures rising to around 51 overnight. South southwest wind 9 to 18 mph, with gusts as high as 36 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-03-17T06:00:00-07:00",
-                "endTime": "2025-03-17T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 60
-                },
-                "windSpeed": "10 to 21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely before 5pm. Mostly sunny, with a high near 55. West southwest wind 10 to 21 mph, with gusts as high as 31 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain. Mostly cloudy. Low around 49, with temperatures rising to around 51 overnight. South southwest wind 9 to 20 mph, with gusts as high as 39 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As night falls over Downtown San Francisco, a thick veil of rain shrouds the city in a muted stillness. Clouds brood overhead, casting a gray pall that absorbs the vibrant colors of the urban landscape. The chill in the air settles in, hinting at temperatures that will gently rise to around 51 degrees, coaxing a heavy reliance on layers as the wind whispers through the streets at 9 to 18 mph, gusting even more fiercely, up to 36 mph. Those venturing outside should take care to wrap themselves in a waterproof jacket, perhaps with a cozy scarf to fend off the biting dampness. \n\nTomorrow promises a delightful contrast, as rain likely gives way to the sun\u2019s gentle glow before long. The forecast hints at an enjoyable day with highs near 55 degrees and conditions highly favorable for a leisurely stroll through the cooler streets, should the clouds break. With the chance of lingering drizzle, an umbrella may still be a steadfast companion. Consider wandering into a local caf\u00e9 for a steaming cup of coffee, where you can bask in the warmth, watching the world outside shift from soggy to serene. Whether savoring the rising aromas of fresh pastries or contemplating the allure of a good book, tomorrow is beckoning with subtle invitations to embrace the calm following the storm.",
-    "color_code": "#4B4F73",
-    "timestamp": "2025-03-16 19:27:57"
+    "weather_report": "As the evening deepens over Downtown San Francisco, the city is enshrouded in a gentle yet persistent rain, with clouds draping the skyline, stealing away any last remnants of sunlight. A cool breeze carries whispers of warmth against the chill, but with temperatures settling around the mid-forties, the air feels crisp. Visibilities may be reduced, awash in a veil of moisture; it is here the fog may creep in, lapping at the edges of iconic views, though its presence is subtle tonight.\n\nWith a night such as this, it seems fitting to embrace the cozy comforts of home. One might slide into a favorite sweater, perhaps a light waterproof jacket to fend off the drizzling rain for those who must venture out. On a day where the skies are unwilling to part, curling up with a good book or catching up on a series feels far more appealing than braving the weather. If you find yourself compelled to step outside, consider a leisurely stroll under an umbrella, delighting in the rhythmic patter of raindrops\u2014there is a soothing serenity to be found in the midst of the storm, a chance to reflect as the city dances in raindrops\u2019 glisten.",
+    "color_code": "#4A4E56",
+    "timestamp": "2025-03-16 20:12:10"
 }
