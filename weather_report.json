@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-17T13:43:00+00:00",
-            "temperature_f": 50.792,
-            "temperature_c": 10.44,
-            "humidity": 100,
+            "timestamp": "2025-03-17T18:43:00+00:00",
+            "temperature_f": 55.292,
+            "temperature_c": 12.94,
+            "humidity": 62.99059899173,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-03-17T09:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-17T13:00:00-07:00",
                 "endTime": "2025-03-17T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 70
                 },
-                "windSpeed": "10 to 21 mph",
+                "windSpeed": "15 to 18 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely before 5pm. Partly sunny, with a high near 55. West wind 10 to 21 mph, with gusts as high as 31 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,70?size=medium",
+                "shortForecast": "Showers And Thunderstorms Likely",
+                "detailedForecast": "Showers and thunderstorms likely before 5pm, then a slight chance of showers and thunderstorms. Partly sunny. High near 55, with temperatures falling to around 52 in the afternoon. West wind 15 to 18 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "14 to 21 mph",
+                "windSpeed": "10 to 17 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_few,20/wind_few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 44. Northwest wind 14 to 21 mph, with gusts as high as 33 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/few?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Clear",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 11pm. Mostly clear. Low around 44, with temperatures rising to around 46 overnight. Northwest wind 10 to 17 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "Downtown San Francisco is enveloped in a cool, misty embrace this morning, as the sky remains cloaked in a soft shroud. The forecast speaks of rain likely before evening, hinting at a day where nature\u2019s mood swings between the somber and the hopeful. Temperatures hover around a modest 55 degrees, while gusty west winds whip through the streets, lending an energetic edge to an otherwise tranquil scene. The marine layer appears to linger not far from the shoreline, offering slight visibility into the golden embrace of the Golden Gate, yet overshadowing much of the cityscape with a persistent gray.\n\nAs the sun contemplates an appearance, it suggests a transition to partly sunny skies. Tonight, the clouds will relent, revealing a constellation of stars as the temperature cools to a seemingly crisp 44 degrees. For those venturing out today, a light jacket will suit one best, ideally layered for warmth against the brisk winds. An afternoon stroll could yield delightful surprises; perhaps a quiet moment in one of the tucked-away parks or a visit to a beloved caf\u00e9, where the aroma of fresh coffee mingles with the whispers of the wind. Embrace the day's peculiar charm, for there is beauty to be found in its softness.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2025-03-17 09:02:04"
+    "weather_report": "The afternoon in Downtown San Francisco carries with it a promise of uncertainty, as a tapestry of clouds lingers overhead, casting muted shadows across the bustling streets below. The air shifts with the possibility of showers and thunderstorms dancing upon the horizon, revealing glimpses of the city in between the wispy silhouettes of clouds. As the temperature hovers near 55 degrees and descends gently into the evening, a seasoned wind whistles through the alleys, hinting at the changing elements. The humidity allows a slight chill to ensconce the air, a reminder of the Pacific's proximity, while the chance of rain returns to tease with a 70 percent likelihood.\n\nAs daylight recedes and the sky clears modestly, the night awaits with a cooler embrace, settling close to 44 degrees. A jacket would serve well against the brisk northwest breeze, making a stroll down the Embarcadero or a quiet evening at a local caf\u00e9 a practical respite. Such moments spent outside will feel notably soothing, yet vigilance against a potential shower might encourage one to tuck away an umbrella. The evening invites the weary to linger beneath the softened lights of the city, where each passerby shares a fleeting connection with the fog that swirls lovingly in the distance\u2014a veil that cloaks the Golden Gate, yet reveals the city's indomitable spirit.",
+    "color_code": "#8B9EB0",
+    "timestamp": "2025-03-17 13:01:59"
 }
