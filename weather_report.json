@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-17T04:43:00+00:00",
-            "temperature_f": 54.302,
-            "temperature_c": 12.39,
-            "humidity": 89.01607139158,
+            "timestamp": "2025-03-17T05:43:00+00:00",
+            "temperature_f": 50.647999999999996,
+            "temperature_c": 10.36,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-03-16T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-03-17T00:00:00-07:00",
                 "endTime": "2025-03-17T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 80
                 },
-                "windSpeed": "9 to 20 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,80?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Mostly cloudy. Low around 49, with temperatures rising to around 51 overnight. South southwest wind 9 to 20 mph, with gusts as high as 39 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "windSpeed": "12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,80?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Mostly cloudy. Low around 49, with temperatures rising to around 51 overnight. Southwest wind around 12 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 40
                 },
-                "windSpeed": "10 to 21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
+                "windSpeed": "9 to 21 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
                 "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely before 5pm. Mostly sunny, with a high near 55. West southwest wind 10 to 21 mph, with gusts as high as 31 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain likely before 5pm. Partly sunny, with a high near 55. West wind 9 to 21 mph, with gusts as high as 31 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As night settles over Downtown San Francisco, a soothing embrace of rain takes center stage, weaving gentle patterns against windows and cobblestones. The city breathes in puffs of cool air, with temperatures unfurling from the crispness of the evening low into a mild whisper, wrapping around 51 degrees as dawn approaches. The winds pick up, rustling the leaves, gusting fervently from the south southwest, adding an invigorating chill that pairs perfectly with the moisture in the air. Clarity is elusive under the blanket of clouds that drape the city, but with a steadfast chance of rain lingering throughout the night, expect an intimate atmosphere, punctuated by the soft rhythm of droplets.\n\nAs Monday dawns, the rain will likely taper off, yielding to moments of sun breaking through the clouds by afternoon. A high near 55 will feel pleasant against the skin, should one dress wisely in layers, perhaps opting for a waterproof jacket and sturdy boots to navigate the wet streets and bask in the interplay of light and shadows. The day may be tinged with residual fog, particularly around the Golden Gate, where the marine layer beckons like a soft whisper over the bay. Embrace the ambiance with a casual wander through the heart of the city, perhaps stopping by a local caf\u00e9 to savor a warm beverage while observing the life that breathes anew in the waning rain. If the skies clear as promised, a stroll along the Embarcadero could reveal glimmers of sunshine dancing on the water, invoking the sheer joy of presence amidst the urban landscape.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2025-03-16 23:01:52"
+    "weather_report": "As the clock strikes midnight, Downtown San Francisco finds itself nestled under a mantle of moisture, the air thickened with the promise of rain. The sky wears a mostly cloudy shroud, with temperatures subtly shifting from the cool grip of 49 to a mild 51. A gentle southwest breeze stirs, whispering tales of coming rain, its gusts flirting with the leaves as they dance amidst the shadows. An 80% chance of precipitation looms, hinting at a soft patter that may grace the streets as the night moves steadily into the dawn.\n\nLooking ahead to the morrow, the rain is expected to linger, casting a possibly fleeting pall over the workday before yielding to moments of sun. The afternoon might reveal a tempered warmth, a high teasing toward 55 degrees as the west wind breathes life into the coolness, reaching speeds that might send stray papers skimming across the pavement. The likelihood of rain drops to 40% as the day unfolds, yet the ground may still bear the kiss of light drizzle, with fresh, new deposits that barely dampen the surface.\n\nIn such a climate, choosing to embrace comfort will serve you well. A resilient jacket to guard against the elements and a sturdy pair of shoes will keep you protected as you navigate the wet sidewalks. The enchanting chill might invite a warm beverage to sip, perhaps a rich coffee from a local caf\u00e9 or a soothing tea to cradle in your hands as you stroll. With the streets softened by rain, this is a beautiful time for a visit to the nearby art galleries or a leisurely walk through the less-traveled paths in Golden Gate Park, where the earth soaks in the much-needed moisture, and the air sparkles with possibility.",
+    "color_code": "#A5A8B4",
+    "timestamp": "2025-03-17 00:01:34"
 }
