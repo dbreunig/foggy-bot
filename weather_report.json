@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-17T03:43:00+00:00",
-            "temperature_f": 55.724000000000004,
-            "temperature_c": 13.18,
-            "humidity": 80.025616143578,
+            "timestamp": "2025-03-17T04:43:00+00:00",
+            "temperature_f": 54.302,
+            "temperature_c": 12.39,
+            "humidity": 89.01607139158,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-16T15:00:00-07:00",
-                "endTime": "2025-03-16T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Mostly cloudy. High near 59, with temperatures falling to around 57 in the afternoon. South wind around 20 mph, with gusts as high as 36 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-03-16T18:00:00-07:00",
                 "endTime": "2025-03-17T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,80?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain. Mostly cloudy. Low around 49, with temperatures rising to around 51 overnight. South southwest wind 9 to 20 mph, with gusts as high as 39 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-03-17T06:00:00-07:00",
+                "endTime": "2025-03-17T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "10 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely before 5pm. Mostly sunny, with a high near 55. West southwest wind 10 to 21 mph, with gusts as high as 31 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "The evening air in Downtown San Francisco is thick with the promise of rain, a soft yet insistent rhythm against the city\u2019s familiar landmarks. The clouds loom heavy and gray, drowning the skyline in shades of melancholy, while the south wind whispers through the streets, gusting fiercely as if reminding us of the storm\u2019s approach. Rain is not just expected; it envelops the landscape with a certainty that makes any outdoor plans seem fleeting. As the temperatures hover around the 50s, one might find solace in a sturdy raincoat, perhaps layered over a cozy knit, and a reliable pair of boots ready to navigate puddles.\n\nWith visibility waning as daylight fades into night, those seeking refuge may be tempted to nestle into their favorite caf\u00e9, cradling a warm beverage, while the city glistens in the rain\u2019s embrace. Yet, for the adventurous, there is beauty in the atmospheric haze that blankets the Golden Gate Bridge and the hills beyond. If one must venture out, an umbrella becomes a loyal companion, and perhaps it would be wise to enjoy a quiet stroll through the drenched streets, where the soft glow of streetlights plays across the slick pavement. Tonight, San Francisco's charm lies in its rain-soaked serenity, inviting a bit of introspection as life slows down in the embrace of nature\u2019s rhythm.",
-    "color_code": "#4B4F74",
-    "timestamp": "2025-03-16 22:01:40"
+    "weather_report": "As night settles over Downtown San Francisco, a soothing embrace of rain takes center stage, weaving gentle patterns against windows and cobblestones. The city breathes in puffs of cool air, with temperatures unfurling from the crispness of the evening low into a mild whisper, wrapping around 51 degrees as dawn approaches. The winds pick up, rustling the leaves, gusting fervently from the south southwest, adding an invigorating chill that pairs perfectly with the moisture in the air. Clarity is elusive under the blanket of clouds that drape the city, but with a steadfast chance of rain lingering throughout the night, expect an intimate atmosphere, punctuated by the soft rhythm of droplets.\n\nAs Monday dawns, the rain will likely taper off, yielding to moments of sun breaking through the clouds by afternoon. A high near 55 will feel pleasant against the skin, should one dress wisely in layers, perhaps opting for a waterproof jacket and sturdy boots to navigate the wet streets and bask in the interplay of light and shadows. The day may be tinged with residual fog, particularly around the Golden Gate, where the marine layer beckons like a soft whisper over the bay. Embrace the ambiance with a casual wander through the heart of the city, perhaps stopping by a local caf\u00e9 to savor a warm beverage while observing the life that breathes anew in the waning rain. If the skies clear as promised, a stroll along the Embarcadero could reveal glimmers of sunshine dancing on the water, invoking the sheer joy of presence amidst the urban landscape.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2025-03-16 23:01:52"
 }
