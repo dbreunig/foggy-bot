@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-16T21:43:00+00:00",
-            "temperature_f": 58.892,
-            "temperature_c": 14.94,
-            "humidity": 64.010601781313,
+            "timestamp": "2025-03-17T00:43:00+00:00",
+            "temperature_f": 56.714,
+            "temperature_c": 13.73,
+            "humidity": 70.977920424781,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-16T15:00:00-07:00",
-                "endTime": "2025-03-16T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Mostly cloudy. High near 59, with temperatures falling to around 57 in the afternoon. South wind around 20 mph, with gusts as high as 36 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-03-16T18:00:00-07:00",
                 "endTime": "2025-03-17T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,80?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain. Mostly cloudy. Low around 49, with temperatures rising to around 51 overnight. South southwest wind 9 to 20 mph, with gusts as high as 39 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-03-17T06:00:00-07:00",
+                "endTime": "2025-03-17T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "10 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely before 5pm. Mostly sunny, with a high near 55. West southwest wind 10 to 21 mph, with gusts as high as 31 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "The afternoon in Downtown San Francisco unfolds beneath a thick blanket of gray clouds, the air saturated with the unmistakable fragrance of rain. Amidst the steady drizzle, temperatures hover just shy of 60 degrees, ebbing to 57 as the day wanes, further coaxing warmth from those surrendering to the damp chill. Breezes from the south weave through the streets, gusting with vigor, rattling the dry remnants of the day and carrying the promise of more rain\u2014a resolute 100% chance remains as dusk approaches.\n\nTonight, the rain will persist, and a gentle rise in temperature offers a fleeting respite from the chill, reaching around 51 degrees\u2014just enough warmth to encourage a cozy embrace from your layers. The fog wraps itself tightly around the Bay, shrouding the Golden Gate, but the robust city skyline peeks through the mist. As the evening draws near, consider settling in for a quiet session with a good book at a favorite caf\u00e9, or indulging in a leisurely dinner at a nearby restaurant where warmth and hearty dishes await, inviting you to relish the warmth against the cool, damp air. A scarf and waterproof jacket will serve you well, providing comfort against the persistent patter of rain and the brisk winds.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-03-16 17:05:32"
+    "weather_report": "As night falls over Downtown San Francisco, a thick curtain of rain cloaks the city, casting a somber yet poetic veil over its iconic skyline. The clouds hang heavily in the sky, resembling a gray tapestry woven with fleeting gusts of wind, marking a night defined by a relentless symphony of precipitation. The chill in the air settles around 49 degrees, rising slightly as if to protect the City by the Bay from the encroaching chill. Amidst the bustling streets, the South Southwest winds whisper at a brisk 9 to 20 mph, occasionally escalating to sharp gusts that echo through the urban canyons.\n\nTomorrow beckons a shift in the atmosphere. While rain may linger until the afternoon, there\u2019s a tentative promise of sunlight piercing through the clouds by day's end, heralding a higher temperature near 55 degrees. As the marine layer retreats, it leaves behind a hint of clarity\u2014a breath of fresh air amidst the lingering moisture. The forecast suggests dressing warmly, with layers draped across your shoulders\u2014perhaps a light waterproof jacket to ward off the lingering chill and a snug scarf to protect against the swirling winds. With the weather set to transform, a leisurely afternoon walk to explore the neighborhood cafes or a slow-paced visit to a local gallery could provide respite from the dampness and a delightful escape into the city\u2019s arts and culture.",
+    "color_code": "#A3B3C1",
+    "timestamp": "2025-03-16 18:29:17"
 }
