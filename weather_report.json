@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-17T09:43:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
+            "timestamp": "2025-03-17T11:43:00+00:00",
+            "temperature_f": 49.406,
+            "temperature_c": 9.67,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-17T03:00:00-07:00",
-                "endTime": "2025-03-17T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 60
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Mostly cloudy. Low around 49, with temperatures rising to around 51 overnight. West southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2025-03-17T06:00:00-07:00",
                 "endTime": "2025-03-17T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
                 "shortForecast": "Light Rain Likely",
                 "detailedForecast": "Rain likely before 5pm. Partly sunny, with a high near 55. West wind 9 to 21 mph, with gusts as high as 31 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-17T18:00:00-07:00",
+                "endTime": "2025-03-18T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "14 to 21 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_few,20/wind_few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 44. Northwest wind 14 to 21 mph, with gusts as high as 33 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the early morning unfolds in Downtown San Francisco, a gentle rain graces the streets, laying a soft sheen on everything it touches. The air carries the chill of a fresh spring day, hovering at a low 49 degrees, and as the evening casts its shadows, temperatures will rise ever so slightly. The clouds, heavy with moisture, drape the skyline, creating a muted canvas that envelops the city, with the iconic Golden Gate Bridge and the peaks beyond shrouded in a veil of grey. This tepid embrace is punctuated by a westerly wind, stirring at about 10 miles per hour, encouraging a briskness that cuts through the stillness.\n\nThe day promises the possibility of more rain, lingering in the ether until late afternoon, before giving way to flecks of sunshine. The forecast hints at a high around 55, inviting a sense of optimism even amidst the drizzle. With winds that could intensify to 21 miles per hour, one may find a brisk walk invigorating, though perhaps a light jacket would be a wise companion against the cool breath of the bay. A stroll through the quiet streets, perhaps stopping by a local caf\u00e9 for a warm cup of coffee, might suit the day\u2019s mood splendidly. For those craving a bit of nature, a visit to one of the nearby gardens could provide a tranquil retreat. The calm of the droplets adds a rhythm to the city's pulse, making every moment feel refreshingly alive.",
-    "color_code": "#A0B3C1",
-    "timestamp": "2025-03-17 05:02:05"
+    "weather_report": "As dawn unfolds over Downtown San Francisco, the city is kissed by the gentle embrace of a cool breeze, a precursor to the day's unfolding story. The morning sky hints at fleeting clouds, occasionally revealing the sun's soft rays, setting the stage for a rather unpredictable day. Rain may grace the streets before the clock strikes five, but the promise of partial sunshine later seems to linger like an enticing whisper in the air. Stepping outside requires just the right balance of attire; a light waterproof jacket would shield one from the early dampness, while a breathable layer underneath would provide comfort as the sun dances in and out of view. \n\nThe crisp ambiance is palpably refreshing, yet there's a subtle reminder of the marine layer lurking, perhaps retreating just enough to grant hazy vistas towards the Golden Gate. An adventurous spirit might take a stroll through the nearby parks, where the flora thrives, invigorated by the weather. Alternative pursuits could involve delving into the cozy ambiance of a local caf\u00e9, where the aroma of freshly brewed coffee stirs up warmth against the cool outside whispers\u2014perfect for an introspective morning or a lively chat with friends. Today, San Francisco wears its multifaceted character, inviting both wanderers and contemplators to immerse themselves in its daily rhythm.",
+    "color_code": "#A8C9E4",
+    "timestamp": "2025-03-17 06:08:02"
 }
