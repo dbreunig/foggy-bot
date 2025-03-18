@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-18T10:43:00+00:00",
-            "temperature_f": 46.634,
-            "temperature_c": 8.13,
-            "humidity": 71.023687288074,
+            "timestamp": "2025-03-18T11:43:00+00:00",
+            "temperature_f": 46.58,
+            "temperature_c": 8.1,
+            "humidity": 63.016131175377,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-18T05:00:00-07:00",
-                "endTime": "2025-03-18T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 44. Northwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2025-03-18T06:00:00-07:00",
                 "endTime": "2025-03-18T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 57. Northwest wind 5 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-18T18:00:00-07:00",
+                "endTime": "2025-03-19T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 45. West southwest wind 2 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the dawn is stirring, bringing with it a clear, tranquil atmosphere. The temperature lingers just above cool, hovering around a slight chill that beckons one to reach for a light sweater or a soft scarf. With a gentle northwest wind whispering through the streets, the day promises to unfold under an expanse of bright blue sky, the sunlight gradually warming the air and illuminating the city\u2019s iconic structures. \n\nAs the morning transforms into afternoon, expect the sun to create a cozy warmth, peaking at around fifty-seven degrees. This seasonal flirtation with sunshine invites you to step outside for a leisurely walk along the waterfront. Perhaps you might indulge in a quiet moment with a good book on a park bench, or treat yourself to a cup of coffee from your favorite caf\u00e9, soaking in the crisp ambiance. Given the absence of fog and the clarity of the day, the views are likely stunning, allowing for the horizon to stretch infinitely\u2014a perfect setting to appreciate the merging of city life and the natural beauty that surrounds it. Choose layers that accommodate the cool mornings and the warming afternoons, embracing the day's charm as it unfolds.",
-    "color_code": "#B3CDEB",
-    "timestamp": "2025-03-18 05:02:09"
+    "weather_report": "In the waking light of Downtown San Francisco, the day unfolds under a gentle sun that promises a pleasantly mild high of approximately 57 degrees. The air is crisp, tinged with the freshness of early morning, while a light breeze from the northwest stirs the essence of the city. The skies, unmarred by clouds, reveal a perfect clarity, as the sun peeks over the eastern horizon, illuminating the iconic landscape with a warm glow. There is no sign of fog clinging to the hills or veiling the Golden Gate; instead, the city stands prominently against the blue sky, unfettered by the typical marine layer that sometimes graces these shores.\n\nAs the sun climbs higher, the atmosphere beckons one to embrace the outdoors\u2014a leisurely stroll along the Embarcadero may just be the ideal way to savor the day. Perhaps a visit to the Ferry Building Farmers Market, where the local produce and artisanal offerings showcase the best of what the region has to offer, or a quiet moment in one of the city's parks, where the fresh blooms of spring begin to burst into color. It would be wise to wear layers; a light sweater or jacket should suffice to cut the chill of the breeze, staving off any early morning coolness while being dressed comfortably for the still-warm afternoon. In this tranquil moment, with the world waking to possibilities, one can find joy in the simple act of being present under San Francisco's serene skies.",
+    "color_code": "#A2C3E8",
+    "timestamp": "2025-03-18 06:07:24"
 }
