@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-17T22:43:00+00:00",
-            "temperature_f": 53.96,
-            "temperature_c": 12.2,
-            "humidity": 64.007119507961,
+            "timestamp": "2025-03-18T00:43:00+00:00",
+            "temperature_f": 51.403999999999996,
+            "temperature_c": 10.78,
+            "humidity": 77.005012175696,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-17T17:00:00-07:00",
-                "endTime": "2025-03-17T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms. Partly sunny. High near 55, with temperatures falling to around 52 in the afternoon. West wind around 18 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-03-17T18:00:00-07:00",
                 "endTime": "2025-03-18T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/few?size=medium",
                 "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Clear",
                 "detailedForecast": "A slight chance of showers and thunderstorms before 11pm. Mostly clear. Low around 44, with temperatures rising to around 46 overnight. Northwest wind 10 to 17 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-03-18T06:00:00-07:00",
+                "endTime": "2025-03-18T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 57. Northwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the day wanes in Downtown San Francisco, a sense of muted anticipation hangs in the air. The sky, a shroud of grey, hints at a gathering of clouds that carry whispers of showers and the potential for distant thunder. The afternoon has seen some teasing sunlight filtered through this maritime veil, yet temperatures have gradually slipped downwards, as if the city itself is sighing in acceptance of a chill. The West wind, persistent with a gentle ferocity, rustles the leaves while nudging pedestrians to wrap themselves in layers, drawing the fabric tighter against the embrace of the cool.\n\nLooking ahead to the night, any plans for outdoor leisurely pursuits may be judiciously tempered by the prospect of sporadic showers before the clock strikes eleven. A retreat indoors might be advisable, the promise of comfort found over a steaming cup of something warm, perhaps paired with the pages of a well-loved book or the hum of a familiar melody. As the city prepares for quiet, the darkness might envelop those nestled inside, while the few brave souls venturing out can expect brisk gusts to accompany them on their way. Dress warmly, heed the wind, and find solace in the evening\u2019s tranquil cadence, as nature coalesces into a meditative stillness under its cloak of clouds.",
-    "color_code": "#7E9CC3",
-    "timestamp": "2025-03-17 17:04:52"
+    "weather_report": "As twilight drapes its soft veil over Downtown San Francisco, the remnants of an unsettled day linger in the evening air. A slight chance of showers and the faint rumble of distant thunder remind us of nature\u2019s unpredictability, but mostly the skies are beginning to clear, revealing a canvas of deep blues and delicate grays. The chill of the evening descends, with temperatures gently lowering to the mid-forties. The crisp northwest wind slices through the city, suggesting that layers are the wisest choice for those venturing out tonight\u2014perhaps a warm sweater or light jacket to embrace against the brisk breeze.\n\nTomorrow promises a brighter disposition with sunny skies and a comfortable high hovering near fifty-seven. The forecast beckons residents to engage with the outdoors, inviting leisurely strolls along the waterfront or an afternoon in one of the city\u2019s vibrant parks. A warm latte in hand could complement the crispness of the air as locals relish the city\u2019s charm before the all-too-familiar fog rolls in again, masking the views with its ethereal touch. So, as the sun retires for the night, take a moment to appreciate the urban silhouette against the fading light, knowing that a pleasant day awaits with open arms.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2025-03-17 18:28:46"
 }
