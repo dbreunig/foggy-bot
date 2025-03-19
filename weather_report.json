@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-19T04:43:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 69.036368872865,
+            "timestamp": "2025-03-19T06:43:00+00:00",
+            "temperature_f": 48.704,
+            "temperature_c": 9.28,
+            "humidity": 73.011756491957,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2025-03-19T00:00:00-07:00",
+                "startTime": "2025-03-19T01:00:00-07:00",
                 "endTime": "2025-03-19T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 44. Southwest wind around 5 mph."
+                "detailedForecast": "Mostly clear. Low around 44, with temperatures rising to around 46 overnight. Southwest wind around 3 mph."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 50
                 },
                 "windSpeed": "2 to 10 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,60?size=medium",
-                "shortForecast": "Partly Sunny then Light Rain Likely",
-                "detailedForecast": "Rain likely after 5pm. Partly sunny, with a high near 57. South southwest wind 2 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,50?size=medium",
+                "shortForecast": "Partly Sunny then Chance Light Rain",
+                "detailedForecast": "A chance of rain after 5pm. Partly sunny, with a high near 57. South southwest wind 2 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the remnants of night linger with a cool embrace, the air crisp and mostly clear. The low temperatures hover near a refreshingly brisk 44 degrees, accompanied by gentle breezes whispering from the southwest. But the promise of the day casts a cautious shadow, as clouds gather in the distance, hinting at rain beginning after the clock strikes five. While the morning unfolds under a partly sunny disposition, there\u2019s a sense of inevitability in the gathering moisture; a 60% chance suggests that umbrellas may soon shift from decorative to necessary.\n\nFor those stirring from slumber, the day offers a fine opportunity to don layers\u2014a cozy sweater beneath a light jacket should adequately fend off the early chill. As the hours pass, consider wandering through the streets to enjoy a fresh pastry from a local caf\u00e9 or perhaps visiting a quiet spot to enjoy the city\u2019s iconic views. With the clouds rolling in later, you might find it an ideal time to visit one of the city\u2019s museums or indulge in a leisurely afternoon reading at a cozy bookstore. But be prepared; as twilight approaches, the skies will darken, promising a curtain of rain to close the day.",
-    "color_code": "#b0c4de",
-    "timestamp": "2025-03-19 00:01:40"
+    "weather_report": "As the early morning hours stretch across Downtown San Francisco, a gentle clarity washes over the cityscape, with the remnants of night lingering like a whisper in the air. The temperature rests comfortably around 44 degrees, hinting at a coolness that calls for layers as you greet the day. Dressed in a light sweater or a cozy jacket, one can step outside to embrace the dawn, perhaps savoring a quiet moment with coffee in hand, the soft breeze offering a welcoming touch.\n\nAs the day progresses, the promise of a partly sunny afternoon unfolds, though an impending chance of rain coaxes a slight chill into the atmosphere. By mid-afternoon, clouds may begin to gather, a prelude to a sprinkle from the heavens post 5 PM. The city remains mostly clear for now, an absence of fog allowing the iconic San Francisco landmarks to define the horizon without obstruction. As you stroll through the streets or enjoy the view from a favorite nook, consider a visit to a quaint bookstore or a local caf\u00e9 to take shelter from any subjects offering mild drizzle later. Embrace the day with an adventurous spirit, allowing the evolving weather to enhance your experience of this vibrant urban landscape.",
+    "color_code": "#BEBEBE",
+    "timestamp": "2025-03-19 01:01:43"
 }
