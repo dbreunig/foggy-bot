@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-19T00:43:00+00:00",
-            "temperature_f": 54.986,
-            "temperature_c": 12.77,
-            "humidity": 53.016911165168,
+            "timestamp": "2025-03-19T01:43:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 60.001705598748,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-18T17:00:00-07:00",
-                "endTime": "2025-03-18T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 57. West wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-18T18:00:00-07:00",
+                "startTime": "2025-03-18T19:00:00-07:00",
                 "endTime": "2025-03-19T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 10 mph",
+                "windSpeed": "2 to 9 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 44. West southwest wind 2 to 10 mph."
+                "detailedForecast": "Mostly clear, with a low around 44. West southwest wind 2 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-03-19T06:00:00-07:00",
+                "endTime": "2025-03-19T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "2 to 10 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,60?size=medium",
+                "shortForecast": "Partly Sunny then Light Rain Likely",
+                "detailedForecast": "Rain likely after 5pm. Partly sunny, with a high near 57. South southwest wind 2 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco this afternoon, the air carries a refreshing clarity, graced by gentle sunshine, as if the city has decided to reveal its splendor once more. With temperatures hovering in the upper fifties, the skies offer a clear canvas\u2014the iconic outlines of the Golden Gate Bridge jutting elegantly against the blue, unfettered by mist or fog. It is a day to appreciate the crispness of the breeze wafting in from the west, inviting you to step outside and enjoy the vibrant energy pulsing through the streets.\n\nAs evening descends, expect the skies to remain mostly clear, with temperatures dipping toward a comfortable low in the mid-forties. A soft west-southwest wind may accompany your stroll, reminding you to layer up just a bit as twilight bathes the city in a softer glow. Such conditions present an ideal backdrop for tranquil pursuits: perhaps a leisurely walk through Golden Gate Park, savoring the quiet hum of nature, or a visit to one of the charming local caf\u00e9s to sip on a warm drink while watching the bustling streets effortlessly transition from day to night. Tonight's serenity whispers of contentment, urging you to relish the simple pleasures the evening holds.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-03-18 18:28:51"
+    "weather_report": "As twilight descends over Downtown San Francisco, the city basks in a gentle, cool breeze, with its atmosphere decidedly clear, yet faint traces of fog linger at the city's edges, hinting at the embrace of the Pacific. The temperature hovers comfortably, a mere breath away from chilly, as the last rays of sunlight dissolve into the horizon. Tonight\u2019s sky will keep mostly clear, save for scattered stars waiting to grace the evening, under which the breeze whispers softly, a warm invitation to still venture outside.\n\nTomorrow, as the sun begins to rise, expect a contrasting shift. The forecast calls for rain likely to begin in the late afternoon, mixing with a soft sun peeking through the clouds, providing a fleeting duality of weather. Above, the skies may develop a shroud of grey, ready to disperse gentle droplets in unison. For those dressed in layers, this transition calls for both comfort and practicality: a light jacket and perhaps a sturdy umbrella for precaution. As daylight wanes later in the afternoon, consider an early excursion, a visit to a cozy caf\u00e9 for a warm beverage or a leisurely stroll through the city streets, perhaps seeking shelter from the impending drizzle while savoring a good book or quiet conversation. In this ever-changing confluence of fog and sunlight, San Francisco remains inviting, offering a bittersweet charm as it prepares for the dance of rain.",
+    "color_code": "#A9C1D3",
+    "timestamp": "2025-03-18 19:26:55"
 }
