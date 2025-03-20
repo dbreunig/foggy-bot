@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-20T05:00:00-07:00",
-                "endTime": "2025-03-20T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 46. North northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2025-03-20T06:00:00-07:00",
                 "endTime": "2025-03-20T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 59. Northwest wind 5 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-20T18:00:00-07:00",
+                "endTime": "2025-03-21T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 47. West northwest wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "A gentle night unfolds in Downtown San Francisco, the sky adorned with wisps of clouds that hint at the fragments of dusk yet to surrender to the brightening dawn. As the temperature settles around the cool grasp of forty-six degrees, a gentle north-northwest breeze brushes through, lending a crispness to the air that invigorates the spirit. For the adventurous soul waking with the day, the forecast lovingly promises a transition toward a mostly sunny embrace, inviting warmth to reach a delightful near fifty-nine.\n\nAs the sun rises, casting golden rays across the City by the Bay, the anticipated clarity speaks to the heart of spring. While remnants of a marine layer might linger coyly along the coast, it\u2019s the kind of day that encourages one to layer lightly\u2014a soft jacket over a comfortable shirt, perfect for ambling through the neighborhood or resting at a caf\u00e9 with a warm drink to sip. Embrace the simple joys, perhaps a stroll along Waterfront Park or a visit to the vibrant local market, where the fresh scents of produce and baked goods mingle in welcoming harmony, embodying the everyday magic of this remarkable city.",
-    "color_code": "#A5C1B4",
-    "timestamp": "2025-03-20 05:02:02"
+    "weather_report": "In Downtown San Francisco, the day unfurls under a mostly sunny sky, with the promise of mild temperatures hovering near 59 degrees. The air is crisp, invigorated by a gentle northwest breeze that whispers through the avenues and alleyways. This morning, early risers might notice the vestiges of fog retreating like a whispered secret, leaving behind a clearer canvas painted in soft hues of blue and light. While the sun climbs, one can expect the day to remain clear and pleasant, ideal for leisurely strolls along the waterfront or a quiet moment spent in a sunlit caf\u00e9.\n\nAs evening approaches, the forecast brings a partial veil of clouds with a low dipping down to around 47, encouraging thoughts of warm layers. A light west-northwest wind may accompany the cooling air, suggesting that a cozy sweater or light jacket would be the wise choice for those venturing out to catch the fading light on rooftops and parks. The ambiance beckons for intimate gatherings, perhaps at a quiet bistro or a serene walk through the streets, as the sun slips beyond the horizon and the city lights begin to sparkle. Wrapped in the embrace of this delightful weather, let the day carry you through simple pleasures amidst the beauty of San Francisco.",
+    "color_code": "#A2B5D1",
+    "timestamp": "2025-03-20 06:07:04"
 }
