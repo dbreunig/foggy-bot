@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-23T10:43:00+00:00",
-            "temperature_f": 50.918,
-            "temperature_c": 10.51,
-            "humidity": 91.970525295963,
+            "timestamp": "2025-03-23T11:43:00+00:00",
+            "temperature_f": 50.09,
+            "temperature_c": 10.05,
+            "humidity": 92.004567292906,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-23T05:00:00-07:00",
-                "endTime": "2025-03-23T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Partly cloudy, with a low around 49. West southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2025-03-23T06:00:00-07:00",
                 "endTime": "2025-03-23T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
                 "shortForecast": "Patchy Fog then Mostly Sunny",
                 "detailedForecast": "Patchy fog before 9am. Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. South southwest wind 3 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-23T18:00:00-07:00",
+                "endTime": "2025-03-24T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 52. Southwest wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the air is cool and tinged with the faint aroma of the sea, while a cloak of patchy fog drapes lazily across the bay. At this early hour, the cityscape is shrouded in a delicate veil of cloud, hinting at the sun's imminent arrival. Soft strokes of paler light begin to tease their way through the fog, promising a day that will blossom into warmth. Though the day is expected to unfold into mostly sunny skies, early risers may still find themselves accompanied by the drifting mist, particularly around the Golden Gate and the waterfront, where the marine layer often lingers.\n\nAs temperatures rise to a gentle 66 degrees, layering is key; a light jacket will suffice for those stepping out into the morning haze, while a simple short-sleeved shirt will keep you comfortable in the afternoon sun. With conditions set to clear, today beckons for leisurely strolls along Fisherman's Wharf or perhaps a quiet moment in one of the tranquil parks. The early fog makes it a perfect time to sip a warm coffee while savoring the calm before the city stirs fully awake. So, whether you seek solace among the fog or revel in the golden light of day, San Francisco\u2019s varied beauty invites you to embrace the possibilities of its shifting skies.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-03-23 05:01:55"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the city begins to emerge from its blanket of patchy fog, revealing a landscape both invigorating and serene. The morning air carries a crispness, hinting at the vibrant day to come. Today\u2019s forecast promises moments of sunshine, as the fog will recede before nine, giving way to a pleasant warmth that hovers around 66 degrees. Residents are greeted with the gentle caress of a south-southwest breeze, an invitation to step outside, take a deep breath, and savor the mild atmosphere.\n\nThe emerging clarity of the day offers an excellent chance for casual exploration. Consider donning a light jacket over layered clothing\u2014perfect for the cool morning and the sunny afternoon that follows. A stroll along the Embarcadero could blend the invigorating views of the Bay with that gentle wind, perhaps ending at a favorite caf\u00e9 for a warm drink. Alternatively, an afternoon spent in one of the city\u2019s lush parks may provide the ideal backdrop for a quiet moment or a light picnic as the temperature settles comfortably around 64 degrees. With the promise of a clear, mild evening ahead, the lure of a leisurely dinner outside feels particularly enticing, as the sun sets slowly, painting the sky in hues of amber and lavender.",
+    "color_code": "#B2C0B9",
+    "timestamp": "2025-03-23 06:04:49"
 }
