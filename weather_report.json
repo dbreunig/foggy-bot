@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-23T17:00:00-07:00",
-                "endTime": "2025-03-23T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 67, with temperatures falling to around 65 in the afternoon. West wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-03-23T18:00:00-07:00",
                 "endTime": "2025-03-24T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 51. South wind 2 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-03-24T06:00:00-07:00",
+                "endTime": "2025-03-24T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 76,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 76. North wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "The afternoon sun graces Downtown San Francisco with a gentle warmth, casting long shadows against a backdrop of crystalline blue skies. The temperature hovers near a comfortable sixty-seven degrees, a perfect invitation for a stroll through the heart of the city, where the buzz of life intertwines with bursts of spring\u2019s vibrancy. As the hours wane, the air may cool slightly, settling into a tranquil sixty-five, kissed by a soft west wind that whispers promises of evening calm.\n\nWith no substantial fog to obscure the view, the Golden Gate Bridge stands proudly against its enveloping hills, offering a sight that elicits awe. Tonight, the stars will begin to peek through as the skies clear, inviting those who venture out to enjoy the crispness that envelopes a low of around fifty-one. It's a night perfectly suited for layering\u2014a light sweater or jacket over casual attire, perhaps paired with comfortable shoes to navigate the welcoming streets. As the day\u2019s glow gives way to the evening\u2019s embrace, consider a leisurely walk along the waterfront or a visit to a local caf\u00e9, where the delights of the day linger in the air, promising yet another enchanting San Francisco evening.",
-    "color_code": "#A7C7E1",
-    "timestamp": "2025-03-23 17:05:37"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the sky emerges in a serene canvas of pale blue, punctuated by the soft silhouette of nearby hills. The warmth of the day lingers, cooling only slightly as the sun retreats. Tonight\u2019s forecast promises clarity, with a gentle slowdown of the south winds, whispering through the streets as the city exhales into the early evening. The low is mild and inviting, settling around fifty-one, offering just a hint of chill that encourages a light sweater or a fashionable jacket.\n\nWhile the day has been crowned with sunshine, bringing warmth to those who wandered outside, the expansive views highlight the delicate battle between the cityscape and the resplendent marine layer that often drapes the Bay. The fog, usually creeping in to blanket the bridges, seems to be holding off for now, suggesting a rare moment of visibility that could invite one to explore. After this vibrant day, perhaps a leisurely stroll along the Embarcadero would suit, the path illuminated by the soft glow of streetlights and the gentle sounds of the water lapping against the shore. For those seeking a touch of relaxation, settling in at a cozy caf\u00e9 with an outdoor patio could be an ideal end to the day, allowing one to savor the lingering warmth amidst the city that never truly sleeps.",
+    "color_code": "#cde8e0",
+    "timestamp": "2025-03-23 18:28:53"
 }
