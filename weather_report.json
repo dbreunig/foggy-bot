@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-24T22:43:00+00:00",
-            "temperature_f": 78.62,
-            "temperature_c": 25.9,
+            "timestamp": "2025-03-24T23:43:00+00:00",
+            "temperature_f": 78.566,
+            "temperature_c": 25.87,
             "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-24T17:00:00-07:00",
-                "endTime": "2025-03-24T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 76,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 76. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-03-24T18:00:00-07:00",
                 "endTime": "2025-03-25T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 56. North northwest wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-03-25T06:00:00-07:00",
+                "endTime": "2025-03-25T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 77,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 77, with temperatures falling to around 74 in the afternoon. North wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the sun hangs high this afternoon in Downtown San Francisco, the air hums with a gentle warmth that beckons one outdoors. A bright canvas stretches above, unmarred by clouds or fog, gracing the city with clarity that reveals the Golden Gate Bridge standing proud against the shimmering bay. The day carries with it a light northwesterly breeze, just enough to keep the air fresh and invigorating without a chill. With temperatures flirting with the pleasant mid-seventies, it is a splendid time to engage with the vibrant life that pulses through the streets.\n\nAs evening approaches, a sense of tranquility washes over as the temperature dips gently towards the mid-fifties. The twilight sky transitions into a softer hue, inviting moments of reflection or leisurely strolls along the waterfront. A light jacket may suffice for those who plan to linger outdoors, particularly by the water where the coolness of the bay adds its own whisper of chill. Whether finding a cozy spot at a nearby caf\u00e9 or embarking on a quiet walk through the park, the splendid clarity of the day creates an opportunity to savor simple pleasures in the heart of the city.",
-    "color_code": "#5DA5E1",
-    "timestamp": "2025-03-24 17:04:45"
+    "weather_report": "As twilight settles over Downtown San Francisco, the day relinquishes its warmth, gracing the city with a gentle clarity. The air, mild and inviting, carries the distinct aroma of the bay, as remnants of sunlight flicker upon the water, revealing paths of shimmering gold. With a low of around 56 degrees anticipated, all signs point to a serene evening, the slightly crisp breeze swirling softly from the north at just a whisper.\n\nTuesday unfurls with promises of brightness, as the sun ascends to heighten the day to nearly 77 degrees before retreating slightly to a comfortable 74. This largely sunny day hints at a rare moment of joy, with nary a trace of fog to obscure the iconic skyline. As the clouds drift further afield, revelers can don their light jackets and stroll along the Embarcadero, perhaps pausing for a moment of contemplation by the Ferry Building, where the ebb and flow of daily life intertwine peacefully with the rhythm of the tide. Whether it be a casual coffee shop visit or an afternoon spent exploring the vibrant Mission District \u2013 the city breathes an abundant air of inspiration and possibility.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-03-24 18:28:44"
 }
