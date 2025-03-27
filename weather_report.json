@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-26T22:43:00+00:00",
-            "temperature_f": 60.224000000000004,
-            "temperature_c": 15.68,
-            "humidity": 64.003128389403,
+            "timestamp": "2025-03-27T00:43:00+00:00",
+            "temperature_f": 58.586,
+            "temperature_c": 14.77,
+            "humidity": 69.33451714235,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-26T17:00:00-07:00",
-                "endTime": "2025-03-26T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy. High near 62, with temperatures falling to around 60 in the afternoon. South southwest wind around 14 mph, with gusts as high as 20 mph. Chance of precipitation is 40%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-03-26T18:00:00-07:00",
                 "endTime": "2025-03-27T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,40/rain,30?size=medium",
                 "shortForecast": "Chance Light Rain",
                 "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 54. South southwest wind 8 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-03-27T06:00:00-07:00",
+                "endTime": "2025-03-27T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 50
+                },
+                "windSpeed": "8 to 15 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Partly sunny, with a high near 60. South southwest wind 8 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In downtown San Francisco, the sky is cloaked in a mottled gray, hinting at the possibility of rain later in the afternoon. The air carries a crisp edge, a foretaste of the cool breeze that dances through the streets at around 14 miles per hour. As your gaze drifts across the cityscape, the iconic silhouettes appear somewhat muted, shadowed by clouds that swarm from the south and southwest. The forecast whispers of the temperature gently falling to around 60 degrees, suggesting a soft retreat from the day's warmth that never truly materialized.\n\nAs evening approaches, expect the clouds to settle deeper into a night filled with moisture and the faint possibility of drizzle, as well as a low settling near 54 degrees. It\u2019s a good idea to prepare for a cozy evening indoors, perhaps curled up with a book at one of the neighborhood caf\u00e9s, where the warm lights create an inviting atmosphere amid the gloom. Layering up is wise; a light jacket will provide comfort against the oncoming chill while leaving room for a more relaxed ensemble beneath. If you venture out, perhaps walk along the waterfront, allowing the cool air to refresh your thoughts as the sun bids farewell beyond a shroud of gray. Each moment spent in this characteristically San Francisco weather feels both invigorating and contemplative.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-03-26 17:04:29"
+    "weather_report": "As dusk settles over Downtown San Francisco, the cloudy skies weave a blanket of soft gray across the city, a harbinger of the evening's impending rain. Tonight, the atmosphere feels muted and contemplative, with an air temperature lingering around a mild 54 degrees. The winds, gentle yet persistent from the south-southwest, stir the cool air, creating a sense of quiet movement that hints at changing weather patterns. The chance of rain stands at a modest forty percent, teasing the possibility of light showers. Should the droplets make their appearance, they are expected to come down softly, perhaps just a whisper of moisture\u2014less than a tenth of an inch\u2014a mere caress upon the concrete and canvas of the storied streets.\n\nTomorrow beckons with a tantalizing mix, offering a fifty percent chance of rain amid moments of fleeting sun. Daylight will unfold with temperatures climbing near 60, a scene shaded by varying clouds that may give way to slivers of blue skies. As the day breaks, layers will be key; a cardigan or lightweight jacket might suit one well as the brisk breeze exists in playful contrast to warmer, sheltered spots. These conditions invite a palette of activities: a meandering stroll along the waterfront or a visit to local cafes where the warmth of coffee mingles with the scent of baked goods\u2014perfect for watching the world go by as the day unfurls. Whether it's the intricate street art, the sun-dappled parks, or simply the embrace of the local culture, San Francisco remains as ever, a city alive with the spirit of exploration, even in the most unassuming of weathers.",
+    "color_code": "#A3A3A3",
+    "timestamp": "2025-03-26 18:28:48"
 }
