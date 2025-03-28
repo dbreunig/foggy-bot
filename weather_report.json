@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-27T21:43:00+00:00",
-            "temperature_f": 59.324,
-            "temperature_c": 15.18,
-            "humidity": 62.987563793684,
+            "timestamp": "2025-03-27T23:43:00+00:00",
+            "temperature_f": 60.35,
+            "temperature_c": 15.75,
+            "humidity": 61.975368270407,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-27T17:00:00-07:00",
-                "endTime": "2025-03-27T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Partly sunny. High near 61, with temperatures falling to around 59 in the afternoon. Southwest wind around 14 mph, with gusts as high as 21 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-03-27T18:00:00-07:00",
                 "endTime": "2025-03-28T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
                 "shortForecast": "Chance Light Rain",
                 "detailedForecast": "A chance of rain before 5am. Mostly cloudy, with a low around 52. Southwest wind 7 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-03-28T06:00:00-07:00",
+                "endTime": "2025-03-28T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 59, with temperatures falling to around 57 in the afternoon. West wind 7 to 13 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the skies offer a modest spectacle this late afternoon, divided between sunshine and the promise of rain. The air is tinged with a crispness that speaks of the cool season, with temperatures edging downwards as the afternoon wanes. The winds gracefully dance from the southwest, prancing around at a comfortable 14 mph, not too bold but enough to send a gentle shiver through your bones. A chance of rain looms, with clouds gathering, hinting at dampness before the night descends. \n\nAs dusk approaches, the clouds thicken, casting a soft veil over the cityscape. The low, gentle rumble of thunder might not be far behind, as the forecast indicates a 40% chance of precipitation before dawn. Those venturing out may want to reach for a light jacket, perhaps something cozy to ward off the early evening chill, as the temperature dips close to 52. This isn't a day for grand adventures; instead, stroll through nearby streets, pause at a caf\u00e9 for a steaming cup of coffee or tea, and indulge in a good book or quiet conversation. A reflective gaze on the city's illuminated skyline as the sun retreats will suffice for the soul tonight, capturing the serene essence of the moment.",
-    "color_code": "#A6B8C9",
-    "timestamp": "2025-03-27 17:04:27"
+    "weather_report": "As dusk settles over Downtown San Francisco, a gentle chill begins to embrace the city, with temperatures dropping to a refreshing low. Tonight whispers of rain are possible, with the skies mostly cloaked in soft clouds, presenting a moody yet captivating scene. A warm wind carries the salty breath of the ocean, creating a palpable connection to the bay, while the chance of precipitation lingers like an artist's brush waiting to strike the canvas with delicate strokes of water. The marine layer threatens to snuggle in, but for now, it dances at the edges, softening the cityscape without completely obscuring the view.\n\nAs we look toward tomorrow, the promise of sunshine emerges, breaking through the clouds with a gentle insistence. The day will present a tranquil, mostly sunny atmosphere, ideal for leisurely strolls along the waterfront or perhaps a visit to a local caf\u00e9 where you can watch the world flow by. A light jacket will suffice, perfect for layering against the lingering coolness of the late afternoon. Perhaps an opportunity awaits to dive into the whimsical shops of the Mission or savor an artisanal pastry while enjoying the transforming panorama that unfolds as the fog begins to retreat. Embrace the day with open arms and wear the weather like a soft embrace rather than a heavy coat; it invites exploration rather than retreat.",
+    "color_code": "#A3B5D8",
+    "timestamp": "2025-03-27 18:28:43"
 }
