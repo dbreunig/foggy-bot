@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-28T05:00:00-07:00",
-                "endTime": "2025-03-28T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. West southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2025-03-28T06:00:00-07:00",
                 "endTime": "2025-03-28T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 59, with temperatures falling to around 57 in the afternoon. West wind 7 to 13 mph, with gusts as high as 18 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-28T18:00:00-07:00",
+                "endTime": "2025-03-29T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 47. West northwest wind 6 to 12 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfurls its delicate brush strokes over Downtown San Francisco, the city seems draped in a soothing shawl of clouds, with the night\u2019s chill lingering softly in the air. The low hum of a west-southwest wind at about seven miles per hour whispers through the streets, inviting a sense of tranquility. The promise for the day ahead hints at a metamorphosis; the clouds are expected to part, revealing patches of blue and a hint of sunlight, transforming the afternoon into a graceful embrace of warmth. The high, a modest 59 degrees, finds its rhythm in the soft descent towards the late afternoon, inviting those who stroll to let layers slip away like an artist casting aside a protective smock.\n\nThe clarity of the day, although bolstered by the sun\u2019s aspirations, may still wrestle with remnants of the marine layer, suggesting that the fog might linger especially towards the coast, casting a gentle veil over the iconic Golden Gate Bridge. Streets lined with caf\u00e9s beckon, urging patrons to enjoy their morning coffee al fresco, as the gentle winds carry the scent of the city. Given the coolness of the air, a light jacket paired with a comfortable sweater would bring relief to those traversing the brisk San Francisco chill. This morning wears the look of a day ripe with possibilities; perhaps a stroll through Golden Gate Park, where the blooming flowers punctuate the stillness, or a visit to a corner bookstore, embracing the cozy sanctuary of stories waiting to unfold. Today is not just a canvas of weather, but a tapestry of experiences waiting to be stitched together, one moment at a time.",
+    "weather_report": "The early morning in Downtown San Francisco unfolds with a soft clarity, a promise of sun peeking through the gentle haze that often wraps the city in its cool embrace. Today\u2019s forecast predicts a mostly sunny disposition, with a high lingering near a cool 59 degrees, inviting a sense of calm as the west wind sways lightly, whispering along the streets. As the hours drift past, temperatures will ease back to a comfortable 57, perfect for those who favor a brisk stroll along the Embarcadero or a quiet moment in one of the parks that fringe this urban landscape.\n\nThis moment calls for layers\u2014perhaps a light sweater to ward off the morning chill, followed by a breezy jacket for the afternoon when the sun fully breaks through. The likelihood of fog is minimal, with only a remnant marine layer hinting at the coastline\u2019s ever-present influence, lingering like an afterthought. It\u2019s an ideal day to sip coffee at a local caf\u00e9 while watching the city pulse to life or to visit one of the lesser-known galleries tucked away in an alley, their artworks echoing the city\u2019s vibrant soul. As night falls, a clear expanse awaits, where the stars might shyly twinkle against the backdrop of the cool air settling in at around 47 degrees.",
     "color_code": "#C0C0C0",
-    "timestamp": "2025-03-28 05:01:58"
+    "timestamp": "2025-03-28 06:07:07"
 }
