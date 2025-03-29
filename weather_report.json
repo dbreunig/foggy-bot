@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-29T09:43:00+00:00",
-            "temperature_f": 49.982,
-            "temperature_c": 9.99,
-            "humidity": 79.026200646348,
+            "timestamp": "2025-03-29T10:43:00+00:00",
+            "temperature_f": 49.604,
+            "temperature_c": 9.78,
+            "humidity": 78.020799336161,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-29T05:00:00-07:00",
-                "endTime": "2025-03-29T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 47. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2025-03-29T06:00:00-07:00",
                 "endTime": "2025-03-29T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 58, with temperatures falling to around 56 in the afternoon. West northwest wind 3 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-29T18:00:00-07:00",
+                "endTime": "2025-03-30T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,60/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain after 11pm. Mostly cloudy, with a low around 49. Southwest wind 6 to 10 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the city stirs into life this March morning, the cool, crisp air carries a promise of clarity and calm. With the early hours showcasing a serene clear sky, temperatures linger in the comfortable realm of the low forties. The gentle northwest breeze whispers softly, perfect for a stroll as sunlight begins to spill over the skyline. The day ahead glimmers with the potential for mostly sunny skies that will shine upon the robust vibrancy of downtown San Francisco. As the afternoon approaches, the warmth may recede slightly, dipping to a mild 56, reminding us of the city\u2019s unique climatic dance.\n\nWhile the morning holds the charm of clarity, no trace of fog adds a touch of mystique to the familiar sights. This is a perfect day to don layers\u2014a light jacket will suffice in the morning chill, giving way to a simple tee as the sun ascends gently. The streets beckon with the allure of a coffee shop visit, where locals gather to savor their brews, or perhaps a leisurely exploration along the waterfront, where the iconic vistas await. The atmosphere promises to be pleasant, ripe for appreciating the artistry of the day and encouraging one to linger just a little longer in the embrace of San Francisco\u2019s enchanting aura.",
-    "color_code": "#BFD3C1",
-    "timestamp": "2025-03-29 05:01:54"
+    "weather_report": "As dawn gives way to day, Downtown San Francisco reveals a landscape bathed in the gentle light of a mostly sunny morning. The air is crisp, with temperatures creeping up to a comfortable 58, though those venturing outdoors will feel the coolness gradually descend to 56. A light breeze from the west adds a refreshing touch, whispering through streets as the city awakens. \n\nHowever, the tranquility of the day will soon yield to the approaching rain. By nightfall, clouds will blanket the sky, and showers are anticipated to begin shortly after 11 PM, possibly heralded by the scent of wet earth that hangs sweetly in the air. Dress in layers, perhaps a cozy sweater or light jacket to fend off the coolness, especially as evening approaches. The expectation of rain invites a bit of indoor delight; visiting a local caf\u00e9 could be the perfect antidote to any autumnal chill, enjoying a warm drink while watching the city transition under the encroaching clouds. With a high chance of precipitation later, it might also be wise to keep an umbrella handy, just in case a delicate drizzle seeks to accompany you on your evening stroll.",
+    "color_code": "#A3B8DA",
+    "timestamp": "2025-03-29 06:05:20"
 }
