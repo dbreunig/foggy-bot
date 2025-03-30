@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-30T10:43:00+00:00",
-            "temperature_f": 50.558,
-            "temperature_c": 10.31,
-            "humidity": 66.031656961415,
+            "timestamp": "2025-03-30T11:43:00+00:00",
+            "temperature_f": 49.496,
+            "temperature_c": 9.72,
+            "humidity": 78.986171025082,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-30T05:00:00-07:00",
-                "endTime": "2025-03-30T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 90
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy, with a low around 49. Southeast wind around 21 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2025-03-30T06:00:00-07:00",
                 "endTime": "2025-03-30T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,90/rain,30?size=medium",
                 "shortForecast": "Light Rain",
                 "detailedForecast": "Rain before 5pm. Mostly cloudy, with a high near 60. South wind 13 to 23 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-30T18:00:00-07:00",
+                "endTime": "2025-03-31T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,60/rain,80?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain after 11pm. Mostly cloudy. Low around 52, with temperatures rising to around 54 overnight. South southwest wind around 12 mph, with gusts as high as 18 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle veil of rain gracefully envelops the city, lending a muted yet intimate atmosphere to the urban landscape. The clouds hang low and gray, promising to linger throughout the morning, with the vibrant energy of the city shimmering beneath a thin layer of moisture. The air carries a chill, wrapping around you with a whisper of the impending showers. The low hum of the southeast wind, coupled with occasional gusts, adds a briskness to the scene, setting the backdrop for this rainy Sunday.\n\nThe forecast suggests that the rain will persist into the afternoon, punctuated by bursts of wind that may scatter in scattered patterns across the skies. With temperatures hovering in the low sixties, it\u2019s a day better suited for a cozy gathering indoors rather than a sun-soaked outing. Dressing in layers, including a waterproof jacket and comfortable footwear, is advisable as the streets may become slick with accumulated rainfall. Instead of the typical weekend bustle, consider the charm of a leisurely stroll through one of San Francisco's many cafes, sipping a warm drink while watching the droplets dance against the windowpanes. Alternatively, a visit to a local art show or a bookshop could be soothing indulgences in such weather, allowing one to embrace the serenity of a rainy day in the city.",
-    "color_code": "#7D9B9A",
-    "timestamp": "2025-03-30 05:01:57"
+    "weather_report": "The dawn in Downtown San Francisco carries with it an unmistakable chill, intermingled with a veil of looming rain clouds that blanket the horizon. The city, at this hour, feels hushed, awaiting the arrival of the rain forecasted to sweep through before the early evening. The high, gently brushing sixty degrees serves as a reminder of spring\u2019s tender grip, yet the south wind nudges with a brisk insistence, hinting at the strength of the elements around us. \n\nThe charm of San Francisco maintains its stature, even when draped in this damp guise. As the clouds gather, one might detect hints of mist creeping over the hills, forming a soft marine layer. The vistas, typically vibrant, are muted under this shroud, creating an atmosphere that is palpably contemplative and slightly somber. For those stepping out, a raincoat accompanied by a sturdy pair of shoes is advisable\u2014each step becomes an adventure, whether traversing city streets or seeking refuge in a cozy caf\u00e9. \n\nGiven the weather's unpredictability, an afternoon stroll through one of the city\u2019s lush parks or a visit to a local museum would be delightful explorations. If you find yourself indoors, perhaps indulge in a book or a warm cup of coffee, letting the rhythm of raindrops become your backdrop for reflection.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2025-03-30 06:05:12"
 }
