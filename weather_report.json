@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-30T23:43:00+00:00",
-            "temperature_f": 60.548,
-            "temperature_c": 15.86,
-            "humidity": 69.969430567061,
+            "timestamp": "2025-03-31T01:43:00+00:00",
+            "temperature_f": 57.938,
+            "temperature_c": 14.41,
+            "humidity": 78.981186604594,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-30T17:00:00-07:00",
-                "endTime": "2025-03-30T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 60. Southwest wind around 13 mph, with gusts as high as 18 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-30T18:00:00-07:00",
+                "startTime": "2025-03-30T19:00:00-07:00",
                 "endTime": "2025-03-31T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -52,11 +33,30 @@
                 "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,60?size=medium",
                 "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely after 11pm. Mostly cloudy, with a low around 53. South southwest wind around 12 mph, with gusts as high as 18 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain showers likely after 11pm. Mostly cloudy, with a low around 53. South southwest wind around 12 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-03-31T06:00:00-07:00",
+                "endTime": "2025-03-31T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "10 to 16 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely. Partly sunny. High near 58, with temperatures falling to around 55 in the afternoon. West southwest wind 10 to 16 mph, with gusts as high as 24 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco this afternoon, the day unfolds under a mostly sunny sky, the sun casting a warm glow across the city as a gentle southwest breeze meanders through the streets. Yet, as the sun descends, a shift is anticipated, bringing with it a hint of the evening's promise. By nightfall, clouds will roll in, with rain showers likely making their appearance past 11 PM. The day's warmth will give way to a cooler embrace, inviting residents to wrap themselves in layers for comfort as they navigate the transition from day to night.\n\nThough the sun shines brightly now, hints of an encroaching marine layer may linger along the coast, suggesting a potential haziness that obscures distant vistas. A light jacket or sweater would serve well against the chilly breeze that lingers through the evening, especially if one finds oneself outdoors, enjoying the city\u2019s vibrant scenes or a leisurely walk along the waterfront. This serene afternoon offers the perfect backdrop for simple pleasures\u2014perhaps a stroll through a local park, with the allure of the evening rain serving as a reminder to seek out the warmth of a cozy caf\u00e9 later on.",
-    "color_code": "#A9B8B3",
-    "timestamp": "2025-03-30 18:29:08"
+    "weather_report": "As twilight deepens over Downtown San Francisco, the city breathes in a veil of clouds, signaling the approach of evening rain. Currently, the air feels refreshingly brisk, just shy of 53 degrees, while the south-southwest wind whispers through the streets at a gentle pace. The promise of rain showers looms on the horizon, ready to make their presence felt after hours, with a 60% chance that the heavens may spill softly into the burgeoning night. It\u2019s an invitation to wrap yourself snugly in layers; a light jacket paired with a cozy sweater would be prudent as you venture out.\n\nThe forecast for tomorrow suggests a dance of weather conditions, with rain likely to persist amidst brief moments of sunshine. Expect the high to touch a mild 58 degrees, with cooling temperatures as the afternoon unfolds. With gusts scaling up to 24 mph, the wind will playfully tussle at your coat\u2019s edges, making it more vital to be attired appropriately for the fluctuating conditions. In these moments, as you ponder your evening plans, consider a visit to a favorite caf\u00e9, where you can savor the rich warmth of a fresh brew while watching the clouds weave their stories overhead. As day turns to night, embrace the quieter side of the city, perhaps a stroll through your neighborhood, absorbing the atmosphere that only a rainy evening can conjure.",
+    "color_code": "#6A9FD4",
+    "timestamp": "2025-03-30 19:29:36"
 }
