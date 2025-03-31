@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-31T02:43:00+00:00",
-            "temperature_f": 57.506,
-            "temperature_c": 14.17,
-            "humidity": 81.020330297234,
+            "timestamp": "2025-03-31T05:43:00+00:00",
+            "temperature_f": 56.444,
+            "temperature_c": 13.58,
+            "humidity": 81.972969298593,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-03-30T23:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-03-31T00:00:00-07:00",
                 "endTime": "2025-03-31T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -30,10 +30,10 @@
                     "value": 60
                 },
                 "windSpeed": "10 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,60?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Mostly cloudy, with a low around 53. South southwest wind around 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Mostly cloudy, with a low around 53. Southwest wind around 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 50
                 },
-                "windSpeed": "10 to 16 mph",
+                "windSpeed": "9 to 16 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Partly sunny. High near 58, with temperatures falling to around 55 in the afternoon. West southwest wind 10 to 16 mph, with gusts as high as 24 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,50?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Mostly cloudy. High near 58, with temperatures falling to around 56 in the afternoon. West southwest wind 9 to 16 mph, with gusts as high as 23 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the evening settles over Downtown San Francisco, a silky veil of cloudiness drapes the city, promising rain to come. The air carries a gentle coolness, with hints of moisture that dance on the breeze, painting a picture of a night both serene and expectant. With the temperature lingering around a mild 53 degrees, the whispers of a south-southwest wind at 10 miles per hour add a subtle chill that reminds one of the ocean\u2019s embrace. The forecast speaks of rain showers likely, with a 60% chance that the skies will break open, releasing droplets that may dance silently on rooftops, their sound a soothing lullaby against the city\u2019s serene backdrop.\n\nCome Monday, the canvas may shift slightly, as the morning may greet us with a blend of sun and clouds, but the essence remains. The high will hover near a modest 58, falling gently to 55 in the afternoon. The winds will strengthen, tussling the leaves at 10 to 16 miles per hour. As daylight dawns, the clouds might lift just enough to reveal patches of blue, yet the specter of rain still looms with the same probability as the previous night. It\u2019s a time to dress in layers; a light jacket and perhaps a cozy scarf will guard against the chill that lingers on the edges of daylight and dusk. \n\nAmidst this weather, the heart of the city offers endless possibilities for simple pleasures. A warm stroll through the streets, where the aroma of fresh coffee wafts through doors, beckoning for a cozy retreat in a local caf\u00e9, could be a delightful way to embrace the day ahead. Perhaps a leisurely visit to a gallery or a quaint bookstore would provide a pleasant escape from the unpredictable skies, merging art with the atmosphere, where stories glimmer beneath soft lighting as rain pitter-patters against window panes.",
-    "color_code": "#A9B7B8",
-    "timestamp": "2025-03-30 23:01:45"
+    "weather_report": "In Downtown San Francisco, the air is thick with the promise of rain, a curtain of clouds hanging low over the city, draped in a shroud of gray. The sizzling straits that cradle the Golden Gate are largely concealed, softened by the frequent kiss of moisture that the fog now cautiously holds at bay. The low hum of southern winds sweeps through the streets, hinting at the dampness that will soon envelop the city\u2014whispers of impending rain echoing reminders of the chill in the morning air.\n\nAs the day unfolds, temperatures will retreat slightly from the mid-57s, greeting the afternoon with a cool embrace. It\u2019s a time to dress in layers\u2014a lightweight waterproof jacket over a cozy sweater, paired with those faithful walking shoes that are equally at home on cobblestone streets or wooden coffee shop floors. As thoughts turn to plans for the day, one might find the allure of museums hard to resist, where warmth and art conspire to chase away the gray. Or perhaps a stroll through the vibrant streets, where the fresh scent of rain mingles with the aroma of freshly brewed coffee, offers a satisfying solace, even as the clouds continue their slow swirling dance overhead.",
+    "color_code": "#A2B2C6",
+    "timestamp": "2025-03-31 00:01:29"
 }
