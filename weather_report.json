@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-01T04:43:00+00:00",
-            "temperature_f": 51.296,
-            "temperature_c": 10.72,
-            "humidity": 67.003622697557,
+            "timestamp": "2025-04-01T05:43:00+00:00",
+            "temperature_f": 51.26,
+            "temperature_c": 10.7,
+            "humidity": 71.026619393709,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-03-31T23:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-04-01T00:00:00-07:00",
                 "endTime": "2025-04-01T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 60
                 },
-                "windSpeed": "16 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain. Mostly cloudy, with a low around 50. West wind around 16 mph, with gusts as high as 24 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "windSpeed": "12 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Mostly cloudy, with a low around 50. West southwest wind around 12 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 60
                 },
-                "windSpeed": "16 to 22 mph",
+                "windSpeed": "12 to 20 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,30?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of rain before 11am, then a chance of showers and thunderstorms between 11am and 2pm, then a chance of rain between 2pm and 5pm. Partly sunny, with a high near 56. West wind 16 to 22 mph, with gusts as high as 29 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,60/tsra_sct,40?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Rain before 8am, then showers and thunderstorms between 8am and 2pm, then rain likely between 2pm and 5pm. Mostly cloudy, with a high near 56. West wind 12 to 20 mph, with gusts as high as 29 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As darkness cloaks Downtown San Francisco, the lingering whispers of precipitation tease the evening air, a promise of moisture that hangs lightly amidst the scattered clouds. Tonight's temperatures settle cozily around 50, while a west wind stirs gently, carrying with it the scent of salt from the bay and the echo of distant waves. The chance of raindrops is slight, yet there's an intriguing uncertainty in the air, creating an atmosphere that's both introspective and slightly electric.\n\nThe dawn will break tomorrow with a hint of unpredictability, as a sporadic chance of rain looms\u2014traipsing in and out like a shy guest at a gathering. The sky may reveal fleeting sunbeams, inviting a high of about 56, which feels refreshingly crisp against the backdrop of the previously moist air. The wind's playful demeanor will persist, adding charm to the day\u2019s potential, while clouds play hide-and-seek with the sun. With such changeable weather, dressing in layers becomes paramount\u2014think comfortable sweaters under light jackets, a blend that invites both mobility and warmth.\n\nIn this enchanting climate, finding a quiet caf\u00e9 to sip coffee while observing the world go by could very well soothe the soul. Or perhaps a leisurely stroll through nearby parks, where the earthy scent of wet grass welcomes the curious eye, would be an ideal way to embrace the day. Nature calls gently, reminding everyone that amid the fog and the promise of rain, life\u2019s simple pleasures await discovery.",
-    "color_code": "#A9B3C3",
-    "timestamp": "2025-03-31 23:01:43"
+    "weather_report": "In the early hours of the morning, Downtown San Francisco finds itself cloaked in the unmistakable chill of impending rain. The skies are begrudgingly cloudy, a thick cover that hints at the moisture soon to fall. Temperatures hover near the low fifties, stirred by a gentle west-southwest wind that, while brisk, does little to alleviate the dampness. With a 60% chance of precipitation forecasted, one can expect intermittent rain throughout the early hours, likely transforming into more robust showers and thunderous grumbles by midday. \n\nAs the day unfolds, a tapestry of gray will dominate the sky, with a high that barely reaches the mid-fifties. It may not be the sun-drenched extravagance that some long for; rather, it beckons you to turn inward and seek solace from the elements. The drumming of raindrops invites you to wrap yourself in layers\u2014perhaps a snug sweater beneath a waterproof jacket\u2014and stroll through the quieter streets, where the scent of damp earth rises with each step. Caf\u00e9s, with the warm glow of their interiors and the comforting aroma of brewed coffee, become a haven as the winds whip around you, painting an undeniably atmospheric scene for a cozy afternoon spent savoring a good book or engaging in light-hearted conversation with a friend.",
+    "color_code": "#A9AEB0",
+    "timestamp": "2025-04-01 00:01:45"
 }
