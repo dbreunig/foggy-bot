@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-03-31T22:43:00+00:00",
-            "temperature_f": 51.566,
-            "temperature_c": 10.87,
-            "humidity": 85.999159389166,
+            "timestamp": "2025-03-31T23:43:00+00:00",
+            "temperature_f": 54.391999999999996,
+            "temperature_c": 12.44,
+            "humidity": 66.99921662862,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-31T17:00:00-07:00",
-                "endTime": "2025-03-31T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain. Partly sunny. High near 58, with temperatures falling to around 56 in the afternoon. West wind around 18 mph, with gusts as high as 28 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-03-31T18:00:00-07:00",
                 "endTime": "2025-04-01T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Light Rain",
                 "detailedForecast": "A slight chance of rain. Mostly cloudy, with a low around 50. West wind 14 to 18 mph, with gusts as high as 26 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-04-01T06:00:00-07:00",
+                "endTime": "2025-04-01T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "16 to 22 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,30?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "A slight chance of rain before 11am, then a chance of showers and thunderstorms between 11am and 2pm, then a chance of rain between 2pm and 5pm. Partly sunny, with a high near 56. West wind 16 to 22 mph, with gusts as high as 29 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "This afternoon in Downtown San Francisco, the atmosphere carries a subtle hint of moisture dancing in the breeze, a mere whisper of rain in the air. With temperatures nestled in the mid-fifties, you might find the chill quite refreshing, particularly with the west winds gently pushing through at nearly twenty miles an hour. The sky offers a patchwork of clouds and sun, where sunlight fights valiantly to break through the gray. Moments of clarity punctuate the day, but shadows from fleeting clouds redefine the skyline as they pass. The horizon, while mostly visible, retains an air of mystery, hinting at the presence of fog embracing the coastline and softening the outlines of the Golden Gate Bridge in the distance.\n\nAs evening approaches and the temperature dips toward fifty, consider dignified layers for your attire\u2014a light jacket and perhaps a cozy scarf, both combating the brisk winds. Tonight could witness a delicate chance of rain, lending an intimate ambience to the bustling city. A stroll along the waterfront would be a gentle way to absorb the allure of the moment, where the muted sounds of the bustling evening could be harmonized with the artistry of a warm caf\u00e9 or an inviting bookstore nearby, enveloped in the comforting scent of fresh brewing coffee or the pages of a good book.",
-    "color_code": "#BCC1C6",
-    "timestamp": "2025-03-31 17:05:18"
+    "weather_report": "As dusk unfurls over Downtown San Francisco, the air carries a hint of intrigue, laced with the spaciousness of partly cloudy skies, which promise a subtle dance of shadows later tonight. With temperatures settling near a cool 50 degrees, the west wind whispers its tune at a brisk pace, setting a scene perfect for a contemplative evening. Though a slight chance of rain lingers, the moisture will be timid, likely yielding a mere drizzle that only graces the pavement\u2014an evening beckoning introspection rather than celebration.\n\nTomorrow's dawn whispers of possibility. A mix of fleeting sun and the errant rain shall play out, hinting at delightful surprises nestled amidst the mild temperatures. As tumultuous clouds sway above, those creating plans should choose layers wisely\u2014perhaps a soft sweater under a light jacket, ready to embrace the shifts between warmth and chill. The allure of the day lies in going for a gentle stroll down the Embarcadero with a warm mug in hand, or perhaps exploring the nooks of your favorite neighborhood bookstore, where the comfort of literature and fragrance of fresh coffee can wrap you in solace while the elements outside engage in their own cinematic drama.",
+    "color_code": "#A0C2E9",
+    "timestamp": "2025-03-31 18:29:18"
 }
