@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-01T10:43:00+00:00",
-            "temperature_f": 51.476,
-            "temperature_c": 10.82,
-            "humidity": 74.003044641598,
+            "timestamp": "2025-04-01T11:43:00+00:00",
+            "temperature_f": 50.198,
+            "temperature_c": 10.11,
+            "humidity": 79.972064983115,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-01T05:00:00-07:00",
-                "endTime": "2025-04-01T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Mostly cloudy, with a low around 50. West wind around 12 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2025-04-01T06:00:00-07:00",
                 "endTime": "2025-04-01T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/tsra_sct,60/tsra_sct,40?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
                 "detailedForecast": "Rain before 8am, then showers and thunderstorms between 8am and 2pm, then rain likely between 2pm and 5pm. Mostly cloudy, with a high near 56. West wind 12 to 20 mph, with gusts as high as 29 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-01T18:00:00-07:00",
+                "endTime": "2025-04-02T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "10 to 18 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few,30/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 46. Northwest wind 10 to 18 mph, with gusts as high as 28 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the city is wrapped in a hushed embrace of rain-soaked tranquility. The air is crisp and carries the unmistakable scent of wet pavement mingling with the briny breath of the Pacific. With a low lingering around fifty, it feels more refreshing than cold, yet one should tuck themselves into a light jacket to fend off the briskness. The clouds above, heavy with the promise of moisture, whisper of rain to come, a gentle lullaby that cradles the early morning.\n\nAs the day unfolds, expect the gray skies to weep intermittently, with showers and the possibility of thunder gracing the hours until mid-afternoon. The wind, lively and charged at 12 to 20 mph, flirts with the trees, making them dance and swirl. Visibility is diminished, with fog creeping in around the edges and casting a soft veil over the iconic landmarks, including the Golden Gate Bridge, suggesting a perfect day for introspection or a moment lost in a good book at a cozy caf\u00e9. This isn\u2019t a day for grand adventures; instead, embrace the quietude it brings. Savour the small pleasures, whether it\u2019s strolling beneath a brolly between breaks in the rain, or finding solace in the warmth of a local bakery. Stay curious, stay warm, and let the rhythm of the rain accompany your day.",
-    "color_code": "#7D9DBB",
-    "timestamp": "2025-04-01 05:02:10"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the city finds itself cloaked in a shroud of cloud and potential rain, a reminder of the city's often capricious temperament. The air is cool and suggests a certain dampness, as spotty rain earlier in the morning gives way to showers and thunderstorms. The forecast hints at a high of 56, not quite warm enough to shed layers entirely, though the brisk west wind rustles through the streets with an eagerness that belies the day's moody beginnings. \n\nBy tonight, the clouds will part slightly, leaving a clearer night enriched by the chill of the sea breeze. With temperatures dipping to around 46, dressing in layers becomes paramount\u2014think cozy sweaters, a waterproof jacket, and perhaps a comforting scarf to ward off the briskness. As the day unfolds under gray skies, consider indoor delights: a visit to the city's eclectic museums, a quiet coffee shop to savor a book, or a leisurely stroll through the fog-muted streets, where the historic buildings stand sentinel against the shifting weather. Though the shadows of rain may linger, so too do the whispers of adventure awaiting those willing to embrace the day\u2019s charms.",
+    "color_code": "#A6A8A0",
+    "timestamp": "2025-04-01 06:08:47"
 }
