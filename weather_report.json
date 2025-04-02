@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-02T10:43:00+00:00",
-            "temperature_f": 48.29,
-            "temperature_c": 9.05,
-            "humidity": 63.01395004581,
+            "timestamp": "2025-04-02T11:43:00+00:00",
+            "temperature_f": 48.146,
+            "temperature_c": 8.97,
+            "humidity": 62.995222747284,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-02T05:00:00-07:00",
-                "endTime": "2025-04-02T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 46. Northwest wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2025-04-02T06:00:00-07:00",
                 "endTime": "2025-04-02T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 59, with temperatures falling to around 57 in the afternoon. West northwest wind 8 to 16 mph, with gusts as high as 24 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-02T18:00:00-07:00",
+                "endTime": "2025-04-03T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 16 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 46. West northwest wind 6 to 16 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "The dawn breaks gently over Downtown San Francisco, casting a serene glow on the city as the night slips away. The air is crisp and clear, with a refreshing chill that lingers but hints at the warmth to come. As the sun ascends, it promises a delightful day, where vivid sunlight will bathe the streets, illuminating the charming architecture and lively atmosphere that define this unique locale. Despite the sun's rise, the cool breeze\u2014carried from the northwest\u2014reminds us that layers are still a necessity.\n\nAs the day unfolds, the temperatures will flirt with the ideal, reaching up to a comfortable level before settling slightly as the afternoon descends upon the city. While the forecast assures us of sun, one can't help but notice the occasional hint of fog lingering at the edges of the bay, a light marine layer that gently caresses the coastal landscape but doesn't encroach upon the heart of the city. It\u2019s a splendid opportunity for a morning stroll along the Embarcadero with your favorite coffee in hand or a calm visit to the nearby parks, where the surroundings come alive with spring's pulse. Dress in light layers to adapt to the playful shifts of the breeze, a comforting scarf perhaps to ward off the early chill, while your shoes should be suited for exploring cobbled streets or the grassy expanses of a park. Today is a canvas awaiting your footprints; enjoy the vibrant energy of San Francisco as it emerges from the stillness of night.",
-    "color_code": "#A8CBA5",
-    "timestamp": "2025-04-02 05:01:54"
+    "weather_report": "In Downtown San Francisco, the sun peeks through, casting a gentle light over the city, though a crisp breeze stirs, reminding one that cold air still lingers in the early hours. The forecast suggests a high near 59 degrees, with the afternoon promising a slight drop to around 57. A west-northwest wind dances at speeds up to 16 miles per hour, bringing occasional gusts that whisper of the ocean beyond. This morning feels promisingly clear, a refreshing contrast to the infamous marine layer that often cloaks this area; while the Golden Gate Bridge stands proud in the distance, a hint of fog does linger to the west, retreating but not entirely vanquished, a testament to the typical ebb and flow of coastal life.\n\nAs the day unfolds, you might find joy in simple pursuits. A leisurely walk through the Presidio could be revitalizing; the trails are perfect for a quiet morning stroll or a friendly jog, the fresh air invigorating your senses. Dressing in layers is wise, a lightweight jacket to fend off the chill of the breeze paired with comfortable shoes to allow for exploration\u2014perhaps meandering to a cozy caf\u00e9 for a warm beverage. With the sun shining brightly overhead, it\u2019s a day that invites connection with the outdoors, whether lurking in the shadows of trees or sharing quiet moments on park benches as you enjoy the solace of the city waking up around you.",
+    "color_code": "#A8C4E9",
+    "timestamp": "2025-04-02 06:08:30"
 }
