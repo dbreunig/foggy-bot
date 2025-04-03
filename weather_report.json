@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-03T10:43:00+00:00",
-            "temperature_f": 47.084,
-            "temperature_c": 8.38,
-            "humidity": 79.005733096606,
+            "timestamp": "2025-04-03T11:43:00+00:00",
+            "temperature_f": 46.652,
+            "temperature_c": 8.14,
+            "humidity": 81.032454459195,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-03T05:00:00-07:00",
-                "endTime": "2025-04-03T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 46. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2025-04-03T06:00:00-07:00",
                 "endTime": "2025-04-03T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 60. Northwest wind 3 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-03T18:00:00-07:00",
+                "endTime": "2025-04-04T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 47. West northwest wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the air carries a crisp coolness, lenient yet invigorating, echoing the promise of a clear day. The current tranquility hints at a low in the mid-forties, as the west wind whispers softly, offering a gentle embrace. A soft golden light begins to unveil the cityscape, hinting at the sunny hours to come, with a high expected in the sixties. The absence of fog is palpable, presenting a stark contrast to typical blanket mornings; the horizon, unmarred, invites viewers to appreciate the iconic outlines of the Bay and its bridges.\n\nThis picture-perfect day holds an appeal for both movers and dreamers alike. As the sun climbs, a light layer is recommended\u2014perhaps a light sweater for the morning chill, easily shed as warmth envelops the day. Such delightful clarity invites a saunter through the streets adorned with budding flowers, or perhaps a gathering at an outdoor caf\u00e9, where one can sip a warm beverage while soaking in the pleasing tableau of urban life. Enjoy the day\u2019s gentle serenity; it holds ample opportunity to connect with the beauty of this vibrant city.",
-    "color_code": "#A8C8D6",
-    "timestamp": "2025-04-03 05:02:07"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a crisp clarity fills the air, signaling a day painted with golden possibilities. The forecast promises a sunlit vista, where temperatures will soar to a comfortable 60 degrees; the gentle northwest winds whisper through the city\u2019s streets, a refreshing reminder of spring's embrace. You might notice that the marine layer holds off for now, allowing the cheerful sun to grace the skyline, particularly evident as you gaze towards the iconic Golden Gate Bridge, its majesty unmarred in this blissful morning light.\n\nAs the day progresses, you may wish to dress in layers \u2013 a light jacket would serve well against the coolness of the breeze, particularly in the later hours. Your afternoon could be enlivened by a stroll through one of the city's serene parks, where children\u2019s laughter dances through the air, or perhaps a visit to a quaint caf\u00e9 beckoning with the promise of fragrant coffee and freshly baked pastries. As you linger over your cup, allow the beauty of the day to settle in, a quiet reminder of the simple joys that each sunrise can bring.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-04-03 06:08:39"
 }
