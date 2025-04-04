@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-03T22:43:00+00:00",
-            "temperature_f": 57.974000000000004,
-            "temperature_c": 14.43,
-            "humidity": 51.989688633534,
+            "timestamp": "2025-04-03T23:43:00+00:00",
+            "temperature_f": 56.948,
+            "temperature_c": 13.86,
+            "humidity": 55.008134323997,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-04-03T17:00:00-07:00",
-                "endTime": "2025-04-03T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 60. West wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-04-03T18:00:00-07:00",
                 "endTime": "2025-04-04T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
                 "detailedForecast": "Clear, with a low around 47. West wind 3 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-04-04T06:00:00-07:00",
+                "endTime": "2025-04-04T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 63 in the afternoon. North wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco this afternoon, the sky greets with a gentle warmth, bathed in unabashed sunlight, casting a radiant glow over the city\u2019s iconic landmarks. The atmospheric clarity, palpable in the absence of fog, allows the Golden Gate Bridge to stand proud and vivid against the backdrop of a brilliant blue, a welcome sight for both locals and visitors alike. As the day drifts towards evening, temperatures slide gracefully into a comfortable coolness, hinting at the serene calm of the approaching night. A soft west wind dances through the streets, whispering promises of a peaceful night to come.\n\nFor those venturing out, a light jacket will be a companion worth embracing as the temperatures settle into the low 40s after sunset. With this delightful weather, consider taking a leisurely stroll along the Embarcadero, perhaps indulging in a warm cup of coffee from a local caf\u00e9, or simply reveling in the tranquility of the waterfront. Daylight may be fading, but the charm of San Francisco is ever-present, inviting you to explore its nooks and crannies as the city prepares for a restful night.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-04-03 17:04:38"
+    "weather_report": "As dusk settles over Downtown San Francisco, the evening air carries a crispness that hints at the cool night ahead, perfect for a peaceful stroll through the city. The forecast promises clear skies, a gentle wind, and temperatures dipping to around 47, ensuring a refreshing escape from daily routine. Tonight\u2019s clarity invites you to revel in the urban glow, as the city\u2019s silhouettes stand sharp against the deepening blue of the twilight sky.\n\nTomorrow, the sun will grace us with its presence, warming the streets with a pleasant high of 65. Although temperatures may wane slightly in the afternoon, the day beckons for outdoor pursuits\u2014perhaps a leisurely walk along the Embarcadero or a visit to a quaint caf\u00e9 tucked in a sunlit corner. Dress comfortably in layers; a light sweater will provide just the right touch of warmth while remaining prepared for that gentle North wind. With the city free of fog, now is the time to relish the unfolding beauty of our surroundings, where even the mundane can feel extraordinary under the sun\u2019s embrace.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2025-04-03 18:28:43"
 }
