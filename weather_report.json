@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-05T04:00:00-07:00",
-                "endTime": "2025-04-05T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 50. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2025-04-05T06:00:00-07:00",
                 "endTime": "2025-04-05T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 5 to 21 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-05T18:00:00-07:00",
+                "endTime": "2025-04-06T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 20 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 49. West southwest wind 8 to 20 mph, with gusts as high as 24 mph."
             }
         ]
     },
-    "weather_report": "The early morning envelops Downtown San Francisco in a quiet embrace, a muted grayness hinting at the cloudy skies above. With temperatures lingering around a mild 50, a gentle southwest breeze stirs the air, whispering promises of a more cheerful day ahead. As the sun begins its ascent, a transformation is on the horizon. The forecast predicts a shift to mostly sunny skies, where hints of light will gradually break through the clouds, painting the city in warm hues as the day unfolds.\n\nAs afternoon approaches, expect the warmth to cozy up around 66 degrees, though it may slip slightly as the hours pass, dropping toward 64. The winds, lively yet reasonable, will dance between 5 to 21 mph, presenting an exhilarating sensation, especially along the waterfront where cool gusts make their presence felt. Lookouts can anticipate brilliant views, particularly around the Golden Gate Bridge, where the fog is likely to drift away, revealing the iconic structure in all its glory. \n\nFor those venturing out, layering will be the key to comfort. A light jacket or sweater would soften the chill of the morning and early evening, while offering the flexibility to peel it off as midday welcomes warmth anew. Consider a leisurely stroll along the Embarcadero or perhaps a cup of coffee at your favorite caf\u00e9, soaking in the gradual emergence of the vibrant cityscape as it shakes off the night\u2019s blanket. This day, though beginning in cloudiness, holds the promise of the sun\u2019s embrace, inviting both exploration and a reflective pause.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2025-04-05 05:02:19"
+    "weather_report": "In downtown San Francisco, the dawn breaks with a tranquil, clear sky, promising a mostly sunny day ahead. The cool air carries a light whisper of the west-southwest wind, gently tousling the hair of early risers as they step outside to greet the day. As the sun ascends, it casts a soft light on the city, illuminating the iconic skyline and revealing a panorama unclouded by nature's fog. While the gentle breeze may send a chill through the air, the midday temperatures are expected to hover around a comfortable 66 degrees, offering an inviting backdrop for those drawn to the outdoors.\n\nAs the day unfolds, one might consider slipping into layers perfect for the mild afternoon \u2014 perhaps a light sweater or jacket that can be shed as the warmth intensifies, harmonizing with the vibrancy of the city. With this delightful weather, an invigorating stroll along the waterfront or through the bustling streets would be an excellent choice. Caf\u00e9s beckon with their alluring aromas, and a wander through nearby parks might entice an escape into nature, further enhancing the sense of calm and connection that such lovely weather nurtures. Embrace the day; it promises to be one filled with possibilities.",
+    "color_code": "#A3C1AD",
+    "timestamp": "2025-04-05 06:05:04"
 }
