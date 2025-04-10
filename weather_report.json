@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-10T09:43:00+00:00",
-            "temperature_f": 52.897999999999996,
-            "temperature_c": 11.61,
-            "humidity": 84.013354335245,
+            "timestamp": "2025-04-10T12:43:00+00:00",
+            "temperature_f": 49.712,
+            "temperature_c": 9.84,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-10T05:00:00-07:00",
-                "endTime": "2025-04-10T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 51. West southwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-04-10T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-04-10T07:00:00-07:00",
                 "endTime": "2025-04-10T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 65,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 12 mph",
+                "windSpeed": "5 to 12 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 65. West wind 3 to 12 mph."
+                "detailedForecast": "Mostly sunny, with a high near 65. West wind 5 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-10T18:00:00-07:00",
+                "endTime": "2025-04-11T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 54. West southwest wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the horizon glimmers faintly, signaling the promise of a serene day ahead. The air carries a soft chill, enveloping the city in a gentle embrace, with temperatures resting comfortably near fifty-one degrees. A light, whisper-like wind grazes the streets, hinting at the warm embrace of sunlight to come. The forecast predicts a delightful day with mostly sunny skies, lifting spirits as the temperature nudges towards sixty-five, offering a perfect canvas for leisurely pursuits.\n\nAlthough the remnants of fog partially cloak the city, the haze seems to recede under the morning's burgeoning light, revealing the iconic panorama of bridges and buildings. The footprints of the marine layer may still linger along the coast, softening the edges of the Golden Gate as it stands sentinel over the bay. Clad in layers\u2014a light sweater or jacket for the morning and perhaps a short-sleeved shirt for the afternoon\u2014one can enjoy the outdoor pleasures of a city that thrives on its vibrant streets. \n\nPerhaps a stroll along Crissy Field is in order, where the scenic trail offers a dance between land and sea, or you might prefer to linger over a steaming cup of coffee at a local caf\u00e9, watching life awaken in this dynamic urban tapestry. Embrace the day, for it holds quiet promises of pleasure wrapped in the comfort of spring.",
-    "color_code": "#D8E8F3",
-    "timestamp": "2025-04-10 06:08:41"
+    "weather_report": "In Downtown San Francisco, the day awakens with a gentle clarity, the kind that beckons you from your slumber to witness a morning bathed in light. The sun peeks through a veil of soft, lingering clouds, casting a delicate glow over the city. As the hours unfold, it promises a high near 65, inviting residents outdoors. The west wind whispers through the streets, a mild companion, offering just enough chill to remind you that this is San Francisco, where even the sun dances with the fog.\n\nAs you gaze toward the iconic Golden Gate Bridge, the marine layer retreats, revealing the city's stunning contours with a shimmering clarity. This respite from the fog creates a perfect backdrop for a leisurely stroll along the waterfront or a visit to one of the charming cafes that dot the area. Perhaps the tempting scent of fresh coffee will lure you in, where you can savor the ambiance while perched by a window, watching the world come alive. A light sweater or jacket will serve you well as evening draws near, with temperatures dipping, leaving an invitation to lingers and debts easily paid in the soft shadows of the setting sun. \n\nIn this lovely weather, consider slipping into comfortable shoes and embracing the day with an exploratory spirit \u2014 perhaps a walk through Golden Gate Park, where cherry blossoms may still whisper of spring, or a leisurely exploration of hidden alleys adorned with murals, each a testament to the creative pulse of this vibrant city. As dusk approaches, revel in the transition, knowing that tonight will carry a pleasantly mild promise, perfect for a gathering at a rooftop bar or an intimate dinner under the twinkling lights that mirror the stars above.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-04-10 07:01:37"
 }
