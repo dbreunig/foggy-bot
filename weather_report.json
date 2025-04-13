@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-13T05:00:00-07:00",
-                "endTime": "2025-04-13T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 50. South wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2025-04-13T06:00:00-07:00",
                 "endTime": "2025-04-13T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. West wind 2 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-13T18:00:00-07:00",
+                "endTime": "2025-04-14T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 52. West southwest wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a serene calm blankets the city, the skies holding onto clarity as they transition from night to day. The overnight chill clings to the air, hinting at a cool start, but the promise of sunlight will soon warm the streets. With gentle winds whispering from the south, one can expect a gradual lift in spirits as the sun begins its ascent. Today, the city beckons with sunny rays expected to flirt with temperatures nearing pleasant 70 degrees, although a slight reprieve to about 68 is likely as noon approaches, calling for a lightness in both clothing and mood.\n\nFor those stepping out, it\u2019s advisable to embrace layers\u2014a light jacket for the brisk morning air, drifting to a simple tee as the sun reigns. There\u2019s little sign of fog, a welcome contrast to the infamous marine layer that often rolls in; this morning\u2019s visibility offers a clean sweep of the skyline, encouraging leisurely strolls down the Embarcadero or a quiet corner at Fisherman\u2019s Wharf to enjoy a warm cup of coffee. The beauty of such a day unfolds gently, urging you towards the parks or a pleasant visit to a nearby gallery, all framed by the delicate touch of spring. Life feels a touch more vibrant today, resonating with the simplicity of enjoying a clear San Francisco.",
-    "color_code": "#A9D5B4",
-    "timestamp": "2025-04-13 05:02:08"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the day greets us with a promise of sun-drenched skies and gentle breezes. The air is crisp and fresh, offering a mildness that whispers of warmth without surrendering entirely to summer's heat. With temperatures expected to hover near 70 degrees, the afternoon will bring a gradual retreat to around 68, inviting everyone outdoors to savor the day. The winds, light and playful from the west, provide just the right touch to keep the atmosphere lively yet serene.\n\nThe horizon stretches toward the Golden Gate, where the iconic bridge stands like a proud sentinel against a backdrop of blue and gold. Today is defined by clarity, with no hint of the fog that often sweeps through, cloaking the city in a soft embrace. Instead, sunlight pours down, illuminating the details of the urban landscape, heightening the vibrancy of a city that thrives on the energy of its people. Dress lightly, perhaps in layers, as the pleasantly cool morning transitions to a warmer afternoon. It's a splendid day to explore local caf\u00e9s, take leisurely walks along the Embarcadero, or simply find a comfortable spot in a park to read and unwind. As the sun dips toward the horizon tonight, expect a clear evening, perfect for gathering with friends over al fresco dinners or enjoying quiet moments under the faint twinkling of stars that begin to dot the sky, wrapped in a light jacket against the evening chill.",
+    "color_code": "#A6C8FF",
+    "timestamp": "2025-04-13 06:05:36"
 }
