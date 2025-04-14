@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-14T09:43:00+00:00",
-            "temperature_f": 52.574,
-            "temperature_c": 11.43,
-            "humidity": 82.027948711237,
+            "timestamp": "2025-04-14T12:43:00+00:00",
+            "temperature_f": 50.684,
+            "temperature_c": 10.38,
+            "humidity": 95.042654880716,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-14T05:00:00-07:00",
-                "endTime": "2025-04-14T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. South wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-04-14T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-04-14T07:00:00-07:00",
                 "endTime": "2025-04-14T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 70,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 70, with temperatures falling to around 65 in the afternoon. Southwest wind 2 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-14T18:00:00-07:00",
+                "endTime": "2025-04-15T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 52. West southwest wind around 9 mph."
             }
         ]
     },
-    "weather_report": "As dawn gently unfolds over Downtown San Francisco, the air is crisp and filled with a promise of a pleasant day ahead. The night has given way to mostly clear skies, the early light illuminating the city in soft hues of blue and gold. There is a whisper of a breeze, barely perceptible, as the remnants of the marine layer drift away in the light of the rising sun. Although the immediate vicinity appears tranquil, familiar hints of San Francisco's fog can be detected at the edges where land meets water, teasing at the transition between day and night. \n\nFor a day predicted to reach the comfortable warmth of around 70 degrees, a light layering will serve best\u2014perhaps a simple shirt beneath a light cardigan for the coolness of the morning and a gentle breeze in the afternoon. Avoid the heavier attire; today beckons for leisurely strolls through the park, coffee in hand, or perhaps a quiet moment by the waterfront as the city awakens. As the hours unfold, the warmth will envelop you, a gentle hum of activity rising from the streets, causing one to appreciate the delicate balance of urban life and nature. Whether one chooses to sit back and enjoy the view or take part in the day\u2019s subtle adventures, today offers a matchless San Francisco charm, an invitation to savor the beauty that the city has to offer.",
-    "color_code": "#FAEBD7",
-    "timestamp": "2025-04-14 05:02:25"
+    "weather_report": "San Francisco awakens to a canvas of gentle sunshine, the warmth of the day teasing the coolness that is typical of its coastal charm. As the morning unfolds, the haze of the marine layer retreats, granting a clear view over the bustling city, with the Golden Gate Bridge standing proudly in the distance. Temperatures are set to reach a pleasant peak just above the 70s, gradually easing into a more moderate clime by afternoon. A light breeze whispers from the southwest, inviting one to step outside and savor the mildness of the day.\n\nAs twilight falls, the evening promises to mirror the day's gentle ambiance, cooling to a cozy 52 degrees, ideal for a comfortable stroll or perhaps sipping tea on a quiet stoop. Dressing in layers will serve you well, cocooning against the chill that inevitably drifts in with the night. Today beckons for casual outings: perhaps a leisurely walk along the Embarcadero, where the sunset glimmers on the water, or settling into a nook in a nearby cafe with a good book. This day, like many in San Francisco, offers a unique blend of warmth and coolness, the call of the outdoors harmonizing effortlessly with the spirit of the city.",
+    "color_code": "#F8E2C4",
+    "timestamp": "2025-04-14 07:01:35"
 }
