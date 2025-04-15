@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-15T05:00:00-07:00",
-                "endTime": "2025-04-15T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2025-04-15T06:00:00-07:00",
                 "endTime": "2025-04-15T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny, with a high near 61. Southwest wind 7 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-15T18:00:00-07:00",
+                "endTime": "2025-04-16T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 52. West southwest wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the dawn breaks over Downtown San Francisco, a soft shroud of clouds blankets the city, cradling the cool, crisp air that heralds a tranquil start. The softly stirring breeze whispers through the streets at seven miles per hour, inviting residents to awaken and embrace the gentle warmth of the day ahead. With temperatures expected to reach a mild sixty-one, this Tuesday promises a pleasant reprieve from the chill hanging in the night sky.\n\nThe marine layer still lingers near the bay, curling around the Golden Gate Bridge, though it seems to be gradually retreating, allowing the sun to peek through in shy anticipation. Expect a patchwork of partly sunny skies to unfold, mixing subtle moments of brightness with the lingering softness of the clouds. For today, a light jacket or a cozy sweater layered over a simple shirt should suffice, shielding against any lingering coolness while remaining comfortable amid the mild weather. As the day unfolds, consider a leisurely stroll through the city\u2014exploring the hidden corners of a beloved caf\u00e9, or perhaps indulging in a quiet afternoon beneath the shade of a tree in one of the many parks. The day holds the promise of unhurried moments as the fog recedes, inviting both reflection and exploration.",
-    "color_code": "#D0E1E8",
-    "timestamp": "2025-04-15 05:02:27"
+    "weather_report": "In Downtown San Francisco this morning, a gentle awakening greets the city with partly sunny skies promising a touch of warmth, although the chill of oceanic winds lingers nearby. Rising cautiously just above the 60-degree mark, the day invites you to step outside, perhaps with a light jacket to buffer against the southwest breeze that flutters softly through the streets. As we look towards the iconic Golden Gate Bridge, the brightness of the sky contrasts sharply with the mist that curls around the edges of the bay\u2014an ever-present reminder of this city's delicate dance between sun and fog. \n\nAs day unfolds into evening, the clouds will take a more assertive role, dimming the vibrant tones of the afternoon and cooling the air to a tranquil 52 degrees. Perfect weather for a leisurely stroll along the waterfront, where one might linger over a cup of coffee, watching the boats glide through the bay, or find a cozy nook in a local caf\u00e9. Layers will be your ally\u2014comfortable, smart clothing that transitions seamlessly from day to night. With the charm of an urban landscape and the allure of the sea, San Francisco today encourages exploration at every corner, leaving one to savor the simple joys of a city teeming with life.",
+    "color_code": "#A2B3D4",
+    "timestamp": "2025-04-15 06:08:55"
 }
