@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-16T10:43:00+00:00",
-            "temperature_f": 52.879999999999995,
-            "temperature_c": 11.6,
-            "humidity": 82.997838195784,
+            "timestamp": "2025-04-16T19:43:00+00:00",
+            "temperature_f": 58.513999999999996,
+            "temperature_c": 14.73,
+            "humidity": 65.014590206287,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-16T05:00:00-07:00",
-                "endTime": "2025-04-16T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. West southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-04-16T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-04-16T14:00:00-07:00",
                 "endTime": "2025-04-16T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 13 mph",
+                "windSpeed": "16 to 20 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 60. West southwest wind 5 to 13 mph, with gusts as high as 18 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 58 in the afternoon. West southwest wind 16 to 20 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-16T18:00:00-07:00",
+                "endTime": "2025-04-17T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 17 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 52. Southwest wind 10 to 17 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "In the gentle embrace of dawn, Downtown San Francisco greets a scene painted in muted tones, enveloped in the soft caress of cloud cover. As the sun prepares to stretch its limbs, the city hovers between the last vestiges of night and the promise of a partly sunny day. Currently, the world outside whispers with a low of around 52 degrees, a reminder that spring mornings can still carry a chill, especially with a light wind brushing through the streets at a leisurely pace.\n\nThe forecast hints at a gradual unveiling, with temperatures expecting to climb to around 60, inviting residents to shed the heavy layers of winter but encouraging a cardigan or light jacket for that midday breeze. The marine layer, a characteristic of this coastal metropolis, dances at the edges of visibility, suggesting an elusive fog may linger near the horizon, particularly towards the bridging embrace of the Golden Gate. One might find the atmosphere pleasantly cool, as if an invisible painter has delicately brushed the air with the refreshing scent of brine.\n\nWith such conditions, today offers a subtle invitation to explore the urban landscape. Perhaps a stroll through the neighborhoods, enjoying the early stirrings of caf\u00e9 life as baristas craft lattes and pastries begin to gild the morning tables. Or, a visit to one of the many local art galleries could provide a moment to reflect and rejuvenate, all while the city prepares to emerge fully into the daylight. As the day unfolds, the charm of San Francisco balances perfectly on that tender edge of a coastal spring day, where adventure awaits just outside your door.",
-    "color_code": "#A9B8B4",
-    "timestamp": "2025-04-16 05:02:08"
+    "weather_report": "In Downtown San Francisco, the afternoon unfolds with a mix of sunshine peeking through the clouds, albeit tempered by a cool breeze that sweeps in from the west. Highs today hover around a brisk 60 degrees, creating a setting that feels refreshingly crisp against the backdrop of a cityscape softened by light clouds. The sporadic sun breaks through, illuminating the streets and inviting passersby to engage with the world outside\u2014even as a light marine layer looms, keeping a gentle shroud over certain parts of the bay.\n\nAs dusk approaches, an anticipated shift will give rise to mostly cloudy skies, with evening temperatures dipping to about 52 degrees. The southwest winds will carry the promise of a night that feels cool, perhaps prompting a layer or two for those out enjoying the twinkling lights of the city. A light jacket will serve well, perfect for a leisurely walk along the waterfront or an understated evening cafe visit, where the ambiance swells with soft chatter and the clinking of cups. Today is best suited for simple pleasures that allow you to savor the dynamic urban environment while mindful of the gentle chill in the air.",
+    "color_code": "#A3C0C2",
+    "timestamp": "2025-04-16 14:01:23"
 }
