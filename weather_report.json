@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-04-16T17:00:00-07:00",
-                "endTime": "2025-04-16T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 58 in the afternoon. West southwest wind around 20 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-04-16T18:00:00-07:00",
                 "endTime": "2025-04-17T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 52. Southwest wind 10 to 17 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-04-17T06:00:00-07:00",
+                "endTime": "2025-04-17T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 60. Southwest wind 8 to 14 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco this afternoon, the sun makes a fleeting appearance, casting its subtle light on an otherwise mostly cloudy sky. The air carries a refreshing bite as winds pick up, stirring the city with a touch of vigor. A high of around 60 degrees is tempered by a cool breeze from the west-southwest, creating an invigorating atmosphere ideal for a leisurely stroll along the waterfront or through the bustling streets. Though the forecast hints at temperatures dipping to a mild 52 degrees tonight, this tranquil afternoon remains inviting for those who appreciate the crispness of spring air.\n\nAs the day transitions into evening, clouds will gather, wrapping the city in a gentle embrace, possibly hinting at the presence of the elusive marine layer somewhere just beyond the horizon. For such an occasion, light layers work well\u2014a comfortable sweater or light jacket should suffice against the chill that may set in as dusk approaches. To appreciate the calm before nightfall, one might find joy in a quiet moment at a caf\u00e9 or exploring the diverse art scene nearby, using the time to connect with the city's vibrant pulse as it begins to wind down for the day.",
-    "color_code": "#A8C3D2",
-    "timestamp": "2025-04-16 17:04:47"
+    "weather_report": "As evening descends upon Downtown San Francisco, a gentle shroud of clouds envelops the landscape, hinting at the arrival of a cool night. The air is crisp and lively, with temperatures settling comfortably around 52 degrees. A brisk southwest wind whispers through the streets, carrying with it just the right amount of chill, while occasional gusts remind us of the city\u2019s untamed coastal essence. Under the cloud-draped sky, visibility may be somewhat diminished, with the iconic Golden Gate Bridge peeking through the mist like a faraway dream. \n\nTomorrow promises to unfold with a hint of warmth and brightness, as the clouds begin to part and reveal a partly sunny day. With a high near 60 degrees and a light breeze, it will be a refreshing opportunity to step outside. Given the weather\u2019s capricious nature, layering will be essential; a light sweater over a long-sleeved shirt will suffice for warmth during the cool moments. As you navigate the urban tapestry, consider settling into a cozy caf\u00e9 with a book, or perhaps taking a leisurely stroll along the waterfront to embrace the serenity that the evening offers. In such atmospheric conditions, every corner of the city feels alive with possibility, inviting quiet reflections and simple pleasures.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-04-16 18:28:53"
 }
