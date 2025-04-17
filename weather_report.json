@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-17T13:43:00+00:00",
-            "temperature_f": 51.008,
-            "temperature_c": 10.56,
+            "timestamp": "2025-04-17T14:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
             "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2025-04-17T08:00:00-07:00",
+                "startTime": "2025-04-17T09:00:00-07:00",
                 "endTime": "2025-04-17T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 61. Southwest wind 5 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Light Rain then Partly Sunny",
+                "detailedForecast": "A slight chance of rain before 11am. Partly sunny, with a high near 61. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "A gentle haze cloaks Downtown San Francisco this morning, as the sun tries to break free from the delicate cling of fog. The forecast speaks of soothingly mild temperatures, reaching a high near 61 today, accompanied by a light southwest breeze that whispers through the streets. The visibility is decent, although the city\u2019s iconic landmarks are intermittently veiled, alluring and elusive as they emerge from the marine layer. Tonight promises a tranquil ambiance under partly cloudy skies, with lows nudging toward 50, setting the scene for a serene evening.\n\nAgainst this backdrop, it's advisable to dress in layers: a light sweater or jacket will keep you cozy against the coolness while also accommodating for moments of warmth from the sun's rays. Today holds an opportunity to savor the gentle pulse of the city\u2014perhaps indulge in a leisurely stroll along the Embarcadero, or lose yourself in the pages of a good book at a local caf\u00e9, allowing the sounds of the city to wash over you. Embrace the atmosphere, a quiet yet vibrant interplay of fog and warmth, offering a moment to reflect amidst the daily rush.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-04-17 08:01:40"
+    "weather_report": "As the dawn unfolds in Downtown San Francisco, the atmosphere carries a haze, a gentle reminder of lingering fog that sometimes cloaks this iconic city. At this hour, the light filters in, revealing the muted outlines of buildings juxtaposed against the ethereal gray backdrop. The forecast hints at a brief flirtation with rain earlier in the day, a mere whisper of moisture that has since been absorbed by the cool air. As the hours pass, clearer skies are expected, promising a touch of sunlight to grace the top of the urban landscape with warmth as it climbs toward a modest high of 61.\n\nThis day invites you to dress in layers, embracing the crispness of the morning air while preparing for a shift in mood as the sun fights through. A light jacket should suffice, and perhaps a scarf that can be loosened as the warmth of midday settles in. For those seeking respite from the clammy beginnings, why not embark on a leisurely stroll? A walk along the Embarcadero, weaving between historic piers, would be a lovely way to engage with the city. Or perhaps seek solace in one of the many cozy coffee shops that float like beacons of warmth amidst the fog\u2014ideal for sipping a comforting brew while watching the world awaken outside. While the fog persists, hinting at the marine layer nearby, it feels like a tranquil day meant for quiet explorations rather than boisterous outings.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-04-17 09:01:46"
 }
