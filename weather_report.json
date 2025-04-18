@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-18T04:00:00-07:00",
-                "endTime": "2025-04-18T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 5am. Mostly cloudy, with a low around 50. West southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2025-04-18T06:00:00-07:00",
                 "endTime": "2025-04-18T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain/sct?size=medium",
                 "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
                 "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 2 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-18T18:00:00-07:00",
+                "endTime": "2025-04-19T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 51. West southwest wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "In the embrace of early morning, Downtown San Francisco is cloaked in a mild embrace of clouds, the air tinged with the freshness that lingers before dawn fully relinquishes its hold. A delicate drizzle is possible, whisper-soft and gentle, hinting at a brief interlude before the sun begins its ascent. As temperatures hover around the comforting mid-fifties, there\u2019s a chill in the air, urging one to wrap themselves in light layers, perhaps a soft cardigan or a flannel shirt, perfect for this transitional hour.\n\nAs the day unfolds, you can expect the golden hues of sunlight to gradually paint the landscape, lifting the veil of clouds and inviting a pleasant warmth, with highs nearing the mid-sixties. The breeze from the west, subtle yet refreshing, carries the promise of clearer skies. While the marine layer dances shyly along the edges of the Golden Gate, low-lying fog may linger in spots, providing a serene backdrop for those who find beauty in the ethereal. \n\nGiven these conditions, a stroll across one of the many winding waterfront paths could be quite lovely, allowing for quiet reflection as the city awakens. Perhaps an excursion to a nearby caf\u00e9 for a warm drink would complement the atmospheric morning, offering a moment to savor the stillness before the bustle begins. Embrace this quiet beauty, and allow the day to reveal its delight.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2025-04-18 05:01:51"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle embrace of clarity wraps the skyline, heralding a day that promises a delicate interplay of sun and clouds. The air feels crisp and invigorating, devoid of the typical fog that often lingers in this coastal haven. The early forecast hinted at a slight chance of drizzle, yet it seems the clouds have chosen to step aside, granting a mostly sunny canvas for the day ahead. Though temperatures may dip slightly in the afternoon, the high of sixty-four provides a comfortable warmth, perfect for leisurely strolls along the waterfront.\n\nAs the day unfolds, a soft west-southwest breeze whispers through the city, hardly ruffling the surface of the bay, making it an ideal setting for a visit to one of the many local coffee shops or perhaps a quiet moment in a nearby park. Dressing in layers is wise today; a lightweight jacket paired with a shirt will offer the perfect balance for the mild afternoon. Given the serenity of the morning, a walk across the Golden Gate or a quiet sit-down in Crissy Field might soothe the soul, allowing one to bask in the beauty of the surroundings without the weight of fog obscuring the view.",
+    "color_code": "#A8CFC4",
+    "timestamp": "2025-04-18 06:07:08"
 }
