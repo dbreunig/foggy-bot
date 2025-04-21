@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-21T05:43:00+00:00",
-            "temperature_f": 51.025999999999996,
-            "temperature_c": 10.57,
-            "humidity": 94.035758437213,
+            "timestamp": "2025-04-21T06:43:00+00:00",
+            "temperature_f": 51.332,
+            "temperature_c": 10.74,
+            "humidity": 88.044858528209,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-04-20T23:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-04-21T01:00:00-07:00",
                 "endTime": "2025-04-21T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 50. South southwest wind 2 to 6 mph."
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog after 4am. Partly cloudy, with a low around 50. South southwest wind around 5 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2025-04-21T06:00:00-07:00",
                 "endTime": "2025-04-21T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 69,
+                "temperature": 68,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -49,14 +49,14 @@
                     "value": null
                 },
                 "windSpeed": "2 to 10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 69, with temperatures falling to around 66 in the afternoon. West wind 2 to 10 mph."
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium",
+                "shortForecast": "Patchy Fog then Sunny",
+                "detailedForecast": "Patchy fog before 7am. Sunny. High near 68, with temperatures falling to around 66 in the afternoon. South southwest wind 2 to 10 mph."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, the night unfolds beneath a mostly clear sky, cradling a low temperature around 50 degrees. A gentle south-southwest breeze whispers softly, barely stirring the atmosphere. As the day dawns, the city will welcome the sun with open arms, basking in the warmth of a high near 69. The crisp morning air, tinged with a hint of salt from the bay, gives way to a sunlit tapestry\u2014crowning the city with a touch of golden light as temperatures lovingly ease into the afternoon.\n\nThe promise of clarity dances in the sunlit sky, though one might discern whispers of marine layer lingering, softening the edges of the landscape, particularly where the ocean meets the horizon. Dressing in layers will be your best ally; perhaps a light jacket for the cooler morning breeze and a simple shirt for the brighter afternoon. This weather beckons leisurely strolls along the waterfront or a quiet visit to one of the city\u2019s many tucked-away cafes, where one can sip on a warm beverage while observing the world awaken. Whether you choose to enjoy a solitary adventure or meet friends for a morning brunch, the day ahead holds an abundance of serene possibilities, a gentle reminder of the beauty found in simplicity.",
-    "color_code": "#A5C3D6",
-    "timestamp": "2025-04-21 00:01:31"
+    "weather_report": "As the clock lingers early into Monday, the San Francisco skyline, cloaked in a gentle veil of fog and the remnants of the night, hints at what lies ahead. The forecasts suggest patchy fog will mingle with the dawn until 7 a.m., but its grip will soon release, giving way to the sun\u2019s warm embrace. The temperature, a soothing balm, will rise to around 68 degrees, and one can expect a soft breeze dancing from the south-southwest, whispering sweet nothings through the city\u2019s streets.\n\nThe day promises clarity, yet there remains an air of mystery as the sun takes its rightful place, casting a golden light on the urban landscape. With the fog retreating, you might see the Golden Gate Bridge standing proud and accessible, inviting a leisurely stroll along its span. Dressing in layers will be wise; a light jacket accompanied by breathable fabrics will keep you comfortable through the shifting temperatures. Perhaps a visit to a cozy caf\u00e9, where the aroma of freshly brewed coffee mingles with the gentle sounds of morning chatter, would commence a perfect day in this vibrant city. Should the sun reveal its strength, a walk through Golden Gate Park would be a splendid choice, with blooming flora waiting to offer their cheerful hues.",
+    "color_code": "#D9EAD3",
+    "timestamp": "2025-04-21 01:01:43"
 }
