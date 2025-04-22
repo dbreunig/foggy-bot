@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-22T05:00:00-07:00",
-                "endTime": "2025-04-22T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 51. Southwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2025-04-22T06:00:00-07:00",
                 "endTime": "2025-04-22T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 61 in the afternoon. Southwest wind 3 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-22T18:00:00-07:00",
+                "endTime": "2025-04-23T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/few/rain?size=medium",
+                "shortForecast": "Mostly Clear then Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle after midnight. Mostly clear, with a low around 50. West southwest wind 7 to 10 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a soft mosaic of clouds hovers overhead, wrapping the morning in a gentle embrace. The city awakens to a cool breath of air, whispering through the streets, inviting early risers to step outside and savor the quiet moments before the bustle begins. With temperatures lingering in the low fifties, this day holds the promise of warmth as the sun prepares to cast its golden rays, transitioning to a high near sixty-four by afternoon. While fog remains at bay for now, hints of a marine layer linger on the horizon, suggesting that by afternoon, it may flirt with the edges of the bay, softening the city\u2019s sharp outlines.\n\nDressing in layers is wise; a light jacket or sweater will provide comfort during those initial tender hours before the sun fully claims the sky. As the day unfolds, the weather invites leisurely pursuits\u2014perhaps a stroll along the waterfront, where one can feel the gentle energy of the waves against the shore, or a visit to a favorite caf\u00e9, warming hands around a cup of coffee while the world outside comes alive with vibrant hues and sounds. This day in San Francisco beckons you to enjoy the serene beauty it has to offer, with just a touch of nostalgia in the cool air.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-04-22 05:02:14"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle clarity envelops the city, although a marine layer still lingers along the edges. The morning is greeted with a soft, inviting warmth despite the ever-present chill that hugs the coastline. The forecast speaks of a mostly sunny day with temperatures gently climbing, yet the early hours remain cool, hinting at a low around fifty tonight\u2014a reminder of the fickle nature of city weather. A light southwest wind whispers through the streets, offering a refreshing touch, but egrets might still find solace amidst the scattered clouds, delicate veils that play hide-and-seek with the sunlight.\n\nFor those contemplating the day's rhythm, dress in layers\u2014a cardigan over a t-shirt will dance perfectly with the mild temperatures, and perhaps lightweight shoes for a stroll through the Marina. With this kind of day, it\u2019s a splendid time for a leisurely visit to a local caf\u00e9, where you can savor a warm pastry while watching the world gradually awaken. And later, as the sun hangs a little higher, exploring the waterfront might lead you to meaningful vistas where the Golden Gate stands adorned in soft light, standing sentinel over the soft eddies of fog. A bit of drizzle is possible tonight, casting a soft sheen over the pavement for evening strolls, but for now, step into the day with a light heart, drawn to the simple pleasures that SoMa and surrounding neighborhoods have to offer.",
+    "color_code": "#A8CBA4",
+    "timestamp": "2025-04-22 06:08:45"
 }
