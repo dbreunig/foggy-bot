@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-23T05:43:00+00:00",
-            "temperature_f": 51.26,
-            "temperature_c": 10.7,
-            "humidity": 79.022777084755,
+            "timestamp": "2025-04-23T06:43:00+00:00",
+            "temperature_f": 51.116,
+            "temperature_c": 10.62,
+            "humidity": 79.989682431538,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-04-22T23:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-04-23T01:00:00-07:00",
                 "endTime": "2025-04-23T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
                 "windSpeed": "8 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Partly cloudy, with a low around 50. West southwest wind around 8 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 50. West southwest wind around 8 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-04-23T06:00:00-07:00",
                 "endTime": "2025-04-23T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 59,
+                "temperature": 58,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
-                "windSpeed": "7 to 14 mph",
+                "windSpeed": "7 to 13 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
-                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny, with a high near 59. West southwest wind 7 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 58. West southwest wind 7 to 13 mph."
             }
         ]
     },
-    "weather_report": "As midnight unfolds in Downtown San Francisco, a delicate veil of cloud hovers gently, perhaps suggesting the sleepy trails of a distant drizzle yet to arrive. The air carries a crispness, hinting at the expected low of around 50 degrees. The west southwest wind whispers softly, reminiscent of ghostly murmurs along the Golden Gate. In this moment, the city's skyline might appear a touch obscured\u2014fleeting shadows playing hide-and-seek with the shimmering lights below.\n\nAs dawn approaches on Wednesday, anticipate a gradual lifting of the skies. A slight chance of morning drizzle lingers briefly, but soon the sun will reveal a modest, sunlit tableau. The horizon, brushed lightly with golden hues, promises warmth amidst cooler breezes, and the invigorating wind will provide a refreshing embrace. While the afternoon brings a high near 59, the chance of fog remains a lowly 20%. Perfect for those who adore the sublime subtlety of nature's transitions, it\u2019s a day to don a light jacket, perhaps layered over a well-fitting sweater. \n\nGiven the day\u2019s gentle invitation, an unhurried stroll through the streets or a visit to a quaint coffee shop could be just right. Seek a peaceful corner, perhaps near the bay, where the water reflects the evolving palette of the skies\u2014enjoying a moment of reflection as the city stirs to life. Let the early whispers of the day beckon you to pause and breathe in the essence of San Francisco, this enduring beauty wrapped softly in an embrace of fog and sunlight.",
-    "color_code": "#C1D0C0",
-    "timestamp": "2025-04-23 00:01:33"
+    "weather_report": "In the quiet embrace of an overnight stillness, San Francisco prepares for dawn, the air crisp yet gracefully inviting. The low sky, mostly clear, holds a promise of brightness as the city stirs from its slumber. As the west-southwest wind whispers through the streets, one can almost hear the echoes of romance in the hills, hinting at the warmth of the sun that will soon gild the iconic skyline. Tomorrow, expect the sun to rise high, casting gleaming rays over the city, with a high not far from 58 degrees. The gentle breeze provides a soothing backdrop, caressing those who are fortunate to wander at this hour.\n\nAs the day unfolds, it maintains a charming clarity, free from the thick blankets of fog that so often shroud the Bay\u2014though the marine layer lies patiently offshore, a distant reminder of the fog\u2019s playful nature. For those venturing outside, layering is the key; a light jacket over a comfortable sweater will suffice as morning transforms into afternoon. Imagine strolling through the Haight, perhaps visiting a local caf\u00e9 for a warm drink, or finding solace in a book at a sun-drenched park. Today is filled with subtle invitations to explore\u2014less the clamor of a busy tourist season and more a reflective day, perfect for those seeking to uncover the city\u2019s quieter joys.",
+    "color_code": "#A3C6E8",
+    "timestamp": "2025-04-23 01:01:49"
 }
