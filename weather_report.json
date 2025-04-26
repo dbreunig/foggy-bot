@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-26T05:43:00+00:00",
-            "temperature_f": 51.314,
-            "temperature_c": 10.73,
-            "humidity": 70.983255622242,
+            "timestamp": "2025-04-26T06:43:00+00:00",
+            "temperature_f": 50.792,
+            "temperature_c": 10.44,
+            "humidity": 71.025530014397,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,22 +18,22 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-04-25T23:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-04-26T01:00:00-07:00",
                 "endTime": "2025-04-26T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 49,
+                "temperature": 48,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 49. West northwest wind around 6 mph."
+                "windSpeed": "5 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 5am. Partly cloudy, with a low around 48. West wind around 5 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "3 to 13 mph",
+                "windSpeed": "2 to 12 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct/rain,20?size=medium",
-                "shortForecast": "Mostly Sunny then Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain after 5pm. Mostly sunny. High near 58, with temperatures falling to around 56 in the afternoon. West wind 3 to 13 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers. Partly sunny. High near 58, with temperatures falling to around 56 in the afternoon. West wind 2 to 12 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the city quietly stirs into the early hours, a gentle breeze brushes against the skyline of Downtown San Francisco, a harbinger of the evening\u2019s cool embrace. Tonight, the sky wears a partially cloudy cloak, with temperatures settling around 49 degrees, ushering in the soft whisper of a west-northwest wind. While the night is calm, it gives way to a palette of possibilities for Saturday. The forecast hints at a mere suggestion of rain after the sun begins its descent, yet the day ahead promises a mix of mostly sunny skies with a peak near 58. Expect the chill to inch closer, gradually cooling to around 56 as the afternoon unfolds.\n\nThough the daylight may begin with the remnants of fog lingering like a soft mist at the edges of the horizon, the forecast and recent observations point towards an awakening clarity, inviting exploration of the day ahead. It is a moment perfect for a stroll along one of the city\u2019s iconic streets\u2014perhaps meandering through a local park or finding solace in a quiet caf\u00e9, a warm cup refreshing against the crisp air. As for attire, layering is advisable; a light jacket should suffice against the persistent chill, while comfortable shoes will serve well for any strolls you may choose to take. You\u2019ll find the day to be a canvas of moderate temperatures and wispy clouds, a modest invitation to embrace the charm of San Francisco, framed beautifully against the ever-impressive backdrop of its legendary hills and architecture.",
-    "color_code": "#7F7B99",
-    "timestamp": "2025-04-26 00:01:21"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle grey drape of cloud hangs over the city, whispering the possibility of rain showers just beyond the horizon. The air feels crisp, inviting you to wrap yourself in a light jacket\u2014a companion for the unfolding day where temperatures waver between cool and mild. This morning, with a low of around 48, a slight chance of rain lingers like a secret, promising just 20% probability but leaving room for that enchanting unpredictability inherent to the Bay. The west winds dance softly at about 5 mph, nudging the clouds, teasing light into the day.\n\nAs one steps into the day, the forecast holds a modest chance of brightening, giving way to partly sunny moments amidst a backdrop of muted hues. The anticipated high nudges around 58, hinting at a slight drop in temperature by afternoon. Embrace layers; a sweater or a chic long-sleeve will harmoniously blend with the occasional chill while providing comfort should the wind sweep in unexpectedly. It\u2019s a day suited for modest pursuits\u2014a leisurely stroll along city streets, perhaps a visit to a hidden caf\u00e9 where the warmth of coffee mirrors the heart of the city, or a quiet moment spent watching the urban tapestry emerge as the fog lifts. \n\nExperience the charm of San Francisco's morning\u2014a canvas painted with both shadows and illumination. Be aware of the lingering marine layer that may hug the hills and valleys, symbolizing the city\u2019s perpetual story of ever-changing weather. With your senses alight and your spirit ready, take a moment to revel in the connections you encounter today, as the fog embraces and releases the city once more.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-04-26 01:01:37"
 }
