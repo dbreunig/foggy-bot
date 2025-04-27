@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-27T09:43:00+00:00",
-            "temperature_f": 50.971999999999994,
-            "temperature_c": 10.54,
-            "humidity": 87.020235375932,
+            "timestamp": "2025-04-27T11:43:00+00:00",
+            "temperature_f": 50.792,
+            "temperature_c": 10.44,
+            "humidity": 89.036056859423,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-27T04:00:00-07:00",
-                "endTime": "2025-04-27T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain before 5am. Mostly cloudy, with a low around 50. West wind around 7 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2025-04-27T06:00:00-07:00",
                 "endTime": "2025-04-27T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny, with a high near 58. West wind 7 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-27T18:00:00-07:00",
+                "endTime": "2025-04-28T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 10 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 49. South southwest wind 2 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the clock edges toward dawn, San Francisco is enveloped in a blanket of coolness caressed by hints of moisture in the air\u2014a whisper of rain still lingers until the early morning hours. The sky plays coy, sulking under a cover of clouds that hint at clarity yet to come. With a chill in the atmosphere, the temperature edges around fifty, suggesting that a light layer is in order for those venturing out before sunlight breaks the horizon. The gentle west wind carries the promise of a new day, ushering forth the prospect of a partly sunny Sunday\u2014a welcome reprieve from the gray.\n\nBy midday, the clouds will gradually part to reveal a soft blue backdrop, inviting urban explorers to the enticing charm of the city. Dress comfortably with layers; a light sweater paired with a windbreaker will keep you snug as you stroll through the bustling streets or sit in a park to savor a cup of steaming coffee. It\u2019s a day that beckons leisurely strolls across the Embarcadero or perhaps a quiet afternoon spent perusing the aisles of a beloved bookstore. As the sun rises higher, expect the temperature to settle pleasantly around sixty, an ideal canvas for savoring the beauty of a quintessential San Francisco Sunday, all while keeping an eye out for the gentle fog that may sweep in along the coastline, just to remind you of this city's ever-changing embrace.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2025-04-27 04:01:37"
+    "weather_report": "As daylight breaks over Downtown San Francisco, the morning reveals a city shrouded in partial sunshine, with the cool breeze whispering through the streets. The forecast promises a high near 58, inviting those who relish the crispness of the day to revel in it. The air carries the faintest hint of the ocean, a reminder that the Bay\u2019s mysteries are often veiled in a gentle fog that might linger just out of sight, especially as one gazes toward the iconic Golden Gate Bridge. While the clouds flirt with the horizon, they offer a canvas of clarity that sparkles, hinting at a pleasant day ahead for exploring the urban landscape or indulging in a leisurely stroll along the waterfront.\n\nTonight, the skies will deepen into a mostly clear expanse, with temperatures dipping to around 49, calling for a light jacket or perhaps a cozy sweater as people begin to venture outdoors. With the calm wind from the south-southwest, a casual evening on an outside patio or a quiet spot in a park seems right, allowing one to soak in the tranquil ambiance of the city as the sun sets.\n\nThe weather offers a refreshing reprieve with its blend of warmth and coolness, ideal for those wishing to experience the everyday allure of San Francisco. One might find joy in visiting local cafes, browsing the unique shops of the Haight, or enjoying the solace of the Presidio, where nature meets urban life in an enchanting embrace.",
+    "color_code": "#A8B3D1",
+    "timestamp": "2025-04-27 06:05:58"
 }
