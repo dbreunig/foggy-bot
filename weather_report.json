@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-04-28T10:43:00+00:00",
-            "temperature_f": 49.514,
-            "temperature_c": 9.73,
-            "humidity": 90.011104675111,
+            "timestamp": "2025-04-28T12:43:00+00:00",
+            "temperature_f": 49.316,
+            "temperature_c": 9.62,
+            "humidity": 90.985875947688,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-28T05:00:00-07:00",
-                "endTime": "2025-04-28T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 49. Southwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2025-04-28T06:00:00-07:00",
                 "endTime": "2025-04-28T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 62. South southwest wind 2 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-28T18:00:00-07:00",
+                "endTime": "2025-04-29T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium",
+                "shortForecast": "Mostly Clear then Patchy Fog",
+                "detailedForecast": "Patchy fog after 4am. Mostly clear, with a low around 50. Southwest wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "The morning air in Downtown San Francisco carries a crisp freshness, with the tranquility of mostly clear skies welcoming the new day. As the low temperatures hover around the mid-forties, a light breeze whispers through the streets, offering just a hint of chill that calls for a comfortable layer or two. Through the lens of the weather forecast, one anticipates a day filled with bright sunshine, promising a high that flirts with the low sixties\u2014a gentle warmth to counter the cool deluge of last night.\n\nAs the sun makes its ascent, the city is awakening under a light blanket of fog, teasing the horizon yet allowing the iconic outlines of the Golden Gate Bridge and the hills beyond to peek through. The marine layer may linger, especially closer to the water, but it\u2019s expected to disperse, allowing the light to bathe the city in a golden hue as the day unfolds. It\u2019s a perfect opportunity to explore a local caf\u00e9 for a warm cup of coffee or indulge in a leisurely stroll through a nearby park, where the flora bursts with vigor in the embrace of spring. A light jacket or sweater would be wise\u2014best prepared for the nuances of the ever-changing coastal climate, but overall, today beckons with the sweetness of possibility.",
-    "color_code": "#B0D0E6",
-    "timestamp": "2025-04-28 05:03:04"
+    "weather_report": "Awakening to a serene morning in Downtown San Francisco, the day promises to be a mix of golden light and gentle breezes. The sun emerges, casting a warm gleam over the cityscape, hinting at a high temperature around 62 degrees. As the day stretches ahead, the soft, south-southwest winds, delicate and playful, weave through the streets, serving as companions to those who venture outside. \n\nHowever, the shadows of night have not fully retreated. Patchy fog lingers, particularly near the edges of the bay, veiling the iconic Golden Gate Bridge in a ghostly embrace, offering a subtle reminder of nature\u2019s presence. The clarity, especially as morning deepens, is promising, yet the marine layer may lay low, cloaking parts of the city until afternoon warmth fully asserts itself. As the evening approaches, a gentle chill will set in, sliding towards the mid-50s, calling for a light jacket or a layered approach if one is to enjoy a stroll along the waterfront or relish a quiet moment at the park. \n\nThe weather beckons one to immerse in the city\u2019s charm\u2014perhaps a visit to a local caf\u00e9 to savor a freshly brewed cup of coffee, followed by a leisurely walk through the winding streets, where the glowing fa\u00e7ades of buildings tell stories of the past. As the day unfolds, embracing both the sun and the mystery of the fog, one might find that today is not merely a Tuesday, but an invitation to lose oneself in the understated elegance of San Francisco.",
+    "color_code": "#D9EAD3",
+    "timestamp": "2025-04-28 06:16:12"
 }
