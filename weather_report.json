@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-05-01T22:43:00+00:00",
-            "temperature_f": 57.218,
-            "temperature_c": 14.01,
-            "humidity": 68.019968943394,
+            "timestamp": "2025-05-02T06:43:00+00:00",
+            "temperature_f": 49.964,
+            "temperature_c": 9.98,
+            "humidity": 85.033568128745,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-01T17:00:00-07:00",
-                "endTime": "2025-05-01T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "24 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 58 in the afternoon. West southwest wind around 24 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-05-01T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-05-02T01:00:00-07:00",
                 "endTime": "2025-05-02T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "13 to 24 mph",
+                "windSpeed": "13 to 16 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 50. West southwest wind 13 to 24 mph."
+                "detailedForecast": "Partly cloudy, with a low around 50. West southwest wind 13 to 16 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-05-02T06:00:00-07:00",
+                "endTime": "2025-05-02T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "14 to 28 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 58 in the afternoon. West wind 14 to 28 mph."
             }
         ]
     },
-    "weather_report": "As the sun graces Downtown San Francisco this afternoon, its rays break through, illuminating the city with a gentle warmth, yet the brisk west-southwest wind whispers of the ocean\u2019s embrace. The day\u2019s high temperature hovers near a comfortable 60 degrees, though expect a slight coolness as the afternoon unfolds, nudging the mercury down to around 58. Despite these inviting temperatures, the city remains kissed by coastal influences; pockets of fog cling to the edges, teasing the Golden Gate without fully obscuring it, giving a soft-focus feel to the iconic landscape. \n\nAs night approaches, the sky will shift to a dreamy expanse of partly cloudy hues, settling at a low around 50. With winds picking up to around 24 mph, one might want to bundle in layers\u2014perhaps a lightweight jacket atop a cozy sweater would suffice. Consider an evening stroll along the waterfront, where the cool breeze mingles with the murmurs of the bay, or stop by a local caf\u00e9 for warm comfort, as the city begins to settle into its evening rhythm, a tapestry of life woven into the brisk air.",
-    "color_code": "#A6B3C0",
-    "timestamp": "2025-05-01 17:05:23"
+    "weather_report": "As the faint glow of dawn brushes over Downtown San Francisco, the city awakens under a canopy of gently parting clouds. The air carries a brisk edge, typical of this coastal haven, while the temperatures linger around a cool 50 degrees. A swift west-southwest breeze stirs the stillness and invites a sense of freshness that can be invigorating. As the sun ascends, it will coax forth a more cheerful visage from the firmament, hinting at a day adorned with mostly sunny skies. By afternoon, the temperature will glide downward slightly, settling in at a comfortable 58, which may tempt you to layer up, particularly if you plan to explore the coastal trails or linger at the waterfront.\n\nWhile the day promises clarity, it casts a subtle nod to the lingering marine layer that often sweeps through, and wisps of fog may cling to the outlying hills, remaining a hallmark of San Francisco's charm. Dressing in light layers will serve you well; a breezy cardigan paired with soft long pants would provide comfort as you navigate both sunlit avenues and the cooler shade of the city's architecture. This is an ideal opportunity to wander through local cafes, perhaps savoring a steaming cup of coffee while the world hums softly around you. Unhurried strolls along the Embarcadero or leisurely reading in one of the west-facing parks would suit these early hours beautifully, capturing the essence of a city that dances gracefully between the fog and sunlight.",
+    "color_code": "#A6C4D9",
+    "timestamp": "2025-05-02 02:01:33"
 }
