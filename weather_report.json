@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-05-12T04:43:00+00:00",
-            "temperature_f": 54.158,
-            "temperature_c": 12.31,
-            "humidity": 80.987743960543,
+            "timestamp": "2025-05-12T05:43:00+00:00",
+            "temperature_f": 54.608000000000004,
+            "temperature_c": 12.56,
+            "humidity": 78.974819139117,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-05-11T23:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-05-12T00:00:00-07:00",
                 "endTime": "2025-05-12T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 30
                 },
-                "windSpeed": "9 to 14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,40?size=medium",
+                "windSpeed": "12 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
                 "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 52. Southwest wind 9 to 14 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 52. West southwest wind around 12 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 30
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "12 to 15 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,20?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain before 5pm. Partly sunny. High near 60, with temperatures falling to around 58 in the afternoon. West southwest wind around 15 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/sct?size=medium",
+                "shortForecast": "Chance Light Rain then Mostly Sunny",
+                "detailedForecast": "A chance of rain before 11am. Mostly sunny. High near 60, with temperatures falling to around 58 in the afternoon. West southwest wind 12 to 15 mph, with gusts as high as 18 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As twilight gently unfurls its cloak over Downtown San Francisco, a sense of moody nostalgia permeates the air. Tonight brings a whisper of rain, veiling the city in a tapestry of clouds that hang like secrets waiting to be shared. The temperature hovers around a mild 52, while a southwest wind stirs restlessly, hinting at the soft dance of droplets that may grace the streets. The forecast suggests a 40% chance of precipitation\u2014enough to warrant an umbrella or perhaps a charming, rainproof jacket.\n\nLooking to tomorrow, the sky will continue its unfolding drama, offering a chance of rain in the early hours before shifting into a pleasantly partial sunshine. Daytime highs are expected to flirt around 60, with temperatures embracing a cooler 58 in the afternoon. Gusts of wind may dash through, playful and vibrant, urging you to layer up\u2014think knitted sweaters and comfy scarves to ward against the chill. \n\nEmbedded within the city's charm is the ever-present marine layer, a ghostly presence that drapes over the Golden Gate Bridge, softening the sharp backdrop of skyline and sea. While outdoor adventures may beckon, it would be wise to stroll through local cafes, where the warmth of coffee mingles with the intimate ambiance of conversation. On such a night, the beauty lies in savoring the moment\u2014a good book in hand or a cozy corner awaiting your embrace, inviting you to settle in as raindrops paint the windows in a gentle rhythm.",
-    "color_code": "#5B5C7A",
-    "timestamp": "2025-05-11 23:02:01"
+    "weather_report": "In the early hours of the morning, Downtown San Francisco wakes under a mostly cloudy sky with a gentle breeze whispering through the streets. The atmosphere carries a hint of moisture, teasing a slight chance of rain that may add a soft sparkle to the pavements by dawn. As the day unfolds, expect glimpses of sunshine piercing through the clouds, heralding a more pleasant afternoon. The temperature will be moderate, cooling subtly as the day wanes, perfect for light layering.\n\nFog, a quintessential companion to the bay, might linger at the edges, veiling the Golden Gate Bridge in a ghostly embrace while the city itself remains distinctly clear. One might choose to venture into the world with a light sweater and perhaps a rain jacket just in case. A leisurely stroll along the waterfront seems fitting, perhaps indulging in a moment of quiet reflection or enjoyment of a warm cup from a nearby caf\u00e9. Embrace this serene yet dynamic day, letting the unique San Francisco atmosphere envelop you.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-05-12 00:01:43"
 }
