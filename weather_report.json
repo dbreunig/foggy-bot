@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-05-26T10:43:00+00:00",
-            "temperature_f": 54.104,
-            "temperature_c": 12.28,
-            "humidity": 95.998279997465,
+            "timestamp": "2025-05-26T11:43:00+00:00",
+            "temperature_f": 53.78,
+            "temperature_c": 12.1,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-26T05:00:00-07:00",
-                "endTime": "2025-05-26T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 53. West southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Memorial Day",
                 "startTime": "2025-05-26T06:00:00-07:00",
                 "endTime": "2025-05-26T18:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 62. West wind 7 to 15 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-26T18:00:00-07:00",
+                "endTime": "2025-05-27T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 50. Southwest wind 5 to 14 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfolds over Downtown San Francisco, an embrace of gentle clouds blankets the city, hinting at the warmth just out of reach. The air is crisp, with a mild chill that drifts in from the west, whispering of the golden vistas promised by later hours. The weather holds a sweet juxtaposition; though the morning greets us with a soft cloak of gray, the forecast predicts an awakening sun by afternoon, eager to paint the skyline in hues of blue and warmth. \n\nAs the day unfolds, expect a gradual transition from the cooler embrace of morning to the more welcoming light of early afternoon, when the skies might shed their shroud and reveal the vibrant city beneath. With the westward winds sighing through the streets, bringing moments of respite, attire should lean toward comfort; a light jacket serves well for the morning jaunt, while as the sun climbs, layers can be shed to relish the refreshing warmth. There\u2019s a certain allure to a day like this\u2014one could wander along the waterfront, savoring the salt-kissed breeze, or perhaps indulge in a cozy caf\u00e9, soaking in the ambiance as the city awakens. Such moments invite exploration, relaxation, and the simple pleasures that are magnified beneath the vast San Francisco sky.",
-    "color_code": "#AAB8C2",
-    "timestamp": "2025-05-26 05:01:55"
+    "weather_report": "In Downtown San Francisco, the morning unfurls with a gentle promise of a mostly sunny day ahead, though the horizon bears the soft, enigmatic cloak of early fog. A whisper of marine layer drapes over the bay, veiling the Golden Gate Bridge in a shroud that hints at the magic of this coastal city. The brisk west wind, playful yet steady, carries the scent of salt and invigorates the air, inviting residents to step out and embrace the refreshing start to their holiday. \n\nAs the sun rises higher, expect the clouds to dissipate gradually, revealing the familiar contours of a city alive with potential for leisurely pursuits. It\u2019s a perfect moment to wander through the quaint streets of North Beach or enjoy a quiet stroll along the Embarcadero. Dress comfortably in layers\u2014a light sweater or a denim jacket will complement the mild temperatures, ensuring warmth against the occasional chilly gust. The day beckons exploration; perhaps a visit to an art gallery or a cozy caf\u00e9 to enjoy a well-crafted pastry whilst indulging in the simple pleasures of people-watching.",
+    "color_code": "#A4A8B9",
+    "timestamp": "2025-05-26 06:09:22"
 }
