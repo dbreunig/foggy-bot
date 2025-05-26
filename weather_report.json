@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-05-25T22:43:00+00:00",
-            "temperature_f": 59.378,
-            "temperature_c": 15.21,
-            "humidity": 64.988047641253,
+            "timestamp": "2025-05-25T23:43:00+00:00",
+            "temperature_f": 58.748000000000005,
+            "temperature_c": 14.86,
+            "humidity": 68.980080254329,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-25T16:00:00-07:00",
-                "endTime": "2025-05-25T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 60. West wind around 16 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-05-25T18:00:00-07:00",
                 "endTime": "2025-05-26T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 53. West wind 7 to 15 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Memorial Day",
+                "startTime": "2025-05-26T06:00:00-07:00",
+                "endTime": "2025-05-26T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 62. West wind 7 to 15 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon unfolds with the promise of a mostly sunny sky, as a gentle westward breeze stirs at about 16 mph, carrying with it the crisp scent of the bay. Yet, there lies a hint of the city\u2019s character with wisps of clouds that soften the sunlight, a subtle reminder of the ever-present marine layer that dances at the periphery of the Golden Gate. The temperature blankets the area near 60 degrees, undoubtedly inviting for those seeking respite from the warmth elsewhere.\n\nAs evening approaches, the clouds will thicken, draping the city in a soft embrace, with a low hovering around 53. It\u2019s a night well-suited for leisurely strolls through neighborhoods, perhaps a stop at a favorite caf\u00e9 where the soft glow of lamplight mingles with the sound of chatter and the clinking of cups. Layered clothing is wise; a light jacket will shield against the brisk evening winds, while still allowing the fleeting moments of warmth on this pleasant day to linger a little longer. For the thoughtful wanderer, this combination of sun and cloud, together with the stirring air, creates an environment ripe for quiet observation\u2014ideal for watching the city\u2019s unique texture shift with the encroaching twilight.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2025-05-25 17:05:11"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the city wears a gentle shroud of clouds, a familiar companion in this coastal enclave. The temperature settles around a comfortably cool 53 degrees, while the breeze from the west whispers through the streets, carrying with it the essence of the bay. This evening promises a soft, overcast sky, hinting at the calming embrace of the marine layer that keeps the horizon obscured yet intimate\u2014a typical hallmark of this storied location.\n\nLooking ahead to Memorial Day, the forecast beams with optimism as the sun prepares to emerge with vigor, nudging the temperature up to a pleasant 62 degrees. Anticipating a clear sky, free from the grips of fog, the day holds the promise of warmth tempered by a gentle wind\u2014a perfect setting for outdoor adventures. For those wandering through the city tomorrow, layered clothing will provide comfort, allowing for a transition from the cool morning essence to the inviting warmth of the midday sun. This weekend, take an opportunity to stroll through Golden Gate Park or enjoy a leisurely brunch at a local caf\u00e9, basking in the delightful embrace of the sun as it warms the city, melding its vibrancy with the spirited air.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-05-25 18:29:20"
 }
