@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-05-26T22:43:00+00:00",
-            "temperature_f": 57.92,
-            "temperature_c": 14.4,
-            "humidity": 77.987665552569,
+            "timestamp": "2025-05-26T23:43:00+00:00",
+            "temperature_f": 58.874,
+            "temperature_c": 14.93,
+            "humidity": 75.266401734528,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Memorial Day",
-                "startTime": "2025-05-26T17:00:00-07:00",
-                "endTime": "2025-05-26T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 62. West wind around 20 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-05-26T18:00:00-07:00",
                 "endTime": "2025-05-27T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 51. West southwest wind 5 to 18 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-05-27T06:00:00-07:00",
+                "endTime": "2025-05-27T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 to 21 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 7 to 21 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "As daylight dances over Downtown San Francisco, the scene presents a canvas of gentle hues, with clear skies offering a modest invitation into the embrace of nature. Memorial Day reveals itself as a sunlit spectacle, peeking through the coolness of the day with temperatures hovering near a comfortable sixty-two. A brisk, westward breeze carries soft whispers of the ocean, stirring excitement for those who seek solace in the open air. Off in the distance, the iconic Golden Gate Bridge stands proudly, its familiar silhouette framed by the azure expanse above.\n\nHowever, as twilight begins its slow descent, the evening promises to envelop the city in a serene clarity, with temperatures dropping to around fifty-one. While the wind may calm to a gentle rustle, it invites a touch of warmth to ward off the coolness of the night that follows. Local inhabitants might consider layering clothing\u2014a light jacket over a simple tee\u2014imperative for enjoying an evening stroll through the vibrant streets. With the weather smiling kindly upon you, it\u2019s the perfect moment to indulge in the understated pleasures of a quiet caf\u00e9, where the aroma of freshly brewed coffee mingles with soft conversation, or to take a leisurely walk along the Embarcadero, savoring the fading light reflecting off the bay.",
-    "color_code": "#A1C6E7",
-    "timestamp": "2025-05-26 17:05:01"
+    "weather_report": "As daylight gently wanes over Downtown San Francisco, the air remains crisp and fresh, marked by a surprising clarity for this time of year. The evening sky presents a mostly clear canvas, punctuated by the soft brush of low clouds that flirt with the horizon, hinting at the possibilities of a foggy embrace later in the night. Wind breezes lightly from the west-southwest, wrapping the city in a pleasant coolness, ideal for those seeking solace in a nighttime stroll or an outdoor gathering among friends.\n\nLooking ahead to tomorrow, the morning promises a continuation of this sunny clarity, albeit tempered by the allure of the marine layer hovering just off the coast. As the sun graces the day, temperatures will nudge up into the comfortable low sixties before gently retreating to cooler heights as the afternoon unfurls. Dress in layers, perhaps a light sweater or jacket for the morning chill that may follow you through the day. The cool breezes will accompany you, making it a perfect opportunity to explore the countless walkways of the city or savor a moment in one of its scenic parks. Let the adventure unfold as the city breathes easy under this moderate sun and clear skies, inviting you to enjoy its vibrant offerings.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2025-05-26 18:29:13"
 }
