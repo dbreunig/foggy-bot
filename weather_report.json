@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-05-27T10:43:00+00:00",
-            "temperature_f": 51.332,
-            "temperature_c": 10.74,
-            "humidity": 95.886395513944,
+            "timestamp": "2025-05-27T11:43:00+00:00",
+            "temperature_f": 51.385999999999996,
+            "temperature_c": 10.77,
+            "humidity": 94.993947567676,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-27T05:00:00-07:00",
-                "endTime": "2025-05-27T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 51. Southwest wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2025-05-27T06:00:00-07:00",
                 "endTime": "2025-05-27T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 8 to 22 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-27T18:00:00-07:00",
+                "endTime": "2025-05-28T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "13 to 22 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 51. West southwest wind 13 to 22 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the city awakens to the gentle touch of a cool breeze amidst the remnants of a partly cloudy night. The temperature rests comfortably in the low fiftys, heralding a day promising clarity and warmth, although the gentle caress of the southwest wind hints at the ever-present marine influence. The forecast beckons sunshine to illuminate the streets, nudging temperatures up to the mid-sixties by midday, only to settle slightly as afternoon shadows lengthen.\n\nAlthough the horizon may suggest a veil of fog clinging to the fringes of the Golden Gate\u2014an ethereal reminder of the sea\u2014it is unlikely to envelop the city itself today. Instead, expect an expansive blue sky to unfold, inviting exploration. A light layer, perhaps a cardigan or a thin jacket, will serve well against the brisk wind, which may dance playfully with the hair. With these conditions, it\u2019s an ideal day for a leisurely walk through the vibrant streets of Chinatown or to find solace in one of the city\u2019s many parks. Perhaps a coffee from a local caf\u00e9 savored at a sun-drenched bench, where one can watch the world\u2014and the fog\u2014drift by.",
-    "color_code": "#A6C1D9",
-    "timestamp": "2025-05-27 05:01:58"
+    "weather_report": "As the sun rises over Downtown San Francisco, the day begins clear, with only a hint of the typical coastal fog lingering in the distance. Bright rays cascade down, painting the landscape in warm hues while the ocean breeze carries a refreshing chill. With temperatures poised to hover around a comfortable 63, expect a gradual descent into the mid-60s as the afternoon unfolds, complemented by a playful southwest wind dancing at about 8 to 22 mph. The currents will perhaps offer a sense of vibrancy; indeed, a perfect excuse to take a stroll along the waterfront or perhaps indulge in a leisurely breakfast at your favorite caf\u00e9.\n\nTonight, the sky will embrace a more subdued palette with partly cloudy moments and a gentle low creeping to around 51. The idyllic conditions call for layers, suggesting a light sweater or jacket would complement your afternoon attire. With such clarity in the air, it may be the ideal evening to venture out, whether to admire the star-speckled sky or to join friends for a cozy gathering. Explore, breathe it all in; today is a gentle reminder of all the simple pleasures that our city weaves together.",
+    "color_code": "#D6D5FF",
+    "timestamp": "2025-05-27 06:10:53"
 }
