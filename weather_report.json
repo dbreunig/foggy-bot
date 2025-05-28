@@ -18,7 +18,26 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
+                "name": "Overnight",
+                "startTime": "2025-05-28T03:00:00-07:00",
+                "endTime": "2025-05-28T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 52. West southwest wind around 15 mph, with gusts as high as 18 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
                 "startTime": "2025-05-28T06:00:00-07:00",
                 "endTime": "2025-05-28T18:00:00-07:00",
                 "isDaytime": true,
@@ -34,29 +53,10 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 61. West southwest wind 14 to 26 mph, with gusts as high as 33 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-05-28T18:00:00-07:00",
-                "endTime": "2025-05-29T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "20 to 26 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 52. West wind 20 to 26 mph, with gusts as high as 32 mph."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, the day unfolds under a mostly sunny sky reaching toward a high of 61, kissed by gentle but brisk winds from the west-southwest that weave through the streets. The clarity of the morning offers an invitation to wander, though the shadows of the afternoon may carry whispers of a playful marine layer at bay. As the sun climbs, one can expect the currents to dance around, with gusts swaying trees and playfully tousling hair, enhancing that invigorating sense of a coastal spring.\n\nTonight, the atmosphere will soften with partly cloudy skies, cradling the coolness that descends as the city welcomes the evening. One might wrap themselves in a light jacket\u2014perhaps a beloved cardigan or a windbreaker\u2014perfect for the evening stroll or an outdoor caf\u00e9 visit. The winds remain steadfast, offering a spirited embrace as one navigates the urban landscape, perfect for a casual meal at a local eatery where good company makes the chill all the more bearable. With the day's energy winding down and the clouds casting mysterious silhouettes, it\u2019s a splendid time to find solace in the city's charming nooks, savoring the rhythms of life amidst the picturesque evening light.",
-    "color_code": "#AEC6D4",
-    "timestamp": "2025-05-28 06:10:49"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a veil of clouds embraces the city, a gentle reminder of the shifting moods of coastal weather. The temperature hovers around a cool and comfortable 52 degrees, with a brisk west-southwest breeze whispering at 15 mph, occasionally gusting to 18 mph. The morning light filters through a gauzy layer, hinting at the clarity to come, yet softly muted by the remnants of the marine layer that often graces this part of the coast.\n\nThe day ahead promises a transformation as the clouds give way to a predominantly sunny sky. Temperatures will rise, peaking near a delightful 61 degrees, making it ideal for outdoor pursuits after the fog lifts. It would be wise to don layers, perhaps a light jacket or cardigan to start, transitioning into something breezy and light for later in the day. Opportunities abound to meander through the verdant parks or stroll along the waterfront, perhaps enjoying a quiet moment with a book at a local caf\u00e9 as the world wakes up. A visit to a farmer's market or a leisurely walk through the streets, admiring the quaint architecture, will bring comfort and cheer on this lovely San Francisco day.",
+    "color_code": "#A7B9D3",
+    "timestamp": "2025-05-28 07:01:46"
 }
