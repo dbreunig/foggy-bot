@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-05-28T06:43:00+00:00",
-            "temperature_f": 52.844,
-            "temperature_c": 11.58,
-            "humidity": 95.976669642736,
+            "timestamp": "2025-05-28T07:43:00+00:00",
+            "temperature_f": 53.366,
+            "temperature_c": 11.87,
+            "humidity": 89.989738084346,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-27T16:00:00-07:00",
-                "endTime": "2025-05-27T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind around 21 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-05-27T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-05-28T02:00:00-07:00",
                 "endTime": "2025-05-28T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "12 to 21 mph",
+                "windSpeed": "14 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 52. West southwest wind 12 to 21 mph, with gusts as high as 26 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 52. West southwest wind around 14 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-05-28T06:00:00-07:00",
+                "endTime": "2025-05-28T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "10 to 23 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 61. West southwest wind 10 to 23 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon unfolds under a bright, cerulean sky, welcoming sunny intervals that promise a pleasant day ahead. The air, brisk with a west-southwest wind, dances playfully around you, sending gentle breezes that hint at its 21 mph persistence, occasionally gusting up to 25 mph. As the high temperature hovers around a comfortable 63 degrees, one can expect the warmth to subtly dip, settling into the lower 60s as the afternoon wanes. The prospect of sunset tonight at around 52 degrees invites a fresh but manageable chill, ideal for indulging in that cozy evening sweater or light jacket.\n\nAs dusk approaches, the atmosphere remains partly cloudy, with hints of the marine layer retreating, allowing the iconic views of the Golden Gate and the city skyline to shine through. The clarity of the day shows off the city\u2019s charms, making it an inviting backdrop for mundane yet sweet activities like enjoying an afternoon stroll along the Embarcadero, unwinding at an outdoor caf\u00e9, or perusing the shops in the Mission District, where vibrant murals whisper tales of creativity. Given the active winds and cool temperatures, layering up is sensible\u2014perhaps a light scarf and comfortable shoes will serve well for impromptu adventures. As the evening beckons, you\u2019ll find that this city, draped in a gentle blend of fog and sun, offers a calm yet invigorating escape from mundane routines.",
-    "color_code": "#A6C2C8",
-    "timestamp": "2025-05-28 01:01:48"
+    "weather_report": "As the early hours of Wednesday unfurl in Downtown San Francisco, the city remains wrapped in a gentle fog, a somnolent veil that lingers but a whisper above the rooftops. The temperatures are poised to keep the evening mild, resting around the low fifties, while a brisk westerly breeze carries with it the scent of the ocean, enough to remind one of the beauty of fleeting moments. Though the daylight is yet to fully break, the promise of a mostly sunny afternoon looms. With a high near sixty-one expected under the embrace of clearer skies, the fog is set to retreat, unveiling the city\u2019s artful architecture and vibrant streets.\n\nOne might choose to dress in layers, favoring a light jacket for the cooler hours, but ready to shed it for the warmth of midday. As the sun breaks through and the winds pick up\u2014a playful gust here and there\u2014those venturing out can delight in a stroll along the Embarcadero or perhaps visit a local caf\u00e9 to savor a warm cup as the city awakens. The day invites simple pleasures, from savoring local pastries to indulging in the serene beauty of a park bench, where the vibrant hum of life can be witnessed at its best.",
+    "color_code": "#A5B8C9",
+    "timestamp": "2025-05-28 02:01:39"
 }
