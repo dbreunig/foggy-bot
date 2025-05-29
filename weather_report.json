@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-05-29T06:43:00+00:00",
-            "temperature_f": 53.528000000000006,
-            "temperature_c": 11.96,
-            "humidity": 83.997211964426,
+            "timestamp": "2025-05-29T07:43:00+00:00",
+            "temperature_f": 53.348,
+            "temperature_c": 11.86,
+            "humidity": 83.985657677739,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-28T15:00:00-07:00",
-                "endTime": "2025-05-28T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "24 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 59 in the afternoon. West wind around 24 mph, with gusts as high as 31 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-05-28T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-05-29T02:00:00-07:00",
                 "endTime": "2025-05-29T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "17 to 23 mph",
+                "windSpeed": "18 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 52. West wind 17 to 23 mph, with gusts as high as 29 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 52. West wind around 18 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-05-29T06:00:00-07:00",
+                "endTime": "2025-05-29T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "8 to 18 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 68. West wind 8 to 18 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "In the brisk embrace of a San Francisco afternoon, the city gleams beneath a brilliant sun, the skies unblemished and clear, as though an artist has brushed away all clouds. The temperature may nestle comfortably around sixty-one degrees, yet a cool west wind whips through the streets, teasing jackets and hair alike. Despite the promise of warmth, expect a gentle descent in temperature as the afternoon meanders towards evening, with the air transforming into a canvas of subtle whispers of chill.\n\nAs the sun dips later into the horizon, the night will drape itself in partly cloudy skies, a soft blanket laced with a chill around fifty-two degrees. A light breeze persists, its playful gusts carrying whispers of maritime air. Dressed in layers\u2014a light sweater or jacket against the evening chill\u2014would be wise as you traverse the city\u2019s charming, twisting streets. With a reassuring clarity to the day, consider taking a leisurely stroll along the waterfront, where the gentle lapping of waves can accompany your thoughts, or perhaps indulge in the warmth of a cozy caf\u00e9, letting the day fade softly into night, rich with the aroma of freshly brewed coffee mingling with the fresh ocean air.",
-    "color_code": "#A8D8E5",
-    "timestamp": "2025-05-29 01:01:48"
+    "weather_report": "As the early hours of the morning envelop Downtown San Francisco, a moderate layer of clouds lingers, shrouding the city in a gentle embrace. With the mercury holding steady around a mild 52 degrees, the West wind whispers through the streets, carrying the faint, salty tang of the ocean, stirring up thoughts of the day ahead. The forecasts predict a transition as dawn breaks\u2014tomorrow will reveal a sunny disposition, warming to a comfortable 68 under a sky that promises to clear. \n\nIn this early morning light, the marine layer stretches over the bay, its tendrils obscuring the Golden Gate, while the city\u2019s iconic hills rise like silhouettes. The air, cool and crisp, invites residents to layer lightly, perhaps donning a light jacket or a cozy sweater for a stroll along the waterfront, where the rhythmic sound of waves lapping against the shore provides a soothing backdrop. A cup of coffee from a local caf\u00e9 could add warmth to the morning ambiance. Those seeking to capitalize on the day might explore lesser-trodden paths in the Mission District or find solace in a quiet corner of Golden Gate Park. The weather evokes a sense of calm anticipation, as sights will soon lift from the fog into brilliant sunlight\u2014a reminder that change is often just around the corner.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-05-29 02:01:35"
 }
