@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-05-29T05:43:00+00:00",
-            "temperature_f": 53.996,
-            "temperature_c": 12.22,
-            "humidity": 83.017520377919,
+            "timestamp": "2025-05-29T06:43:00+00:00",
+            "temperature_f": 53.528000000000006,
+            "temperature_c": 11.96,
+            "humidity": 83.997211964426,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-05-28T15:00:00-07:00",
+                "endTime": "2025-05-28T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "24 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 59 in the afternoon. West wind around 24 mph, with gusts as high as 31 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-28T21:00:00-07:00",
+                "startTime": "2025-05-28T18:00:00-07:00",
                 "endTime": "2025-05-29T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "18 mph",
+                "windSpeed": "17 to 23 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. West wind around 18 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-05-29T06:00:00-07:00",
-                "endTime": "2025-05-29T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "8 to 18 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 68. West wind 8 to 18 mph, with gusts as high as 23 mph."
+                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 52. West wind 17 to 23 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "As the night deepens in Downtown San Francisco, a mild embrace of cloud covers the city, temperatures gently cradling around 52 degrees. The west wind whispers through the streets, a steady companion at eighteen miles per hour, occasionally whipping up gusts that dance around 23 mph. The city remains cloaked in the quiet of the night, revealing only scattered twinkles of lights below, hints of life stirring beneath the veil. Fog may still linger around the edges, softening defines and blurring the lines between land and sea.\n\nAs dawn approaches, Thursday promises to unveil a more optimistic palette across the skies, transitioning into a day where the sun will emerge significantly, painting the horizon with warmth and light, nudging the high up to a comfortable 68. While the gentle breeze continues from the west, it's likely to carry the scent of salt and adventure. A light jacket, perhaps layered over a simple shirt, will offer comfort for morning strolls and outdoor escapades. It's the perfect backdrop for indulging in an early breakfast at a local caf\u00e9, where the fresh aromas of coffee meld with the cool morning air, or taking a leisurely walk along the Embarcadero, the waters of the bay shimmering under the joyful embrace of the sun, inviting one for a day of discovery amidst the city's historic haunts and lively streets.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-05-29 00:01:36"
+    "weather_report": "In the brisk embrace of a San Francisco afternoon, the city gleams beneath a brilliant sun, the skies unblemished and clear, as though an artist has brushed away all clouds. The temperature may nestle comfortably around sixty-one degrees, yet a cool west wind whips through the streets, teasing jackets and hair alike. Despite the promise of warmth, expect a gentle descent in temperature as the afternoon meanders towards evening, with the air transforming into a canvas of subtle whispers of chill.\n\nAs the sun dips later into the horizon, the night will drape itself in partly cloudy skies, a soft blanket laced with a chill around fifty-two degrees. A light breeze persists, its playful gusts carrying whispers of maritime air. Dressed in layers\u2014a light sweater or jacket against the evening chill\u2014would be wise as you traverse the city\u2019s charming, twisting streets. With a reassuring clarity to the day, consider taking a leisurely stroll along the waterfront, where the gentle lapping of waves can accompany your thoughts, or perhaps indulge in the warmth of a cozy caf\u00e9, letting the day fade softly into night, rich with the aroma of freshly brewed coffee mingling with the fresh ocean air.",
+    "color_code": "#A8D8E5",
+    "timestamp": "2025-05-29 01:01:48"
 }
