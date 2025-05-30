@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-05-30T05:43:00+00:00",
-            "temperature_f": 53.635999999999996,
-            "temperature_c": 12.02,
-            "humidity": 99.016612435061,
+            "timestamp": "2025-05-30T06:43:00+00:00",
+            "temperature_f": 53.456,
+            "temperature_c": 11.92,
+            "humidity": 97.008924275315,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-30T00:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-05-29T15:00:00-07:00",
+                "endTime": "2025-05-29T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "16 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 68. West wind around 16 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-29T18:00:00-07:00",
                 "endTime": "2025-05-30T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 to 13 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 53. Southwest wind 7 to 13 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-05-30T06:00:00-07:00",
-                "endTime": "2025-05-30T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 72,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 to 20 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 72, with temperatures falling to around 70 in the afternoon. Southwest wind 7 to 20 mph, with gusts as high as 24 mph."
+                "windSpeed": "7 to 16 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 53. West southwest wind 7 to 16 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "As we gently transition into a new day in Downtown San Francisco, the air is a cool embrace, tinted with the lingering warmth of late spring. Overnight, the sky has donned a simple shroud of partly cloudiness, hovering near 53, while the winds whisper softly from the southwest, weaving through the streets like a muted tune. \n\nCome the breaking dawn, the sun will rise victoriously clear and bright, proclaiming a high near 72. The soft zephyrs will pick up strength, twirling around at 7 to 20 mph, stirring life into the day. Yet, it\u2019s a San Francisco morning, and the familiar marine layer remains just a breath away, wafting in from the Bay. As the sun ascends, it\u2019s likely the fog will dissipate from the more sheltered pockets of the city, leaving behind the clarity to admire the storied skyline and cascading hills.\n\nDress in layers to embrace the day fully \u2014 a light jacket for the briskness of the early hours, which you can shed as the warmth envelops you by noon. Given this refreshing tableau, a stroll along the Embarcadero would be a delightful choice, allowing you to savor a coffee while soaking in the sights of ferries gliding through the water and the distant outline of the Golden Gate emerging with the morning light. For those inclined to the more serene, a visit to a quiet caf\u00e9 or a leisurely read in one of the parks may offer a perfect balm, punctuated by the gentle rustle of leaves.",
-    "color_code": "#A8CBB7",
-    "timestamp": "2025-05-30 00:01:35"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the city awakens under a cloak of tranquility, the forecast promising enticing warmth and vivid blue skies. With a gentle, refreshing breeze from the west, the temperature nudges near 68 degrees, creating an ideal setting for wandering through the city streets or lounging in a sunlit caf\u00e9. Tonight, expect a graceful transition to a mostly clear night, with temperatures softening to a comfortable low, inviting both evening strolls and moments of quiet reflection under the stars.\n\nAt this hour, the skyline remains remarkably clear, revealing the iconic outlines of the Golden Gate and the varied architecture that paints the city. While the sun shines brightly, the familiar whisper of the marine layer lingers just beyond, waiting for twilight to envelop the coastline with its cool embrace. As the day unfolds, it's a perfect opportunity for a leisurely walk along the Embarcadero, a visit to one of the local art galleries, or simply indulging in a book at a cozy park bench. Dress in light layers to embrace the day's warmth, yet keep a light jacket handy for the evening chill that is soon to follow.",
+    "color_code": "#A7C1E4",
+    "timestamp": "2025-05-30 01:01:42"
 }
