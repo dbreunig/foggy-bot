@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-05-31T18:43:00+00:00",
-            "temperature_f": 67.676,
-            "temperature_c": 19.82,
-            "humidity": 54.20633878319,
+            "timestamp": "2025-05-31T19:43:00+00:00",
+            "temperature_f": 67.1,
+            "temperature_c": 19.5,
+            "humidity": 54.962524069763,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,22 +18,22 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-05-31T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-05-31T14:00:00-07:00",
                 "endTime": "2025-05-31T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 70,
+                "temperature": 67,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "7 to 16 mph",
+                "windSpeed": "16 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. West southwest wind 7 to 16 mph, with gusts as high as 21 mph."
+                "detailedForecast": "Sunny, with a high near 67. West southwest wind around 16 mph, with gusts as high as 21 mph."
             },
             {
                 "number": 2,
@@ -46,7 +46,7 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 1
                 },
                 "windSpeed": "13 to 16 mph",
                 "windDirection": "WSW",
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "In the heart of downtown San Francisco today, the sun bathes the skyline in a soft, golden glow, inviting the gentle breeze to weave through the city streets. With temperatures climbing to a pleasant 70, you\u2019ll find seniors and children alike gathering in parks and along the waterfront, their laughter mixing with the distant hum of city life. The west-southwest winds swirl and dance, reaching up to 16 mph, playfully tousling hair and flapping light clothing as the city embraces yet another clear day. There\u2019s a delightful clarity to the atmosphere, unmarred by fog, allowing spectacular views across the bay. \n\nAs dusk approaches, expect a cooling descent to around 54 degrees, the light turning to a softer palette as the sun begins to retreat. The winds will maintain their lively spirit, whispering through the trees and bringing with them the promise of a pleasantly cool evening. For those venturing out, layers will be best\u2014perhaps a light sweater to flutter around your shoulders as you stroll through the heralded streets or sit back and watch the sunset cast its vibrant reflections upon the water. With such magnificent weather, a simple walk along the Embarcadero or a cozy evening enjoying a local caf\u00e9 feels utterly ideal, nurturing both body and soul in this remarkable city by the bay.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-05-31 13:01:29"
+    "weather_report": "In Downtown San Francisco, the afternoon unfolds under a bright, welcoming sun, painting the city in shades of vibrant clarity with the golden hues of early summer. The air is invigorating, a gentle breeze whispers through the streets, carrying the faint warmth of the day, hinting at a high near 67 degrees. There\u2019s a refreshing briskness, a hint of the ocean\u2019s playful kiss, as the wind dances through the avenues, stirring up the delightful energy that thrums through this iconic city.\n\nAs twilight approaches, expect a soft transition into a partly cloudy evening, the sky surrendering slowly to mottled shades of indigo and soft gray. The conditions promise comfort as the temperature dips slightly, settling into the cool embrace of a low around 54. This evening breeze, though less forceful, remains a friendly companion, good for leisurely strolls along the waterfront or through bustling neighborhoods. It\u2019s an excellent time to don a light jacket or a cozy sweater as the day\u2019s warmth ebbs away.\n\nSuch exquisite weather invites a range of activities; perhaps a casual exploration of the Mission District's vibrant murals, or indulging in a comforting coffee at a quaint caf\u00e9, where conversation flows as easily as the afternoon sun. Whether on foot or by bike, the spirit of adventure lingers invitingly in the air, encouraging one to savor the moment amid the captivating backdrop of this storied city.",
+    "color_code": "#A1C8E8",
+    "timestamp": "2025-05-31 14:01:34"
 }
