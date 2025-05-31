@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-30T17:00:00-07:00",
-                "endTime": "2025-05-30T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 72,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 72, with temperatures falling to around 70 in the afternoon. West southwest wind around 21 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-05-30T18:00:00-07:00",
                 "endTime": "2025-05-31T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 53. West southwest wind 12 to 21 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-05-31T06:00:00-07:00",
+                "endTime": "2025-05-31T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "10 to 23 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 69. West southwest wind 10 to 23 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon unfolds under a glorious embrace of sunshine, with the warmth creeping closer to 72 degrees, though a gentle descent to around 70 brings a softening as the day wears on. A brisk west-southwest wind rustles through the streets, creating an invigorating atmosphere, with gusts playfully tossing the leaves about. The clarity of the sky is striking, unmarred by fog, allowing the iconic outline of the Golden Gate Bridge to stand proud against a canvas of azure, offering a spectacular view that invites wanderlust.\n\nAs evening approaches, the air will turn slightly cooler, settling around 53 degrees beneath a predominantly clear sky. The winds will calm to a whisper, perfect for a leisurely stroll along the waterfront. Layers will serve you well; perhaps a light jacket will suffice as the temperatures dip, especially as the sun ebbs below the horizon. Consider stepping out to savor the delight of a nearby caf\u00e9, absorbing the energy of the city while enjoying a book or engaging in conversation with fellow locals. Today is a gem\u2014ideal for reflecting on life or catching up with friends amid the vibrant pulse of the city.",
-    "color_code": "#A9D3E9",
-    "timestamp": "2025-05-30 17:05:05"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the evening presents a serene tableau. The sky is mostly clear, brushed lightly with the remnants of daylight, ideal for those who appreciate the gentle embrace of a mild breeze. A west-southwest wind weaves through the streets, bringing with it a refreshing chill, typical for this time of year in the City by the Bay. With temperatures settling around a comfortable 53 degrees, the evening invites you to enjoy a leisurely evening stroll or perhaps indulge in a quiet moment on a nearby bench as the city lights begin to twinkle.\n\nLooking ahead to Saturday, expect a splendid day unclouded by fog. The sun will grace the skies, casting warmth upon the city, with temperatures climbing to a pleasant 69 degrees. It's an ideal time for light layers, perhaps a thin sweater or a light jacket for the early hours, transitioning to comfortable attire for basking in the daylight. As the winds pick up and gusts dance through the air, one might consider a visit to an open-air caf\u00e9 or a leisurely walk along the waterfront to savor the beauty of the day. The clarity of the atmosphere, unobstructed by fog, promises enchanting views of the Golden Gate and beyond, making it a day to relish the simple pleasures of urban life amidst nature's unique setting.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-05-30 18:28:55"
 }
