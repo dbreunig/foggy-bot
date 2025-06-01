@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-01T10:43:00+00:00",
-            "temperature_f": 54.391999999999996,
-            "temperature_c": 12.44,
-            "humidity": 81.991611634653,
+            "timestamp": "2025-06-01T11:43:00+00:00",
+            "temperature_f": 53.474000000000004,
+            "temperature_c": 11.93,
+            "humidity": 83.993746946411,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-01T05:00:00-07:00",
-                "endTime": "2025-06-01T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind around 13 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2025-06-01T06:00:00-07:00",
                 "endTime": "2025-06-01T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 61. West southwest wind 12 to 18 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-01T18:00:00-07:00",
+                "endTime": "2025-06-02T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "5 to 16 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 52. Southwest wind 5 to 16 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, a gentle haze lingers just above the rooftops as the early morning hours surrender to the soft, golden hues of daybreak. Currently cloaked in a marine layer, the city\u2019s charm is slightly muted, with clouds whispering tales of the ocean's embrace. The mercury sits comfortably around 54 degrees, ushering in a tranquil chill on the air, and a west-southwest wind dances through the streets at a brisk pace, hinting at the day to come.\n\nAs Sunday unfolds, expect the clouds to part, revealing glimpses of blue and bringing with it a promise of sunshine by mid-morning. The anticipated high of 61 degrees invites a thoughtful approach to dressing; layers are your ally, as the brisk winds may nip at exposed skin, while warmth can be shed when the sun spills its light across the city. A light jacket over a long-sleeved shirt, combined with comfortable trousers, would make for a wise choice. With the weather turning more favorable as the day progresses, consider a leisurely stroll along the Embarcadero, perhaps meandering into one of the local cafes for a warm cup before diving into the gentle bustle of the day. The beauty of San Francisco beckons, not just in its sights, but in the rhythm of its winds, urging you to find your place within its ever-changing landscape.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-06-01 05:01:53"
+    "weather_report": "In the heart of Downtown San Francisco, the day unfolds gently under a mostly sunny sky, brightening the streets with a soft yet invigorating embrace. The air carries a coolness reminiscent of the ocean breeze that dances through the city\u2019s hills, with winds whispering at 12 to 18 mph, occasionally gusting a bit stronger, hinting at a lively atmosphere. Although the forecast suggests a high near 61, the essence of the day feels pleasantly crisp, complemented by a cap of partly cloudy skies as the sun makes its gradual ascent.\n\nAs daylight unfolds, one might find the horizons slightly marred by the remnants of the marine layer, a subtle reminder of the coastal influence that shrouds the city in a morning mist. Today\u2019s weather invites layers; a light jacket or a cozy sweater would be wise against the brisk winds, perfect for leisurely strolls along the waterfront or exploration of the vibrant neighborhoods nearby. Perhaps a visit to a quaint caf\u00e9 with a warm drink in hand or a quiet walk through Golden Gate Park could be on the agenda. The day fosters a serene atmosphere for casual moments shared with friends, or solitary reflections punctuated by the beauty of a city that thrives in its contrasts.",
+    "color_code": "#A3B0C6",
+    "timestamp": "2025-06-01 06:07:55"
 }
