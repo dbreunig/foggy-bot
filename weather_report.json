@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-01T12:43:00+00:00",
-            "temperature_f": 52.988,
-            "temperature_c": 11.66,
-            "humidity": 86.022056824831,
+            "timestamp": "2025-06-01T13:43:00+00:00",
+            "temperature_f": 52.574,
+            "temperature_c": 11.43,
+            "humidity": 88.997211309809,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-01T03:00:00-07:00",
-                "endTime": "2025-06-01T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind around 13 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-06-01T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-06-01T09:00:00-07:00",
                 "endTime": "2025-06-01T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "12 to 18 mph",
+                "windSpeed": "14 to 18 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 61. West southwest wind 12 to 18 mph, with gusts as high as 23 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 61. West southwest wind 14 to 18 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-01T18:00:00-07:00",
+                "endTime": "2025-06-02T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "5 to 16 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 52. Southwest wind 5 to 16 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "As the sun slowly rises over Downtown San Francisco, the morning air carries a mix of cool freshness and a hint of lingering humidity from the fog that blankets the edges of the bay. While the skies are predominantly cloudy, there is a whisper of sunlight attempting to push through, suggesting that the day will transform into something distinctly brighter. The forecast speaks of a high near 61, accompanied by gentle west-southwest winds. As you step outside this morning, you might find the air brisk, inviting a light jacket or perhaps a soft sweater\u2014something to ward off the chill until the warmth settles in later.\n\nAs the day unfolds into a canvas of soft blues and filtered sunlight, consider taking a leisurely stroll along the waterfront or exploring one of the local parks. The combination of air tinged with salty ocean notes and the invigorating gusts makes for perfect conditions to enjoy a quiet morning coffee while watching the world wake up. Should you choose to venture further, the city calls with its eclectic mix of shops and restaurants, where the atmosphere pairs nicely with a light lunch or a casual brunch as the sun takes its rightful place in the sky. Embrace the calm, and perhaps allow yourself to be charmed by the everyday rhythm of this remarkable place, where every corner holds a little of that quintessential San Francisco magic.",
-    "color_code": "#A2B7D1",
-    "timestamp": "2025-06-01 08:01:25"
+    "weather_report": "This morning in Downtown San Francisco unfolds with a serene clarity, the sun casting its gentle light over the city as it warms towards a high of 61 degrees. A brisk west-southwest wind dances through the streets, creating a pleasant rustle in the trees, stirring the vibrant life of the city. Though the day promises sunshine, there is an undercurrent of the marine layer lingering near the Golden Gate, lending a slight haze to the horizon that hints at the ethereal beauty unique to this coastal town. \n\nAs evening descends, expect the atmosphere to shift subtly, with partly cloudy skies blanketing the night, and temperatures dipping into a balmy low of 52. The southwest winds will persist, whispering softly against your skin, urging you to embrace the evening with layers. A light jacket made of breathable fabric paired with a comfy scarf should suffice, allowing you to enjoy an evening stroll along the Embarcadero or indulge in a quiet moment at a nearby caf\u00e9, savoring the warmth of a freshly brewed drink amidst the cool air. The day holds potential for simple pleasures, inviting you to explore the city\u2019s hidden gems, whether by wandering through the streets or retreating to a cozy nook as the sun sets behind the fog-kissed hills.",
+    "color_code": "#A5C8E0",
+    "timestamp": "2025-06-01 09:01:31"
 }
