@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-03T22:43:00+00:00",
-            "temperature_f": 63.392,
-            "temperature_c": 17.44,
-            "humidity": 64.009380735451,
+            "timestamp": "2025-06-04T02:43:00+00:00",
+            "temperature_f": 57.254,
+            "temperature_c": 14.03,
+            "humidity": 73.964466360356,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-03T15:00:00-07:00",
-                "endTime": "2025-06-03T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "22 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 62 in the afternoon. West southwest wind around 22 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-03T18:00:00-07:00",
+                "startTime": "2025-06-03T21:00:00-07:00",
                 "endTime": "2025-06-04T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "12 to 21 mph",
+                "windSpeed": "12 to 15 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 52. West southwest wind 12 to 21 mph, with gusts as high as 26 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 52. West southwest wind 12 to 15 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-06-04T06:00:00-07:00",
+                "endTime": "2025-06-04T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
+                },
+                "windSpeed": "9 to 23 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 62 in the afternoon. Southwest wind 9 to 23 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "As the sun reaches its zenith, Downtown San Francisco basks in a gentle warmth, ushering in a pleasant afternoon. Clear skies bathe the streets in a mellow glow, though an ever-present breeze carries with it the unmistakable chill of the ocean. The golden beams of sunlight are juxtaposed with the occasional whispers of fog rolling ashore, hinting at the Pacific's cool embrace. Such is life here, where the weather dances between sun and shadow, presenting the kind of day that invites a light jacket over a casual shirt, an ideal layering choice for those who may find themselves wandering from the sun's light into a more temperate shade.\n\nAs evening draws near, the cool air settles in, ushering clouds across the horizon, keeping watch of the shimmering cityscape below. With the expected low temperature brushing against 52 degrees, the evening suggests a mild fingertip of chill, perfect for wrapping oneself in a soft scarf or a knitted sweater. This time of day feels meant for a quiet stroll along the waterfront, perhaps leading into the dimly lit cafes that punctuate the streets. Enjoying a warm beverage while watching the boats drift gently beneath the Golden Gate is a poignant way to cap off a day woven with the soft threads of sun and sea.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-06-03 20:22:18"
+    "weather_report": "As the evening settles over Downtown San Francisco, a gentle cloak of clouds drapes the city, their presence promising a serene atmosphere disturbed only by the whispers of a west-southwest wind. The temperature will softly dip to around fifty-two, inviting a light sweater or a jacket\u2014just enough to counter the coolness that accompanies the fading day. The wind, at times playful with gusts reaching up to twenty miles per hour, adds a refreshing urgency to the air, perfect for a stroll along the waterfront, where the sounds of the city seem to echo amidst a tranquil backdrop.\n\nThe optimistic forecast for Wednesday offers a striking contrast to tonight's muted hues. A radiant sun will replace the clouds, draping the city in warmth that will peak at around sixty-five degrees before mellowing to the comfortable embrace of sixty-two by afternoon. This gradual leap into brightness heralds a day ripe with potential. Picture yourself meandering through the Golden Gate Park or exploring the artsy nooks of the Mission District. With the wind\u2019s spirited dance between nine and twenty-three miles per hour, layering your outfit is essential\u2014perhaps a light shirt with a jacket for the afternoon, allowing for easy adjustments as the day unfolds. Amidst all this, the fog, a regular guest in these parts, retreats for a time, leaving an unobstructed canvas for both the sun and the curious souls that inhabit these streets.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-06-03 21:05:24"
 }
