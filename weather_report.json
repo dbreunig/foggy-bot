@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-04T12:43:00+00:00",
-            "temperature_f": 53.366,
-            "temperature_c": 11.87,
-            "humidity": 94.847109249318,
+            "timestamp": "2025-06-04T13:43:00+00:00",
+            "temperature_f": 53.132,
+            "temperature_c": 11.74,
+            "humidity": 99.014459844174,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-04T03:00:00-07:00",
-                "endTime": "2025-06-04T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. Southwest wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-06-04T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-06-04T08:00:00-07:00",
                 "endTime": "2025-06-04T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "6 to 24 mph",
-                "windDirection": "SW",
+                "windSpeed": "8 to 24 mph",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 66, with temperatures falling to around 62 in the afternoon. Southwest wind 6 to 24 mph, with gusts as high as 31 mph."
+                "detailedForecast": "Mostly sunny. High near 66, with temperatures falling to around 62 in the afternoon. West southwest wind 8 to 24 mph, with gusts as high as 31 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-04T18:00:00-07:00",
+                "endTime": "2025-06-05T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "14 to 24 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_few/rain,20?size=medium",
+                "shortForecast": "Mostly Clear then Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle after 2am. Mostly clear, with a low around 54. Southwest wind 14 to 24 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the dawn approaches in Downtown San Francisco, a delicate tapestry of clouds hangs in the sky, whispering secrets of the night. The temperature settles invitingly at a mild 52 degrees, with a gentle southwest breeze that rustles leaves and carries the promise of a clear day ahead. By mid-morning, the sun will break through the veil, warming the city as it rises high, heralding a high of around 66. It\u2019s a day that beckons you outdoors, with wind gusts dancing playfully around 24 mph, reminding you to hold onto your hat as you venture forth.\n\nThough hints of fog may linger along the city\u2019s fringes, the heart of Downtown emerges with clarity, revealing the familiar outlines of buildings and bridges. It\u2019s a day that calls for layered attire\u2014perhaps a light jacket to guard against the coolness of the morning and a comfortable t-shirt for later as the sun draws nearer. As you navigate through the bustling streets, consider a quiet stroll along the waterfront, where the lively sounds of the bay harmonize beautifully with the invigorating air. Alternatively, stop by a cozy caf\u00e9 for a peaceful moment, perhaps enjoying a warm cup as the city shakes off its slumber. Embrace the day, find joy in the simple moments, and let the vibrant energy of San Francisco wrap around you like a soft embrace.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-06-04 07:01:41"
+    "weather_report": "In Downtown San Francisco today, the morning unfolds under a mostly sunny sky, invigorated by a gentle west-southwest breeze that brings a lively energy to the streets. With a high expected to hover near 66 degrees, the warmth will be tempered by cool afternoon air, settling around 62\u2014an invitation to step outside and enjoy the charm of the city. As the sun arcs across its zenith, the Pacific swells with whispers of a marine layer, suggesting mild temperatures and a slight chance of drizzle as night approaches. Tonight, expect a soothing dip to around 54 degrees, accompanied by brisk winds that could add a touch of chill.\n\nThe visibility is fair, with hints of brightness emerging through a soft haze, yet the fog is holding off for now, lending the horizon a sense of possibility rather than obscuration. For today\u2019s attire, a light jacket or a comfortable sweater will suffice, allowing the ease of movement and the freedom to roam. A leisurely stroll through Golden Gate Park beckons, where the blooms are abundant and the pathways invite quiet reflection. Alternatively, finding solace in a local caf\u00e9 with a good book may be equally appealing as the evening\u2019s gentle drizzle approaches. Embrace this day with a spirit of exploration, as the city offers its secrets anew.",
+    "color_code": "#A2B3C3",
+    "timestamp": "2025-06-04 08:11:41"
 }
