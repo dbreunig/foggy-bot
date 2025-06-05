@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-05T05:43:00+00:00",
-            "temperature_f": 55.508,
-            "temperature_c": 13.06,
-            "humidity": 87.955953894672,
+            "timestamp": "2025-06-05T06:43:00+00:00",
+            "temperature_f": 55.202,
+            "temperature_c": 12.89,
+            "humidity": 88.997616858312,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-04T14:00:00-07:00",
-                "endTime": "2025-06-04T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "24 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 66, with temperatures falling to around 62 in the afternoon. West southwest wind around 24 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-04T18:00:00-07:00",
+                "startTime": "2025-06-04T21:00:00-07:00",
                 "endTime": "2025-06-05T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 5
                 },
-                "windSpeed": "14 to 24 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 54. West southwest wind 14 to 24 mph, with gusts as high as 29 mph."
+                "windSpeed": "14 to 20 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 54. Southwest wind 14 to 20 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-06-05T06:00:00-07:00",
+                "endTime": "2025-06-05T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
+                },
+                "windSpeed": "13 to 25 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. Southwest wind 13 to 25 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "The weather in Downtown San Francisco paints a picture of a day transitioning through vibrant sun and soft clouds, a typical dance of the city's atmospheric charm. This afternoon heralds warmth, with the temperature reaching a comfortable 66 degrees before descending to a refreshing 62. The gentle, swirling winds from the west-southwest\u2014blowing robustly at 24 mph\u2014add a crispness to the air that one feels as they stroll through the streets. The expansive sky above, radiant with sunshine, may hold just a few clouds that drift lazily by, serving as gentle reminders that evening will soon arrive, bringing with it a cooler temperament.\n\nAs the evening sets in, temperatures will slide down to around 54 degrees, wrapping the city in a cozy embrace. Those venturing out might find that a light jacket or layer is their best ally, a casual defense against the chill. While fog has seemingly retreated today, embracing the golden hues instead, the city\u2019s notorious marine layer is never far. Evening walks along the waterfront, perhaps through the quaint byways of North Beach or along the Embarcadero, present themselves as splendid choices. These streets seem to glow under the fading light, inviting those seeking a tranquil respite from the day's bustle to take a leisurely pace, enjoy a warm drink, and relish in the joy of simple pleasures.",
-    "color_code": "#D7E3F0",
-    "timestamp": "2025-06-05 00:01:54"
+    "weather_report": "A gentle shroud of clouds drapes over Downtown San Francisco tonight, hinting at a night that feels softer than most. The temperate air, akin to the whispers of the ocean swell, rests around fifty-four degrees. A brisk southwest breeze, offering an invigorating nudge, dances with gusts that add a note of urgency to the otherwise calm evening. As the horizon wraps itself in silken shadows, the city seems to breathe in a slow rhythm, inviting quiet reflection or perhaps the company of a well-worn book in a cozy caf\u00e9.\n\nThursday dawns with the promise of sunshine, the clouds gradually lifting to reveal a canvas painted in mellow hues. Though the high temperature approaches sixty-five degrees, a typical San Francisco afternoon will see the heat retreat slightly, settling around sixty-three as the sun journeys across the sky. Another afternoon breeze, lively and bright, stirs the space between buildings, reminding wanderers of the city\u2019s iconic charm. Dressing in layers remains wise\u2014perhaps a light jacket over a comfortable shirt, perfect for embracing the city's capricious climate. As you navigate the streets, consider exploring lesser-known nooks of the neighborhood, seeking out a small gallery or a tucked-away farmers' market, where the pulse of local life continues undeterred by the changing weather.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-06-05 01:01:51"
 }
