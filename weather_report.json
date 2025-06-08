@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-08T13:43:00+00:00",
+            "timestamp": "2025-06-08T14:43:00+00:00",
             "temperature_f": 54.446,
             "temperature_c": 12.47,
-            "humidity": 88.020781735069,
+            "humidity": 87.962163250937,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-08T03:00:00-07:00",
-                "endTime": "2025-06-08T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind around 16 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-06-08T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-06-08T09:00:00-07:00",
                 "endTime": "2025-06-08T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "10 to 22 mph",
+                "windSpeed": "13 to 22 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 62. West southwest wind 10 to 22 mph, with gusts as high as 26 mph."
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 62. West southwest wind 13 to 22 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-08T18:00:00-07:00",
+                "endTime": "2025-06-09T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "13 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind 13 to 21 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "Today in Downtown San Francisco, a mostly gray morning gives way to a day touched with the subtle warmth of the sun peeking through. As the forecast promises a high near 62, one can expect a gentle breeze from the west southwest, adding a crispness to the air that enchants the senses. The clouds overhead, though scattered, appear reluctant to yield entirely, casting a soft, diffused light over the city, where the famed hills and iconic skyline might struggle to fully pierce the ambient marine layer lingering along the coast.\n\nAs noon approaches, the weather remains brisk but pleasantly cool, ideal for a leisurely stroll through the Embarcadero or perhaps a quiet moment spent on a bench in one of the city\u2019s charming parks. Dressing in layers will be wise; a light sweater over a casual shirt, accompanied by wind-resistant outerwear should you venture closer to the water where gusts may sway unexpectedly. The nascent afternoon could also call for a visit to a local caf\u00e9, where the mingling scents of fresh coffee might offer solace from the cloudy remnants of the morning. Engage in the little pleasures of life, from people-watching to savoring the gentle sounds of conversation and laughter, enveloped in the unique tapestry that only San Francisco can provide.",
-    "color_code": "#A1C6E7",
-    "timestamp": "2025-06-08 08:01:37"
+    "weather_report": "The atmosphere over Downtown San Francisco this morning conveys a serene, if somewhat muted, ambiance. The remnants of a lingering marine layer cast a gentle veil across the city, hinting at the tendrils of fog that often roll in from the bay, though the day seems poised to shake off its shroud. As the sun ascends toward its zenith, the weather warms up, with anticipation of a mostly sunny afternoon. With a capricious breeze, swirling from the west-southwest, the city will feel invigorated, carrying whispers of the ocean and the freshness that only the Bay Area can provide.\n\nAs the day unfolds, those venturing outdoors would be wise to embrace layers\u2014light long sleeves or a breezy jacket should keep one comfortable against the occasional gust and offer respite from the coolness that can linger in the shadows. It\u2019s an ideal time for a leisurely stroll along the waterfront or perhaps a quiet moment in one of the city's many parks, absorbing the beautiful urban landscape that dances between sunshine and shadow. Consider sipping coffee at a local caf\u00e9, or slowly wandering through the streets lined with vibrant murals and unique shops, allowing the soothing energy of San Francisco's pace to rejuvenate your spirit.",
+    "color_code": "#A7B1F5",
+    "timestamp": "2025-06-08 09:01:54"
 }
