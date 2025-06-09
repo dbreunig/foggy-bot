@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-09T18:43:00+00:00",
-            "temperature_f": 56.192,
-            "temperature_c": 13.44,
-            "humidity": 87.989511218454,
+            "timestamp": "2025-06-09T19:43:00+00:00",
+            "temperature_f": 57.002,
+            "temperature_c": 13.89,
+            "humidity": 86.019607359028,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,9 +18,28 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-09T02:00:00-07:00",
-                "endTime": "2025-06-09T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-06-09T14:00:00-07:00",
+                "endTime": "2025-06-09T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "23 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 61 in the afternoon. West wind around 23 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-09T18:00:00-07:00",
+                "endTime": "2025-06-10T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 54,
                 "temperatureUnit": "F",
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "14 to 22 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Mostly cloudy, with a low around 54. West southwest wind around 15 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-06-09T06:00:00-07:00",
-                "endTime": "2025-06-09T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "12 to 23 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/wind_sct?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
-                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 64, with temperatures falling to around 61 in the afternoon. West southwest wind 12 to 23 mph, with gusts as high as 29 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle between 11pm and 5am. Mostly cloudy, with a low around 54. West southwest wind 14 to 22 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the atmosphere is draped in a soft blanket of clouds, evoking a refreshing yet muted charm typical of early June. As sunset draws near, the chill of the evening beckons. Current temperatures hover around the lower 60s, a gentle reminder to layer up. The occasional whisper of drizzle, lingering like distant memories, dissipates as the day unfolds, leaving a stage set for muted sunshine to break through the cloud cover. There\u2019s a hint of the marine layer still clinging to the hills, gently suggesting a dance between land and sea.\n\nAs the winds blow from the west-southwest, carrying the salty air of the bay, they invite you to step outside and partake in the city\u2019s understated beauty. With gusts reaching up to 29 mph, a light jacket will serve as a faithful companion to shield you from the brisk breezes. An afternoon stroll along the waterfront could be just the remedy for the soul, as the San Francisco scenery transforms under the fading light\u2014viewing the elegant silhouettes of the Golden Gate Bridge framed by low-hanging clouds might just capture your heart. Alternatively, a quiet afternoon in a local caf\u00e9, cradling a warm cup, would be an excellent way to embrace the day\u2019s ambiance, allowing fleeting moments to unravel while the city pulses with its typical vibrancy.",
-    "color_code": "#A8C8E1",
-    "timestamp": "2025-06-09 13:01:42"
+    "weather_report": "The afternoon light bathes Downtown San Francisco in a soft, golden hue as the sun makes its presence known, despite the cool air that carries a brisk westward breeze. With temperatures hovering around a comfortable sixty-four degrees, there's a gentle warmth that invites residents to step outside. Yet, there\u2019s a notable shift as the afternoon unfolds, with thermometers likely dipping to around sixty-one. The sky, dressed in a sunny attire, seems to promise clarity; however, the wind, gusting up to twenty-nine miles per hour, murmurs secrets of the impending clouds that will softly blanket the evening to come.\n\nAs night approaches, a tapestry of gray will unfurl overhead, bringing with it a slight chance of drizzle\u2014a mere whisper of moisture that lingers in the air between eleven and five. With a low dipping to fifty-four, the chill will remind you that layers are a wise choice; a light jacket paired with perhaps a comfortable scarf would stave off the coolness. It\u2019s a night that lures you towards cozy corners of caf\u00e9s or the warm embrace of friends gathered over a shared plate. Embrace the touch of the season, for while the day showcases the sun's smile, the evening whispers tales of intimacy found in the comforts of indoor warmth.",
+    "color_code": "#A5B2C8",
+    "timestamp": "2025-06-09 14:01:36"
 }
