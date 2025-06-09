@@ -7,7 +7,7 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-09T05:43:00+00:00",
+            "timestamp": "2025-06-09T06:43:00+00:00",
             "temperature_f": 53.258,
             "temperature_c": 11.81,
             "humidity": null,
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-06-08T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-06-09T01:00:00-07:00",
                 "endTime": "2025-06-09T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "16 to 23 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind 16 to 23 mph, with gusts as high as 29 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind around 15 mph, with gusts as high as 18 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "12 to 26 mph",
+                "windSpeed": "12 to 23 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 12 to 26 mph, with gusts as high as 33 mph."
+                "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 61 in the afternoon. West southwest wind 12 to 23 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "As night settles over Downtown San Francisco, a tapestry of clouds blankets the sky, muted in shades of grey, setting a tranquil atmosphere. The air, tinged with the cool embrace of coastal winds, carries with it the promise of change as gusts swirl briskly, refreshing yet unwavering. With the mercury dipping to a comfortable low of around 54, a light jacket would serve you well should you dare to wander into the night, perhaps to savor the city's vibrant nightlife or simply to inhale the salty scent of the bay.\n\nAs dawn breaks, the forecast beckons a transformation, inviting glimpses of sunlight to filter through those lingering clouds. The day ahead hints at a gentle warmth, nudging toward the mid-sixties, while a breeze continues to playfully dance across the landscape. The vibrant hues of the city\u2019s iconic architecture will gradually emerge from their slumber, gleaming under the calls of a soft yet lively wind. There\u2019s a chance the marine layer might cloak the distant shoreline, but fear not; even if the fog tumbles lazily in during the morning hours, it will quickly surrender to bursts of daylight by noon. This in-between weather offers a perfect opportunity to slip into something light yet layered\u2014a cozy sweater over a breathable shirt\u2014ideal for a jaunt through Golden Gate Park, browsing the artisanal shops of Haight Street, or enjoying a quiet moment at a caf\u00e9s, all touched by the distinct charm of a San Francisco afternoon.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-06-09 00:02:02"
+    "weather_report": "As the night unfolds over Downtown San Francisco, a muted blanket of clouds ushers in a serene atmosphere, the temperature settling gently around 54 degrees. A steady west-southwest wind dances softly, rustling through the streets with gusts that occasionally reach up to 18 mph, offering a whisper of coolness against the skin. As dawn breaks on Monday, expect the curtain of clouds to part, revealing a mostly sunny day ahead. The sun will rise to grace us with a high near 64, before temperatures retreat to a comfortable 61 by afternoon, all beneath the playful sway of winds between 12 to 23 mph.\n\nThe outlook is decidedly pleasant, inviting exploration of the city\u2019s vibrant streets. Though some pockets of morning fog may linger close to the coast, the marine layer recedes, allowing clarity to define the day. Opt for layered clothing\u2014perhaps a light jacket to fend off the cool morning breeze, replacing it with a comfortable shirt as warmth seeps in. This is a splendid day to wander through the local markets or indulge in one of the quaint cafes, immersing oneself in the rhythm of city life, perhaps taking a leisurely stroll along the Embarcadero as the bay shimmers.",
+    "color_code": "#AFAFAF",
+    "timestamp": "2025-06-09 01:02:01"
 }
