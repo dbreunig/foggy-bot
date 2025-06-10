@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-10T16:43:00+00:00",
-            "temperature_f": 54.302,
-            "temperature_c": 12.39,
-            "humidity": null,
+            "timestamp": "2025-06-10T17:43:00+00:00",
+            "temperature_f": 55.022,
+            "temperature_c": 12.79,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-10T04:00:00-07:00",
-                "endTime": "2025-06-10T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind around 16 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-06-10T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-06-10T09:00:00-07:00",
                 "endTime": "2025-06-10T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 5
                 },
-                "windSpeed": "15 to 28 mph",
+                "windSpeed": "16 to 28 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 58 in the afternoon. West southwest wind 15 to 28 mph, with gusts as high as 33 mph."
+                "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 58 in the afternoon. West southwest wind 16 to 28 mph, with gusts as high as 33 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-10T18:00:00-07:00",
+                "endTime": "2025-06-11T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "18 to 26 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 52. West southwest wind 18 to 26 mph, with gusts as high as 33 mph."
             }
         ]
     },
-    "weather_report": "As the day unfolds over Downtown San Francisco, the air feels crisp, tinged with the unmistakable hint of the Pacific. The morning is wrapped in a gentle embrace of clouds, a blanket of mostly gray that provides a certain comfort. The temperatures hover snugly around 54 degrees, with a brisk west-southwest wind stirring at 16 mph, reminding you of the city\u2019s dual personality\u2014inviting yet bold. \n\nAnticipating the progression of the day, the clouds will begin to part, revealing patches of blue that promise a mostly sunny afternoon. A high near 60 beckons, with the sun\u2019s presence gradually nudging the temperature to a comfortable 58. However, be mindful of the gusts, which dance about with a playful reach of up to 33 mph, bringing a chill that whispers through the streets. The marine layer may linger near the coast, softening the edges of familiar landmarks, a gentle reminder of the fog that so often tucks itself into the nooks of the Bay.\n\nIn this moment, as light spills softly across the city, choose attire wisely. A layered outfit works best\u2014perhaps a light sweater or jacket paired with comfortable shoes for an amble along the Embarcadero, exploring the artisan markets that spring to life with the day. Alternatively, a cozy caf\u00e9 nestled in one of the bustling neighborhoods may provide solace, inviting you to savor a warm drink while the city stirs around you. This day may not be drenched in the brilliance of sunlight, but the soft ambiance offers its own charm, perfect for quiet reflection or leisurely connection with the world outside.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2025-06-10 11:01:49"
+    "weather_report": "In Downtown San Francisco, the day greets us with a mostly sunny visage, though the warmth is tempered by a persistent breeze sweeping in from the west. The temperatures are modest, hovering near 60 degrees, and dipping slightly as the afternoon progresses. While the sky flaunts clearer hues to the north, a touch of cloud cover is settling in, casting a hint of gloom as evening approaches. A brisk wind, gusting sharply, adds a lively twist to the air, hinting at the city's signature maritime influence. \n\nAs the sun retreats towards the horizon, expect a gradual descent in temperature, ushering in mostly cloudy conditions overnight. Such a scenario invites one to layer up thoughtfully, perhaps a light jacket over a comfortable shirt, perfect for an early evening stroll through the streets or a quiet moment with a book at a cafe, where the warm aroma of coffee fills the air. Outdoor enthusiasts might find solace in a leisurely walk by the waterfront, where the interplay of clouds against the still waters offers a subtle beauty, inviting moments of reflection as the day gently draws to a close.",
+    "color_code": "#A0B1C8",
+    "timestamp": "2025-06-10 12:01:28"
 }
