@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-10T01:43:00+00:00",
-            "temperature_f": 55.814,
-            "temperature_c": 13.23,
-            "humidity": 96.975493664121,
+            "timestamp": "2025-06-10T02:43:00+00:00",
+            "temperature_f": 55.292,
+            "temperature_c": 12.94,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-06-09T16:00:00-07:00",
+                "endTime": "2025-06-09T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "25 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 62 in the afternoon. West wind around 25 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-09T20:00:00-07:00",
+                "startTime": "2025-06-09T18:00:00-07:00",
                 "endTime": "2025-06-10T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "16 to 24 mph",
+                "windSpeed": "16 to 25 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/wind_bkn/rain?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 1am. Mostly cloudy, with a low around 54. West southwest wind 16 to 24 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-06-10T06:00:00-07:00",
-                "endTime": "2025-06-10T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "15 to 28 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain/wind_sct?size=medium",
-                "shortForecast": "Patchy Drizzle then Mostly Sunny",
-                "detailedForecast": "Patchy drizzle before 8am. Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 15 to 28 mph, with gusts as high as 33 mph."
+                "detailedForecast": "Patchy drizzle after 1am. Mostly cloudy, with a low around 54. West southwest wind 16 to 25 mph."
             }
         ]
     },
-    "weather_report": "As night descends on Downtown San Francisco, a soft layer of clouds hangs delicately over the city, infused with the promise of a gentle drizzle in the early hours. The air, cool and brisk, offers a refreshing embrace, settling in around 54 degrees as a west-southwest wind rustles through the streets, stirring the leaves and beckoning passersby to wrap themselves in a light jacket. Tonight creates a serene ambiance, perfect for quiet strolls alongside the waterfront, where the soft lap of the bay echoes like whispered secrets in the night.\n\nTomorrow brings the allure of a mostly sunny morning, with a hint of lingering drizzle before 8 AM. The day unfurls into a canvas of muted blue, but temperatures are poised to gently retreat to around 60 by the afternoon, draping the city in a cozy layer of coolness. Gusts threaten to tease the hair and ruffle the collar, inviting a snug scarf or a well-fitted cap to seal in warmth while leaving a touch of urban chic. As the fog dances at the periphery of the Bay Area, it paints a mystical scene, especially around the iconic Golden Gate Bridge, creating an artwork of ever-changing silhouettes. With such atmospheric charm, it\u2019s a splendid day to explore the quieter nooks of the city\u2014perhaps a coffee at a local caf\u00e9, or a leisurely read on a bench in the park, enveloped by the cool, invigorating air that defines our enchanting San Francisco setting.",
-    "color_code": "#A0B0C0",
-    "timestamp": "2025-06-09 20:23:34"
+    "weather_report": "In Downtown San Francisco, the day unfolds beneath an azure sky, casting a warm glow on the city as the sun approaches its afternoon zenith. While the temperature is carried northward toward a modest 64 degrees, the gentle, persistent breeze from the west whispers through the streets, reminding all of the city\u2019s unique climate. As the day wanes, expect a transition; the forecast hints at the emergence of patchy drizzle after the witching hour, along with a wrap of soft clouds that may cloak the stars, inviting a night of introspection.\n\nIf you find yourself venturing out, dress lightly, yet be prepared with a light jacket, as the brisk winds may flirt with a chill reminiscent of the fog that tends to roll in lazily along the Bay. The visibility may shift as the twilight deepens, but until dark claims the horizon, the sun\u2019s rays will brighten the pathways and parks, a serene invitation to stroll along the waterfront or enjoy a relaxed afternoon in a local caf\u00e9, perhaps lost in a novel or the gentle hum of conversation. With the prospect of an evening drizzle, plan for that cozy retreat\u2014a warm cup in hand as the city settles into the embrace of night.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-06-09 21:06:26"
 }
