@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-10T23:43:00+00:00",
-            "temperature_f": 56.012,
-            "temperature_c": 13.34,
-            "humidity": 85.963734078987,
+            "timestamp": "2025-06-11T01:43:00+00:00",
+            "temperature_f": 54.644,
+            "temperature_c": 12.58,
+            "humidity": 92.034135152448,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-10T15:00:00-07:00",
-                "endTime": "2025-06-10T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind around 21 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-10T18:00:00-07:00",
+                "startTime": "2025-06-10T19:00:00-07:00",
                 "endTime": "2025-06-11T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "13 to 20 mph",
+                "windSpeed": "13 to 18 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 53. West southwest wind 13 to 20 mph, with gusts as high as 24 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 53. West southwest wind 13 to 18 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-06-11T06:00:00-07:00",
+                "endTime": "2025-06-11T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "13 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 13 to 21 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As evening descends on Downtown San Francisco, the gentle embrace of a mostly cloudy sky hints at the lingering character of this coastal city. The day, brightened by moments of sunshine, is gradually yielding to a more subdued atmosphere, inviting thoughts of languid strolls beneath the billowing clouds. The temperatures hover comfortably, with a modest chill enveloping the air, a reminder of the Pacific's proximity and its temperamental moods. The winds from the west sing softly, a steady refrain that adds a refreshing touch to the atmosphere\u2014an ideal backdrop for leisurely conversations and contemplative moments.\n\nFor those venturing out, a light jacket will serve well against the evening coolness, perhaps layered over a simple tee, allowing for comfort without excess. As the sun retreats, the skyline presents an ever-shifting tableau, contrasting with the fog that may conspire to roll in later, shaping shadows that play across the bridges and hills. One might find themselves wandering through the Mission, exploring its vibrant murals, or finding solace in a quiet cafe, embracing the rhythm of the city as it prepares to settle into the night. With a soft, inviting ambiance surrounding, it is an evening to gather with friends or take a solitary walk along the coast, allowing the sights and sounds of San Francisco to envelop you.",
-    "color_code": "#A9BFD8",
-    "timestamp": "2025-06-10 18:29:08"
+    "weather_report": "As twilight descends on Downtown San Francisco, the air hangs thick with a muted haze that cloaks the skyline, lending an air of mystery to the familiar views. The evening feels softly enveloped in a blanket of moisture, though not quite oppressive\u2014rather, it whispers of the iconic marine layer that often musters its way in from the bay. The cool breeze dances through the streets, a gentle reminder of the lively winds that will sweep through the day ahead. With nighttime temperatures predicted to settle around the low fifties, a light jacket is advisable for those venturing outside.\n\nAs Wednesday unfurls, expect the sun to break through the clouds, casting a hopeful glow over the bustling city. Though temperatures will tease a high near sixty-two, they will modestly retreat into the afternoon, suggesting a layered approach to attire remains wise. A walk along the Embarcadero or a stroll through Golden Gate Park would be a delightful way to embrace the day\u2014a chance to soak in the emerging warmth while perhaps enjoying a warm beverage. While a few layers may be required for comfort, the day holds promise for great enjoyment amidst the city's vibrant scenery.",
+    "color_code": "#847C9D",
+    "timestamp": "2025-06-10 19:31:31"
 }
