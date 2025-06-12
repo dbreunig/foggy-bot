@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-12T16:43:00+00:00",
-            "temperature_f": 53.726,
-            "temperature_c": 12.07,
-            "humidity": 86.990841858726,
+            "timestamp": "2025-06-12T17:43:00+00:00",
+            "temperature_f": 54.518,
+            "temperature_c": 12.51,
+            "humidity": 82.997096299128,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,22 +18,22 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-06-12T11:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-06-12T12:00:00-07:00",
                 "endTime": "2025-06-12T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 65,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "10 to 20 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "windSpeed": "16 to 22 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 65. West southwest wind 10 to 20 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind 16 to 22 mph, with gusts as high as 26 mph."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 2
                 },
-                "windSpeed": "13 to 18 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "windSpeed": "16 to 21 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 53. West southwest wind 13 to 18 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Mostly clear, with a low around 53. West wind 16 to 21 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the morning unfolds beneath a sunny sky, inviting residents to step out and embrace the day. With temperatures gently rising to about 65 degrees, the air is crisp yet comfortable, animated by a soft west-southwest breeze. The wind's playful gusts, reaching up to 23 mph, stir the city like a refreshing breath, hinting at the vibrancy of the life that pulsates through its streets.\n\nLooking ahead to tonight, the clouds will retreat for a nearly clear evening, settling into a cool serenity as temperatures dip to around 53 degrees. This is a time when the city takes on a softer hue, perhaps encouraging strolls along the waterfront or intimate gatherings at cozy cafes. The presence of fog is subtle today; the marine layer may linger just beyond the hills, teasing glimpses of brightness while preserving a hint of mystery. A light jacket will suffice for the day, providing warmth against the breeze without feeling burdensome. As you navigate this picturesque urban landscape, consider a leisurely walk across one of the iconic bridges or exploring the local artisanal shops \u2014 activities that marry the charm of the city with the inviting embrace of the weather, each a mundane delight turned extraordinary beneath a San Francisco sky.",
-    "color_code": "#A1C6EA",
-    "timestamp": "2025-06-12 11:01:35"
+    "weather_report": "This afternoon in Downtown San Francisco is painted in hues of clarity and sunshine, with the gentle touch of a brisk west wind. A vibrant day arrives at a balmy high of about 62 degrees, a perfect backdrop as temperatures drift toward 60 in the afternoon warmth, whisking away any vestiges of fog that often linger along the coast. You might feel the playful dance of the wind at 16 to 22 mph, its gentle gusts reaching up to 26 mph\u2014an invigorating nuance to the sunlit day.\n\nAs evening approaches, expect an invitation to the outdoors; the skies will remain mostly clear, wrapping the city in a soft, inviting glow as night falls around 53 degrees. The west winds continue into the night, whispering stories of the sea, gusting up to 25 mph. Consider donning a light sweater or jacket, perfect for the shifting breezes, as you stroll through the lively streets or enjoy a quiet moment at one of the city's many alluring parks. Today is perfect for meandering leisurely by the water, perhaps stopping by a local caf\u00e9, or indulging in the warmth of good company, all while soaking in the quintessential charm of this coastal metropolis.",
+    "color_code": "#F1E1B0",
+    "timestamp": "2025-06-12 12:01:36"
 }
