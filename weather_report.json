@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-12T05:43:00+00:00",
-            "temperature_f": 53.258,
-            "temperature_c": 11.81,
-            "humidity": 85.003130873547,
+            "timestamp": "2025-06-12T06:43:00+00:00",
+            "temperature_f": 52.897999999999996,
+            "temperature_c": 11.61,
+            "humidity": 86.94683054012,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-11T16:00:00-07:00",
-                "endTime": "2025-06-11T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "24 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 61. West wind around 24 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-06-11T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-06-12T01:00:00-07:00",
                 "endTime": "2025-06-12T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 3
+                    "value": 4
                 },
-                "windSpeed": "14 to 24 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
+                "windSpeed": "14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 53. West southwest wind 14 to 24 mph, with gusts as high as 28 mph."
+                "detailedForecast": "Partly cloudy, with a low around 53. West wind around 14 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-06-12T06:00:00-07:00",
+                "endTime": "2025-06-12T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "9 to 20 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 65. West southwest wind 9 to 20 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the day unfolds under a brilliant sun, casting its warm glow upon the city's iconic silhouette. This afternoon promises a refreshing ambiance, with temperatures gracefully hovering around 61 degrees. The west winds are spirited, sweeping through the streets at a lively pace of 24 mph, occasionally gusting to 28 mph\u2014a gentle yet invigorating breeze that hints at the changing tides of late spring. As daylight fades into evening, the skies will partially cloud, draping the urban landscape in a soft, nuanced palette, with lows dipping to a comfortable 53 degrees.\n\nThe atmosphere remains clear, with no telltale signs of fog or marine layer intruding upon the vibrant scenery. Still, an added layer might be prudent as twilight approaches, particularly if one plans to stroll along the waterfront or beneath the city\u2019s starry canopy. Casual, light clothing paired with a warm cardigan or jacket will harmonize nicely with the fresh sea air, making for a pleasant outing. The picturesque conditions invite leisurely strolls through nearby parks or intimate gatherings in cozy caf\u00e9s, as the day gracefully transitions into night. Seek solace in the everyday beauty that this city has to offer; today, San Francisco is a canvas of both energy and tranquility.",
+    "weather_report": "As the world turns towards morning in Downtown San Francisco, the air carries a softness, lingering with the faint outlines of clouds that flit across an otherwise clear canvas. The temperature gently cradles itself around fifty-three degrees, while a steady west wind whispers its way through the streets at a brisk pace, occasionally teasing the breath of an early chill. Streets are quiet now, inviting early risers to embrace the fresh aroma of coffee wafting through some nook, while the city's character unfolds in a gentle calm.\n\nCome Thursday, the sun will break through earnest, heralding a day laced with warmth and clarity. A slight dance of clouds may play at the edges, but the sun holds the stage, promising a high near sixty-five and painting the landscape in cheerful hues. However, a prevailing wind from the west-southwest remains a faithful companion, ensuring the charm of San Francisco\u2019s elements might flirt with coolness. Dressing wisely will be key; layers that breathe yet keep the briskness at bay will pave the way for a delightful day. Consider exploring one of the city's beloved parks or taking a stroll by the waterfront, savoring the beauty of the Golden Gate\u2014ideally with a warm cup of coffee in hand, embracing all that this unique urban tapestry has to offer under its benevolent sun.",
     "color_code": "#B0C4DE",
-    "timestamp": "2025-06-12 00:01:36"
+    "timestamp": "2025-06-12 01:01:42"
 }
