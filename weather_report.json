@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-13T02:43:00+00:00",
-            "temperature_f": 54.374,
-            "temperature_c": 12.43,
-            "humidity": 79.009019283861,
+            "timestamp": "2025-06-13T05:43:00+00:00",
+            "temperature_f": 52.141999999999996,
+            "temperature_c": 11.19,
+            "humidity": 91.031035800982,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-12T14:00:00-07:00",
-                "endTime": "2025-06-12T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "22 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind around 22 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-06-12T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-06-13T00:00:00-07:00",
                 "endTime": "2025-06-13T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "16 to 21 mph",
+                "windSpeed": "18 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 53. West southwest wind around 18 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-06-13T06:00:00-07:00",
+                "endTime": "2025-06-13T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "17 to 22 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 53. West wind 16 to 21 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 62 in the afternoon. West wind 17 to 22 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco this afternoon, the sun unfurls its golden rays, casting a warm embrace over the city even as the temperatures skew toward a comfortable 60 degrees. A brisk west wind dances through the streets, stirring the vibrant energy of urban life as it sways the leaves and sends a gentle coolness that speaks of the approaching evening. The clarity is commendable, with the air persuasively inviting, though whispers of a marine layer may softly linger in the background, hinting at summer's typical flirtation with fog, especially as the sun begins its descent.\n\nAs night approaches, expect the skies to maintain their clear demeanor, perfect for those who admire the celestial tapestry overhead or relish an evening stroll through the illuminated streets. A light jacket or sweater will serve well against the chill of the wind and the briskness that accompanies the fall of night. With such conditions, one might indulge in a leisurely walk along the Embarcadero, envisaging the warm tones of the sunset reflecting off the bay, or perhaps retreat to a cozy caf\u00e9 for a soothing cup of tea, embracing the tranquility that comes with early summer evenings in the City by the Bay.",
-    "color_code": "#6DA5D8",
-    "timestamp": "2025-06-12 23:01:49"
+    "weather_report": "The early hours in Downtown San Francisco unveil a sleek canvas, painted with a blend of soft clouds and gentle breezes. With temperatures settling at a cozy 53 degrees, the air carries whispers of the sea, as winds from the west-southwest weave between the buildings, bringing a refreshing chill typical of this coastal realm. The promise of a sunny Friday lies ahead, with a peak temperature flirting around 64 degrees\u2014a reminder that summer glimmers on the horizon, albeit shyly.\n\nAs the day unfolds, the city will bask under vast blue skies, the sun casting a warm embrace across the bustling streets. Though there may be a fleeting blush of cool air in the afternoon, it invites the more intrepid to step outside in lightweight layers\u2014perhaps a light sweater over a casual shirt, ideal for a stroll along the Embarcadero or a leisurely coffee at a quaint corner caf\u00e9. Look to the horizon for lingering hints of fog that may grace the Golden Gate, while the warmth of the sun beckons one to enjoy the day\u2019s charm, whether it\u2019s a quiet moment in a park or a gentle exploration of hidden alleyways. Amidst the bustle, quiet pleasures await\u2014embrace the day with spontaneity and simple joys.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-06-13 00:01:47"
 }
