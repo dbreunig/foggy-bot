@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-16T04:43:00+00:00",
-            "temperature_f": 52.934,
-            "temperature_c": 11.63,
-            "humidity": 84.015664783707,
+            "timestamp": "2025-06-16T05:43:00+00:00",
+            "temperature_f": 52.502,
+            "temperature_c": 11.39,
+            "humidity": 85.014614331429,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-06-15T16:00:00-07:00",
+                "endTime": "2025-06-15T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "22 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind around 22 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-15T23:00:00-07:00",
+                "startTime": "2025-06-15T18:00:00-07:00",
                 "endTime": "2025-06-16T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 51,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "18 mph",
+                "windSpeed": "16 to 22 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 51. West southwest wind around 18 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-06-16T06:00:00-07:00",
-                "endTime": "2025-06-16T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "17 to 25 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 62. West wind 17 to 25 mph, with gusts as high as 31 mph."
+                "detailedForecast": "Partly cloudy, with a low around 51. West southwest wind 16 to 22 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "As night blankets Downtown San Francisco, a gentle calm settles over the city, giving way to partly cloudy skies. The temperature, hovering around a mild 51 degrees, encourages layers\u2014you may want to reach for a cozy sweater or light jacket to fend off the cool breeze whispering from the west, swirling at 18 mph, with fleeting gusts bringing a playful chill. While the view tonight reveals a hint of the city's shimmering lights beneath a soft veil, the context suggests that the fog is lurking, keeping its secrets wrapped in the marine layers that caress the Golden Gate and enfold the Bay.\n\nLooking ahead to Monday, the sun plans to emerge, casting a warm glow across the landscape. Anticipate a mostly sunny day with highs nearing 62, a perfect setting for leisurely pursuits. The wind will continue to dance, this time with a slightly more spirited flourish, and you'll want to step out prepared for brisk moments. Dress in layers that can adapt, a light windbreaker in tow should the breeze swell, while keeping your footwear comfortable for strolling the vibrant streets where caf\u00e9s beckon, and parks await. Whether it's a quiet walk along the Embarcadero or an afternoon spent exploring local shops, the city's charm will surely shine through, offering moments of peaceful reflection amid the dawning beauty of a new day.",
-    "color_code": "#A6B7C9",
-    "timestamp": "2025-06-15 23:02:12"
+    "weather_report": "In Downtown San Francisco, the afternoon unfolds beneath a vibrant, clear sky, showcasing the city in its quintessential charm. With temperatures hovering around a mild 62, an invigorating west wind sweeps through, creating a refreshing backdrop against which locals and visitors indulge in the unfolding beauty. The clouds float lazily across the azure canvas but are significantly absent, allowing for an unobstructed view that captures the essence of the Bay, accentuating the iconic silhouettes of the Golden Gate Bridge and the memorable outlines of the hills beyond.\n\nAs night approaches, the temperature is expected to dip gently to a comfortable 51 degrees, encouraging one to wrap up in a light jacket or a cozy sweater while savoring the lingering warmth of the day. The evening breeze persists, whispering of coastal adventures and evening strolls along the Embarcadero. With such conditions, it\u2019s an ideal time to leisurely explore the local eateries, partake in a night walk, or perhaps enjoy a quiet moment at a cafe, observing the lights twinkle to life. There's no oppressive fog casting a shroud over the city, just the promise of a serene evening embracing the charm of urban life amidst nature\u2019s gentle stillness.",
+    "color_code": "#A8D8D0",
+    "timestamp": "2025-06-16 00:02:17"
 }
