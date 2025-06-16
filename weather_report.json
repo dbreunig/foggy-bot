@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-16T16:43:00+00:00",
-            "temperature_f": 52.646,
-            "temperature_c": 11.47,
-            "humidity": 89.000483246074,
+            "timestamp": "2025-06-16T17:43:00+00:00",
+            "temperature_f": 54.446,
+            "temperature_c": 12.47,
+            "humidity": 81.995457002335,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-06-16T11:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-06-16T04:00:00-07:00",
+                "endTime": "2025-06-16T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "8 to 18 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 51. West wind 8 to 18 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-06-16T06:00:00-07:00",
                 "endTime": "2025-06-16T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -27,36 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 1
                 },
-                "windSpeed": "22 to 25 mph",
+                "windSpeed": "17 to 25 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 62. West wind 22 to 25 mph, with gusts as high as 31 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-06-16T18:00:00-07:00",
-                "endTime": "2025-06-17T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 to 22 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. West wind 8 to 22 mph, with gusts as high as 29 mph."
+                "detailedForecast": "Sunny, with a high near 62. West wind 17 to 25 mph, with gusts as high as 31 mph."
             }
         ]
     },
-    "weather_report": "As the morning sun bathes Downtown San Francisco in a golden embrace, the atmosphere is marked by a brisk vitality. With temperatures nudging into the low sixties, one will feel a gentle warmth tempered by the constant presence of a westward wind, swirling through the city streets. Its gusts weave a playful dance, occasionally flaring up to invigorate the air with an unmistakable freshness, a reminder that the coast is never far away. The sky is clear, a canvas awash with optimism, yet hints of that iconic San Francisco fog linger at its edges, patiently waiting to cloak the bridges and hills as the day unfolds.\n\nFor those venturing out, dressing in layers will be both a strategic and comfortable choice. A light jacket will shield against the wind, allowing one to savor the outdoors without feeling overburdened. As the sun descends, the evening promises a similarly clear sky, punctuated by a subtle chill. This pleasant day invites you to explore the local parks, perhaps taking a leisurely stroll along the Embarcadero, where the shimmering bay reflects a sense of possibility. A visit to a cozy caf\u00e9 for an afternoon coffee, or an art gallery showcasing local talent, could also enrich this beautiful day. As the sun sets, the city will invite you to continue its exploration under the twinkling stars, a reminder that time in this vibrant place always offers new stories waiting to be discovered.",
-    "color_code": "#A7C0D9",
-    "timestamp": "2025-06-16 11:01:46"
+    "weather_report": "This afternoon, Downtown San Francisco reveals itself under a blanket of partly cloudy skies, flattered by the gentle embrace of a cool west wind weaving through the city streets. The temperature gracefully edges towards a pleasant 62 degrees, ideal for a leisurely stroll or enjoying a quiet moment at a local caf\u00e9. The strong breeze brings with it a sense of vivacity, rustling leaves and adding a crispness to the air that feels invigorating, even as the remnants of the marine layer linger in the distance.\n\nWith no fog extending its tendrils into the immediate vicinity, clarity reigns over the cityscape, allowing the majestic outlines of buildings and the distant Golden Gate Bridge to stand as proud sentinels against the sky. As you contemplate how to dress for this fine day, consider donning a light jacket or a sweater, letting layers work their charm against the cool air while remaining comfortable in the sunshine. The keen observer might find this golden opportunity perfect for a stroll along the waterfront, perhaps indulging in a warm cup of coffee as the world passes by\u2014offering refuge for both contemplation and connection on this splendid day.",
+    "color_code": "#A6C8E6",
+    "timestamp": "2025-06-16 12:01:29"
 }
