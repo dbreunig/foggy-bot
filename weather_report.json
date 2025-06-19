@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-18T16:00:00-07:00",
-                "endTime": "2025-06-18T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 69. West wind around 16 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-06-18T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-06-19T02:00:00-07:00",
                 "endTime": "2025-06-19T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "10 to 16 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 53. West southwest wind 10 to 16 mph, with gusts as high as 21 mph."
+                "detailedForecast": "Mostly clear, with a low around 53. West southwest wind around 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Juneteenth",
+                "startTime": "2025-06-19T06:00:00-07:00",
+                "endTime": "2025-06-19T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "9 to 24 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind 9 to 24 mph, with gusts as high as 31 mph."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, the day begins with a bright canvas, bathed in sunshine and free of the usual coastal fog. The temperatures rise gently, hinting at a high near a comfortable 69 degrees, kissed by the westerly breeze that dances through the streets at about 16 mph. This wind, adorned with occasional gusts echoing up to 22 mph, carries whispers of the sea, refreshing and invigorating, and encourages a stroll through the city.\n\nAs the sun sets, the warmth lingers just a bit longer, retreating to a low of about 53 degrees. The skies remain mostly clear, offering a painterly view of twilight as the day prepares to hand its colors over to the night. The west-southwest wind calms a touch, providing a pleasant backdrop for evening activities. It\u2019s an ideal time for an easy evening walk along the waterfront or perhaps an intimate dinner at a local caf\u00e9 where the city\u2019s vibrant, clicking life unfolds around you. A light jacket would serve well as the sun bows, making way for the cool embrace of the evening air, perfect for enjoying the simple pleasures of a summer night in the city.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-06-19 01:01:39"
+    "weather_report": "As the night softly drapes Downtown San Francisco in its quiet embrace, the clear skies allow the stars to twinkle gently, hinting at a tranquil overnight low around 53 degrees. A light westerly breeze whispers through the air, a promise of the vibrant daylight to come. As dawn breaks on Juneteenth, expect the sun to rise boldly, illuminating the city in a golden glow. The day is set to be a sun-kissed affair with highs nearing 62, though the ever-present coolness of the bay may cause temperatures to dip slightly by afternoon.\n\nThe absence of fog now offers a breathtaking view, the marine layer retreating to make way for clarity from Sutro Tower. While the west wind picks up, gusting up to 31 mph, it brings with it a refreshing vitality that makes the air feel crisp and invigorating. Dress in layers, perhaps a light shirt paired with a comfortable jacket\u2014this way, you can adapt to the ebbs and flows of the day. \n\nFor those wandering the city today, consider a leisurely stroll along the Embarcadero, where the lively sights and sounds of the bay will beckon. A visit to one of the local cafes for freshly brewed coffee, enjoyed outside while watching the world wake up, would be a most pleasant start. The openness of the day permits exploration\u2014perhaps a visit to the bustling market or a quiet moment in one of the city's serene parks, absorbing the spirit of the occasion.",
+    "color_code": "#D9E5FF",
+    "timestamp": "2025-06-19 02:01:45"
 }
