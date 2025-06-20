@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-20T14:43:00+00:00",
-            "temperature_f": 52.646,
-            "temperature_c": 11.47,
-            "humidity": 83.997167644884,
+            "timestamp": "2025-06-20T16:43:00+00:00",
+            "temperature_f": 56.516,
+            "temperature_c": 13.62,
+            "humidity": 70.001427432919,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-06-20T10:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-06-20T04:00:00-07:00",
+                "endTime": "2025-06-20T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "21 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 52. West wind around 21 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-06-20T06:00:00-07:00",
                 "endTime": "2025-06-20T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "17 to 25 mph",
+                "windSpeed": "15 to 25 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 62. West wind 17 to 25 mph, with gusts as high as 32 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-06-20T18:00:00-07:00",
-                "endTime": "2025-06-21T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 to 24 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. West northwest wind 12 to 24 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Sunny, with a high near 62. West wind 15 to 25 mph, with gusts as high as 32 mph."
             }
         ]
     },
-    "weather_report": "As the soft glow of morning reaches Downtown San Francisco, the weather beckons in a harmonious melody of sunlit clarity and brisk maritime breath. The promise of a sunny day holds strong, with temperatures hovering gently around 62, coaxing those who have locked themselves in hues of winter layering to shed their thick skins. A lofty west wind, playful yet assertive, dances through the streets, whispering secrets of the bay while stirring the leaves in a vibrant, animated ballet.\n\nTonight, the skies will transition into a clear canvas, revealing a serene palette punctuated only by the evening's chill, settling in at around 52 degrees. With gusts that may flirt with 35 mph, one might consider a light jacket and perhaps a scarf to keep the wayward wind at bay while exploring. The absence of fog today produces a considerable sense of liberation, allowing expansive views of the iconic Golden Gate, rising proudly from the misted waters and contrasting sharply against a bright blue sky that beckons one outside.\n\nEngage with the day by strolling along the waterfront, savoring the mundane beauty of life as it unfolds. A visit to a local caf\u00e9 may provide warmth and comfort, a perfect retreat to sip on a seasonal brew while watching the city stir to life. For those drawn to art and culture, the museums stand ready to offer respite and inspiration amidst the glowing sunlight of the day. In essence, this day unfolds like an invitation to indulge in the splendid simplicity of urban exploration, where every avenue offers a new story waiting to be discovered.",
-    "color_code": "#A8D8E6",
-    "timestamp": "2025-06-20 10:01:30"
+    "weather_report": "In Downtown San Francisco, the morning ushers in a tranquil clarity, the type that gently draws the eye to the skyline, where the iconic structures stand proud against a soft blue backdrop. As the forecast suggests, a low marine layer hugs the coast, indistinct but present in its fleeting touches. Temperatures settled around a crisp 52 degrees, complemented by a vivacious west wind that stirs the air with playful gusts, keeping the day feeling refreshingly cool. \n\nAs the sun advances through the day, it will warm the city, reaching a comfortable 62 degrees, and the winds will provide a constant companion, inviting you to dress in layers\u2014perhaps a light jacket for the morning and a breezy top for the afternoon when the sun casts its glow. With such an inviting atmosphere, consider meandering through the vibrant streets, exploring local cafes, or seeking solace in one of the city\u2019s myriad parks, where the warmth of the sun dances with the cool essence of the coastal breeze. It\u2019s an ideal day to embrace the understated elegance of San Francisco, savoring the whispers of the wind and the laughter of its residents.",
+    "color_code": "#A6C8E2",
+    "timestamp": "2025-06-20 11:01:51"
 }
