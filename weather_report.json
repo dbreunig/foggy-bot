@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-20T04:43:00+00:00",
-            "temperature_f": 52.808,
-            "temperature_c": 11.56,
-            "humidity": 83.950922241491,
+            "timestamp": "2025-06-20T05:43:00+00:00",
+            "temperature_f": 52.502,
+            "temperature_c": 11.39,
+            "humidity": 85.014614331429,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "Juneteenth",
+                "startTime": "2025-06-19T17:00:00-07:00",
+                "endTime": "2025-06-19T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "24 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind around 24 mph, with gusts as high as 32 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-19T23:00:00-07:00",
+                "startTime": "2025-06-19T18:00:00-07:00",
                 "endTime": "2025-06-20T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "22 mph",
+                "windSpeed": "20 to 23 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 52. West wind around 22 mph, with gusts as high as 31 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-06-20T06:00:00-07:00",
-                "endTime": "2025-06-20T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "16 to 25 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind 16 to 25 mph, with gusts as high as 35 mph."
+                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 52. West wind 20 to 23 mph, with gusts as high as 32 mph."
             }
         ]
     },
-    "weather_report": "Tonight, Downtown San Francisco settles under a cloak of partly cloudy skies, the air cool as the temperature dips towards a gentle 52 degrees. A brisk west wind, sweeping through the streets at 22 mph, carries gusts that dance up to 31 mph, creating a refreshing tang that invigorates the senses. It is a night that calls you to wrap yourself in a light jacket, seeking solace from the briskness, or perhaps enjoying an evening stroll wrapped in the soft embrace of the city, its iconic silhouettes softened by the clouds above.\n\nAs dawn breaks, Friday promises a sun-soaked awakening, where the vibrancy of a clear sky unfolds. The high will flirt with 62 degrees before gracefully tapering off in the afternoon. The winds persist, shifting slightly but maintaining their playful dance at 16 to 25 mph, challenging those who venture outdoors to find balance against their strength. The view looking northeast might reveal the wisps of a marine layer clinging stubbornly to the cliffs, while the golden glow of the sun brings clarity and warmth. Ideal for a leisurely walk through the Embarcadero or a serene moment at a caf\u00e9, the day beckons with subtle charm. Dress in layers, as the warmth of the day and the cool breezes remind us to embrace the rhythm of these San Francisco days.",
-    "color_code": "#A7B2C9",
-    "timestamp": "2025-06-19 23:01:43"
+    "weather_report": "As the dawn breaks over Downtown San Francisco, the day unveils itself under a crystal-clear sky, a sharp contrast to the usual marine fog that often drapes the city in mystery. With the sun poised to hover around a mild 62 degrees, the air carries a gentle warmth that promises a pleasant day ahead. The brisk West wind, dancing at speeds of up to 24 mph, adds a refreshing touch, rustling leaves and encouraging a wholesome stroll along the Embarcadero or through the arboretum at Golden Gate Park.\n\nTonight, as twilight descends, the air will cool to a comfortable 52 degrees, ideal for evening outings. With the skies remaining mostly clear, it would be wise to don layers, perhaps a light jacket to fend off the evening chill as you enjoy a quiet dinner at one of San Francisco's many cozy eateries or partake in a leisurely walk along the waterfront. The beauty of this day lies not just in its clarity but in the opportunity it presents for simple pleasures\u2014an unhurried caf\u00e9 visit, the rustling of pages in a favorite book, or perhaps a quiet moment watching the sun dip behind the skyline.",
+    "color_code": "#A2C2E0",
+    "timestamp": "2025-06-20 00:01:48"
 }
