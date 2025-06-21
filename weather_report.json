@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-21T05:00:00-07:00",
-                "endTime": "2025-06-21T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. West wind around 10 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2025-06-21T06:00:00-07:00",
                 "endTime": "2025-06-21T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 65. West northwest wind 8 to 21 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-21T18:00:00-07:00",
+                "endTime": "2025-06-22T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 to 18 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 53. West northwest wind 7 to 18 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "As the sun rises over Downtown San Francisco, the air carries a cool whisper of clarity, the low temperature gently cradling the city into the day. The forecast hints at a calm morning, clear skies poised to give way to the soft warmth of a sunny Saturday. A light west wind breathes across the bay, stirring the gentle waves while maintaining a pleasant, fresh feeling throughout the city.\n\nIt's a tranquil time to explore the picturesque streets of San Francisco. While the marine layer often hugs the coastline, today it seems to have retreated, leaving the Golden Gate Bridge proudly exposed against the backdrop of blue. This absence of fog invites the adventurous spirit to stroll along the Embarcadero or venture into the verdant expanses of Golden Gate Park. Dress in layers\u2014a light jacket may serve well against the early chill, but the afternoon sun will beckon lighter attire. Consider visiting a local cafe for a warm beverage to accompany a leisurely morning, or perhaps take a contemplative walk across the bridge to appreciate the breathtaking views that stretch endlessly over the bay. As the day unfolds gently, let the charm of San Francisco's streets remind you of the city's timeless allure.",
-    "color_code": "#5599FF",
-    "timestamp": "2025-06-21 05:01:52"
+    "weather_report": "An embrace of golden sunlight unfolds over Downtown San Francisco this morning, the horizon blushing with warm hues as the sun rises. The city basks in clear visibility\u2014a delightful contrast to the misty mornings often found in these parts. With the forecast promising a sunny day nearing 65 degrees, the weather invites the city to come alive, aided by a brisk westerly breeze that dances through the streets at 8 to 21 mph. Expect gusts that whisper urgency, pushing you to relish the lilt of the day.\n\nAs the sun climbs higher, it beckons one toward the bustling local caf\u00e9s for a warm brew or perhaps a leisurely stroll along the waterfront. Dressed in light layers, ideal for a day that begins cool and gradually warms, a light sweater or jacket will suffice as you navigate your morning adventures. The absence of fog over iconic landmarks like the Golden Gate Bridge allows for views that feel almost cinematic, while the clear air enhances the vibrancy of the day. As evening approaches, expect a gentle coolness settling in with the falling sun, making it perfect for wrapping yourself in a comfortable layer for a night spent beneath the stars.",
+    "color_code": "#F5D68D",
+    "timestamp": "2025-06-21 06:07:51"
 }
