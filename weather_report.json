@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-06-21T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-06-21T12:00:00-07:00",
                 "endTime": "2025-06-21T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 65,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "8 to 21 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "windSpeed": "14 to 21 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 65. West northwest wind 8 to 21 mph, with gusts as high as 28 mph."
+                "detailedForecast": "Sunny, with a high near 65. West wind 14 to 21 mph, with gusts as high as 25 mph."
             },
             {
                 "number": 2,
@@ -41,7 +41,7 @@
                 "startTime": "2025-06-21T18:00:00-07:00",
                 "endTime": "2025-06-22T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 53,
+                "temperature": 52,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -49,14 +49,14 @@
                     "value": 0
                 },
                 "windSpeed": "7 to 18 mph",
-                "windDirection": "WNW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 53. West northwest wind 7 to 18 mph, with gusts as high as 28 mph."
+                "detailedForecast": "Mostly clear, with a low around 52. West wind 7 to 18 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the sun glides across the sky, Downtown San Francisco reveals a canvas of brilliant blue, unmarred by the usual veil of fog. The forecast speaks of a warm embrace, with temperatures lingering near a pleasant 65 degrees. A gentle west-northwest breeze adds a refreshing note, rustling leaves and swirling the scent of salt air. Tonight, as the day softens into evening, the sky will transition to a serene palette, with lows settling comfortably at 53.\n\nThe clarity of the day enhances the city's iconic views\u2014majestic peaks can be seen unfurling in the distance, unmarred by mist. You might find solace in a stroll along the waterfront, where the sunlight dances upon the waves, or perhaps indulge in a leisurely lunch at a nearby caf\u00e9, where al fresco seating invites you to linger a little longer. For the highest comfort, light layers are advisable; a sweater could serve well as the evening coolness brushes through. With the vibrant energy of the day and a hint of summer's warmth, you have a perfect opportunity to explore what this beautiful city has to offer amidst conditions that are both inviting and refreshing.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-06-21 11:01:29"
+    "weather_report": "Downtown San Francisco is enveloped in a serene clarity this afternoon, with the sun casting its warm embrace upon the city. Highs flirt just above a comfortable sixty-five degrees, while a gentle west wind sweeps through, rustling the trees and providing a refreshing touch. As you look towards the iconic Golden Gate, the absence of fog reveals the undulating landscape and vibrant cityscape in striking detail. Tonight, the skies promise to remain mostly clear, with temperatures settling gently around fifty-two degrees, a perfect invitation for an evening stroll.\n\nDressing for the day, a light jacket or a cozy sweater would serve well against the breezy gusts, particularly if one plans to linger outdoors as twilight descends. With the weather being this pleasant, consider an afternoon at a local caf\u00e9, perhaps nestled outside to relish the sun's last rays while sipping on a warm drink. Or, for those seeking a brief adventure, a leisurely walk along the waterfront would reveal the bay's glimmering expanse, making it an ideal day for quiet reflections and simple pleasures.",
+    "color_code": "#a3c1e0",
+    "timestamp": "2025-06-21 12:01:32"
 }
