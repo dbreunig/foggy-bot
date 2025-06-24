@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-23T23:43:00+00:00",
-            "temperature_f": 58.172,
-            "temperature_c": 14.54,
-            "humidity": 70.989087676058,
+            "timestamp": "2025-06-24T01:43:00+00:00",
+            "temperature_f": 54.05,
+            "temperature_c": 12.25,
+            "humidity": 89.004669742402,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-23T17:00:00-07:00",
-                "endTime": "2025-06-23T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 63. West southwest wind around 13 mph, with gusts as high as 18 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-06-23T18:00:00-07:00",
                 "endTime": "2025-06-24T06:00:00-07:00",
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 15
                 },
                 "windSpeed": "7 to 13 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. Southwest wind 7 to 13 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 52. Southwest wind 7 to 13 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-06-24T06:00:00-07:00",
+                "endTime": "2025-06-24T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Partly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Partly sunny. High near 60, with temperatures falling to around 58 in the afternoon. West southwest wind 7 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As twilight settles over Downtown San Francisco, the city embraces a serene, if slightly cool, evening. The afternoon sun graced the streets with a gentle warmth, achieving a peak at around sixty-three degrees, stirring a pleasant west-southwest wind that danced through neighborhoods. But now, a soft cloak of clouds gathers, muting the vibrant hues of the day while ushering in a cozy embrace of atmospheric tranquility. The forecast warns of an impending chill, dipping to around fifty-two degrees tonight, as the clouds remind us of the Pacific\u2019s constant influence; the marine layer wraps around the edges of the city, casting a soft veil over the iconic skyline, though no significant fog hinders the view.\n\nAs you navigate the evening streets, a light layering is advisable\u2014perhaps a thin sweater or a light jacket, perfect for an enjoyable stroll through the Mission or a casual dinner at a downtown caf\u00e9. Tonight is perfect for discovering a hidden gallery or simply sipping a warm cup at your favorite nook, allowing the calmness of the city to wash over you. A quiet wander along the Embarcadero might reveal twinkling lights reflecting on the bay, adding a touch of magic to an otherwise unassuming evening, perfect for savoring the simple joys of the moment.",
+    "weather_report": "As twilight settles over Downtown San Francisco, a delicate veil of clouds shrouds the skyline, lending a muted grace to the evening. With a low lingering near 52 degrees, the air carries a soft chill from the southwest winds brushing through the streets at a gentle pace. The sky, predominantly overcast, hints at a light drizzle that may arrive later tonight, offering a flirtation with moisture, but nothing too insistent. The atmospheric conditions create a quiet anticipation, as if the city itself is slowly breathing, waiting for the night to reveal its more intimate side.\n\nLooking ahead to Tuesday, the forecast suggests only a slight chance of morning drizzle, giving way to a partly sunny disposition by midday. The high will dance around the comfortable 60-degree mark, providing a refreshing warmth as the afternoon unfolds. There may be a playful gust or two as the winds shift to the west-southwest, encouraging outdoor wanderings. As the day lingers on the edge of summer's embrace, you might consider a thoughtful layering of clothing\u2014perhaps a light jacket or soft sweater, allowing for the whims of temperature fluctuations. In this serene atmosphere, a stroll through local parks, or perhaps a quiet conversation in an outdoor caf\u00e9, would suit the scene beautifully, embracing the gentle embrace of San Francisco\u2019s evening charm.",
     "color_code": "#B0C4DE",
-    "timestamp": "2025-06-23 18:29:18"
+    "timestamp": "2025-06-23 19:32:29"
 }
