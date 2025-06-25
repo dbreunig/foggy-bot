@@ -10,7 +10,7 @@
             "timestamp": "2025-06-25T05:43:00+00:00",
             "temperature_f": 53.132,
             "temperature_c": 11.74,
-            "humidity": null,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2025-06-25T00:00:00-07:00",
+                "startTime": "2025-06-25T01:00:00-07:00",
                 "endTime": "2025-06-25T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
+                "windSpeed": "8 to 12 mph",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 52. Southwest wind around 12 mph."
+                "detailedForecast": "Cloudy, with a low around 52. West southwest wind 8 to 12 mph."
             },
             {
                 "number": 2,
@@ -52,11 +52,11 @@
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 62. West southwest wind 8 to 21 mph, with gusts as high as 26 mph."
+                "detailedForecast": "Mostly sunny, with a high near 62. West southwest wind 8 to 21 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the clock strikes past midnight over Downtown San Francisco, the city is cloaked in a gentle blanket of cloud cover, the kind of veil that lingers, wrapping the town in a soothing embrace as temperatures gracefully fall to a mild 52 degrees. A soft southwest breeze swirls through the quiet streets, whispering promises of a brighter tomorrow. The forecast beckons with the hint of a transformation; the sun shall emerge from behind the clouds, bringing about a warm glow that will illuminate the city around midday, settling at a high of approximately 62. The winds will pick up, ranging from soft zephyrs to lively gusts that can dance up to 26 miles per hour, inviting residents to revel in the ebb and flow of the day.\n\nFor those planning to venture out, consider layering your attire\u2014think light sweaters or long-sleeved shirts for the morning\u2019s briskness, complemented by comfortable trousers or jeans. As the sun makes its ascent, perhaps meander through the quaint streets, stopping to savor a warm cup of coffee from a local caf\u00e9 or take a leisurely stroll through one of the nearby parks. Should the urge strike, a visit to a less-travelled exhibit in a local gallery could provide both inspiration and solace from the hustle. With the sun breaking through the clouds as anticipated, the day\u2019s light will reveal the stunning architecture and natural beauty that defines this storied city, making for a charming and relaxed summer day.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-06-25 00:02:17"
+    "weather_report": "In Downtown San Francisco, the night descends under a blanket of clouds, whispering hints of a cool breeze. The air is soft and crisp, with temperatures resting around 52 degrees, accompanied by gentle gusts from the west-southwest. As the sun awakens tomorrow, it promises a canvas of mostly sunny skies, inviting the urban dwellers to step into a day that will see highs treading close to 62. A lively wind will dance at varying speeds, creating a playful atmosphere among the city's iconic hills and streets.\n\nWhile the marine layer has yet to fully retreat, a gentle mist may linger on the edges of the bay, adding an ethereal quality to the morning light. The fog, like a delicate veil, wraps around the Golden Gate, a constant reminder of this coastal city's character. For those who venture outdoors, a light jacket would be advisable, keeping one snug against the occasional chill, while layers will allow for comfort as the day unfolds. As you step outside, consider a quiet stroll along the Embarcadero or a visit to a local caf\u00e9, where the aroma of fresh pastries awakens the senses, inviting reflection and spontaneity in equal measure.",
+    "color_code": "#A3C1FF",
+    "timestamp": "2025-06-25 01:01:53"
 }
