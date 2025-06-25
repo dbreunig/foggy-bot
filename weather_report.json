@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-25T04:43:00+00:00",
-            "temperature_f": 53.366,
-            "temperature_c": 11.87,
+            "timestamp": "2025-06-25T05:43:00+00:00",
+            "temperature_f": 53.132,
+            "temperature_c": 11.74,
             "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-24T15:00:00-07:00",
-                "endTime": "2025-06-24T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "22 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 60. West southwest wind around 22 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-06-24T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-06-25T00:00:00-07:00",
                 "endTime": "2025-06-25T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "9 to 22 mph",
+                "windSpeed": "12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 52. Southwest wind around 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-06-25T06:00:00-07:00",
+                "endTime": "2025-06-25T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "8 to 21 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. West southwest wind 9 to 22 mph, with gusts as high as 26 mph."
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 62. West southwest wind 8 to 21 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "As the twilight settles over Downtown San Francisco, the evening extends a gentle embrace, cloaking the city in a soft layer of cloud cover. The temperature rests comfortably around 52 degrees, a whisper of coolness carried on the west-southwest winds, which dance around the streets at a brisk pace of 9 to 22 mph. While most of the day was marked by a fleeting warmth under mostly sunny skies, the night ushers in a notable shift as the clouds gather, hinting at the familiar marine layer. The iconic silhouettes of the Golden Gate Bridge may now be shrouded in a delicate veil, making the bustling streets feel even more intimate, as if sharing a secret among themselves.\n\nFor an evening stroll or a casual dinner, light layers remain advisable. Perhaps a light jacket or sweater would serve well against the gentle wind, allowing for an easy transition from the warmth of indoor dining to the crisp outdoor air. This is no time for the stereotypical tourist traps; instead, consider a quiet caf\u00e9 where you can sip on a warm beverage and watch the world go by, or perhaps a local bistro where the aromas of freshly cooked meals intertwine with the salty sea breeze. Tonight offers an opportunity to wander, to explore the lesser-known corners of the city, where conversations linger and laughter echoes softly in the evening air.",
+    "weather_report": "As the clock strikes past midnight over Downtown San Francisco, the city is cloaked in a gentle blanket of cloud cover, the kind of veil that lingers, wrapping the town in a soothing embrace as temperatures gracefully fall to a mild 52 degrees. A soft southwest breeze swirls through the quiet streets, whispering promises of a brighter tomorrow. The forecast beckons with the hint of a transformation; the sun shall emerge from behind the clouds, bringing about a warm glow that will illuminate the city around midday, settling at a high of approximately 62. The winds will pick up, ranging from soft zephyrs to lively gusts that can dance up to 26 miles per hour, inviting residents to revel in the ebb and flow of the day.\n\nFor those planning to venture out, consider layering your attire\u2014think light sweaters or long-sleeved shirts for the morning\u2019s briskness, complemented by comfortable trousers or jeans. As the sun makes its ascent, perhaps meander through the quaint streets, stopping to savor a warm cup of coffee from a local caf\u00e9 or take a leisurely stroll through one of the nearby parks. Should the urge strike, a visit to a less-travelled exhibit in a local gallery could provide both inspiration and solace from the hustle. With the sun breaking through the clouds as anticipated, the day\u2019s light will reveal the stunning architecture and natural beauty that defines this storied city, making for a charming and relaxed summer day.",
     "color_code": "#B0C4DE",
-    "timestamp": "2025-06-24 23:01:57"
+    "timestamp": "2025-06-25 00:02:17"
 }
