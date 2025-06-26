@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-26T03:43:00+00:00",
-            "temperature_f": 53.168,
-            "temperature_c": 11.76,
-            "humidity": null,
+            "timestamp": "2025-06-26T05:43:00+00:00",
+            "temperature_f": 52.879999999999995,
+            "temperature_c": 11.6,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-25T16:00:00-07:00",
-                "endTime": "2025-06-25T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind around 21 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-25T18:00:00-07:00",
+                "startTime": "2025-06-25T21:00:00-07:00",
                 "endTime": "2025-06-26T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "7 to 21 mph",
+                "windSpeed": "7 to 15 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 53. West southwest wind 7 to 21 mph, with gusts as high as 26 mph."
+                "detailedForecast": "Partly cloudy, with a low around 53. West southwest wind 7 to 15 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-06-26T06:00:00-07:00",
+                "endTime": "2025-06-26T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 18 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. Southwest wind 6 to 18 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "As the day unfolds in Downtown San Francisco, a gentle embrace of sunshine fosters a tranquil atmosphere. The temperature hovers comfortably near 62 degrees, drifting slightly downward as afternoon settles in. The brisk west-southwest winds, whisking through at 21 mph and punctuated by occasional gusts, invigorate the air, weaving a tapestry of movement into the stillness. With a clear sky bearing witness to today's joy, the lingering summer warmth meets the crisp ocean air, painting a delightful picture of early evening serenity.\n\nAs twilight approaches, expect a transition to partly cloudy skies, inviting a lover\u2019s glance towards the horizon. With temperatures dipping to a cozy 53 degrees, the evening promises a soft, inviting chill, ideal for wrapping oneself in light layers or a comfortable cardigan that speaks comfort while navigating the night. The backdrop of the city echoes with possibilities, from leisurely strolls along the waterfront to quiet reflections over a cup of coffee at a street-side caf\u00e9. This is a night to savor the subtle beauty of life unfolding in a city that never sleeps but beckons you to pause, breathe, and simply enjoy.",
-    "color_code": "#B3D3E8",
-    "timestamp": "2025-06-25 23:01:45"
+    "weather_report": "Tonight, Downtown San Francisco presents a tranquil yet dynamic canvas, featuring a bite of coolness as the low settles around 53 degrees. The west-southwest winds whisper to the streets at speeds between a gentle 7 and 15 mph, occasionally gusting to 20 mph, adding a crispness that complements the partly cloudy skies. Remove the day\u2019s distractions; focus instead on the softened view as the breeze carries a fleeting chill, perfect for a cozy stroll or the warmth of a favorite caf\u00e9 where the distant sounds of conversations blend into the night.\n\nAs the sun rises on Thursday, a whole new palette emerges. The forecast invites us into a mostly sunny day, with the midday temperature climbing to a comfortable 66 before gently easing back to around 64. The southwest winds may pick up, caressing the coast with speeds reaching 18 mph and even gusting to 23\u2014another reminder of the ocean\u2019s influence. With this clarity, you might be inspired to don layers that breathe yet provide warmth; perhaps a light jacket over a casual shirt, suitable for both outdoor adventures and leisurely visits to local galleries or bookstores, where the bustle of the city ensures a vibrant atmosphere. It's a day for exploration, where the charm of San Francisco invites both the curious and the contemplative to revel in the wonder of the world around them.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-06-26 00:02:06"
 }
