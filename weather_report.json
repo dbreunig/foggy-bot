@@ -18,6 +18,25 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-06-25T16:00:00-07:00",
+                "endTime": "2025-06-25T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind around 21 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-06-25T18:00:00-07:00",
                 "endTime": "2025-06-26T06:00:00-07:00",
@@ -34,29 +53,10 @@
                 "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 53. West southwest wind 7 to 21 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-06-26T06:00:00-07:00",
-                "endTime": "2025-06-26T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 to 18 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. Southwest wind 6 to 18 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "As twilight begins to settle over Downtown San Francisco, a gentle warmth holds at around fifty-three degrees, coaxed along by a west-southwest breeze that dances playfully through the streets, whispering of the cool air yet to come. The sky above is partly clad in delicate clouds that provide a soft glow, hinting at the possibility of a pleasant dawn. Tomorrow promises a transition, as the sun stretches its arms wide, inviting golden rays to pour over the city with temperatures reaching the mid-sixties, giving way to a shimmering clarity in the afternoon.\n\nTonight\u2019s cool embrace invites layered attire\u2014perhaps a light sweater paired with a comfortable jacket and a scarf, perfect for strolling through the dimly lit avenues, enjoying the convivial atmosphere of the city. This is a moment to relish, as the contours of the skyline soften in the fading light and the iconic Golden Gate stands as a sentinel in the distance. As you wander, consider the quiet elegance of sipping a warm drink at a nearby caf\u00e9, where the world outside feels vibrant yet serene, a perfect testament to the character of San Francisco quietude, painting memories through the evening's gentle caress.",
-    "color_code": "#A7A8D9",
-    "timestamp": "2025-06-25 22:02:07"
+    "weather_report": "As the day unfolds in Downtown San Francisco, a gentle embrace of sunshine fosters a tranquil atmosphere. The temperature hovers comfortably near 62 degrees, drifting slightly downward as afternoon settles in. The brisk west-southwest winds, whisking through at 21 mph and punctuated by occasional gusts, invigorate the air, weaving a tapestry of movement into the stillness. With a clear sky bearing witness to today's joy, the lingering summer warmth meets the crisp ocean air, painting a delightful picture of early evening serenity.\n\nAs twilight approaches, expect a transition to partly cloudy skies, inviting a lover\u2019s glance towards the horizon. With temperatures dipping to a cozy 53 degrees, the evening promises a soft, inviting chill, ideal for wrapping oneself in light layers or a comfortable cardigan that speaks comfort while navigating the night. The backdrop of the city echoes with possibilities, from leisurely strolls along the waterfront to quiet reflections over a cup of coffee at a street-side caf\u00e9. This is a night to savor the subtle beauty of life unfolding in a city that never sleeps but beckons you to pause, breathe, and simply enjoy.",
+    "color_code": "#B3D3E8",
+    "timestamp": "2025-06-25 23:01:45"
 }
