@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-28T03:43:00+00:00",
-            "temperature_f": 57.326,
-            "temperature_c": 14.07,
-            "humidity": 77.989545422111,
+            "timestamp": "2025-06-28T04:43:00+00:00",
+            "temperature_f": 56.192,
+            "temperature_c": 13.44,
+            "humidity": 81.030706679885,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-06-27T14:00:00-07:00",
+                "endTime": "2025-06-27T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 68, with temperatures falling to around 66 in the afternoon. West southwest wind around 17 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-27T22:00:00-07:00",
+                "startTime": "2025-06-27T18:00:00-07:00",
                 "endTime": "2025-06-28T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "8 to 12 mph",
-                "windDirection": "SW",
+                "windSpeed": "8 to 17 mph",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 54. Southwest wind 8 to 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-06-28T06:00:00-07:00",
-                "endTime": "2025-06-28T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 to 22 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 67, with temperatures falling to around 64 in the afternoon. West southwest wind 8 to 22 mph, with gusts as high as 26 mph."
+                "detailedForecast": "Mostly clear, with a low around 54. West southwest wind 8 to 17 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "As the evening descends over Downtown San Francisco, the sky holds a quiet allure, mostly clear with an inviting chill settling in around 54 degrees. A gentle southwest breeze whispers through the streets, as if urging the city to unwind, casting a calm aura over the lights that begin to sparkle against the night backdrop. Tomorrow promises a bright sunny day, hinting at a high near 67, before the temperature subtly drifts down to a comfortable 64 in the afternoon. You might expect a lively, brisk west-southwest wind that dances through the air, creating a refreshing atmosphere ideal for outdoor ventures.\n\nWhile the evening is adorned with clear skies, hints of the notorious marine layer persist, settling around the coastline, wrapping the Golden Gate Bridge in a delicate shroud. It\u2019s a sight that captivates the heart and soul of San Francisco\u2014a whimsy of fog that celebrates the city\u2019s unique charm. For tonight, dress in layers; perhaps a light jacket over your favorite tee to navigate the coolness of the air without sacrificing style. Tomorrow, consider a short stroll through one of the historic neighborhoods, or perhaps a leisurely visit to a quiet caf\u00e9 where the aroma of freshly brewed coffee invites a moment of reflection before embracing the vibrant energy of the city.",
-    "color_code": "#4a90e2",
-    "timestamp": "2025-06-27 22:01:43"
+    "weather_report": "As another day transitions into evening in Downtown San Francisco, the atmosphere carries a stillness that invites reflection, enhanced by the cool, coastal breeze. The sun has dipped beneath the horizon, leaving a trail of lingering warmth\u2014though soon enough, the chill will settle in as temperatures murmur down towards a delightful 54 degrees. The clarity of the twilight sky is refreshing, unmarred by the notorious fog that often cloaks the city. Yet, above the Golden Gate, whispers of the marine layer softly gather, hinting at a night that might cradled in that familiar cool embrace.\n\nWith a brisk wind brushing through at 8 to 17 mph, this is a quintessential San Francisco evening. As you step outside, a light sweater or a comfortable jacket should suffice to ward off the evening chill. The urban landscape, illuminated by city lights, beckons an array of activities: perhaps an evening stroll along the Embarcadero, where the city unfurls its beauty against the sparkle of the bay; or a visit to one of the cozy caf\u00e9s dotting the neighborhood, ideal for sinking into a good book over a cup of steaming coffee. No matter the choice, the charm of the city is apparent tonight; it is a time to indulge in its vibrant heart, embracing the simplicity that this special place uniquely offers.",
+    "color_code": "#4A90E2",
+    "timestamp": "2025-06-27 23:01:31"
 }
