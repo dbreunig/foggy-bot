@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-28T05:43:00+00:00",
-            "temperature_f": 56.084,
-            "temperature_c": 13.38,
-            "humidity": 82.991897025751,
+            "timestamp": "2025-06-28T06:43:00+00:00",
+            "temperature_f": 56.462,
+            "temperature_c": 13.59,
+            "humidity": 82.028857604457,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-27T15:00:00-07:00",
-                "endTime": "2025-06-27T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 68, with temperatures falling to around 66 in the afternoon. West southwest wind around 17 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-06-27T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-06-28T01:00:00-07:00",
                 "endTime": "2025-06-28T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "8 to 17 mph",
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 54. Southwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-06-28T06:00:00-07:00",
+                "endTime": "2025-06-28T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 15 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 54. West southwest wind 8 to 17 mph, with gusts as high as 22 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 6 to 15 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, a gentle warm breeze stirs the air, heralding a day of bright sunshine. With temperatures hovering around a comfortable 68 degrees, the afternoon promises to be a delightful experience, gradually easing to 66 as the hours wane. The west-southwest winds dance around, offering a refreshing touch, while the light gusts add a bit of exhilaration to your stroll through the streets. Tonight, the skies will remain mostly clear, with a soft drop to a cozy 54 degrees, perfect for the evening's outdoor plans.\n\nThe clarity of the day invites exploration. Whether meandering through local cafes or enjoying the vibrant setting of a park bench, it is a splendid time to relish simple pleasures\u2014perhaps savoring an artisanal coffee while watching the city pulse with life or indulging in a thoughtful read under the open sky. Dressing in layers is advisable; a light jacket will serve well as the evening cools, enhancing the comfort of your adventures. Consider an early evening walk across the Golden Gate, where the sun sets in a blaze of color, leaving a trail of warmth and serenity\u2014an ideal way to end this refreshingly bright day.",
-    "color_code": "#F0C2A4",
-    "timestamp": "2025-06-28 00:01:21"
+    "weather_report": "As the night gently fades, the city of San Francisco stirs, wrapped in a cloak of mild temperatures and whispers of a southwest wind. As dawn breaks, the promise of a sunlit day materializes, casting away the remnants of overnight coolness that linger near 54 degrees. The air carries a soft embrace, perfect for those who find solace in a casual stroll along the waterfront or a quiet moment in one of the city's serene parks. \n\nCome Saturday, the forecast reveals a day drenched in golden sunlight, with highs edging towards a delightful 66 degrees. However, as the afternoon approaches, you may feel the chill of a fading warmth, as temperatures gracefully retreat to about 64. Gentle breezes will swirl around, caressing the skin as they dance through the streets with gusts that may occasionally rise to 20 mph. Clarity reigns supreme, a welcome departure from the murky embrace of fog that often blankets this coastal region. Dress comfortably, perhaps layering a light jacket over a t-shirt, ready for the playful shifts in temperature, and seize the opportunity to wander through local cafes, explore art galleries, or relish an afternoon in the lush expanses of Golden Gate Park. With a soft sun illuminating the city, today beckons for exploration, relaxation, and connection\u2014moments that make a day in San Francisco truly special.",
+    "color_code": "#B3C0D7",
+    "timestamp": "2025-06-28 01:01:43"
 }
