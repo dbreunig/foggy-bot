@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-29T11:43:00+00:00",
-            "temperature_f": 51.818,
-            "temperature_c": 11.01,
+            "timestamp": "2025-06-29T12:43:00+00:00",
+            "temperature_f": 51.385999999999996,
+            "temperature_c": 10.77,
             "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,7 +18,26 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
+                "name": "Overnight",
+                "startTime": "2025-06-29T02:00:00-07:00",
+                "endTime": "2025-06-29T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 33
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
+                "shortForecast": "Chance Drizzle",
+                "detailedForecast": "A chance of drizzle. Mostly cloudy, with a low around 54. West southwest wind around 9 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
                 "startTime": "2025-06-29T06:00:00-07:00",
                 "endTime": "2025-06-29T18:00:00-07:00",
                 "isDaytime": true,
@@ -34,29 +53,10 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,20?size=medium",
                 "shortForecast": "Chance Drizzle",
                 "detailedForecast": "A chance of drizzle before 5pm. Partly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 7 to 16 mph, with gusts as high as 21 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-06-29T18:00:00-07:00",
-                "endTime": "2025-06-30T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "8 to 14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind 8 to 14 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the city awakens to a soft embrace of marine air. A gentle morning drizzle may linger, promising just enough moisture to nourish the streets but not enough to dampen the spirits of those beginning their day. With highs predicted to hover around the mid-60s, the temperature offers a comfortable invitation to venture outside, albeit with a light cardigan or a cozy sweater at hand for the afternoon\u2019s cooling descent. \n\nClouds wrap the city in a muted blanket, but they lift just enough to allow streaks of sunlight to peek through, creating a dance of shadows on the iconic buildings. The golden rays cast a warm glow against the mist, hinting at the transient beauty of the day ahead. Locals can expect a playful breeze, with gusts rolling in from the west, tugging at their sleeves but bringing a refreshing touch to the air. The fog, more a subtle companion today, makes its presence felt along the edges of the Golden Gate, softly curling around its towering majesty. As the sun begins its ascent, consider a leisurely stroll along the Embarcadero or enjoy a peaceful moment in one of the city\u2019s hidden gardens, where the flavors of the season can ignite the senses. The weather whispers of simple pleasures\u2014today is made for quaint coffee shops, book nooks, or a quiet afternoon spent people-watching, as the city reveals its character, balancing rain and shine with effortless charm.",
-    "color_code": "#A8C4D6",
-    "timestamp": "2025-06-29 06:08:23"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a delicate hush envelops the city, the air thick with a sense of possibility. The gentle drizzle predicted meets the early light, casting a softened glow on the streets below. Currently resting at a cool 54 degrees, the day begins under a blanket of dusky clouds that promise a slight chance of drizzle throughout the morning, giving the already iconic streets a glistening sheen that almost enhances their charm. Look closely, and you might catch the outlines of the Golden Gate Bridge gradually emerging through the shroud, the marine layer hanging low, susceptible to the light breeze whispering from the west.\n\nAs the hours unfurl, expect a gradual warming to around 65, the tenuous clouds yielding to patches of sunlight that will flirt with the coolness of the air. Winds will gently sway with a refreshing motion, coaxing a sense of adventure for those willing to embrace the city\u2019s raw, rugged beauty. For the discerning urbanite, dressing in layers will be essential\u2014think a light jacket over soft knits, comfortable enough to enjoy a stroll down to the waterfront or perhaps a casual caf\u00e9 outing, where the aroma of freshly brewed coffee dances amidst conversations. Given the weather and time, the city calls for quiet explorations of local art galleries or hidden bookstores, where one can lose themselves in the pages between the reality beyond. Today, your surroundings may feel as though they carry the weight of stories waiting to be unveiled, and it is worth every moment to linger in their embrace.",
+    "color_code": "#A2B2B7",
+    "timestamp": "2025-06-29 07:01:28"
 }
