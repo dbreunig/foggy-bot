@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-06-29T23:43:00+00:00",
-            "temperature_f": 61.808,
-            "temperature_c": 16.56,
-            "humidity": 69.365058955392,
+            "timestamp": "2025-06-30T00:43:00+00:00",
+            "temperature_f": 59.809999999999995,
+            "temperature_c": 15.45,
+            "humidity": 72.987857716865,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-29T15:00:00-07:00",
-                "endTime": "2025-06-29T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 62 in the afternoon. West southwest wind around 13 mph, with gusts as high as 18 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-29T18:00:00-07:00",
+                "startTime": "2025-06-29T19:00:00-07:00",
                 "endTime": "2025-06-30T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 5
                 },
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind 7 to 13 mph, with gusts as high as 18 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind 7 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-06-30T06:00:00-07:00",
+                "endTime": "2025-06-30T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 11
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 6 to 13 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon sun begins its gentle descent over downtown San Francisco, the skies are a clear canvas, echoing the bright and inviting forecast. The temperature dances around the mid-60s, gracefully tempered by a west-southwest wind that carries a mild, refreshing chill. The Golden Gate Bridge stands unhindered, a robust silhouette against the vibrant blue, unmarred by the fog that traditionally blankets the area. Although a hint of the marine layer lurks beyond the fringes of the Bay, it is not encroaching on the skyline today. Instead, the city basks in clarity, presenting an idyllic scene for an evening out.\n\nAs night approaches, the temperature will inevitably descend to a comfortable 54 degrees, making a light jacket advisable for those planning autumn strolls along the waterfront or delightful dinners at outdoor patios. This evening is ripe for quiet exploration\u2014a leisurely walk through the Presidio or perhaps a visit to a cozy caf\u00e9 to sip on a warm brew. The pleasant ambiance invites a gentle pace, allowing one to savor the moment beneath the twilight sky, as the city's charm continues to unfurl under the soft glow of street lamps.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-06-29 18:29:37"
+    "weather_report": "Tonight, the atmosphere in Downtown San Francisco dances between warmth and the whispers of the ocean breeze, settling in under a mostly cloudy sky. With temperatures dipping to a gentle 54, the cool wind from the west-southwest, lightly brushing at 7 to 10 mph, hints at the evening\u2019s calmness. As you step outside, the slight chill beckons for a light jacket or a cozy sweater to wrap around your shoulders, perfect companions for a leisurely walk along the streets painted with the glow of city lights slowly igniting one by one.\n\nOn the morrow, the sun will peek through its curtain of clouds, promising a tableau of mostly sunny skies. The forecast brings a high near 64, gradually tapering to 62 as the afternoon unfolds\u2014a lovely invitation to explore the city, perhaps indulging in a casual brunch at a favorite caf\u00e9 before taking a stroll through a nearby park. The mild west-southwest winds, picking up to a flirtatious 13 mph, whisper tales of adventure. As fog dances playfully around the Golden Gate, the marine layer may wrap certain corners of the bay, but the clear view toward downtown offers clarity and vibrancy. Given the day's hilltop breezes and the softened sunlight, dressing in layers will equip you for the morning's briskness and the afternoon's warmth as you navigate the city\u2019s iconic charm without a care in the world.",
+    "color_code": "#A2D2D1",
+    "timestamp": "2025-06-29 19:36:06"
 }
