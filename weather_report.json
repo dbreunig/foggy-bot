@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-02T14:43:00+00:00",
-            "temperature_f": 53.69,
-            "temperature_c": 12.05,
-            "humidity": 100,
+            "timestamp": "2025-07-02T16:43:00+00:00",
+            "temperature_f": 56.426,
+            "temperature_c": 13.57,
+            "humidity": 86.960150069667,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-07-02T10:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-02T05:00:00-07:00",
+                "endTime": "2025-07-02T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "13 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 54. Southwest wind around 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-07-02T06:00:00-07:00",
                 "endTime": "2025-07-02T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -27,36 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 4
                 },
                 "windSpeed": "10 to 16 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 10 to 16 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-02T18:00:00-07:00",
-                "endTime": "2025-07-03T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "8 to 14 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 55. Southwest wind 8 to 14 mph, with gusts as high as 18 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. Southwest wind 10 to 16 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "The morning in Downtown San Francisco greets you with a gentle warmth from the sun, a respite from the usual chill of the coastline. The day is expected to be predominantly sunny, with a high hovering just over sixty degrees. However, as afternoon approaches, the temperature will gradually dip, pulling down to a comfortable sixty-two, foreshadowing the slightly cooler evening ahead. Winds from the west-southwest whisper through the streets, lending the atmosphere a refreshing crispness that knows how to stir the spirit without overwhelming.\n\nAs you step outside, you may notice hints of the marine layer attempting to unfurl its misty fingers toward the city, but it seems less a shroud and more a suggestion of fog, retreating and allowing the day to shine through. While the skies remain mostly clear, the peculiar interplay of shadows may still beckon around corners and niches of the city, where sunlight struggles to dance freely. It's an ideal time to slip into something layered, perhaps a soft cardigan over a light shirt, taking care not to let the cool breeze catch you unprepared. \n\nGiven the pleasantness of this day, consider embarking on a serene walk along the Embarcadero. Enjoy the sight of sailboats gliding on the bay, where the presence of the city skyline forms a stunning backdrop. Maybe pause for a moment with a warm drink from one of the local caf\u00e9s, relishing both the company of fellow pedestrians and the invigorating ambiance enveloping you. It's a perfect day for quiet exploration, a chance to intertwine with the pulse of the city as it unfolds its charming narrative.",
-    "color_code": "#B0E0E6",
-    "timestamp": "2025-07-02 10:02:22"
+    "weather_report": "In Downtown San Francisco, the weather unfolds with a gentle embrace, the air tinged with the remnants of the night\u2019s cooler embrace. As the sun ascends, it paints the morning sky in hues of blue, casting shadows on the charming architecture below. Though the forecast promises mostly sunny skies with a high near 64, a touch of that familiar coastal charm lingers in the cool breeze, with gusts offering a refreshing kiss as they dance through the streets. Currently, wisps of fog linger at the edge of the bay, hinting at the marine layer's presence but largely letting the sun shine through, creating a playful contrast with the clouds.\n\nAs the day progresses, the weather should remain pleasant, inviting residents out for leisurely pursuits. A light jacket or layered clothing will serve well, especially for those venturing toward the waterfront where the chill clings a bit longer. Taking a stroll along the piers or enjoying a caf\u00e9 garden may be the perfect way to absorb the calm beauty of the day, soaking in the vibrant city and perhaps indulging in a moment of respite with a good book. It\u2019s a day that inspires connection to the surroundings, whether through exploration or simply relishing the company of friends, as San Francisco reveals itself in all its splendid simplicity.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2025-07-02 11:01:41"
 }
