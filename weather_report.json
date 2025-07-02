@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-02T17:43:00+00:00",
-            "temperature_f": 57.56,
-            "temperature_c": 14.2,
-            "humidity": 79.161057449629,
+            "timestamp": "2025-07-02T18:43:00+00:00",
+            "temperature_f": 60.782,
+            "temperature_c": 15.99,
+            "humidity": 74.010126154665,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-02T03:00:00-07:00",
-                "endTime": "2025-07-02T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "7 to 13 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. Southwest wind 7 to 13 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-07-02T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-07-02T08:00:00-07:00",
                 "endTime": "2025-07-02T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 4
+                    "value": 2
                 },
                 "windSpeed": "10 to 16 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. Southwest wind 10 to 16 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-02T18:00:00-07:00",
+                "endTime": "2025-07-03T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "8 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 55. Southwest wind 8 to 14 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the weather greets us with a mild embrace, a tapestry woven from the delicate threads of marine fog and breezy whispers. As the afternoon strolls in, the clouds take a step back, unveiling a mostly sunny sky that turns the day into a blank canvas, painted in hues of azure and light. The temperature dances around a comfortable 64 degrees, gently hinting at the cool embrace of the sea breeze that accompanies a southwest wind, urging those who venture out to enjoy the warmth without surrendering to the chill of the evening yet to come.\n\nThe fog, a transient companion, lingers nearer to the coastline, softening the sharp edges of the Golden Gate while allowing the vibrant panorama of the city to emerge resolutely. As the sun dips lower, the shifting weather invites a thoughtful wardrobe\u2014layers are key, suggesting a light jacket that could ward off the afternoon\u2019s chill as the temperatures grace your skin with a cool touch. Ideal moments await those who wander, be it a leisurely walk along the waterfront, a cozy coffee shop visit to savor a quiet afternoon, or an explorative stroll through the city's eclectic streets, gathering the whispers of culture and community that dwell within.",
-    "color_code": "#A3B2A1",
-    "timestamp": "2025-07-02 12:01:18"
+    "weather_report": "As the afternoon unfolds in Downtown San Francisco, the city is bathed in a delicate interplay of sun and cloud. The warmth of the sun drapes itself gently across the landscape, with temperatures hovering around 64 degrees, enticing you to step outside and experience the brisk air of the bay. A soft breeze whispers through the streets, carried by southwest winds that lend a subtle energy to the day. Although some portions hold a light veil of fog, particularly nearer to the coastline, it is a mostly clear day, offering beautiful visibility toward the iconic silhouettes of the Golden Gate Bridge and the sophisticated backdrop of the city skyline.\n\nThis blend of radiant sun and wandering clouds suggests comfort, yet it\u2019s wise to prepare for the occasional cool gust as temperatures dip into the mid-50s this evening. A light jacket or a cozy sweater will provide warmth without overshadowing the day's pleasantness. As you venture out, consider a leisurely stroll through the streets or perhaps an afternoon visit to a quiet caf\u00e9, where you can sip on a warm beverage while taking in the relaxed ambiance. The gentle clattering of life in this vibrant city feels inviting; whether you choose to explore a fresh market or wander the bustling wharves, this day unfolds with a graceful charm, promising simple pleasures beneath the soft embrace of the summer sky.",
+    "color_code": "#A2C2E6",
+    "timestamp": "2025-07-02 13:01:28"
 }
