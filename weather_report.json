@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-03T04:43:00+00:00",
-            "temperature_f": 54.932,
-            "temperature_c": 12.74,
-            "humidity": 86.01701654474,
+            "timestamp": "2025-07-03T05:43:00+00:00",
+            "temperature_f": 54.878,
+            "temperature_c": 12.71,
+            "humidity": 86.993774303372,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-02T13:00:00-07:00",
+                "endTime": "2025-07-02T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "17 to 22 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 17 to 22 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-02T22:00:00-07:00",
+                "startTime": "2025-07-02T18:00:00-07:00",
                 "endTime": "2025-07-03T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "8 to 14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "windSpeed": "8 to 22 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 55. Southwest wind 8 to 14 mph, with gusts as high as 18 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-07-03T06:00:00-07:00",
-                "endTime": "2025-07-03T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "7 to 23 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 64, with temperatures falling to around 62 in the afternoon. Southwest wind 7 to 23 mph, with gusts as high as 29 mph."
+                "detailedForecast": "Partly cloudy, with a low around 55. West southwest wind 8 to 22 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "As the night unfurls over Downtown San Francisco, a gentle tranquility envelops the city, underscored by the soft rustle of leaves swaying in the cool southwestern breeze. Currently resting at a comfortable 55 degrees, the skies are partly cloudy, casting a delicate veil over the glimmering lights below. The wind whispers promises of a shift, with gusts that could nudge the threshold of 18 miles per hour, creating an atmosphere of mild excitement that hints at the dynamic day ahead.\n\nCome Thursday, the city can expect a flirtation with sunshine, yielding a high near 64, dipping slightly after noon to a more temperate 62. As the clouds continue to dance, there may still be remnants of the marine layer lingering near the coast, though clearing should grant a more picturesque view of the iconic Golden Gate standing proud in the distance. The brisk winds, reaching up to 29 mph at their peak, may wrap around you like a playful companion, so consider layering a light jacket over your favorite cotton tee. Perhaps it is an ideal moment to embrace the urban landscape with a leisurely stroll along the waterfront or to find solace in the quiet corners of a bustling caf\u00e9, allowing a warm drink to melt away the chill in the air, while the city unfolds its secrets, one gentle breeze at a time.",
-    "color_code": "#A1C6EA",
-    "timestamp": "2025-07-02 23:01:48"
+    "weather_report": "In Downtown San Francisco, this weekend begins with the sun peeking through a soft canopy of clouds, offering a gentle warmth that dances around the mid-sixties. The brisk west-southwest wind lends an exhilarating touch, invigorating the air as it sweeps through the streets and across the bay, stirring whispers of waves against the shore. Although the afternoon light casts a beautiful clarity over the city, a fleeting hint of coolness suggests that the marine layer is quietly asserting its presence beyond the horizons, possibly draping itself over the iconic Golden Gate.\n\nAs night approaches, the sky transforms into a patchwork of partly clouded twilight, inviting a coolness that settles comfortably around 55 degrees. It is the perfect opportunity to wrap yourself in a light jacket \u2014 perhaps one that holds a hint of forgotten warmth from the day. This blend of conditions beckons you to stroll by the waterfront or lose yourself in a quiet caf\u00e9, savoring a calming moment while the bustle of the city slows to a tranquil hum. In quiet anticipation of what tomorrow may hold, the atmosphere holds a promise of crisp adventures waiting to unfold under the familiar embrace of San Francisco\u2019s distinctive charm.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2025-07-03 00:02:26"
 }
