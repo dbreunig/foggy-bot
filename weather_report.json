@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-04T05:00:00-07:00",
-                "endTime": "2025-07-04T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 53. West wind around 20 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
                 "name": "Independence Day",
                 "startTime": "2025-07-04T06:00:00-07:00",
                 "endTime": "2025-07-04T18:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind 18 to 24 mph, with gusts as high as 35 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-04T18:00:00-07:00",
+                "endTime": "2025-07-05T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "13 to 23 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 52. West southwest wind 13 to 23 mph, with gusts as high as 31 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle chill lingers in the air, wrapped in a veil of partly cloudy sky. While the temperature hovers around fifty-three degrees, the westward winds whip briskly, adding a touch of urgency to the morning tranquility. The forecast promises a sunny Independence Day, but this morning the city is still waking, the light softening the edges of the majestic skyline and teasing the grandeur of the Golden Gate Bridge with hints of warmth yet to arrive.\n\nThe day ahead swells with potential, as the sun will soon liberate itself from the lingering clouds, rising to a high near sixty-two. However, as afternoon sets in, expect a slight descent in warmth, punctuated by brisk gusts of wind reaching up to thirty-five miles per hour. The presence of fog may flirt with the edges of the Bay, but for the most part, clarity reigns, offering a lucent embrace of blue above. Given the prevailing conditions, dressing in layers becomes crucial: a light jacket will keep you cozy against the chill while allowing you to shed it later as the sun asserts its dominion.\n\nWith the promise of sunshine, the day beckons to be spent outdoors. A stroll along the Embarcadero could soothe the soul, coupled with a stop for a quiet coffee at a favorite corner caf\u00e9. Alternatively, an exploration of the eclectic shops in the Mission District may yield delightful surprises, where the vibrancy of culture dances seamlessly into your afternoon. Embrace the subtle drama of the day as San Francisco unveils her beauty, each moment worthy of savoring.",
-    "color_code": "#B3C9E6",
-    "timestamp": "2025-07-04 05:02:16"
+    "weather_report": "In Downtown San Francisco this morning, the sky unfolds with a brilliant clarity, ushering in Independence Day with promise. The sun has just risen, casting a soft light over the city, but the marine layer lingers, creating a delicate dance of fog along the outer coastal fringes and sweeping over the Golden Gate Bridge. While the temperature is a gentle whisper at 62 degrees, the invigorating west winds rage along at 18 to 24 mph, adding a refreshing briskness to the air. As the day progresses, expect a gradual descent in warmth as afternoon temperatures hover around the low 60s, inviting a cozy embrace rather than the heat of summer\u2019s peak.\n\nAs the sun arches higher, you might notice the air sharpens in clarity. Those wishing to enjoy a day outdoors should dress in layers, perhaps favoring a light sweater or windbreaker to combat the coastal breeze. Today is auspicious for a serene stroll through Golden Gate Park, where the misty paths weave through lush greenery or a leisurely visit to a local caf\u00e9 for a warm drink while watching the world go by. The day holds a quiet promise, perfect for unhurried moments or discovering hidden gems in the city.",
+    "color_code": "#A5C0D4",
+    "timestamp": "2025-07-04 06:10:08"
 }
