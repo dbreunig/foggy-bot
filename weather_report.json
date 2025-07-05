@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-04T22:43:00+00:00",
-            "temperature_f": 60.368,
-            "temperature_c": 15.76,
-            "humidity": 65.990393237359,
+            "timestamp": "2025-07-04T23:43:00+00:00",
+            "temperature_f": 60.188,
+            "temperature_c": 15.66,
+            "humidity": 66.013305188961,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Independence Day",
-                "startTime": "2025-07-04T17:00:00-07:00",
-                "endTime": "2025-07-04T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "23 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind around 23 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-07-04T18:00:00-07:00",
                 "endTime": "2025-07-05T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 52. West wind 15 to 22 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-07-05T06:00:00-07:00",
+                "endTime": "2025-07-05T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "14 to 22 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 14 to 22 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the air is vibrant and crisp, a welcoming companion for this holiday afternoon. The sun casts its warm glow over the cityscape, bathing the iconic architecture in a gentle light. The high temperature hovers just around 62\u00b0F, a quintessentially San Francisco summer day where the warmth is tempered by a westward breeze, whipping through the streets at a brisk pace, occasionally gusting as if sharing in the holiday spirit. The bright blue of the sky stretches above, unmarred by fog, allowing for sweeping views of the Golden Gate Bridge and the hills beyond, which remain distinct against the backdrop of the bay.\n\nAs dusk approaches, the temperatures will dip to a cozy 52\u00b0F, so dressing in layers would serve you well\u2014think light sweaters or jackets to fend off the evening chill. With the weather's pleasant clarity, it\u2019s an ideal time for a leisurely stroll along the Embarcadero, perhaps indulging in a small caf\u00e9 treat while enjoying the inky blues of the water meeting the horizon. A quiet picnic at one of the nearby parks would also be a delightful way to soak in the lingering warmth, while the sound of laughter and the aroma of barbecues waft through the air, celebrating the simplicity of a perfect summer day in the city.",
-    "color_code": "#A7C9EA",
-    "timestamp": "2025-07-04 17:04:55"
+    "weather_report": "As dusk approaches in Downtown San Francisco, the air is characterized by a refreshing clarity, with only a whisper of the marine layer lingering, typical of this remarkable city. The temperature settles gently around 52 degrees under a canopy of mostly clear skies. A brisk west wind dances through the streets, whipping its way at speeds that flirt with 22 miles per hour, adding a vibrant energy to the evening ambiance. The sunset casts long shadows on the eclectic architecture, while the silhouette of the Golden Gate Bridge emerges in the distance, framed beautifully against the fading light.\n\nTomorrow promises a sunny reprieve, with the day unfolding under a bright blue sky and a high of 62 degrees, nudging down to the comfortable embrace of 60 by afternoon. As you contemplate your evening plans, consider how best to dress for this refreshing weather; perhaps a light layering will offer the comfort needed to enjoy a leisurely stroll along the waterfront or to savor a quiet moment at a local caf\u00e9, where you can sip coffee while watching the world drift by. With clear skies reaching to the horizon, exploring the vibrant streets or engaging with friends outdoors could provide the perfect backdrop to unwind on this lovely summer evening.",
+    "color_code": "#A3BFD3",
+    "timestamp": "2025-07-04 18:28:59"
 }
