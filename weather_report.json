@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-05T02:43:00+00:00",
-            "temperature_f": 57.344,
-            "temperature_c": 14.08,
-            "humidity": 72.009383084615,
+            "timestamp": "2025-07-05T03:43:00+00:00",
+            "temperature_f": 55.652,
+            "temperature_c": 13.14,
+            "humidity": 75.983180784874,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "Independence Day",
+                "startTime": "2025-07-04T14:00:00-07:00",
+                "endTime": "2025-07-04T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "23 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind around 23 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-04T19:00:00-07:00",
+                "startTime": "2025-07-04T18:00:00-07:00",
                 "endTime": "2025-07-05T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "15 to 21 mph",
+                "windSpeed": "15 to 22 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. West wind 15 to 21 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-07-05T06:00:00-07:00",
-                "endTime": "2025-07-05T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "14 to 22 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 14 to 22 mph, with gusts as high as 28 mph."
+                "detailedForecast": "Mostly clear, with a low around 52. West wind 15 to 22 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "As twilight settles over Downtown San Francisco, the skies appear mostly clear, enveloped in a serene calm that pervades the city. The temperature has dipped to a gentle 52 degrees, carried by a westward breeze that whispers through the streets, occasional gusts reminding one of nature's subtle energy. The forecast promises a sun-soaked Saturday, where lofty skies will embrace the day with warmth, peaking around 62 degrees before gradually falling. This is a quintessential San Francisco evening, where the warmth from a late summer is met with the coolness that the city's architecture and geography often cradle.\n\nAs the day unfolds tomorrow, the chance of fog lingers at the periphery, perhaps teasing the golden hues of dawn, only to retreat as the sun asserts its dominion. The clarity is inviting, with light visibility allowing for stunning vistas, perfect for a stroll along the Embarcadero or a leisurely bike ride across the bridge, where the sea air invigorates the spirit. Dressing in layers will be wise\u2014comfortable shorts paired with a light jacket or sweater for the evening, safeguarding against any surprising chills brought on by the breeze. A visit to a quiet caf\u00e9 for coffee or a gentle walk through one of the city's myriad parks will suit the mood of the night, where the vibrant nightlife shares the stage with delicious quietude, painting a picturesque San Francisco evening.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-07-04 21:04:13"
+    "weather_report": "As the sun dips below the horizon in Downtown San Francisco, the city is enveloped in the cool embrace of a mostly clear twilight. The lingering warmth of an unusually sunny Independence Day gives way to a crispness that invites the evening to unfurl its gentle touch. A steady west wind dances through the streets, flirtatiously tousling hair and rustling leaves, while the air remains fresh, hinting at the mildness of a summer evening. Dark clouds of mist threaten at the edges, a reminder of the marin layer\u2019s relentless presence, but for now, the view remains unburdened, leaving the Golden Gate Bridge proudly silhouetted against the fading light.\n\nAs temperatures settle around 52 degrees, it\u2019s wise to reach for a light jacket\u2014something that will ward off the chill without sacrificing comfort. Stroll along the Embarcadero or take a leisurely trek through the Mission, where vibrant murals contrast with the darkening sky. Perhaps a visit to a cozy caf\u00e9, its warm glow spilling onto the sidewalk, is in order, inviting you to sip a soothing tea while people-watching. The winds may bring a slight bite, but they also whisper tales of the city, perfect for evening explorations under the star-speckled sky, a reminder that even in the cooler months, San Francisco\u2019s charm never dulls.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2025-07-04 22:01:24"
 }
