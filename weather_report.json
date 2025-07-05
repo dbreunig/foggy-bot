@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-05T06:43:00+00:00",
-            "temperature_f": 54.212,
-            "temperature_c": 12.34,
-            "humidity": 88.009301625953,
+            "timestamp": "2025-07-05T07:43:00+00:00",
+            "temperature_f": 53.474000000000004,
+            "temperature_c": 11.93,
+            "humidity": 91.020102600194,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Independence Day",
-                "startTime": "2025-07-04T16:00:00-07:00",
-                "endTime": "2025-07-04T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "23 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind around 23 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-04T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-05T02:00:00-07:00",
                 "endTime": "2025-07-05T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "15 to 22 mph",
+                "windSpeed": "16 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. West wind 15 to 22 mph, with gusts as high as 28 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 52. West wind around 16 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-07-05T06:00:00-07:00",
+                "endTime": "2025-07-05T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "14 to 22 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 14 to 22 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, the night unfolds under a canopy of stars, the air crisp and cool as the city breathes with a gentle sigh of the Pacific\u2019s embrace. After a sunny Independence Day, when warmth met the laughter of locals, the temperature settles predictably into the low fifties, with a steady west wind whispering through the streets, softening any residual heat from the day\u2019s festivities. What appears as a clear night is punctuated by the remnants of the sea's low-lying fog, teasingly lingering along the edges of the horizon\u2014a ballet between clarity and mystery, perfect for a reflective evening stroll.\n\nAs dawn breaks on this delightful summer day, expect a return to the sun\u2019s radiant glow, illuminating the city with soft light. Though daytime temperatures promise to hover around the comfortable low sixties, the brisk winds may remind you that San Francisco never relinquishes its coastal signature entirely. For those venturing out, layering will be essential: a light sweater or jacket will serve as a companion against the refreshing gusts while allowing you to indulge in the day\u2019s warmth as it unfolds. This weather invites moments of tranquility, perhaps at a caf\u00e9 where you can sip a warm drink and watch the world go by, or a leisurely walk along the Embarcadero, where the shimmering bay meets the bustling city\u2014a perfect blend of serenity and life on this beautiful July day.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-07-05 01:01:33"
+    "weather_report": "As the night deepens over Downtown San Francisco, the atmosphere remains gently veiled with an ethereal hush, laced with the moan of a westerly breeze. The sky, partly cloaked in a mild darkness, hints at the lingering presence of fog, though the peaks of the iconic Golden Gate Bridge stand resolute against this subdued embrace. With a low temperature settling around 52 degrees, the air carries a refreshing chill, invigorating yet soft enough to coax the soul into quiet reflection.\n\nAs dawn breaks, a vibrant sun will usher in a day marked by the promise of clear skies, with temperatures reaching a pleasant zenith near 62, drifting down toward a cozy 60 as the afternoon unfolds. The southwestern winds will dance through the streets, briskly tugging at jackets worn in evening\u2019s cool embrace, so a light sweater or a well-tailored coat may serve you well if you venture outside early on. The city\u2019s charm emerges distinctly under the brightening sky, as residents can meander through Golden Gate Park, savoring the fragrance of blooming flowers carried by the light breeze, or indulge in an early afternoon stroll along the Embarcadero, the waters glimmering like a pathway to infinite possibilities. It is a day reflecting the delicate balance of tranquility and vibrancy, an invitation to seize the moment as the city awakens to its luminous potential.",
+    "color_code": "#A2C2E8",
+    "timestamp": "2025-07-05 02:01:25"
 }
