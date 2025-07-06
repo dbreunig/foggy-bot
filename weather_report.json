@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-06T14:43:00+00:00",
-            "temperature_f": 52.214,
-            "temperature_c": 11.23,
-            "humidity": 100,
+            "timestamp": "2025-07-06T17:43:00+00:00",
+            "temperature_f": 58.586,
+            "temperature_c": 14.77,
+            "humidity": 74.989169694127,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-07-06T11:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-06T02:00:00-07:00",
+                "endTime": "2025-07-06T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 52. Southwest wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-07-06T06:00:00-07:00",
                 "endTime": "2025-07-06T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "12 to 17 mph",
+                "windSpeed": "8 to 17 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 12 to 17 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-06T18:00:00-07:00",
-                "endTime": "2025-07-07T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 to 17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 53. West southwest wind 10 to 17 mph, with gusts as high as 21 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 8 to 17 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "This morning in Downtown San Francisco presents a rather captivating tableau, one where the sun reigns dominantly in a sky of striking blue, unmarred by significant clouds. However, the day is not without its complexities, as wisps of fog linger just beyond the horizon, blurring the line where the cityscape meets the bay. As the day unfolds, expect the temperatures to be mild, casting a comfortable warmth that invites a subtle breeze from the west. While the weather will remain predominantly sunny, the afternoon may see a slight decline in warmth, providing a crisp edge that often characterizes San Francisco\u2019s unique charm.\n\nAs the evening approaches, the atmosphere will transition into a more subdued, slightly cloudy canvas cloaked in softer hues. Given the refreshing temperatures, it would be wise to dress in layers, perhaps donning a light sweater or jacket for the evening's embrace. With such pleasant weather, a leisurely walk along the Embarcadero, perhaps stopping for a coffee at one of the local caf\u00e9s, could be the ideal way to appreciate the city\u2019s rhythm. Alternatively, a quiet moment in one of the nearby parks, perhaps with a good book or a companionable friend, would be a fitting way to savor this day before nightfall settles over the horizon.",
-    "color_code": "#A8C0C0",
-    "timestamp": "2025-07-06 11:01:30"
+    "weather_report": "As you step outside into the afternoon's embrace, Downtown San Francisco presents a scene that is both familiar and inviting. The sun bathes the city in soft light, cutting through a lingering veil of marine layer, which is dissipating but still holds sway over the fringes of the skyline. The Golden Gate Bridge, often shrouded in mist, now stands boldly outlined, beckoning the adventurous spirit within. The air carries a coolness, a refreshing reminder of the ocean's proximity, remaining crisp and invigorating. Temperatures hover gently around the upper sixties, a crisp balm against the warmth of summer.\n\nFor those considering how to attire themselves in this delightful milieu, layers are your ally. A light sweater or jacket is advisable to combat the occasional gusts that accompany the gentle westerlies\u2014those playful breezes that sweep through the avenues. Whether you find yourself wandering through the vibrancy of the Ferry Building or indulging in a quiet moment at a local caf\u00e9, the day offers itself generously. Take a stroll along the Embarcadero, perhaps stopping to unwind with a book on a bench by the water, or explore the delights of the Mission\u2019s culinary offerings as the sun dips toward the horizon.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2025-07-06 12:01:24"
 }
