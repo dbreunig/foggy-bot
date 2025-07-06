@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-06T17:43:00+00:00",
-            "temperature_f": 58.586,
-            "temperature_c": 14.77,
-            "humidity": 74.989169694127,
+            "timestamp": "2025-07-06T18:43:00+00:00",
+            "temperature_f": 60.836,
+            "temperature_c": 16.02,
+            "humidity": 68.981416586971,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-06T02:00:00-07:00",
-                "endTime": "2025-07-06T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 52. Southwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-07-06T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-07-06T12:00:00-07:00",
                 "endTime": "2025-07-06T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "8 to 17 mph",
+                "windSpeed": "8 to 14 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 8 to 17 mph, with gusts as high as 22 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 8 to 14 mph, with gusts as high as 18 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-06T18:00:00-07:00",
+                "endTime": "2025-07-07T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 53. West southwest wind 7 to 13 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "As you step outside into the afternoon's embrace, Downtown San Francisco presents a scene that is both familiar and inviting. The sun bathes the city in soft light, cutting through a lingering veil of marine layer, which is dissipating but still holds sway over the fringes of the skyline. The Golden Gate Bridge, often shrouded in mist, now stands boldly outlined, beckoning the adventurous spirit within. The air carries a coolness, a refreshing reminder of the ocean's proximity, remaining crisp and invigorating. Temperatures hover gently around the upper sixties, a crisp balm against the warmth of summer.\n\nFor those considering how to attire themselves in this delightful milieu, layers are your ally. A light sweater or jacket is advisable to combat the occasional gusts that accompany the gentle westerlies\u2014those playful breezes that sweep through the avenues. Whether you find yourself wandering through the vibrancy of the Ferry Building or indulging in a quiet moment at a local caf\u00e9, the day offers itself generously. Take a stroll along the Embarcadero, perhaps stopping to unwind with a book on a bench by the water, or explore the delights of the Mission\u2019s culinary offerings as the sun dips toward the horizon.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-07-06 12:01:24"
+    "weather_report": "In Downtown San Francisco this afternoon, a bright sun casts its warm glow, illuminating the cityscape and inviting residents to step outside. The air carries a gentle breeze, hinting at a transition as temperatures are expected to dip slightly as the day progresses. The sky remains predominantly clear, though a soft haze of fog clings to the edges of the bay, hinting at the marine layer\u2019s presence without overtaking the vibrant scene. While cloud cover will deepen as dusk approaches, the current conditions exude an air of pleasant tranquility.\n\nAs night descends, cooler air will settle in, with temperatures expected to meander down to the low fifties. For those venturing out later, light layers are advisable\u2014perhaps a light jacket or a cozy sweater to stave off the evening chill. Such a lovely afternoon beckons exploration; a stroll along the Embarcadero or a quiet moment at a neighborhood caf\u00e9 to relish the uncomplicated joys of the day would be most gratifying. Let the city's charm wash over you as the sun begins to dip below the horizon, leaving behind traces of golden light amidst the clouds.",
+    "color_code": "#A3C1E0",
+    "timestamp": "2025-07-06 13:01:24"
 }
