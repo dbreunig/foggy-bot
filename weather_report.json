@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-06T05:43:00+00:00",
-            "temperature_f": 53.69,
-            "temperature_c": 12.05,
-            "humidity": 87.983634050596,
+            "timestamp": "2025-07-06T06:43:00+00:00",
+            "temperature_f": 53.635999999999996,
+            "temperature_c": 12.02,
+            "humidity": 90.000934485579,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-06T00:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-07-05T15:00:00-07:00",
+                "endTime": "2025-07-05T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind around 17 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-05T18:00:00-07:00",
                 "endTime": "2025-07-06T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
+                "windSpeed": "9 to 17 mph",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 52. Southwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-07-06T06:00:00-07:00",
-                "endTime": "2025-07-06T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "8 to 17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 8 to 17 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Partly cloudy, with a low around 52. West southwest wind 9 to 17 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "As the city of San Francisco awakens, the gentle embrace of a partly cloudy night gives way to the promise of a mostly sunny Sunday. With dawn's arrival, the temperature lingers in the low fiftys, accompanied by a soft southwest wind that whispers through the streets. Throughout the day, expect invigorating breezes from the west southwest, carrying both clarity and a touch of chill that ensures the skies remain bright yet inviting. \n\nToday\u2019s high will hover around sixty-two, briefly dipping to about sixty by the afternoon, presenting a delightful backdrop for a leisurely stroll through Golden Gate Park or a quiet visit to one of the local caf\u00e9s. The remnants of the marine layer may still be felt\u2014a faint whisper of fog lingers in the corners of the bay, but it will seem more like an afterthought as the sun asserts its presence. Dressing in layers is wise; perhaps a light jacket or cardigan to combat the refreshing winds, complemented by comfortable shoes for a day spent exploring the city's hidden gems. Engage with the urban landscape, perhaps stopping by an independent bookstore or wandering along the waterfront, where the day's warmth and cool breezes intertwine\u2014a perfect harmony into which to lose oneself.",
-    "color_code": "#D3C6C4",
-    "timestamp": "2025-07-06 00:01:23"
+    "weather_report": "As we weave through this mid-afternoon in Downtown San Francisco, the sun paints the city with a gentle warmth. The sky is a vibrant canvas, clear and inviting, as the temperature hovers near a cool 62 degrees. The light west-southwest breeze, brisk at 17 mph, carries with it the fresh breath of the Bay, creating a lively yet pleasant atmosphere. Although you may notice the cloud of the marine layer hugging the coast, it remains distantly contained, allowing for a panoramic view that is strikingly unobstructed.\n\nAs evening casts its glow, expect the clouds to conspire in a more playful manner, with partly cloudy skies settling over the city, a backdrop for the soft transition to night. A comfortable low of 52 beckons, underscored by continued breezes, making this a suitable time for an evening stroll along the waterfront or a quiet moment in one of the city's many parks. Layer wisely, perhaps donning a light jacket or sweater to accompany your early evening ventures. Beyond the confines of your home, consider settling into a cozy caf\u00e9 for a warm cup of coffee or stepping out to enjoy the sights and sounds of the city, embraced by the gentle rhythm of the cooling air.",
+    "color_code": "#A6C1D4",
+    "timestamp": "2025-07-06 01:01:29"
 }
