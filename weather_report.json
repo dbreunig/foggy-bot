@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-05T14:00:00-07:00",
-                "endTime": "2025-07-05T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind around 17 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-07-05T18:00:00-07:00",
                 "endTime": "2025-07-06T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 52. West southwest wind 9 to 17 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-07-06T06:00:00-07:00",
+                "endTime": "2025-07-06T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "8 to 17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 8 to 17 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "As the sun begins its gentle descent in Downtown San Francisco, the city basks in a warm embrace of afternoon sunshine, intermittently inviting and slightly brisk due to a gentle west-southwest breeze. The current atmosphere quivers with potential, as the high near 62 degrees gives way to a more tempered approach as twilight beckons. A few cumulous whispers dot the sky, casting playful shadows across the cityscape, hinting at an evening that will gradually unfurl into a partly cloudy blanket, where temperatures will settle around a comfortable 52 degrees. \n\nIn the lingering moments of daylight, one might consider a stroll along the Embarcadero, the ocean air brushing against skin now slightly cooled by the evening\u2019s arrival. Here, one could indulge in a casual sit at a caf\u00e9, watching the world turn its focus toward dinner. A light jacket or a cozy sweater would serve well against the cooling winds that stir in anticipation of night. As fog dances at the periphery of the city, swirling gently yet remaining respectful of the skyline, its presence feels more like a tender tableau than a shroud, suggesting the joy of a quiet evening rather than a demanding chill.",
-    "color_code": "#A2C0DA",
-    "timestamp": "2025-07-05 20:28:32"
+    "weather_report": "Tonight in Downtown San Francisco, the sky is gently veiled in clouds, allowing for the soft glow of distant lights to dance across the landscape. With a cool breeze swirling in from the west southwest, temperatures dip to a comfortable 52 degrees, setting the stage for a peaceful night. The air feels fresh, accented by the invigorating scent of the sea, as gusts gently rustle through the city streets, reminding us of the ever-present embrace of the coastal winds.\n\nAs dawn breaks on Sunday, expect the sun to cut through earlier cloudiness, beckoning a mostly sunny day with a high near 62. While the warmth may feel inviting, particularly in the early hours, the humidity from the ocean lingers, creating a slight chill that lingers in the shade of the buildings. Dress in layers to navigate the day\u2019s transitions; a light jacket or sweater will serve you well during those moments when the marine layer wavers between fog and clarity. Considering the pleasant, if slightly brisk, conditions, it\u2019s a fine time for a leisurely stroll along the waterfront or a visit to a caf\u00e9 for a warm drink. Occupying a novel nook with a good book could lead to a delightfully unhurried morning, perfect for savoring the nascent beauty of another day in this vibrant city.",
+    "color_code": "#A2B1C8",
+    "timestamp": "2025-07-05 21:10:46"
 }
