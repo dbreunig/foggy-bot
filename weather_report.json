@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-07-06T09:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-06T02:00:00-07:00",
+                "endTime": "2025-07-06T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 52. Southwest wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-07-06T06:00:00-07:00",
                 "endTime": "2025-07-06T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -34,29 +53,10 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind 8 to 17 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-06T18:00:00-07:00",
-                "endTime": "2025-07-07T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 to 17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 53. West southwest wind 10 to 17 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "Downtown San Francisco greets the morning with mostly sunny skies, ushering in a pleasant day characterized by moderate temperatures. The high will hover around a comfortable 62 degrees, perfect for those seeking a gentle embrace of warmth amid the summer. As the day unfolds, a leisurely shift will see temperatures dip slightly into the early afternoon chill, accompanied by a west-southwest breeze that brings just enough refreshment. With gusts occasionally nudging 22 mph, the wind adds a lively but manageable edge to the atmosphere.\n\nAs twilight descends, expect a soft transition to mostly cloudy skies, a gentle reminder that the coastal fog might not be far away. By nightfall, temperatures will settle around 53 degrees, suggesting layers might be wise for evening excursions. This is a day made for quiet wanderings\u2014perhaps a stroll along the Embarcadero, where the proximity to the bay offers glimpses of the shifting marine layer, or a visit to a local caf\u00e9 to savor a warm beverage while watching the gentle play of light against clouds gathering after sunset. Remember, a light jacket should accompany your ensemble; a comforting layer for the cool evening that beckons.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-07-06 09:01:29"
+    "weather_report": "As dawn slowly unfurls across Downtown San Francisco, the city basks in a transient embrace of clarity, a tender counterpoint to the perennial marine layer that often weaves its silken threads through the skyline. The air is cool, a gentle whisper, almost conspiratorial, stirring up a sense of sleepy anticipation. The chill lingers from the overnight, hovering around 52 degrees; a light southwest wind offers a refreshing caress as it rustles through the streets, while vestiges of fog lazily dance along the edges of the bay, retreating like a curtain drawn back to reveal the stage.\n\nAs the sun climbs higher, the day promises warmth, nudging the temperature toward a pleasant 62 degrees before it gently cascades into the afternoon's embrace around 60. The West Southwest winds contribute a kinetic energy, with gusts swirling up to 22 mph, urging those in the city to step outdoors. This is a day to savor, if not to seize, as it invites the curious soul to wander through vibrant neighborhoods or to find solace in a nearby caf\u00e9, perhaps with a steaming cup in hand, watching the lively pulse of the city unfold before you. Dress in layers; a light jacket or cardigan will provide comfort against the light breezes, while allowing for the warmth of the sun to filter through by midday. \n\nIn this tranquil slice of urban life, perhaps wander to a local bookstore, indulge in the simple pleasure of a leisurely brunch, or embark on a stroll along the waterfront. With every step, let the city\u2019s blend of fog and sunlight remind you of life\u2019s delicate balance\u2014today, it feels oh so right.",
+    "color_code": "#A2C2D6",
+    "timestamp": "2025-07-06 10:01:32"
 }
