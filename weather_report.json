@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-07T00:43:00+00:00",
-            "temperature_f": 58.694,
-            "temperature_c": 14.83,
-            "humidity": 74.005143038514,
+            "timestamp": "2025-07-07T01:43:00+00:00",
+            "temperature_f": 57.992000000000004,
+            "temperature_c": 14.44,
+            "humidity": 77.012904766189,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-06T15:00:00-07:00",
-                "endTime": "2025-07-06T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind around 14 mph, with gusts as high as 18 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-06T18:00:00-07:00",
+                "startTime": "2025-07-06T20:00:00-07:00",
                 "endTime": "2025-07-07T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "7 to 13 mph",
-                "windDirection": "WSW",
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 53. West southwest wind 7 to 13 mph, with gusts as high as 18 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 53. Southwest wind 7 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-07-07T06:00:00-07:00",
+                "endTime": "2025-07-07T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "7 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 7 to 15 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "Today, Downtown San Francisco greets its inhabitants with golden rays peeking through a mostly sunny sky, offering a delightful respite from the typical fog that often clings to the city. Though the temperature is set to hover around a cool 62 degrees, the gentle west-southwest wind adds a playful twist, whispering through the streets at 14 mph and bringing occasional gusts that dance through the air. As the afternoon unfolds, the warmth of the sun will likely coax the temperature down to a comfortable 60\u2014an invitation for a stroll along the waterfront or through the city's charming alleys.\n\nAs the evening descends, clouds will begin to gather, shrouding the sky in a veil that mirrors the marine layer teasingly seen creeping towards the coast. The forecast predicts a low of around 53 degrees, so layering up with a light jacket or sweater will ensure you remain cozy during early evening outings or contemplative walks in the park. Embracing the tranquil ambiance of the city today feels particularly appropriate\u2014perhaps a quiet afternoon sipping coffee in a cozy caf\u00e9 or leisurely browsing a local bookstore. The shifting clouds and gentle breezes suggest a cinematic quality to the evening, perfect for reflective moments or engaging conversation.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-07-06 19:36:23"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the city is enveloped in a soft veil of clouds, reminiscent of fine silk draped across the skyline. With the temperature gently hovering around the low fifties, a mild southwest wind adds a subtle chill to the evening air. Tonight, the clouds promise a mostly tranquil ambiance, leaving the air fresh yet slightly damp\u2014perfect for enjoying a contemplative stroll through illuminated streets adorned with the flicker of urban life.\n\nLooking ahead to Monday, the sun will rise to unveil a day bathed in mostly sunny splendor, though a few clouds may linger to remind us of summer's embrace. The temperature is set to peak around the low sixties, freshened by breezes that could gust with a playful intensity. On such a day, one might dress in layers\u2014a light sweater over a shirt, complemented by comfortable shoes for wandering the city\u2019s labyrinth of charming alleyways or gardens. The current weather, in its layered hues of fog and clarity, invites a variety of simple pleasures; perhaps one might consider caf\u00e9 hopping, relishing the warmth of freshly brewed coffee while observing the vibrant tapestry of city dwellers, or seek a quiet corner in a park to unearth a good book amidst the serene backdrop of murmured conversation and distant laughter.",
+    "color_code": "#C0B0B8",
+    "timestamp": "2025-07-06 20:28:01"
 }
