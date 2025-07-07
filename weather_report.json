@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-07T03:43:00+00:00",
-            "temperature_f": 54.248,
-            "temperature_c": 12.36,
-            "humidity": 88.954377992797,
+            "timestamp": "2025-07-07T04:43:00+00:00",
+            "temperature_f": 53.834,
+            "temperature_c": 12.13,
+            "humidity": 95.993663784841,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-06T14:00:00-07:00",
+                "endTime": "2025-07-06T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. West southwest wind around 14 mph, with gusts as high as 18 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-06T22:00:00-07:00",
+                "startTime": "2025-07-06T18:00:00-07:00",
                 "endTime": "2025-07-07T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 53. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-07-07T06:00:00-07:00",
-                "endTime": "2025-07-07T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "7 to 15 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 7 to 15 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 53. West southwest wind 7 to 13 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "As the clock ticks towards a tranquil evening in Downtown San Francisco, the atmosphere carries a distinct sense of peaceful anticipation. The night, draped in a veil of clouds, coolly hovers around the low fifties, with a gentle southwest wind whispering through the streets. Though the city skyline gleams amidst the shadows, the familiar embrace of the marine layer presents a cozy, muted ambiance, ideal for those in search of a quiet night out or a reflective evening at home.\n\nLooking ahead to Monday, expect a graceful transition to sunniness, transforming the highly textural clouds into a backdrop for gentle warmth. The day will grace our city with recognizable hints of color, reaching a comfortable sixty-three, only to slightly retreat in the afternoon's embrace. As playful breezes stir, a light jacket or sweater becomes your best companion, allowing for comfort during moments spent al fresco, whether at a caf\u00e9 or in the park. A leisurely stroll across one of the many charming neighborhoods could prove rewarding; perhaps an exploration of a tucked-away bookstore or a visit to an intimate gallery would be fitting endeavors, creating memories amidst the growth of summer's light.",
+    "weather_report": "As night falls over Downtown San Francisco, the air carries a gentle coolness, ripe with a hint of the Pacific\u2019s embrace. Currently, the sky is draped in a shroud of cloudiness, softly muting the glow of nearby lights. Though the forecast hinted at a settling chill tonight, the subdued temperatures maintain a mild balance around 53 degrees, making it a calm evening for the city's evening wanderers. The breeze dances lightly, brushing past at a comfortable pace, yet the horizon remains ambiguous, leaving whispers of what lies beyond the fog.\n\nTomorrow promises a different tale, as the sun is poised to reclaim its prominence. With highs nearing 62, expect a revealing warmth especially toward midday, pushing gently against the lingering marine layer, which may still cradle the lower slopes. Dress in layers to accommodate the morning coolness, perhaps wrapping a light jacket around you until the sun\u2019s tender rays warm the day. As you navigate the streets, consider the simple pleasures: a leisurely walk along the Embarcadero, savoring the fresh air; a casual stop at one of the city\u2019s quieter caf\u00e9s where the aroma of freshly brewed coffee mingles with the anticipation of a new day. The evening is painted with a tranquil brush, inviting you to embrace the rhythm of the city under the cloak of clouds, while tomorrow awaits with the sunny promise of more delightful moments.",
     "color_code": "#B0C4DE",
-    "timestamp": "2025-07-06 22:03:23"
+    "timestamp": "2025-07-06 23:02:10"
 }
