@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-08T03:43:00+00:00",
-            "temperature_f": 58.082,
-            "temperature_c": 14.49,
-            "humidity": 81.009288671146,
+            "timestamp": "2025-07-08T04:43:00+00:00",
+            "temperature_f": 57.164,
+            "temperature_c": 13.98,
+            "humidity": 80.994953770154,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-07T16:00:00-07:00",
-                "endTime": "2025-07-07T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind around 15 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-07T18:00:00-07:00",
+                "startTime": "2025-07-07T23:00:00-07:00",
                 "endTime": "2025-07-08T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "7 to 14 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 55. Southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 55. Southwest wind 7 to 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-07-08T06:00:00-07:00",
+                "endTime": "2025-07-08T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Patchy Drizzle then Mostly Sunny",
+                "detailedForecast": "Patchy drizzle before 11am. Mostly sunny. High near 65, with temperatures falling to around 62 in the afternoon. West southwest wind 7 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "This evening in Downtown San Francisco, the city is wrapping itself in a light veil of cloudiness and anticipation. While the sun has dipped below the horizon, leaving behind a gentle warmth, the streets are set to welcome a patch of drizzle just after the clock strikes two. It\u2019s a mellow kind of night, with temperatures cradling your senses between mild and cool. Winds playfully push through the streets, whispering secrets of the sea at around 7 to 14 miles per hour, with a playful gust now and then that reminds you of the ocean's embrace.\n\nAs the day eases into night, the promise of a quiet, cloudy respite hangs in the air. The harbor may present a bit of haze, perhaps a gentle marine layer brooding lazily on the water's surface, yet it\u2019s not unwelcoming. Slip into a light jacket, perhaps one with a hood, for that touch of comfort as the evening draws on. With the potential for a light drizzle, a sense of calm fills the atmosphere\u2014perfect for cozying up in a caf\u00e9, finding solace in a good book, or indulging in a leisurely stroll through the softly-lit streets, the light reflecting off enticing storefronts. Tonight invites reflection wrapped in serenity, as the city hums softly with life\u2019s simple joys.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-07-07 22:02:22"
+    "weather_report": "As night blankets Downtown San Francisco, a gentle mist dances through the air, heralding patchy drizzle after 2 AM. The horizon, though shrouded in thick clouds, offers glimpses of the swirling city lights below, their warmth muted by the enveloping marine layer. Expect temperatures to settle around a cool 55 degrees, complemented by a light southwest wind whispering at 7 to 10 mph. This evening's atmosphere hangs heavy with anticipation, the promise of moisture palpable yet fleeting, with a slight 20% chance of persistent rain in the early hours.\n\nCome Tuesday, the sun breaks through the morning haze, transforming the day into a canvas of shifting light and shadows. Though the grip of drizzle lingers until around 11 AM, the skies are expected to clear, culminating in a mostly sunny afternoon. With highs reaching into the mid-60s, you'll feel a gentle breeze ushering in a more spirited atmosphere. Dressing in layers is advisable; a light jacket for the morning chill, perhaps, transitioning into something breezy for the midday warmth and ease of movement. On this pleasant Tuesday, consider a leisurely stroll along the waterfront, perhaps grabbing coffee at a local caf\u00e9 while the city emerges from slumber\u2014it's the perfect moment to appreciate the unique character of San Francisco, with its blend of urban life and nature's beauty still lingering in the air.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-07-07 23:01:42"
 }
