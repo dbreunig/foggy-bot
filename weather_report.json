@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-08T00:43:00+00:00",
-            "temperature_f": 60.458,
-            "temperature_c": 15.81,
-            "humidity": 71.992387127535,
+            "timestamp": "2025-07-08T01:43:00+00:00",
+            "temperature_f": 59.72,
+            "temperature_c": 15.4,
+            "humidity": 77.010370400131,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-07T16:00:00-07:00",
+                "endTime": "2025-07-07T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind around 15 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-07T19:00:00-07:00",
+                "startTime": "2025-07-07T18:00:00-07:00",
                 "endTime": "2025-07-08T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "7 to 14 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 55. Southwest wind 7 to 13 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-07-08T06:00:00-07:00",
-                "endTime": "2025-07-08T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "7 to 13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
-                "shortForecast": "Patchy Drizzle then Mostly Sunny",
-                "detailedForecast": "Patchy drizzle before 11am. Mostly sunny. High near 65, with temperatures falling to around 62 in the afternoon. West southwest wind 7 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 55. Southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As twilight descends upon Downtown San Francisco, the air carries a hint of moisture, tinged with the promise of a soft drizzle that might whisper through the night. The cloud cover blankets the city, weaving a gauzy shroud over its iconic skyline, with temperatures settling into the cool embrace of around 55 degrees. A light southwest wind stirs gently, perhaps inviting a cardigan or light jacket as one ventures out into the dimming streets. \n\nTomorrow holds the potential for patches of sun to break through, a welcome change from the enigmatic clouds of tonight. With temperatures expected to flirt with 65 degrees before retreating slightly in the afternoon, it could be a day for leisurely strolls along the Embarcadero or quiet moments in one of the local cafes, sipping something warm as the world gradually brightens. Preparing for the day may call for layers\u2014perhaps a comfortable long-sleeve shirt beneath that cardigan, allowing for easy adjustments as the sun dances with the fog throughout the brightening hours.\n\nIn this ethereal moment between dusk and dawn, where the marine layer hovers with a slightly chilled breath against the skin, the city feels both intimate and expansive, a perfect stage for the wanderer.",
-    "color_code": "#A6C9D6",
-    "timestamp": "2025-07-07 19:33:26"
+    "weather_report": "The afternoon sun casts a gentle glow over Downtown San Francisco, mingling with a fresh breeze that whispers through the streets. The temperature hovers around a cool 63 degrees, gradually sliding toward a comfortable 61 as the day unfurls. Though bright and cheerful at the moment, the marine layer lurks on the horizon, hinting at the evening\u2019s arrival. The clouds will gather, cloaking the sky in a muted embrace, bringing the possibility of light drizzle\u2014enough to add a touch of mystery, but not enough to dampen the spirit. A soft southwest wind dances through the city, its playful gusts reminding passersby that the quintessential San Francisco chill is never far away.\n\nAs twilight descends, a light jacket or sweater will be a welcome companion against the cool air. The evening calls for leisurely strolls along the waterfront or quiet conversations in cozy caf\u00e9s, where warmth and good company can buoy the mood. A little drizzle may tiptoe through the night, but it will hardly be intrusive, creating an atmospheric backdrop perfect for reflective moments or intimate gatherings. Embrace the evolving landscape of this spirited city, where every turn offers promise, even as the clouds begin to gather.",
+    "color_code": "#A3B2C6",
+    "timestamp": "2025-07-07 20:24:49"
 }
