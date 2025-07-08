@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-08T04:43:00+00:00",
-            "temperature_f": 57.164,
-            "temperature_c": 13.98,
-            "humidity": 80.994953770154,
+            "timestamp": "2025-07-08T05:43:00+00:00",
+            "temperature_f": 56.912,
+            "temperature_c": 13.84,
+            "humidity": 80.011049706769,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-07T16:00:00-07:00",
+                "endTime": "2025-07-07T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind around 15 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-07T23:00:00-07:00",
+                "startTime": "2025-07-07T18:00:00-07:00",
                 "endTime": "2025-07-08T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "7 to 14 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 55. Southwest wind 7 to 10 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-07-08T06:00:00-07:00",
-                "endTime": "2025-07-08T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "7 to 13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
-                "shortForecast": "Patchy Drizzle then Mostly Sunny",
-                "detailedForecast": "Patchy drizzle before 11am. Mostly sunny. High near 65, with temperatures falling to around 62 in the afternoon. West southwest wind 7 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 55. Southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As night blankets Downtown San Francisco, a gentle mist dances through the air, heralding patchy drizzle after 2 AM. The horizon, though shrouded in thick clouds, offers glimpses of the swirling city lights below, their warmth muted by the enveloping marine layer. Expect temperatures to settle around a cool 55 degrees, complemented by a light southwest wind whispering at 7 to 10 mph. This evening's atmosphere hangs heavy with anticipation, the promise of moisture palpable yet fleeting, with a slight 20% chance of persistent rain in the early hours.\n\nCome Tuesday, the sun breaks through the morning haze, transforming the day into a canvas of shifting light and shadows. Though the grip of drizzle lingers until around 11 AM, the skies are expected to clear, culminating in a mostly sunny afternoon. With highs reaching into the mid-60s, you'll feel a gentle breeze ushering in a more spirited atmosphere. Dressing in layers is advisable; a light jacket for the morning chill, perhaps, transitioning into something breezy for the midday warmth and ease of movement. On this pleasant Tuesday, consider a leisurely stroll along the waterfront, perhaps grabbing coffee at a local caf\u00e9 while the city emerges from slumber\u2014it's the perfect moment to appreciate the unique character of San Francisco, with its blend of urban life and nature's beauty still lingering in the air.",
+    "weather_report": "The day in Downtown San Francisco ushers in a gentle warmth, a pleasant reprieve nestled against the ever-cool coastal air. As the sun stretches its light over the city, expect a high that tiptoes near sixty-three, retreating gradually to a cool sixty-one by afternoon. The whispers of the west-southwest winds playfully tease the shadows of the buildings, with gusts dancing up to twenty-two miles per hour, a reminder of the bay's captivating nature. \n\nAs night approaches, the ambiance shifts ever so slightly. A patchy drizzle may grace the city after two in the morning, cloaked beneath a blanket of clouds that herald the onset of a southwestern breeze. With temperatures settling around fifty-five, it beckons a cozy layer\u2014a light jacket or cardigan to ward off the evening chill. This shift in the weather invites one to explore the quieter corners of the neighborhoods, perhaps indulging in an intimate caf\u00e9 where the scent of roasted beans ignites conversations or a walk along the waterfront, where the gentle lapping of waves remains a constant comfort. Today offers a blend of brightness and softly curling fog, allowing for both bustling excursions and moments of tranquil reflection, presenting a rich tapestry for the senses.",
     "color_code": "#B0C4DE",
-    "timestamp": "2025-07-07 23:01:42"
+    "timestamp": "2025-07-08 00:02:09"
 }
