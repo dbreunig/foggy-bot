@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-08T06:43:00+00:00",
-            "temperature_f": 56.516,
-            "temperature_c": 13.62,
-            "humidity": 79.980249016416,
+            "timestamp": "2025-07-08T07:43:00+00:00",
+            "temperature_f": 56.552,
+            "temperature_c": 13.64,
+            "humidity": 81.003409200039,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-07T15:00:00-07:00",
-                "endTime": "2025-07-07T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind around 15 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-07T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-08T02:00:00-07:00",
                 "endTime": "2025-07-08T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "7 to 14 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 55. Southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle. Mostly cloudy, with a low around 55. Southwest wind around 8 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-07-08T06:00:00-07:00",
+                "endTime": "2025-07-08T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny, with a high near 64. Southwest wind 7 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, the weather unfolds with a gentle hand, graced by a tapestry of sun. This afternoon will shine a warm light, with temperatures dancing around a pleasant 63 degrees, yet the chill of the Pacific invites a careful layering\u2014perhaps a light jacket over your chosen ensemble, to ward off the crisp whiff of the west-southwest wind that sweeps through at a leisurely 15 miles per hour. While the moment appears bright, the atmosphere might produce a subtle shift as clouds gather later into the evening; those soft, patchy drizzles may make their entrance after 2 am, like whispers of a secret awaiting discovery.\n\nAs twilight approaches, the horizon will cradle shadows and a low mist, hinting at the potential for fog to weave through the iconic landscapes. While the chance of rain rests comfortably at a modest 20 percent, the wetness in the air might invite you to lose yourself in the embrace of warmth indoors, perhaps with a book and a cup of tea, or a gentle stroll under the lingering city lights, which promise a beautiful tranquility. Embrace this afternoon\u2019s glow and prepare for a night that carries a hint of mystery, revealing the city's charm through a fine veil of moisture and cloud.",
+    "weather_report": "In the heart of Downtown San Francisco, the early morning air carries a whisper of possibility. A slight drizzle may linger softly, mingling with the remnants of the night\u2019s clouds, as the low temperature hovers around a comfortable 55 degrees. The gentle southwest winds, carrying a cool touch, rustle through the leaves, brushing against the city\u2019s busy pulse. With a 20% chance of precipitation, it feels like the sky is considering whether to open up, though the promise of a mostly sunny Tuesday beckons just beyond the horizon.\n\nAs the day unfolds, a gentle warmth is expected to rise towards the high of 64 degrees, illuminating the city in a soft glow. The sun\u2019s eventual triumph will reveal clearer skies, breaking through the morning gloom, though hints of fog might still cling to the edges of the iconic Golden Gate. Dress in layers\u2014a light jacket or cardigan will be your companion for the morning chill, allowing for easy shedding as midday beckons with more inviting temperatures. Perhaps consider a stroll through a quiet park or a leisurely exploration of a nearby caf\u00e9, where the steam from your cup can echo the early mist, making the mundane feel serene and reflective amidst this characteristically San Francisco weather.",
     "color_code": "#B0C4DE",
-    "timestamp": "2025-07-08 01:01:47"
+    "timestamp": "2025-07-08 02:02:50"
 }
