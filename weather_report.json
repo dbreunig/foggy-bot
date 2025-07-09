@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-09T13:43:00+00:00",
-            "temperature_f": 56.318,
-            "temperature_c": 13.51,
-            "humidity": 83.951355028171,
+            "timestamp": "2025-07-09T14:43:00+00:00",
+            "temperature_f": 56.75,
+            "temperature_c": 13.75,
+            "humidity": 79.998457623517,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-09T05:00:00-07:00",
-                "endTime": "2025-07-09T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Mostly cloudy, with a low around 55. West southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-07-09T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-07-09T09:00:00-07:00",
                 "endTime": "2025-07-09T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "5 to 13 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain/sct?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
-                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny, with a high near 64. West southwest wind 5 to 13 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/day/rain/few?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Sunny, with a high near 64. West southwest wind 5 to 13 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-09T18:00:00-07:00",
+                "endTime": "2025-07-10T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 54. Southwest wind 3 to 12 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "As the day unfolds in Downtown San Francisco, the soft whisper of morning presents a mild atmosphere\u2014shadows of light drizzle linger, interspersed with patches of clouds that drift lazily across a sky that hints at clarity just beyond reach. The air carries a palpable freshness, a gentle nod to the coastal winds that stir restlessly. While a faint mist may still attempt to cling to the city, the forecast promises a gradual transition into clearer skies, revealing the iconic skyline and the majestic silhouette of the Golden Gate Bridge against a backdrop of blue. \n\nVenturing out, one would find the temperature pleasantly cool, making a light jacket a wise companion for the morning stroll. As the sun stretches its rays closer to noon, the warmth of a sunlit afternoon beckons, inviting leisurely ambles through the city\u2019s vibrant streets or perhaps a serene moment in one of its many parks. While the marine layer may impart a touch of mystique to the morning, it will yield to a clearer, sunnier afternoon, creating an ideal setting for discovering a hidden caf\u00e9 or enjoying a simple lunch al fresco amidst the bustling life. As you choose your activities, consider forgoing the usual crowds and instead seek out the lesser-known nooks of this ever-enigmatic city, embracing the beauty of a day that promises warmth and inviting light.",
-    "color_code": "#A3B4D4",
-    "timestamp": "2025-07-09 08:01:36"
+    "weather_report": "In Downtown San Francisco, the morning unfolds with the promise of a day that feels both crisp and alive. While a whisper of drizzle makes its fleeting exit before the sun fully claims the sky, the air carries the coolness of the ocean, invigorating yet gentle. The sun breaks through, casting a soft glow over the iconic skyline, with the temperature expected to ascend to a pleasant 64 degrees. As the west-southwest wind weaves through the streets, bringing with it small gusts, one catches a hint of the lingering marine layer that cloaks the coastal realm, though the city itself is currently enjoying clarity and light.\n\nAs the hours unfold, expect the evening to cradle you in warmth, with temperatures dipping to a cozy 54 degrees under a partly cloudy sky. Dressing in layers would be a wise choice today\u2014perhaps a light sweater to transition from the fresh air of the early day to the soft embrace of the incoming night. Consider strolling along the waterfront or grabbing a coffee in an outdoor caf\u00e9 to soak in the scenery. The visibility might lead to a delightful excursion to a quiet park, where the gentle breeze dances with the leaves, inviting quiet contemplation or a book. This is a day to savor, where the vibrancy of urban life meets the subtle rhythms of nature.",
+    "color_code": "#A7C9E0",
+    "timestamp": "2025-07-09 09:01:26"
 }
