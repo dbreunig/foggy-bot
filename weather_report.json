@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-11T17:00:00-07:00",
-                "endTime": "2025-07-11T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 67, with temperatures falling to around 63 in the afternoon. West southwest wind around 13 mph, with gusts as high as 18 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-07-11T18:00:00-07:00",
                 "endTime": "2025-07-12T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 54. Southwest wind 7 to 12 mph, with gusts as high as 18 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-07-12T06:00:00-07:00",
+                "endTime": "2025-07-12T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 62 in the afternoon. Southwest wind 7 to 14 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "The late afternoon sun casts its golden hues over Downtown San Francisco, embracing the city as temperatures hover in that sweet spot between cool and pleasant. With a gentle breeze brushing against the skin, the vibrant financial district exudes an energy that invites exploration. Though the sky remains largely clear, hints of a marine layer tease at the edges of the bay, suggesting that evening may bring a veil of clouds as the sun dips below the horizon. The air, heavy with the scent of salt and the remnants of warmth, carries the whispers of the ocean.\n\nAs the evening approaches and temperatures ease into the mid-fifties, the pleasant chill calls for light layers\u2014perhaps a comfortable sweater or a light jacket to ward off the evening coolness. This is a moment perfect for meandering through the streets, where the city\u2019s heartbeat resonates in cafes and parks. A leisurely stroll along the waterfront or a quiet sit on a park bench, watching the world drift by as dusk settles, captures the charm of a San Francisco summer evening. With the possibility of more clouds ahead, one might savor this interlude of sunlight\u2014an invitation to reflect, breathe deeply, and embrace the beauty around.",
-    "color_code": "#D7E8F2",
-    "timestamp": "2025-07-11 20:28:13"
+    "weather_report": "As day slips into evening, Downtown San Francisco basks in a serene ambiance, painted with streaks of cloud against a deepening twilight. The low hum of a gentle southwest wind plays through the streets, whispering secrets of a cooler night ahead. With temperatures settling around a comfortable 54 degrees, tonight's conditions suggest a snug embrace rather than a shiver. Underneath the partly cloudy sky, one might find the hint of a marine layer lingering, although it appears less oppressive than in the morning hours, allowing stars to shimmer between the clouds.\n\nAs for Saturday, the forecast reveals a promise of sunshine, breaking through to warm the surroundings to a pleasant high near 64. The southwest winds will dance with briskness, inviting a light jacket or a fashionable sweater to be tossed over casual attire. With such clarity expected, the day calls for simple pleasures: perhaps a leisurely stroll along the waterfront or a visit to one of the neighborhood's quaint cafes, where one can sip a warm beverage while absorbing the vibrant street life. As the winds gust gently, nature's breath will remind you of the beauty in the everyday\u2014simple moments that are best celebrated in both warmth and ease.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-07-11 21:09:02"
 }
