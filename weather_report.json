@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-14T00:43:00+00:00",
-            "temperature_f": 58.568,
-            "temperature_c": 14.76,
-            "humidity": 81.152434200475,
+            "timestamp": "2025-07-14T01:43:00+00:00",
+            "temperature_f": 57.47,
+            "temperature_c": 14.15,
+            "humidity": 88.924064971405,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-13T16:00:00-07:00",
+                "endTime": "2025-07-13T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 62 in the afternoon. West southwest wind around 14 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-13T19:00:00-07:00",
+                "startTime": "2025-07-13T18:00:00-07:00",
                 "endTime": "2025-07-14T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 to 12 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 55. West southwest wind 5 to 10 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-07-14T06:00:00-07:00",
-                "endTime": "2025-07-14T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "3 to 14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
-                "shortForecast": "Patchy Drizzle then Mostly Sunny",
-                "detailedForecast": "Patchy drizzle before 11am. Mostly sunny. High near 65, with temperatures falling to around 62 in the afternoon. West southwest wind 3 to 14 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 55. West southwest wind 5 to 12 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As night gently embraces Downtown San Francisco, the atmosphere carries a hint of moisture, signaling the arrival of patchy drizzle after 2 AM. The clouds gather like a soft blanket over the city, with a low temperature settling around a comfortable 55 degrees. A modest west-southwest wind whispers through the streets, moving gently at speeds of 5 to 10 mph. The chance of rain lingers at a mere 20%, suggesting that while some areas might experience light drizzles, the night will largely remain peaceful.\n\nAwakening on Monday brings the promise of a more uplifting horizon. Morning drizzle gives way to bursts of sunshine, transforming the sky into a palette of blue and white. As the day progresses, temperatures rise to around 65, descending to a cooler 62 in the afternoon. The west-southwest wind may kick up slightly, with gentle gusts stirring the air up to 18 mph. While not completely devoid of the marine layer, the city is set to bask in clearer conditions, with the chance of precipitation still holding at 20%. It\u2019s advisable to dress in layers; a light sweater will suffice for the cooler morning, but one might shed it as the sun graces the day. The weather invites a leisurely stroll through the park or perhaps a visit to a cozy caf\u00e9, where one can relish a warm beverage while absorbing the gradual transition of nature from evening drizzle to vibrant daylight.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-07-13 19:39:51"
+    "weather_report": "As the afternoon gives way to evening in Downtown San Francisco, the atmosphere is a mix of warm tranquility and gentle anticipation. The sun hangs low in a clear sky, casting a soft golden light that dances along the buildings, edging closer toward the cool embrace of twilight. With a high near 65, the day has offered a pleasant respite from the usual chills, though a subtle breeze whispers through the streets, encouraging the curious to seek out lighter layers.\n\nAs night approaches, the clouds begin to gather, bringing with them the promise of patchy drizzle after 2 a.m. Tonight's low settles around 55, accented by a mild wind from the southwest\u2014a tender reminder of the marine layer that shyly hugs the coastline, retreating from the city's embrace for now. While fog may linger at the fringes, it is absent at this hour, allowing for an unobstructed view of the sparkling city lights. \n\nFor those seeking evening engagement, the light still proposes delightful strolls along the waterfront. Cozy caf\u00e9s beckon with the warmth of freshly brewed coffee, perfect for enjoying the gentle sounds of the city settling down. Opt for a light jacket to navigate the cool breeze and be ready to embrace the soft moisture hinting at the night ahead.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-07-13 20:29:57"
 }
