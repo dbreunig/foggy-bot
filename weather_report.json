@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-15T00:43:00+00:00",
-            "temperature_f": 58.964,
-            "temperature_c": 14.98,
-            "humidity": 82.096448684609,
+            "timestamp": "2025-07-15T03:43:00+00:00",
+            "temperature_f": 56.984,
+            "temperature_c": 13.88,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-14T17:00:00-07:00",
-                "endTime": "2025-07-14T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 61 in the afternoon. West southwest wind around 14 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-14T18:00:00-07:00",
+                "startTime": "2025-07-14T22:00:00-07:00",
                 "endTime": "2025-07-15T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "7 to 13 mph",
-                "windDirection": "WSW",
+                "windSpeed": "8 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 2am. Mostly cloudy, with a low around 54. West southwest wind 7 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle after 2am. Mostly cloudy, with a low around 54. Southwest wind around 8 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-07-15T06:00:00-07:00",
+                "endTime": "2025-07-15T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 16 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 7 to 16 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As twilight deepens over Downtown San Francisco, the atmosphere is a blend of subtle transitions. The sky bears the remnants of sun-kissed clarity, now softly cloaked in a veil of clouds that signal the approach of evening. With temperatures slipping toward a balmy 54 degrees, there's a gentle chill in the air, beckoning you to layer up. A slight breeze carries the briny scent of the ocean, hinting at the possibility of light drizzle as the night wears on.\n\nWhile the daylight was bathed in the soothing warmth of sunlight, you may observe a delicate haze in the distance, an ephemeral marine layer drifting in from the Pacific. It teases the edges of the cityscape, with its presence providing an idyllic backdrop for contemplative strolls along the Embarcadero or quiet moments on a cozy caf\u00e9 patio. As you plan your evening, consider a light jacket or a cardigan to embrace the coolness that tonight will usher in, and get lost in the quiet charm that only a San Francisco evening can offer.",
+    "weather_report": "As the evening envelops Downtown San Francisco, a soft blanket of cloudiness settles over the city like an old friend. The temperature hovers around the mid-fifties, a cool embrace that suggests perhaps a light jacket or a cozy sweater might be ideal to stave off the chill. A slight chance of drizzle looms, occurring mostly after two in the morning, but for now, the city stands quietly in anticipation, its people pleasantly caught between dusk and the comfort of home. \n\nLooking toward Tuesday, the promise of a mostly sunny day awaits, but with a temperament that may shift as the afternoon beckons. Highs will graze the low sixties, perhaps inching downward as the warmth of the sun begins to recede. Wisps of fog may play at the edges of the Golden Gate, hinting at the omnipresent marine layer that often dances through the bay. As you prepare for the day ahead, consider donning layers that allow for adaptability\u2014easy to shed as the sun emerges and a soft scarf for evenings where the winds flirt with a chill once more. Given the weather, it\u2019s an opportune moment for a leisurely stroll through a nearby park, where the beauty of nature juxtaposes gracefully with urban life, or perhaps a quiet gathering at your favorite caf\u00e9, sipping a warm drink while watching life unfurl outside.",
     "color_code": "#B0C4DE",
-    "timestamp": "2025-07-14 21:14:02"
+    "timestamp": "2025-07-14 22:04:52"
 }
