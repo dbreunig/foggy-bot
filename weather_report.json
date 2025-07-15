@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-15T04:43:00+00:00",
-            "temperature_f": 56.93,
-            "temperature_c": 13.85,
+            "timestamp": "2025-07-15T07:43:00+00:00",
+            "temperature_f": 55.796,
+            "temperature_c": 13.22,
             "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-14T15:00:00-07:00",
-                "endTime": "2025-07-14T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 61 in the afternoon. West southwest wind around 14 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-14T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-15T02:00:00-07:00",
                 "endTime": "2025-07-15T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "7 to 13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 2am. Mostly cloudy, with a low around 54. West southwest wind 7 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle. Mostly cloudy, with a low around 54. Southwest wind around 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-07-15T06:00:00-07:00",
+                "endTime": "2025-07-15T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 16 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 7 to 16 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "The atmosphere in Downtown San Francisco stirs gently this afternoon, offering a serene canvas of brilliant sunshine, though the cool breath of the sea exhales patterns of grey on the horizon. With temperatures hovering around a comfortable 64 degrees, the warmth of midday begins to soften, ushering in a slight chill that settles as the afternoon deepens. A light breeze dances from the west southwest, its spirited whispers accenting the urban landscape and carrying hints of the ocean's salty embrace. \n\nAs dusk approaches, the clouds gather, hinting at a subtle shift in the weather. A mere whisper of drizzle may grace the city by the early morning hours, though the chance remains a soft twenty percent. Under the weight of potential clouds, donning a light jacket would be wise, allowing for comfort as the evening coolness arrives. The prospect of lightly strolling through the city's vibrant avenues or perhaps winding down with a good book in a cozy caf\u00e9 feels perfectly aligned with the current conditions. Each choice echoes the nostalgic charm of the city, promising moments of quiet wonder in the embrace of San Francisco's enigmatic beauty.",
-    "color_code": "#B0C4D7",
-    "timestamp": "2025-07-15 01:02:03"
+    "weather_report": "In the heart of Downtown San Francisco, the night wraps its cool arms around the city, ushering in a delicate sprinkle of drizzle. The sky, clad in a thick quilt of clouds, holds the promise of a slightly warmer day ahead. As dawn approaches, the current chill in the air\u2014a gentle 54 degrees\u2014stirs a whisper of fog, a reminder of the ocean's lingering touch. Winds from the southwest carry a mild breath, moving at about 7 mph, erasing the stillness that often envelops the early hours.\n\nAs Tuesday unfolds, the sun will gradually peel away the mist, revealing a mostly sunny disposition by midday. At a high near 63, the day will invite layers; a light jacket paired with a soft sweater would suit the coolness best, especially as temperatures dip into a soft embrace in the afternoon, settling around 61. As you wander through the streets, perhaps seeking the inviting corners of a caf\u00e9 or the understated allure of a local bookstore, the light breezes will playfully tug at your hair, while whispers of the golden bridges and undulating hills beckon for exploration. This early summer day starts crisp, but with promise\u2014perfect for a leisurely stroll or a simple moment of reflection, possibly at a favorite window seat, coffee warming your palms as you take in the shifting landscape.",
+    "color_code": "#A8B4A0",
+    "timestamp": "2025-07-15 02:06:07"
 }
