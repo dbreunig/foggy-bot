@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-15T05:00:00-07:00",
-                "endTime": "2025-07-15T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 36
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
-                "shortForecast": "Chance Drizzle",
-                "detailedForecast": "A chance of drizzle. Mostly cloudy, with a low around 54. West southwest wind around 7 mph. Chance of precipitation is 40%."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2025-07-15T06:00:00-07:00",
                 "endTime": "2025-07-15T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,30?size=medium",
                 "shortForecast": "Chance Drizzle",
                 "detailedForecast": "A chance of drizzle before 7am, then a chance of drizzle and patchy fog. Partly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 7 to 16 mph, with gusts as high as 23 mph. Chance of precipitation is 40%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-15T18:00:00-07:00",
+                "endTime": "2025-07-16T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 33
+                },
+                "windSpeed": "9 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
+                "shortForecast": "Chance Drizzle",
+                "detailedForecast": "A chance of drizzle. Mostly cloudy, with a low around 55. Southwest wind 9 to 15 mph, with gusts as high as 23 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, a subtle veil of drizzle blankets the early hours, ushering in a cool embrace with a low hovering around a refreshing 54 degrees. As dawn approaches, the sky remains predominantly overcast, whispering hints of a marine layer that drifts furtively through the cityscape. The gentle westerly winds carry a salty tang, subtly rustling leaves and stirring the air with a soft promise of change.\n\nAs the day unfolds, the drizzle may persist till the morning recedes, giving way to the possibility of patchy fog interspersed with fleeting moments of brightness. Expect temperatures to peak near a cozy 63 before settling back into the nurturing chill of the afternoon. For those navigating the urban tapestry, layering will be key; a light jacket over your favorite shirt will provide comfort against the cool breeze, while sunglasses may be of use as sunshine tries to break through the clouds. \n\nWith a day rich in chances for quiet contemplation, perhaps a stroll through Fort Mason's verdant spaces or a leisurely cafe visit to savor a steaming cup of coffee would be most agreeable. Alternatively, spending time indoors, exploring the artistic depths of the city's galleries, might be the perfect antidote to the capricious weather.",
-    "color_code": "#A3B8DA",
-    "timestamp": "2025-07-15 05:02:18"
+    "weather_report": "In the heart of Downtown San Francisco, this morning brings a delightfully raw atmosphere, kissed by the remnants of a gentle drizzle that lingers like whispered secrets among the dampened streets. A thin veil of fog hovers mysteriously, cloaking buildings and giving them an ethereal quality. The air, infused with moisture and a soft breeze from the southwest, invites a refreshing intimacy with the city's soaring structures and quaint corners. As the day unfolds, expect a dance between sun-kissed patches and lingering mist, with temperatures gradually embracing a cool embrace. \n\nThough the promise of warmth holds your gaze, you may find solace in a light jacket, with layers wisely chosen to accommodate the ebb and flow of coastal winds. Perhaps a leisurely stroll along the waterfront, where the water meets the fog in a flirtatious embrace, would be a restorative activity. Alternatively, cozy caf\u00e9s, fragrant with the aroma of freshly brewed coffee, beckon for intimate conversations or solitary reflection. Allow the city's vibrant pulse to draw you in, guiding your day through a tapestry of muted colors and fleeting sunlight.",
+    "color_code": "#9BB0C2",
+    "timestamp": "2025-07-15 06:12:44"
 }
