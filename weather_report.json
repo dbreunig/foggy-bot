@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-16T04:43:00+00:00",
-            "temperature_f": 57.182,
-            "temperature_c": 13.99,
-            "humidity": 86.029731330143,
+            "timestamp": "2025-07-16T06:43:00+00:00",
+            "temperature_f": 56.48,
+            "temperature_c": 13.6,
+            "humidity": 88.996443774091,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-15T13:00:00-07:00",
-                "endTime": "2025-07-15T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 10
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind around 16 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-15T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-16T01:00:00-07:00",
                 "endTime": "2025-07-16T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 15
+                    "value": 23
                 },
-                "windSpeed": "9 to 16 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain before 3am, then a slight chance of drizzle. Cloudy, with a low around 56. Southwest wind around 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-07-16T06:00:00-07:00",
+                "endTime": "2025-07-16T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 19
+                },
+                "windSpeed": "8 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle between 11pm and 5am. Mostly cloudy, with a low around 56. Southwest wind 9 to 16 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle. Partly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 8 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "This afternoon, Downtown San Francisco casts off the morning haze to embrace a mostly sunny disposition, bringing a high near 63 degrees. Yet, even in brightness, the chill of a southwest wind\u2014whispering through the streets at around 16 mph\u2014keeps a refreshing edge to the air, making layers wise for any outing. As the day wanes, the temperature will dip gently to about 56, while clouds begin to gather for a soft evening. There\u2019s a mere hint of drizzle expected late tonight, but the chance is slight, like the possibility of finding a forgotten coin in your pocket.\n\nThe atmosphere carries an inviting clarity, though it may lack the brilliant vibrancy of a summer day. Fog, the eternal companion of the Bay, lurks beyond, possibly wrapping the edges of the Golden Gate, but for now, the city remains open and clear to exploration. As you chart your plans, consider a walk along the Embarcadero or meandering through one of the city\u2019s tucked-away neighborhoods, where you can sip a warm drink and absorb the character of San Francisco under the fading light. For attire, think of a cozy sweater or a light jacket\u2014enough to embrace the evening\u2019s coolness yet easy enough to shed once the sun spills its warmth.",
-    "color_code": "#B0C4D2",
-    "timestamp": "2025-07-16 00:03:05"
+    "weather_report": "As the night drapes its cool embrace over downtown San Francisco, we find ourselves at the cusp of a day that promises a mix of the muted gray of clouds and the gentle kiss of a rare sunbeam. While the possibility of early rain lingers, it seems destined to dissipate, yielding instead to a slight chance of drizzle. The air carries the familiar scent of the Pacific, mingling with the hope of a partially sunny afternoon that hints at a maximum high around 63, then gently falling to a cool 61, reminding us to layer against the crisp breeze.\n\nIn these early hours, the city lies submerged in a shroud of hushed clouds, cloaking the Golden Gate Bridge and softening the lines of the skyline. There\u2019s little in the way of fog, but an ever-present marine layer clings close, like a whisper from the waves. A light southwest wind sways the trees, inviting us to consider cozy attire\u2014a light jacket or a soft sweater\u2014and perhaps a cap to ward off the chill. The day\u2019s ambiance, ripe for tranquil pursuits, might beckon a stroll along the Embarcadero or an exploration of the quiet corners of Golden Gate Park, where one might savor a warm beverage while listening to the serene murmur of nature reawakening under the soft light. Embrace this fleeting moment; the city pulses with its understated charm, inviting simple joys as the dawn breaks anew.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-07-16 01:01:46"
 }
