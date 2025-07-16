@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-16T02:00:00-07:00",
-                "endTime": "2025-07-16T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 23
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain before 3am, then a slight chance of drizzle. Cloudy, with a low around 56. Southwest wind around 10 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2025-07-16T06:00:00-07:00",
                 "endTime": "2025-07-16T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
                 "detailedForecast": "A slight chance of drizzle. Partly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 8 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-16T18:00:00-07:00",
+                "endTime": "2025-07-17T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 18
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle before 5am. Mostly cloudy, with a low around 56. West southwest wind 6 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the early morning settles over Downtown San Francisco, a veil of cloudiness drapes the city, hinting at a lingering marine layer that may be reluctant to fully lift. The stillness of the air carries a sense of anticipation, with temperatures resting at a gentle 56 degrees. Occasional drizzle may tiptoe through the streets, but it remains merely a whisper, with a mere 20% chance for any substantial moisture. The breeze from the southwest carries a coolness, a reminder of the bay's embrace, making it wise to don a light jacket, perhaps in soft gray or muted blue, to combat the chill.\n\nAs the day progresses, we can expect a slow transition into a partly sunny canvas, with temperatures nudging up to 63 degrees before retreating to a softer 61 in the afternoon. Spare moments might find you savoring a quiet walk along the waterfront, or perhaps renting a bicycle to explore the less-traveled nooks of the city. Seek comfort in a cozy caf\u00e9, where the warmth of a freshly brewed coffee can inspire reflections amidst the dance of clouds. It\u2019s a day that promises brief glimpses of sunlight but whispers of the cool embrace that the coastal fog generously shares with this remarkable city.",
-    "color_code": "#A6B8C3",
-    "timestamp": "2025-07-16 05:02:19"
+    "weather_report": "The morning in Downtown San Francisco unfolds quietly, treated to a gentle mix of sun and lingering clouds. A slightly damp air pervades, hinting at the 20% chance of drizzle, which may brush past before the sun has its chance to fully emerge. The temperature hovers around 63, an inviting warmth tempered by an afternoon dip to about 61, suggesting a need for layers as the breeze carries a soft chill through the streets. Southwest winds whisper through the city, casting rustling leaves against the backdrop of a sky that still holds some hazy uncertainty.\n\nAs the day beckons, one might find joy in exploring the hidden corners of the Mission District, indulging in a cup of local pour-over coffee while watching the world wake with the sunlight filtering through the soft clouds. Dress light but wisely\u2014perhaps a light jacket over a tee will suffice, preparing for those layers as the sun dips lower. With the raw edge of morning fog giving way to the promise of clearer skies, it feels like a day ready for possibility. Strolling along the Embarcadero or lounging in Washington Square Park could provide the perfect respite, granting a moment to soak in the gentle energy of the city awakening around you.",
+    "color_code": "#A0A8B5",
+    "timestamp": "2025-07-16 06:13:06"
 }
