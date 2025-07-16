@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-15T23:43:00+00:00",
-            "temperature_f": 60.476,
-            "temperature_c": 15.82,
-            "humidity": 78.977354451002,
+            "timestamp": "2025-07-16T00:43:00+00:00",
+            "temperature_f": 59.774,
+            "temperature_c": 15.43,
+            "humidity": 82.099229387423,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-15T13:00:00-07:00",
-                "endTime": "2025-07-15T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 10
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind around 16 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-15T18:00:00-07:00",
+                "startTime": "2025-07-15T19:00:00-07:00",
                 "endTime": "2025-07-16T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "9 to 16 mph",
+                "windSpeed": "9 to 15 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle between 11pm and 5am. Mostly cloudy, with a low around 56. Southwest wind 9 to 16 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle between 11pm and 5am. Mostly cloudy, with a low around 56. Southwest wind 9 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-07-16T06:00:00-07:00",
+                "endTime": "2025-07-16T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 13
+                },
+                "windSpeed": "8 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 62. Southwest wind 8 to 15 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "The afternoon in Downtown San Francisco embraces its classic charm with mostly sunny skies, albeit a hint of chill marking the day. Temperatures hover comfortably in the low 60s, gently declining as the afternoon matures. The southwest wind dances around at nearly 16 mph, rustling the leaves and weaving its way through the streets, occasionally strong enough to remind one of the nearby ocean's breath. The clarity of the day, however, offers an inviting backdrop as the sun peeks through, though the whisper of the marine layer might still linger in the distance, suggesting that the fog may make an appearance as the evening approaches.\n\nAs night descends, a slight chance of drizzle beckons between the hours of 11 PM and 5 AM, cloaking the city in a muted mist that softens the edges of its sharp architecture. Provided one dresses in layers, perhaps donning a cozy sweater with a light jacket for warmth, the evening offers a perfect opportunity to explore the quieter corners of the city. A stroll along the waterfront, where the lights of the bridge shimmer like distant stars, or perhaps an intimate conversation over a warm drink at a cozy caf\u00e9 could serve as delightful pursuits. Embrace this San Francisco moment, balancing nature\u2019s cool kiss with the vibrant heartbeat of urban life.",
-    "color_code": "#A6B5C0",
-    "timestamp": "2025-07-15 18:29:28"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the soft embrace of a marine layer lingers over the evening landscape, with a gentle murmur of drizzle expected between the hours of 11 PM and 5 AM. The clouds, a silvery shroud, suggest a night spent enveloped in the cool embrace of moisture, as warmth wafts in from the southwest, nudged along by a breeze that breathes softly at 9 to 15 miles per hour. The air maintains a pleasantly cool demeanor, hovering around 56 degrees, ideal for a light sweater or perhaps a light jacket if one ventures outdoors after dark. \n\nTomorrow promises a reprieve as the sun peeks through the clouds, offering a radiant glow that casts a spell over the cityscape, reaching a high near 62 degrees. The day will unfold with mostly sunny skies and a continued gentle breeze, creating a delightful atmosphere perfect for a stroll along the waterfront or a serene afternoon spent sipping coffee at a local caf\u00e9. While the fog may momentarily veil iconic landmarks, the city is poised to reveal its beauty just behind that cloudy curtain\u2014an invitation for the curious to explore its streets, where the gentle murmur of life awaits beneath the lifting mist.",
+    "color_code": "#A2B2C6",
+    "timestamp": "2025-07-15 19:37:02"
 }
