@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-17T00:43:00+00:00",
-            "temperature_f": 61.07,
-            "temperature_c": 16.15,
-            "humidity": 70.352786662468,
+            "timestamp": "2025-07-17T01:43:00+00:00",
+            "temperature_f": 59.95399999999999,
+            "temperature_c": 15.53,
+            "humidity": 75.316513392338,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-16T17:00:00-07:00",
+                "endTime": "2025-07-16T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 7
+                },
+                "windSpeed": "14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind around 14 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-16T19:00:00-07:00",
+                "startTime": "2025-07-16T18:00:00-07:00",
                 "endTime": "2025-07-17T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "6 to 13 mph",
+                "windSpeed": "6 to 14 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 5am. Mostly cloudy, with a low around 57. West southwest wind 6 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-07-17T06:00:00-07:00",
-                "endTime": "2025-07-17T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "5 to 14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
-                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 5 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle after 5am. Mostly cloudy, with a low around 57. West southwest wind 6 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dusk settles over Downtown San Francisco, a gentle mist hangs in the air, weaving through the outlines of the iconic skyline, softening its edges. Tonight brings a slight chance of drizzle, accompanied by a muted canvas of clouds that cloaks the city with shades of gray. The breeze whispers from the west-southwest, hinting at a respite from the warmth of the day, as temperatures drift to a comfortable low. With a modest chance of precipitation, umbrellas might remain tucked away, though a light jacket or sweater would surely add comfort against the cool touch of evening air.\n\nTomorrow promises a blend of skies\u2014the first hints of sun emerging to chase away the remnants of the night, yet the subtleware of morning drizzle may linger until about mid-morning. Come afternoon, expect a cheerful, albeit modestly cool day, with temperatures easing down slightly. Those venturing out might prefer layers, as the city\u2019s character shifts from the shadowy embrace of fog to the bright, inviting expanse of sun. For an evening undertaking, a stroll through the nearby streets may yield delightful findings\u2014perhaps a quiet caf\u00e9 or an unexpected corner store full of treasures. The gentle cadence of the weather invites a sense of calm, allowing one to savor the simplicity of a Saturday well spent amidst the urban rhythm.",
-    "color_code": "#a9a9a9",
-    "timestamp": "2025-07-16 19:37:15"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the sky begins to cloak itself in a feathery tapestry of clouds, promising a slight drizzle as the night unfolds. The day's warmth has softened, now hinting at the cool, comforting embrace of the evening's chill. With a gentle westerly breeze whispering through the streets, a light jacket or sweater seems prudent for those venturing out. The fading sunlight casts a muted glow over familiar landmarks, while the faint likelihood of drizzle after dawn adds an air of mystery to the coming hours.\n\nAmidst this shifting ambiance, the city remains a canvas of bustling life. A stroll along the Embarcadero could offer not just the pleasure of fresh sea air, but also moments to witness the glimmers of lights reflecting off the water, creating a beautiful interplay of color and movement. For a more leisurely pursuit, finding a cozy caf\u00e9 to settle into as the evening deepens would be an ideal way to enjoy a warm drink and watch the world pass by, all while savoring the tranquil shifts of a city that thrives in the twilight hours.",
+    "color_code": "#B0C4D8",
+    "timestamp": "2025-07-16 20:28:49"
 }
