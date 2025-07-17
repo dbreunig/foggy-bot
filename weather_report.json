@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-17T01:43:00+00:00",
-            "temperature_f": 59.95399999999999,
-            "temperature_c": 15.53,
-            "humidity": 75.316513392338,
+            "timestamp": "2025-07-17T02:43:00+00:00",
+            "temperature_f": 59.126,
+            "temperature_c": 15.07,
+            "humidity": 76.246630020126,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-16T17:00:00-07:00",
-                "endTime": "2025-07-16T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind around 14 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-16T18:00:00-07:00",
+                "startTime": "2025-07-16T21:00:00-07:00",
                 "endTime": "2025-07-17T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "6 to 14 mph",
+                "windSpeed": "6 to 10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 5am. Mostly cloudy, with a low around 57. West southwest wind 6 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle after 5am. Mostly cloudy, with a low around 57. West southwest wind 6 to 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-07-17T06:00:00-07:00",
+                "endTime": "2025-07-17T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 5 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As twilight descends upon Downtown San Francisco, the sky begins to cloak itself in a feathery tapestry of clouds, promising a slight drizzle as the night unfolds. The day's warmth has softened, now hinting at the cool, comforting embrace of the evening's chill. With a gentle westerly breeze whispering through the streets, a light jacket or sweater seems prudent for those venturing out. The fading sunlight casts a muted glow over familiar landmarks, while the faint likelihood of drizzle after dawn adds an air of mystery to the coming hours.\n\nAmidst this shifting ambiance, the city remains a canvas of bustling life. A stroll along the Embarcadero could offer not just the pleasure of fresh sea air, but also moments to witness the glimmers of lights reflecting off the water, creating a beautiful interplay of color and movement. For a more leisurely pursuit, finding a cozy caf\u00e9 to settle into as the evening deepens would be an ideal way to enjoy a warm drink and watch the world pass by, all while savoring the tranquil shifts of a city that thrives in the twilight hours.",
-    "color_code": "#B0C4D8",
-    "timestamp": "2025-07-16 20:28:49"
+    "weather_report": "As the sun descends into the horizon, San Francisco finds itself shrouded in a mild embrace of cloud cover, leaving behind the brassy warmth of the day. There\u2019s a whisper of drizzle expected to kiss the city come early morning, though tonight remains in a gentle stillness, underlined with soft winds from the west, creating a serene ambience. The air is cool, about 57 degrees, inviting a layer for warmth yet still pleasant enough for those who yearn for the late-night stroll.\n\nTomorrow promises a delicate opening, as the dawn brings with it a hint of sunshine, teasing through the clouds and warming the city to a comfortable 65 degrees. As the afternoon rolls around, temperatures will ease back to 63, a reminder of the ever-changing moods of this coastal beauty. Winds may invigorate the atmosphere with their playful gusts, but a slight chance of drizzle lingers, awaiting another moment of intimacy with the ground.\n\nThe city breathes a quiet charm; ideal for a wander amidst its iconic streets, perhaps embracing the fading light with a walk along the waterfront, or indulging in a cozy caf\u00e9 nestled in the heart of downtown. Layers will serve as both comfort and practicality, shielding against the cool air while allowing you to relish in the aromas and sights of the evening. Whether one pursues solitude in the company of a good book or gathers in the subtle buzz of conversation with friends, tonight offers a canvas painted in muted tones, inviting moments of reflection and connection.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-07-16 21:13:08"
 }
