@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-17T16:43:00+00:00",
-            "temperature_f": 58.334,
-            "temperature_c": 14.63,
-            "humidity": 80.121095084511,
+            "timestamp": "2025-07-17T17:43:00+00:00",
+            "temperature_f": 58.748000000000005,
+            "temperature_c": 14.86,
+            "humidity": 81.005014640674,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-17T03:00:00-07:00",
-                "endTime": "2025-07-17T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 12
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-07-17T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-07-17T11:00:00-07:00",
                 "endTime": "2025-07-17T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 65,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 1
                 },
-                "windSpeed": "7 to 18 mph",
+                "windSpeed": "10 to 17 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 7 to 18 mph, with gusts as high as 22 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 10 to 17 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-17T18:00:00-07:00",
+                "endTime": "2025-07-18T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "9 to 17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. West southwest wind 9 to 17 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle chill hangs in the air, signaling the lingering grips of a marine layer that cloaks the city. The clouds are mostly scattered, allowing fleeting glimpses of what promises to be a vibrant afternoon, yet the cool west-southwest winds hint at a typical San Francisco day. With temperatures gently lowering from 65 to 63 later, the weather maintains a crispness that can easily chill unsuspecting visitors. Those venturing outdoors should consider layering; a light sweater or jacket will serve well against the breeze, especially in the morning and early evening.\n\nWhile the sun makes its slow ascent, the fog may still linger around the Golden Gate, blurring its iconic silhouette for the moment, while other parts of the bay may remain bathed in a gentle glow, charming in their understated beauty. This weather invites leisurely strolls along the Embarcadero or perhaps a quiet moment with coffee at a cafe, watching the bustle of city life unfold. As twilight approaches, the low clouds will soften the city\u2019s lights, casting a romantic spell that beckons evening walks under the tranquil embrace of the city\u2019s famed fog.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-07-17 11:01:48"
+    "weather_report": "In Downtown San Francisco, the day unfolds under the gentle embrace of sunshine, a momentary respite from the usual dance of fog that often graces the city. Presently, the temperature hovers around a comfortable 65 degrees\u2014a pleasant warmth that may encourage a stroll along the Embarcadero or a leisurely visit to a rooftop caf\u00e9. The brisk west-southwest winds, whispering at 10 to 17 mph, add a refreshing note, bringing just enough chill to remind one that summer along the bay can be deceptive. Though the forecast hints at temperatures dipping slightly in the afternoon, this remains a day to relish; one can expect a gradual shift from brightness to the more familiar soft blanket of evening clouds.\n\nAs twilight approaches, the sky will wear a patchwork of mostly cloudy hues while the temperature settles to a balmy 56 degrees. A light jacket or a sweater would be wise as the evening air cools, particularly if you find yourself lingering outdoors. Ideal pursuits today involve simple pleasures: perhaps a light jog along the waterfront, finding a cozy spot in a nearby park to read, or indulging in a casual gathering with friends as the sun gradually bids adieu. The day beckons with opportunities for leisurely enjoyment, subtly balanced between warmth and the gentle touch of the bay's famous marine layer.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-07-17 12:02:37"
 }
