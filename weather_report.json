@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-18T05:43:00+00:00",
-            "temperature_f": 58.262,
-            "temperature_c": 14.59,
-            "humidity": 83.028176229492,
+            "timestamp": "2025-07-18T06:43:00+00:00",
+            "temperature_f": 57.775999999999996,
+            "temperature_c": 14.32,
+            "humidity": 84.992284416591,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-17T14:00:00-07:00",
-                "endTime": "2025-07-17T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "14 to 17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 14 to 17 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-17T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-18T02:00:00-07:00",
                 "endTime": "2025-07-18T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "9 to 17 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 56. West southwest wind 9 to 17 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 56. West southwest wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-07-18T06:00:00-07:00",
+                "endTime": "2025-07-18T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "9 to 22 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 61 in the afternoon. West southwest wind 9 to 22 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfurls its subtle light over Downtown San Francisco, the city enjoys a relatively mild atmosphere, with the sun peeking through a gentle veil of clouds. The forecast promises a high of approximately 65 degrees as the day matures, transitioning into soft shades of warmth despite cicadas whispering of cool breezes in their wake. Expect a west-southwest wind to briskly weave through the streets, bending the leaves and setting a comfortable pace for any wanderer. The anticipated evening invites a cooler embrace, the air cooling off to a cozy 56 degrees, perfect for a light jacket as twilight descends.\n\nAlthough the allure of a sunny afternoon beckons, there's no oppressive heat to contend with. The clouds dance playfully above, hinting at the marine layer's proximity, yet the impending reach of fog remains a distant whisper rather than an omnipresent shroud. A stroll through the city streets or along the Embarcadero could provide an invigorating respite, perhaps a detour into a beloved caf\u00e9 for a warm scone or quiet reflection in a local park. Engage with the chill of the evening air; the glow from nearby eateries and the laughter from open-air venues add to the city's charm, inviting you to relish the evening as the fog drifts in from the ocean, wrapping the landscape with a soft, silken touch.",
-    "color_code": "#A2C2D4",
-    "timestamp": "2025-07-18 01:01:49"
+    "weather_report": "The night settles softly over Downtown San Francisco, draping the city in a modest blanket of clouds that diffuse the moonlight and embrace the cool air. The temperature lingers around a comfortable 56 degrees, with whispers of a gentle westerly breeze rustling treetops and stirring aimless thoughts. As dawn approaches, the clouds are expected to part, revealing a cheerful, mostly sunny day. The high will peak at a refreshing 64 degrees, only to descend into the 60s as afternoon unfurls; a brisk southwest wind will dance through the streets, occasionally gusting as if to remind you that summer isn't merely lazy warmth but also spirited freshness.\n\nThis morning, beneath the overcast sky, there\u2019s a sense of gentle intrigue. While the day hints at vivid sunshine, the early hours hold a serene hush, with neighborhoods still wrapped in a dreamlike quiet. Dressing in layers seems wise, perhaps a light jacket to fend off the early chill, paired with something breathable\u2014a nod to the warmth that is sure to emerge. Given the mild vibe of the morning, a stroll along the Embarcadero could awaken the senses, allowing the soft sounds of the bay to serve as a backdrop to your thoughts. Alternatively, meandering through local caf\u00e9s for a comforting cup of coffee would embrace the day\u2019s peaceful cadence. There\u2019s magic in these quiet moments before the vitality of the day bursts forth, where one can savor the city\u2019s charm in ordinary, unassuming rituals.",
+    "color_code": "#B0C4D0",
+    "timestamp": "2025-07-18 02:03:34"
 }
