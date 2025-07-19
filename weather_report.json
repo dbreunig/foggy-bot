@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-19T01:43:00+00:00",
-            "temperature_f": 59.342,
-            "temperature_c": 15.19,
-            "humidity": 78.210512177971,
+            "timestamp": "2025-07-19T02:43:00+00:00",
+            "temperature_f": 58.01,
+            "temperature_c": 14.45,
+            "humidity": 83.011286944476,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-18T13:00:00-07:00",
+                "endTime": "2025-07-18T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "16 to 22 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 16 to 22 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-18T20:00:00-07:00",
+                "startTime": "2025-07-18T18:00:00-07:00",
                 "endTime": "2025-07-19T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 5
                 },
-                "windSpeed": "13 to 21 mph",
+                "windSpeed": "13 to 23 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind 13 to 21 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-07-19T06:00:00-07:00",
-                "endTime": "2025-07-19T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "12 to 24 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind 12 to 24 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind 13 to 23 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "As the evening settles over Downtown San Francisco, the atmosphere carries a sense of tranquility. A mostly cloudy sky looms above, casting a soft gray veil that hints at the chill of nightfall. The breeze, coming from the west southwest, whispers through the streets, formidable yet refreshing, as it stirs the cool air around 54 degrees. Gusts reach up to 26 mph, adding a lively dance to the night as sea fog teases the coastline, creating a low-hanging mist that comes and goes with the winds.\n\nLooking to Saturday, the forecast offers promise with a transition to mostly sunny skies. The day begins with an inviting warmth, peaking around 63 degrees but easing to a comfortable 61 in the afternoon. The western winds remain persistent, providing a gentle embrace that projects vitality into the atmosphere. Therefore, donning layers would be wise\u2014a light scarf or a breathable jacket for the breezy morning will allow for easy adjustment as you move into the sun-warmed afternoon.\n\nFor those seeking companionship with the day, a leisurely stroll through the winding streets or a quiet moment in one of the city's gardens would be delightful. Alternatively, consider visiting a local caf\u00e9 for a warm beverage, ideally positioned by a window to enjoy the changing light as the sun rises over the iconic skyline. These simple pleasures harmonize wonderfully with the urban cadence, revealing the essence of a San Francisco Saturday under a playful sky.",
-    "color_code": "#A0B8D9",
-    "timestamp": "2025-07-18 20:27:08"
+    "weather_report": "In Downtown San Francisco today, the skies find themselves adorned in a gentle, sunny embrace, though clouds hint at a subtle shift. The air, cool yet invigorating, has high temperatures at around 64, softening to 62 as the afternoon progresses, accompanied by a brisk breeze from the west-southwest which invigorates the spirit but might also play playfully with your hair. As twilight descends, expect a shift into a more subdued atmosphere, with clouds gathering to drape the city like a light shawl, and temperatures dipping to a comfortable 54.\n\nAs you breathe in the mix of city sounds and scents, the visibility is mostly clear, although the telltale marine layer may linger around the horizon, softly veiling the Golden Gate. Fog, if present, shouldn't obscure the day's simple pleasures. Attire yourself in layers\u2014a light jacket over a breathable shirt would suit well for the cool wind that asks for a touch of warmth as evening arrives. Such an alluring day invites tranquil walks through the historic streets, perhaps with a paper cup of coffee in hand, or a leisurely browse among the local shops that reflect the heart of this vibrant city. A visit to your favorite cozy caf\u00e9 for a book to savor would suit the evening quite splendidly.",
+    "color_code": "#A8C8E5",
+    "timestamp": "2025-07-18 21:08:13"
 }
