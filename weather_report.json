@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-19T00:43:00+00:00",
-            "temperature_f": 60.584,
-            "temperature_c": 15.88,
-            "humidity": 73.307616062385,
+            "timestamp": "2025-07-19T01:43:00+00:00",
+            "temperature_f": 59.342,
+            "temperature_c": 15.19,
+            "humidity": 78.210512177971,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-18T13:00:00-07:00",
-                "endTime": "2025-07-18T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "16 to 22 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 16 to 22 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-18T18:00:00-07:00",
+                "startTime": "2025-07-18T20:00:00-07:00",
                 "endTime": "2025-07-19T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 5
                 },
-                "windSpeed": "13 to 23 mph",
+                "windSpeed": "13 to 21 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind 13 to 23 mph, with gusts as high as 29 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 54. West southwest wind 13 to 21 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-07-19T06:00:00-07:00",
+                "endTime": "2025-07-19T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
+                },
+                "windSpeed": "12 to 24 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind 12 to 24 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon presents a sunny fa\u00e7ade, a brief wave of warmth amid the city's usual cool disposition. The air carries a refreshing breeze that lifts the spirits and dances through the streets, hinting at the vibrancy of summer. However, as the sun begins to descend toward the horizon, temperatures will drift softly downward, embracing a chill that the evening air is known to harbor. The transition to tonight will bring a shrouded tranquility, as clouds gently veils the stars. With winds still whispering between 13 to 23 mph, it is a clear reminder of the city\u2019s restless maritime roots.\n\nAs the day settles into its twilight hours, one would do well to prepare accordingly\u2014perhaps wrapping oneself in layers, a light jacket to fend off the evening coolness, and sturdy footwear for a leisurely walk along the waterfront. This is an ideal time to explore the charming urban landscape\u2014an evening stroll through local cafes and art galleries, or perhaps unwinding on a bench at the waterfront, where the soft sounds of water lapping against the shore complement the atmosphere. Under the gray-tinged sky, one might find solace and inspiration, with each moment inviting reflection amid the serene disarray of the city.",
-    "color_code": "#A3B0D8",
-    "timestamp": "2025-07-18 19:33:38"
+    "weather_report": "As the evening settles over Downtown San Francisco, the atmosphere carries a sense of tranquility. A mostly cloudy sky looms above, casting a soft gray veil that hints at the chill of nightfall. The breeze, coming from the west southwest, whispers through the streets, formidable yet refreshing, as it stirs the cool air around 54 degrees. Gusts reach up to 26 mph, adding a lively dance to the night as sea fog teases the coastline, creating a low-hanging mist that comes and goes with the winds.\n\nLooking to Saturday, the forecast offers promise with a transition to mostly sunny skies. The day begins with an inviting warmth, peaking around 63 degrees but easing to a comfortable 61 in the afternoon. The western winds remain persistent, providing a gentle embrace that projects vitality into the atmosphere. Therefore, donning layers would be wise\u2014a light scarf or a breathable jacket for the breezy morning will allow for easy adjustment as you move into the sun-warmed afternoon.\n\nFor those seeking companionship with the day, a leisurely stroll through the winding streets or a quiet moment in one of the city's gardens would be delightful. Alternatively, consider visiting a local caf\u00e9 for a warm beverage, ideally positioned by a window to enjoy the changing light as the sun rises over the iconic skyline. These simple pleasures harmonize wonderfully with the urban cadence, revealing the essence of a San Francisco Saturday under a playful sky.",
+    "color_code": "#A0B8D9",
+    "timestamp": "2025-07-18 20:27:08"
 }
