@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-19T18:43:00+00:00",
-            "temperature_f": 57.434,
-            "temperature_c": 14.13,
-            "humidity": 90.92797708705,
+            "timestamp": "2025-07-19T19:43:00+00:00",
+            "temperature_f": 59.215999999999994,
+            "temperature_c": 15.12,
+            "humidity": 82.114115813401,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-19T04:00:00-07:00",
-                "endTime": "2025-07-19T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. West wind around 14 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-07-19T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-07-19T14:00:00-07:00",
                 "endTime": "2025-07-19T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 63,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 2
                 },
-                "windSpeed": "10 to 24 mph",
+                "windSpeed": "23 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind 10 to 24 mph, with gusts as high as 30 mph."
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind around 23 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-19T18:00:00-07:00",
+                "endTime": "2025-07-20T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "13 to 23 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 55. West southwest wind 13 to 23 mph, with gusts as high as 29 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "The skies over Downtown San Francisco wear a shroud of lingering clouds, promising both a sense of drama and a touch of coolness as the day unfolds. With temperatures hovering in the mid-60s, a gentle west wind plays through the streets, whispering of the ebb and flow of maritime influences that subtly shape this coastal city. The cloying fog, a signature of San Francisco's charm, may still be trailing along the edges of the Golden Gate, but the forecast's promise of a mostly sunny Saturday hints at moments when the sun will break through, casting a warm and inviting glow. As this afternoon unfolds, expect the clouds to gradually dissipate, revealing spots of blue that will enliven the day.\n\nFor those wandering about, a light layer will serve you well against the brisk yet refreshing breezes. Perhaps a stroll through Golden Gate Park, with its sprawling greenery, would harmonize with today\u2019s dynamic atmospheric dance. You might also consider settling at a quiet caf\u00e9, enjoying a warm beverage while watching the world drift by as you savor the singular beauty of a San Francisco afternoon, caught between the embrace of ocean fog and the allure of sunshine.",
-    "color_code": "#A3BFD0",
-    "timestamp": "2025-07-19 13:01:32"
+    "weather_report": "A gentle sun bathes Downtown San Francisco, bringing with it a high that hovers around a cool 63 degrees. As the afternoon unfolds, the warmth is subtly paired with a brisk west-southwest wind, playful yet steady, whispering through the streets at 23 miles per hour. Above, a delicate shawl of clouds gathers, hinting at the possibility of a light drizzle as night approaches, but for now, there's a clarity that invites exploration. The marine layer looms off in the distance, condensing along the edges of the Golden Gate Bridge, the fog resting like a soft embrace upon the horizon, offering a reminder of the city's fluid weather patterns.\n\nAs dusk draws nearer, the skies will succumb to greater cloud cover, but the afternoon remains inviting for a leisurely stroll or a casual coffee at an outdoor caf\u00e9. A light jacket is advisable, layered over a comfortable shirt, to adapt to the fading warmth. The evening may call for a moment to wind down in an urban garden, allowing the soft glow of city lights to mingle with the approaching coolness, a fitting end to a day that balances the carefree allure of summer with the mystique characteristic of San Francisco.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2025-07-19 14:01:31"
 }
