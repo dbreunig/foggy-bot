@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-20T10:43:00+00:00",
-            "temperature_f": 55.238,
-            "temperature_c": 12.91,
+            "timestamp": "2025-07-20T11:43:00+00:00",
+            "temperature_f": 55.688,
+            "temperature_c": 13.16,
             "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-20T05:00:00-07:00",
-                "endTime": "2025-07-20T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 8
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/smoke?size=medium",
-                "shortForecast": "Areas Of Smoke",
-                "detailedForecast": "Areas of smoke. Mostly cloudy, with a low around 55. Southwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2025-07-20T06:00:00-07:00",
                 "endTime": "2025-07-20T18:00:00-07:00",
                 "isDaytime": true,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "10 to 25 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/smoke/wind_sct?size=medium",
-                "shortForecast": "Areas Of Smoke then Mostly Sunny",
-                "detailedForecast": "Areas of smoke before 10am. Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 10 to 25 mph, with gusts as high as 31 mph."
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 10 to 25 mph, with gusts as high as 31 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-20T18:00:00-07:00",
+                "endTime": "2025-07-21T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 13
+                },
+                "windSpeed": "20 to 24 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind 20 to 24 mph, with gusts as high as 31 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a veil of smoky tendrils hangs low, shrouding the city in a muted haze. With temperatures hovering pleasantly around the mid-fifties, a gentle southwest wind stirs, whispering through the streets and among the buildings. This morning\u2019s glimmer hints at the promise of a brighter day ahead, even if the early hours are draped in a blanket of clouds and smoke, softening the outlines of familiar landmarks like the Golden Gate Bridge. \n\nAs the sun ascends toward its zenith, expect the smoke to dissipate, giving way to a more cheerful sky, adorned with patches of blue. The temperature is forecasted to peak at near sixty-three but will gradually cool into the afternoon. A brisk breeze may transform the air into a refreshing chill, making light layers a wise choice\u2014perhaps a comfortable sweater or a light jacket to embrace the shifting warmth of the day. As the hours wane, consider meandering through the vibrant streets, finding yourself a quiet caf\u00e9 to savor a warm cup, or perhaps exploring the less-traveled nooks of the city, where each block reveals its own story, unmarred by the morning\u2019s haze. The smoky remnants will soon fade, leaving a day ripe with potential for exploration and appreciation of this iconic urban landscape.",
-    "color_code": "#AAB8C2",
-    "timestamp": "2025-07-20 05:01:56"
+    "weather_report": "In Downtown San Francisco, the dawn arrives casting a gentle light over the cityscape, hinting at the beauty of the day ahead. The prediction of mostly sunny skies comes to fruition, though the air carries a refreshing bite from the southwest wind, rustling the leaves and stirring the faintest whispers of fog at the periphery. A hint of haze envelops the Golden Gate, teasing the edges with a marine layer that continues to flirt with the hills, yet visibility remains clear enough to appreciate the architectural artistry of the city.\n\nAs the day progresses, temperatures will ease downward into the afternoon, wrapping around the mid-60s\u2014a comfortable embrace for those venturing outside. With a west-southwest wind whispering through the avenues at a brisk pace, it\u2019s wise to don layers: a light sweater or jacket will ward against the coolness while allowing the sun to warm the skin. This climate beckons opportunities for the mundane yet delightful\u2014perhaps a leisurely stroll through the Embarcadero or a quiet reading session at a nearby caf\u00e9, where the hum of conversation blends with the gentle clinking of coffee cups. Each moment invites you to savor the colors and sounds of the city stirred into life beneath a predominantly blue sky.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-07-20 06:10:26"
 }
