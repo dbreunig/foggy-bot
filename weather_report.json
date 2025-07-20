@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-20T07:43:00+00:00",
-            "temperature_f": 54.482,
-            "temperature_c": 12.49,
-            "humidity": 100,
+            "timestamp": "2025-07-20T08:43:00+00:00",
+            "temperature_f": 54.752,
+            "temperature_c": 12.64,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2025-07-20T02:00:00-07:00",
+                "startTime": "2025-07-20T03:00:00-07:00",
                 "endTime": "2025-07-20T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 15
+                    "value": 8
                 },
-                "windSpeed": "14 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Mostly cloudy, with a low around 55. Southwest wind around 14 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/smoke?size=medium",
+                "shortForecast": "Areas Of Smoke",
+                "detailedForecast": "Areas of smoke. Mostly cloudy, with a low around 55. Southwest wind around 13 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-07-20T06:00:00-07:00",
                 "endTime": "2025-07-20T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 64,
+                "temperature": 63,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 15
+                    "value": 8
                 },
-                "windSpeed": "13 to 24 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/wind_sct?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
-                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 13 to 24 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+                "windSpeed": "10 to 25 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/smoke/wind_sct?size=medium",
+                "shortForecast": "Areas Of Smoke then Mostly Sunny",
+                "detailedForecast": "Areas of smoke before 10am. Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 10 to 25 mph, with gusts as high as 31 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfurls its muted light over Downtown San Francisco, the city lies beneath a veil of gentle clouds, a whisper of drizzle lingering in the air. The temperature hovers comfortably, inviting a sense of ease amidst the urban landscape. A brisk southwest wind carries with it the scent of the bay, rustling the leaves and gently swaying the branches of the trees. While the chance of precipitation stands at a slight twenty percent, one may find solace in the calming rhythm of the clouds, as they promise a golden transition into the day.\n\nCome Sunday, as the morning drizzles give way, the sun will peek through to cast its warm rays, illuminating the streets and bustling squares. The air will maintain a refreshing coolness, making it a day meant for exploration. With temperatures expected to fall slightly as the afternoon advances, layers are advisable\u2014perhaps a lightweight jacket draped over a casual shirt, allowing for both comfort and style. A stroll by the waterfront could prove delightful, with the wind playfully tousling your hair and the distant sound of waves lapping against the shore creating a soothing backdrop. As people meander through the vibrant neighborhoods, seeking coffee or perhaps a quaint bookshop, the day unfolds\u2014perfect for savoring the present moments that San Francisco so generously offers.",
+    "weather_report": "As the early morning hours unfold in Downtown San Francisco, a soft veil of smoke lingers in the air, wrapping the city in a muted embrace. The clouds take on a solemn gray hue, resting comfortably over the skyline, while the temperature hovers in the cool embrace of the mid-fifties. A gentle breeze from the southwest, whispering at 13 mph, brings with it hints of freshness, stirring the city awake.\n\nAs the sun rises higher into the sky, the smoke is expected to dissolve, revealing a patchwork of blue as the day progresses. By the afternoon, the warmth will flirt with 63 degrees, though the breeze will strengthen, offering gusts that dance around 31 mph. It promises to be mostly sunny, the kind of day inviting to those who wish to roam the streets, perhaps grabbing a warm coffee from a favorite caf\u00e9 before embarking on a leisurely stroll along the Embarcadero, where the bay sparkles beneath the sun. Dress in layers\u2014perhaps a lightweight jacket that can be shed once the sun's warmth truly sets in, alongside comfortable shoes to navigate the city's beautiful nooks. While fog may not be present, the remnants of smoke linger, lending a certain mystique to the landscape; it could be a good day for quiet contemplation or exploration in this vibrant urban tapestry, away from the noise and into the subtle charm of the unknown.",
     "color_code": "#B0C4DE",
-    "timestamp": "2025-07-20 02:01:29"
+    "timestamp": "2025-07-20 03:01:42"
 }
