@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-20T06:43:00+00:00",
-            "temperature_f": 55.292,
-            "temperature_c": 12.94,
-            "humidity": null,
+            "timestamp": "2025-07-20T07:43:00+00:00",
+            "temperature_f": 54.482,
+            "temperature_c": 12.49,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-19T15:00:00-07:00",
-                "endTime": "2025-07-19T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "23 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind around 23 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-19T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-20T02:00:00-07:00",
                 "endTime": "2025-07-20T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "13 to 23 mph",
-                "windDirection": "WSW",
+                "windSpeed": "14 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 55. West southwest wind 13 to 23 mph, with gusts as high as 29 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle. Mostly cloudy, with a low around 55. Southwest wind around 14 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-07-20T06:00:00-07:00",
+                "endTime": "2025-07-20T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "13 to 24 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/wind_sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 13 to 24 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dawn unfurls over Downtown San Francisco, a subtle interplay between sun and clouds shapes the atmosphere of the morning. The city awakens with a gentle clarity, tinged with that characteristic coolness that embraces the coastal landscape. A vivid sun rises, promising a high that flirts with the low sixties, while a breezy west-southwest wind adds a lively touch to the day. By afternoon, expect to feel the warmth dip slightly, giving way to a refreshing shift that carries the scent of the Bay\u2014not quite summer's peak but undeniably delightful.\n\nAs evening approaches, a blanket of clouds will weave itself into the sky, hinting at a slight chance of a drizzle after the clock strikes eleven. The forecast uncertainty enlivens the evening stroll; a light jacket is a wise choice, perhaps layered over a simple tee, as the temperature settles into the mid-fifties. The west-southwest wind retains a presence, gusting appreciably as the sun sets, inviting those with a spirit for adventure to consider a leisurely walk along one of the city's scenic pathways or perhaps a cozy dinner in a quaint bistro with large windows, where the outlines of the city illuminate against the twilight. This day, kissed by cool breezes and softened light, offers a taste of San Francisco\u2019s unique allure, woven intricately with nature\u2019s rhythm.",
-    "color_code": "#A0C2DA",
-    "timestamp": "2025-07-20 01:01:38"
+    "weather_report": "As dawn unfurls its muted light over Downtown San Francisco, the city lies beneath a veil of gentle clouds, a whisper of drizzle lingering in the air. The temperature hovers comfortably, inviting a sense of ease amidst the urban landscape. A brisk southwest wind carries with it the scent of the bay, rustling the leaves and gently swaying the branches of the trees. While the chance of precipitation stands at a slight twenty percent, one may find solace in the calming rhythm of the clouds, as they promise a golden transition into the day.\n\nCome Sunday, as the morning drizzles give way, the sun will peek through to cast its warm rays, illuminating the streets and bustling squares. The air will maintain a refreshing coolness, making it a day meant for exploration. With temperatures expected to fall slightly as the afternoon advances, layers are advisable\u2014perhaps a lightweight jacket draped over a casual shirt, allowing for both comfort and style. A stroll by the waterfront could prove delightful, with the wind playfully tousling your hair and the distant sound of waves lapping against the shore creating a soothing backdrop. As people meander through the vibrant neighborhoods, seeking coffee or perhaps a quaint bookshop, the day unfolds\u2014perfect for savoring the present moments that San Francisco so generously offers.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-07-20 02:01:29"
 }
