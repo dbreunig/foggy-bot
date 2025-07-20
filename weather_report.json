@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-20T00:43:00+00:00",
-            "temperature_f": 60.782,
-            "temperature_c": 15.99,
-            "humidity": 73.327128464475,
+            "timestamp": "2025-07-20T01:43:00+00:00",
+            "temperature_f": 57.775999999999996,
+            "temperature_c": 14.32,
+            "humidity": 84.044184731576,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-19T15:00:00-07:00",
+                "endTime": "2025-07-19T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "23 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind around 23 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-19T19:00:00-07:00",
+                "startTime": "2025-07-19T18:00:00-07:00",
                 "endTime": "2025-07-20T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "13 to 22 mph",
+                "windSpeed": "13 to 23 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 55. West southwest wind 13 to 22 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-07-20T06:00:00-07:00",
-                "endTime": "2025-07-20T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "13 to 24 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/wind_sct?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
-                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 13 to 24 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 55. West southwest wind 13 to 23 mph, with gusts as high as 29 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco this evening, the atmosphere settles into a cocoon of soft clouds as twilight approaches. A slight drizzle may tease the city after 11 PM, but the chances remain modest, lingering faintly at twenty percent. The air is cool, wrapping around on a gentle breeze from the west, with whispers of wind that dance through the streets, offering a lively touch to the otherwise subdued air. Looking out towards the Golden Gate, you might spot the outlines of the iconic bridge shrouded, hinting at the marine layer's presence, a nostalgic embrace of fog that the city wears with pride.\n\nAs night draws near, temperatures will hover comfortably around 55 degrees, a gentle reminder to bring a light jacket or a cozy sweater if you plan to navigate the avenues after dark. The weather holds promise for Sunday\u2014a slight chance of morning drizzle gives way to a more cheerful forecast of sunshine, inviting those with a penchant for leisurely strolls or relaxed brunches to savor the warmth of the late morning. There\u2019s a gentle push toward outdoor adventures, as mild breezes suggest biking along the waterfront or wandering through Golden Gate Park. In short, as the evening unfurls, it invites you to bask in the soft glow of city lights, cloaked in the hopeful anticipation that tomorrow will bring a touch more brightness to the Bay Area skyline.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-07-19 19:44:05"
+    "weather_report": "In Downtown San Francisco, the air is filled with the unmistakable scent of an approaching evening, a prelude to the night that holds a promise of gentle chill. As we edge into the afternoon, the sun casts its warm rays, although one can feel a slight current of the west-southwest wind weaving through the streets at about 23 mph, stirring the leaves and perhaps tugging at your jacket. The temperatures hover close to 63, beckoning those dressed in layers to discover the cozy embrace of the city's heart\u2014 a walk on the Embarcadero, or perhaps a visit to one of the local caf\u00e9s where one can sip on a warm brew and watch the world drift by.\n\nAs twilight descends, expect a subtle shift; the clouds will begin to blanket the sky, offering a slight chance for drizzle to spritz the landscape after 11 PM. The coolness will draw in closer as the low hits around 55 degrees, prompting you to don a light sweater or jacket. There might be a hint of the marine layer, a delicate veil that dances on the outskirts of the Golden Gate, teasing the edges of the skyline. While the evening may start with some retreating sun, finding solace in the city's rhythm could lead to moments spent at a gallery opening or perhaps an evening stroll near the waterfront where the lights flicker in the water, lending a serene beauty to your night.",
+    "color_code": "#A2B2D9",
+    "timestamp": "2025-07-19 20:31:09"
 }
