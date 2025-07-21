@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-21T11:43:00+00:00",
-            "temperature_f": 57.092,
-            "temperature_c": 13.94,
-            "humidity": 96.991944617279,
+            "timestamp": "2025-07-21T12:43:00+00:00",
+            "temperature_f": 57.056,
+            "temperature_c": 13.92,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,7 +18,26 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
+                "name": "Overnight",
+                "startTime": "2025-07-21T04:00:00-07:00",
+                "endTime": "2025-07-21T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 11
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. West southwest wind around 10 mph, with gusts as high as 18 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
                 "startTime": "2025-07-21T06:00:00-07:00",
                 "endTime": "2025-07-21T18:00:00-07:00",
                 "isDaytime": true,
@@ -34,29 +53,10 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain?size=medium",
                 "shortForecast": "Partly Sunny then Slight Chance Drizzle",
                 "detailedForecast": "A slight chance of drizzle after 5pm. Partly sunny, with a high near 63. West southwest wind 10 to 16 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-21T18:00:00-07:00",
-                "endTime": "2025-07-22T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 26
-                },
-                "windSpeed": "8 to 16 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A slight chance of drizzle before 11pm, then a chance of rain. Mostly cloudy, with a low around 56. West southwest wind 8 to 16 mph, with gusts as high as 23 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the morning reveals a soft veil of cloudiness, hinting at the possibility of drizzle as the sun nudges its way through the overcast. A brisk breeze carries whispers of the sea, while the temperature hovers comfortably in the low sixties, fostering a sense of pleasantness amidst the muted surroundings. As the day progresses, expect a slight chance of drizzle to linger, creating a cool and contemplative atmosphere, perfect for moments of quiet reflection or a leisurely stroll.\n\nAs twilight approaches, the skies will deepen into shades of gray, with a chance of rain creeping into the forecast. The marine layer, a classic companion of San Francisco\u2019s coastal charm, gently wraps around the city, creating a serene backdrop for evening activities. Layering remains the wise choice: a light jacket over a long-sleeved shirt should suffice, offering warmth without compromising comfort. Ideal pursuits for the day might include visiting a cozy caf\u00e9 with a good book, or exploring the quieter side of the city\u2019s parks, where the fog creates an enchanting ambiance. As the sun begins to set, find pleasure in the soothing rhythm of the world around you, as the city breathes in the refreshing embrace of the Pacific air.",
-    "color_code": "#A5B2B0",
-    "timestamp": "2025-07-21 06:13:31"
+    "weather_report": "As the day unfurls in Downtown San Francisco, a blanket of clouds drapes the city, casting a subdued, tranquil light over the streets. With the mercury settling around a cool 56 degrees, the air carries a gentle breeze from the west-southwest, whispering through the alleys and byways. The morning is cloaked in that characteristic San Francisco charm, offering a soft haze that hints at the lingering embrace of fog\u2014a reminder of the city\u2019s maritime position. As we look towards the horizon, the contours of the Golden Gate Bridge may be faintly discernible, often softened by the marine layer that so gracefully caresses the landscape.\n\nLooking towards the day ahead, there may be a flirtation with drizzle post-5 PM, as the clouds continue their slow dance across the sky. By midday, the day is expected to shift with pockets of sunshine nudging through, presenting a mild high of around 63 degrees. However, the breeze will keep the air fresh, so it's advisable to don layers\u2014perhaps a light cardigan or a stylish jacket that can be easily tossed over a t-shirt, allowing for comfort amidst the city's unique chilly warmth. \n\nFor those wandering the streets, consider a leisurely stroll along the Embarcadero, where the mist plays playfully with the structures lining the waterfront, or perhaps meander through the nearby Ferry Building, indulging in artisanal delights and taking in the soft murmur of conversations blending with the sound of distant waves. It\u2019s a day for appreciating the subtleties of urban life under a canvas of shifting clouds, where the understated beauty of San Francisco reveals itself to those who care to look closely.",
+    "color_code": "#7D8C9A",
+    "timestamp": "2025-07-21 07:02:29"
 }
