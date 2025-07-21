@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-20T23:43:00+00:00",
-            "temperature_f": 58.766,
-            "temperature_c": 14.87,
-            "humidity": 84.995646181956,
+            "timestamp": "2025-07-21T00:43:00+00:00",
+            "temperature_f": 59.126,
+            "temperature_c": 15.07,
+            "humidity": 81.999761023334,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-20T15:00:00-07:00",
-                "endTime": "2025-07-20T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 63. West southwest wind around 17 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-20T18:00:00-07:00",
+                "startTime": "2025-07-20T19:00:00-07:00",
                 "endTime": "2025-07-21T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind 13 to 17 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-07-21T06:00:00-07:00",
+                "endTime": "2025-07-21T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "13 to 18 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,20?size=medium",
+                "shortForecast": "Partly Sunny then Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle after 5pm. Partly sunny, with a high near 63. West southwest wind 13 to 18 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As twilight descends upon Downtown San Francisco, the atmosphere is painted in muted tones, heralding an afternoon that has blossomed under sunny skies, though not in the exuberant way one might wish for a July day. With temperatures drifting around a comfortable 63 degrees, the city\u2019s residents enjoy a gentle warmth accompanied by a west-southwest breeze sweeping through at a brisk 17 miles per hour, occasionally punctuated by gusts that dance with the sails of nearby boats, pushing the marine air ever closer.\n\nThe evening whispers of partly cloudy skies, assuring a low of around 56 degrees as shadows stretch and the chill begins to cover the landscape. Fog, characteristic of this coastal jewel, lingers at the edges, though it appears more sullen and restrained today, settling subtly around the Golden Gate, casting a soft haze that can blanket the iconic span in mystery. It is a reminder of the sea's close embrace, yet it does not overwhelm the clarity of the skyline. One might find this current scene delightfully tranquil, perfect for a leisurely stroll through the neighborhoods or a reflective moment at a local caf\u00e9 with a steaming cup of coffee, watching the world pass by from a window seat. A light jacket or a sweater would be wise; the evening air holds a slight bite that whispers, urging one to dress warmly against the encroaching coolness. As the day wanes and the city lights flicker to life, consider a walk along the waterfront or a visit to a bookshop, where the soft rustle of pages turns the mundane into the extraordinary in these long summer evenings.",
-    "color_code": "#A5C4D5",
-    "timestamp": "2025-07-20 18:29:45"
+    "weather_report": "As twilight envelops Downtown San Francisco, the city is poised between clarity and mystery. The air, once crisp and vivid, now carries a subtle coolness that whispers of the marine layer curling around the horizon. The forecast hints at a gentle evening ahead, with a low temperature resting around 56 degrees. A west-southwest wind dances through the streets, at times rushing with enthusiasm, bringing with it moments of bracing chill. The skies, partly cloudy, create a canvas tinged with resilience, presenting an invitation for evening strolls through the soft glow of street lamps reflecting on the pavement.\n\nLooking ahead, Monday arrives with a mild promise\u2014a slight chance of drizzle lingers in the afternoon air as the sun finds its way among the shifting clouds. A high near 63 allows for a comfortable embrace of the day, flickering between sunlit warmth and the embrace of shadows. Attire should blend practicality with comfort: layers will be your ally, as a light sweater or jacket becomes essential when the wind picks up, ensuring your evening out remains enjoyable, even as the air carries whispers of fog rolling in from the bay. This blend of coast and city calls for a relaxed afternoon\u2014perhaps a leisurely walk to one of the local cafes or a quiet reading nook where you can let the world drift by, swaying between the pleasures of city life and the serene openness of the coast.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-07-20 19:42:43"
 }
