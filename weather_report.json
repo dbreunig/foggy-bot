@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-22T03:00:00-07:00",
-                "endTime": "2025-07-22T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 27
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 5am. Cloudy, with a low around 56. West southwest wind around 8 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-07-22T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-07-22T07:00:00-07:00",
                 "endTime": "2025-07-22T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 63,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,20?size=medium",
                 "shortForecast": "Chance Light Rain",
                 "detailedForecast": "A chance of rain before 5pm. Mostly cloudy, with a high near 63. West southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-22T18:00:00-07:00",
+                "endTime": "2025-07-23T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 8
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. West wind 6 to 14 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "A soft haze cloaks Downtown San Francisco this morning, a whisper of summer fog mingling with the deeper gray of cloudy skies. As the dawn breaks, temperatures hover gently around 56 degrees, the chill hinting at the lingering marine layer that often cradles this city. There's a sense of calm in the air, though the forecast hints at the possibility of rain later in the day\u2014a persistent 30% chance suggesting a fleeting drizzle that acts almost as a gentle reminder of summer's complexities. \n\nBy midday, the clouds will hold sway over the skyline, allowing only glimpses of the sun's warmth before the chance for light rain returns. Dressing in layers will be wise, a cozy sweater or light jacket favored during these cool morning hours, ready to shed as the day progresses but sensible against the impending cool breeze. One might find joy in a leisurely stroll through the serene streets, perhaps pausing for a warm cup of coffee, the aroma mingling with the cool air. Alternatively, a visit to one of the city\u2019s eclectic bookstores or perhaps exploring its rich tapestry of art galleries would draw you into cozy corners as the rain teases the windowpanes.",
-    "color_code": "#657D98",
-    "timestamp": "2025-07-22 06:13:27"
+    "weather_report": "As the sun rises over Downtown San Francisco, it greets a canvas draped in hues of grey and silver, typical of a summer morning kissed by the lingering breath of the Pacific Ocean. The air hangs heavy with the prospect of a light drizzle before the day unfolds, though the chance of rain remains slight, cloaked within a 30% probability that whispers of a more temperamental sky. A West Southwest wind flirts with the trees, rustling leaves and nudging the chill of the morning into heartier garbs. The high is merely a whisper above sixty degrees, leaving one to ponder layering a light sweater over that casual t-shirt. \n\nAs the hours drift on, expect an evening shaped by clouds, blanketing the city as dusk approaches and temperatures flirt with a cozy mid-fifties chill. The fog, typical of these wraparound coastal lands, may find a way to weave itself into the skyline, cloaking the Golden Gate Bridge at times while imparting a serene mystique to the city. It\u2019s a day suited for striding along the Embarcadero, where the sight of the bay and the sounds of the city blend into a therapeutic concoction. Maybe a quiet visit to a local caf\u00e9, cradling a warm beverage as the world goes by, fits the mood. Outside, the fog rolls in gently, adding a touch of romance to the everyday moments.",
+    "color_code": "#8BA9C0",
+    "timestamp": "2025-07-22 07:02:48"
 }
