@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-22T17:43:00+00:00",
-            "temperature_f": 60.746,
-            "temperature_c": 15.97,
-            "humidity": 95.986134110055,
+            "timestamp": "2025-07-22T18:43:00+00:00",
+            "temperature_f": 60.638,
+            "temperature_c": 15.91,
+            "humidity": 91.992332326887,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-22T02:00:00-07:00",
-                "endTime": "2025-07-22T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 27
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 5am. Cloudy, with a low around 56. West southwest wind around 9 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-07-22T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-07-22T13:00:00-07:00",
                 "endTime": "2025-07-22T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 63,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 27
+                    "value": 21
                 },
-                "windSpeed": "7 to 14 mph",
+                "windSpeed": "10 to 14 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,20?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain before 5pm. Mostly cloudy, with a high near 63. West southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain before 5pm. Mostly cloudy, with a high near 63. West southwest wind 10 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-22T18:00:00-07:00",
+                "endTime": "2025-07-23T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 8
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. West wind 6 to 14 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "The air over Downtown San Francisco holds a whisper of anticipation, a subtle promise of moisture that seems to linger just out of reach. As the clocks gently tick toward early afternoon, the city remains shrouded in a blanket of cloudiness, merging the sky's colors into a muted palette of gray and soft blue. While the forecast calls for a chance of rain, it\u2019s the coolness of around 63 degrees that prevails, stirred by a smooth west-southwest wind gliding at a steady pace, creating a refreshing backdrop for the day ahead.\n\nThese are the kind of conditions where a light layering of clothing becomes your best companion; a light sweater or jacket should suffice against the chill that can creep in unexpectedly. This is a time to embrace the simple pleasures: perhaps stroll along the Embarcadero, where the cool breeze dances off the bay, or find a cozy caf\u00e9 to enjoy a warm cup of coffee as the rain gently taps the window\u2014should it arrive. The city, with its iconic landmarks softened by the clouds, invites a reflective mood, encouraging one to slow down and appreciate the quiet rhythm of this often bustling locale. Dress lightly, sip slowly, and let the cool sea air breathe new life into your day.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-07-22 12:03:00"
+    "weather_report": "In Downtown San Francisco this afternoon, the atmosphere is cloaked in gentle clouds, with a hint of potential rain lingering in the air. The temperature hovers around a comfortable 63 degrees, reminded persistently by a west-southwest wind that dances between 10 and 14 miles per hour, occasionally gusting to 21. With the forecast predicting only a slight chance of rain\u2014a mere 20%\u2014the day carries a tranquil air, though the clouds cast a soft veil over any vibrant hues, dulling the sharpness of the skyline.\n\nAs evening approaches and the temperature drops to 56 degrees, the veil of clouds persists, adding a hushed mood to the trails and streets. Finding one's way through this muted landscape could be an invitation to enjoy a leisurely walk, perhaps along the waterfront where the gentle lap of the bay melds with the ocean breeze. A light jacket or sweater may be advisable, keeping the cool tones of the day at bay while offering solace against lingering winds. It\u2019s a day for quiet reflections or a warm cup enjoyed on a patio\u2014simple pleasures greeted by the city's soft embrace as the sun dips behind the horizon.",
+    "color_code": "#A0A5A9",
+    "timestamp": "2025-07-22 13:01:38"
 }
