@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-23T13:43:00+00:00",
-            "temperature_f": 56.462,
-            "temperature_c": 13.59,
-            "humidity": 93.986482161553,
+            "timestamp": "2025-07-23T14:43:00+00:00",
+            "temperature_f": 57.146,
+            "temperature_c": 13.97,
+            "humidity": 85.970923267717,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-23T03:00:00-07:00",
-                "endTime": "2025-07-23T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 16
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle. Cloudy, with a low around 56. West southwest wind around 6 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-07-23T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-07-23T09:00:00-07:00",
                 "endTime": "2025-07-23T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "5 to 14 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
-                "shortForecast": "Patchy Drizzle then Partly Sunny",
-                "detailedForecast": "Patchy drizzle before 9am. Partly sunny, with a high near 64. West southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn,20/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 64. West southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-23T18:00:00-07:00",
+                "endTime": "2025-07-24T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 6 to 14 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfolds over Downtown San Francisco, a gentle drizzle lingers in the air, a soft reminder that the city\u2019s coastal embrace is never far away. The haze of clouds blankets the skyline, but beneath this somber veil, a promise of clarity beckons, particularly as the morning shifts into afternoon. By mid-day, the clouds are expected to part, allowing the sun\u2019s rays to playfully illuminate the streets, transforming the patchy gray into bursts of warmth. The brisk, west-southwest winds whisper through the city at speeds gentle enough to encourage exploration yet invigorating enough to remind you of the chill that a classic San Francisco evening might bring.\n\nAs you prepare for a day in this eclectic city, the forecast suggests a light jacket or sweater would serve you well, particularly if you\u2019re planning to venture near the waterfront where the marine layer often clings affectionately to the shoreline. The day invites you to wander through the hidden corners of your favorite neighborhood, perhaps indulging in a leisurely coffee at a tucked-away caf\u00e9 or sauntering past street artists showcasing their talents. Underneath the cloud-clad skies transitioning to sun-dappled streets, the city\u2019s rhythm remains alive with opportunities, inviting you to partake in its vibrant tapestry without the pressure of a hectic schedule.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-07-23 08:02:10"
+    "weather_report": "As the sun rises over Downtown San Francisco, it brings with it a canvas of partially veiled skies, the kind that dances along the line of bright blue patchiness and understated gray hues. The air is crisp, with gentle winds whispering of the ocean's embrace, creating a refreshing ambiance that feels both invigorating and uplifting. At a glance, the day unfolds softly, with temperatures poised to grace a comfortable 64 degrees. However, there lies a subtle play of clouds, hinting at the potential for a marine layer that might linger near the coast, veiling the iconic Golden Gate Bridge in a momentary mist. \n\nAs dusk approaches, the allure of tonight's conditions beckons. A gentle cloud cover is expected to settle, reminiscent of a light blanket, encouraging an evening under a soothing sky. Those venturing outdoors may wish to layer lightly\u2014perhaps a comfortable jacket paired with relaxed pants, perfect for a leisurely stroll down a quiet street or a casual cafe sit down for a warm drink. The 20% chance of precipitation adds a hint of unpredictability, yet it serves as a gentle reminder to embrace the charm of San Francisco's capricious weather. With this serene ambiance, one might find joy in simple pleasures\u2014browsing the indie bookstores that dot the city or wandering through the vibrant streets lined with unique eateries, each offering a taste of the culture that thrives in this mesmerizing enclave.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-07-23 09:01:49"
 }
