@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-24T12:43:00+00:00",
-            "temperature_f": 57.902,
-            "temperature_c": 14.39,
-            "humidity": 80.034612971009,
+            "timestamp": "2025-07-24T13:43:00+00:00",
+            "temperature_f": 57.92,
+            "temperature_c": 14.4,
+            "humidity": 80.997282936427,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-24T05:00:00-07:00",
-                "endTime": "2025-07-24T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Mostly cloudy, with a low around 56. West southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-07-24T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-07-24T08:00:00-07:00",
                 "endTime": "2025-07-24T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "5 to 14 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain/bkn?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Partly Sunny",
-                "detailedForecast": "A slight chance of drizzle before 11am. Partly sunny, with a high near 64. West southwest wind 5 to 14 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/day/rain/sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny, with a high near 64. West southwest wind 5 to 14 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-24T18:00:00-07:00",
+                "endTime": "2025-07-25T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 9
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle after 2am. Mostly cloudy, with a low around 56. West southwest wind 7 to 14 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfolds over Downtown San Francisco, a gentle embrace of clouds lingers, casting a muted yet serene veil across the skyline. The air carries a hint of the ocean, promising the possibility of a light drizzle, an ephemeral whisper of moisture before the day settles into its rhythm. With temperatures hovering comfortably in the mid-fifties, the atmosphere feels fresh, almost revitalizing. The morning will likely see this light drizzle fade, giving way to patches of blue as the sun ventures to break through the cloud cover around midday.\n\nAs the day progresses, the warmth will gently rise, peaking near sixty-four, with soft winds from the west southwest adding a pleasant breeze to the environment. While the sky may still play host to clouds, the overall clarity improves, making it a decent day to explore the nooks of the city\u2014perhaps a stroll along the waterfront or a leisurely coffee at a quaint caf\u00e9 where you can sip and unwind. The marine layer may still cling to the bridges and the hills, creating an ethereal canvas perfect for those who enjoy the charm of San Francisco\u2019s atmospheric conditions. Dressing in layers remains advisable: a light jacket or sweater to accommodate the cool morning air will suit the day\u2019s evolving warmth and soft breezes. Whether wandering through the energetic streets or enjoying a reflective moment in a park, today beckons for a blend of quiet contemplation and gentle exploration.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-07-24 07:02:26"
+    "weather_report": "As morning unfolds in Downtown San Francisco, the city is cloaked in the gentle embrace of a marine layer, a soft fog swirling around the urban landscape. With only a hint of drizzle expected before noon, the day feels crisp yet oddly inviting, atypically bright for the season as the sun prepares to break through the cloud cover. The high will flirt with 64 degrees, the west-southwest winds whispering through the streets, offering a cool caress that complements the remnants of spring. \n\nAs the evening approaches, the clouds will thickly settle back in, with more drizzle anticipated, creating an atmosphere perfect for introspection or tranquility. It\u2019s the kind of day best suited for a leisurely afternoon spent wandering the lesser-known streets of the city, perhaps stopping at a cozy caf\u00e9 for a warm drink, or seeking out quaint bookshops that invite you to lose track of time. Dressing in layers will grant you comfort\u2014perhaps a light sweater over a tee, paired with comfortable shoes, readying yourself for a stroll along the Hidden Garden Steps or the scenic trails of Land\u2019s End. Amidst the fog and the poignant nostalgia of a San Francisco afternoon, it\u2019s essential to embrace the beauty of this weather, allowing the stillness to inspire a reflective pause in your day.",
+    "color_code": "#AEB8D1",
+    "timestamp": "2025-07-24 08:01:32"
 }
