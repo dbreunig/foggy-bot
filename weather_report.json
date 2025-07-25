@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-25T15:43:00+00:00",
-            "temperature_f": 56.714,
-            "temperature_c": 13.73,
-            "humidity": null,
+            "timestamp": "2025-07-25T17:43:00+00:00",
+            "temperature_f": 58.784000000000006,
+            "temperature_c": 14.88,
+            "humidity": 88.983297381206,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,28 +18,9 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-07-25T11:00:00-07:00",
-                "endTime": "2025-07-25T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "8 to 15 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind 8 to 15 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-25T18:00:00-07:00",
-                "endTime": "2025-07-26T06:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-25T05:00:00-07:00",
+                "endTime": "2025-07-25T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
                 "temperatureUnit": "F",
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "8 to 14 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 56. West southwest wind 8 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 56. West southwest wind around 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-07-25T06:00:00-07:00",
+                "endTime": "2025-07-25T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 15 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Patchy Drizzle then Partly Sunny",
+                "detailedForecast": "Patchy drizzle before 11am. Partly sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind 7 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the sky today offers a mix of brightness and uncertainty, embodying the city's ever-elusive charm. Currently, the day is draped in a veil of partly sunny hues, the sun peeking out intermittently yet struggling to maintain dominance. The chilly air carries a brisk breeze from the west-southwest, nudging temperatures down to a gentle coolness by afternoon. By evening, expect a low drop near 56, accompanied by the subtle onset of patchy drizzle, reminiscent of the city's moody temperament.\n\nAs the hours wane, the potential for drizzle hints at a night spent in gentle solitude, perfect for draping oneself in a light jacket or perhaps wrapping up in a cozy shawl. It\u2019s a day that invites quiet strolls along the waterfront, where the shimmering bay meets the cool air, rewarding observant wanderers with its tranquil beauty. Favor the comfort of layers this evening\u2014ideal for sipping a warm drink while catching up with an old friend or simply absorbing the soft sounds of the city.",
-    "color_code": "#A9B0BB",
-    "timestamp": "2025-07-25 11:01:51"
+    "weather_report": "As the gentle embrace of drizzle blankets the evening in Downtown San Francisco, the sky hangs heavy with a shroud of clouds, heralding a night wrapped in gray cotton. The world below remains in relative calm, punctuated by a soft wind whispering through the streets, hinting at the chill of the sea. Despite the coolness, the amber lights of the city create a warm glow against the muted backdrop, casting a cozy invitation to explore the urban tapestry.\n\nAs dawn breaks on Friday, the promise of a partly sunny day begins to unfurl. Morning mists may linger with an air of mystery before yielding to brief glimpses of sunlight. Yet, the cool air remains, falling softly into the afternoon. Light layers paired with a light jacket will suit the weather beautifully, allowing for easy movement in the crisp breeze. Today is perfect for meandering through the artistic alleys of the Mission or sipping a warm cup at a local caf\u00e9, allowing the comforting embrace of good food and company to dispel any lingering chill. An art gallery visit or a leisurely walk along the waterfront would also reward any wanderer with fleeting views of a city both alive and momentarily at rest.",
+    "color_code": "#A9C5B2",
+    "timestamp": "2025-07-25 12:02:33"
 }
