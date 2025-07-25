@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-25T02:43:00+00:00",
-            "temperature_f": 58.946000000000005,
-            "temperature_c": 14.97,
-            "humidity": 79.167322291031,
+            "timestamp": "2025-07-25T03:43:00+00:00",
+            "temperature_f": 57.74,
+            "temperature_c": 14.3,
+            "humidity": 84.041902014733,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-24T14:00:00-07:00",
+                "endTime": "2025-07-24T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind around 14 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-24T21:00:00-07:00",
+                "startTime": "2025-07-24T18:00:00-07:00",
                 "endTime": "2025-07-25T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "7 to 13 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 56. West southwest wind 7 to 10 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-07-25T06:00:00-07:00",
-                "endTime": "2025-07-25T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "7 to 15 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
-                "shortForecast": "Patchy Drizzle then Partly Sunny",
-                "detailedForecast": "Patchy drizzle before 11am. Partly sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind 7 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 56. West southwest wind 7 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the evening air carries a hint of moisture, an unmistakable precursor to the patchy drizzle expected after two o'clock in the morning. With temperatures meandering around 56 degrees, it's a cool, cloudy night, but not entirely unwelcoming. The gentle west-southwest winds whisper through the streets, brushing against the skin with a soft caress that suggests a need for a light jacket or perhaps a cozy sweater, perfect for an evening stroll or a quiet coffee at a nearby caf\u00e9.\n\nAs dawn approaches, the remnants of the night may linger in the form of brief drizzles until late morning, before yielding to partly sunny skies. The forecast hints at highs near 63 degrees, gradually slipping to a cooler 61 by the afternoon. With winds kicking up to 15 mph, the day promises a refreshing breeze. It\u2019s a moment made for leisurely endeavors; perhaps a visit to a local gallery or a wandering through the vibrant streets filled with eclectic shops and caf\u00e9s. For the more adventurous, an early morning run along the waterfront sounds enticing, though one should be prepared for the playful embrace of the marine layer that often dances along the coastal edges. Embrace the conditions with easy elegance, dress in layers, and venture out to savor the unique character of San Francisco\u2019s urban charm.",
-    "color_code": "#A7B4C2",
-    "timestamp": "2025-07-24 21:14:01"
+    "weather_report": "In the heart of Downtown San Francisco, the day unfurls with a gentle pulse of sunshine, setting the stage for a pleasant afternoon. With temperatures nudging toward the mid-60s, a balmy breeze from the west southwest whispers against the skyline, carrying the promise of warmth while keeping the air brisk. As the shadows elongate in the early evening, a veil of clouds begins to roll in, hinting at a patch of drizzle after midnight. Tonight, the mercury dips to a comfortable 56 degrees, with whimsical gusts swirling through the streets, reminding passersby of the city\u2019s secretive charm. \n\nWhile the fog continues to play its unpredictable games with the coastline, this late-afternoon glow allows for enchanting views of the iconic city skyline sans any heavy marine layer. One could enjoy a leisurely stroll through Golden Gate Park, exchanging smiles with fellow wanderers, or perhaps find solace in a cozy caf\u00e9, hot drink in hand, as the urban rhythm slows. For warmth, layering is key\u2014perhaps a light sweater over a tee, perfect for those shifting temperatures. A calendar like this begs for simplicity: an evening spent in good company or with a book, savoring the changing moods of the city as it transitions from day to night.",
+    "color_code": "#D3D3D3",
+    "timestamp": "2025-07-24 22:06:40"
 }
