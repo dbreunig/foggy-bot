@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-24T17:00:00-07:00",
-                "endTime": "2025-07-24T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 62 in the afternoon. West wind around 14 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-24T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-25T00:00:00-07:00",
                 "endTime": "2025-07-25T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 56. West southwest wind 7 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 56. West southwest wind around 9 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-07-25T06:00:00-07:00",
+                "endTime": "2025-07-25T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 15 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Patchy Drizzle then Partly Sunny",
+                "detailedForecast": "Patchy drizzle before 11am. Partly sunny. High near 63, with temperatures falling to around 61 in the afternoon. West southwest wind 7 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the evening air is tempered by a delicate coolness, a hallmark of this coastal city wrapped in a gentle embrace of marine influence. The sky reveals itself as a tapestry of muted clouds, and while the sun has cast its glow through the day, that warmth now gives way to the familiar twist of fog that may tease its way in after midnight. A whisper of wind meanders through the streets, hinting at the crispness to come. As the shadows elongate, prepare for a night where warmth will find refuge in layers\u2014a light jacket or a cozy sweater will serve well against the encroaching chill.\n\nAs the night unfolds, the drizzle becomes a possible companion after the hour of two, a soft reminder that the essence of downtown life is not only to be lived in sunlight but also in the rhythm of raindrops drawing patterns on sidewalks. With this autumn-like quality descending upon the evening, now is the perfect time to indulge in a leisurely stroll through the streets, perhaps seeking out the warm glow of a caf\u00e9. Embrace the charm of a hot beverage, allowing the simple warmth to counterbalance the cool touch of the evening air, as the city's heartbeat continues unperturbed\u2014even as the fog swirls and dances just beyond the reach of what the eye can see.",
-    "color_code": "#CCCCCC",
-    "timestamp": "2025-07-24 23:01:48"
+    "weather_report": "As the night deepens over Downtown San Francisco, a gentle overture of patchy drizzle begins to weave its way through the air. The clouds gather above like a soft quilt, enveloping the city in a cool embrace, with temperatures hovering around a mild 56 degrees. The wind whispers softly from the west southwest, reminding us of the ocean's unseen presence. As dawn approaches, the mist dances playfully, hinting at a day that will unfurl before us.\n\nFriday looks set to reveal hints of brightness after the morning drizzle, transforming the skies to partly sunny as the day matures. While the temperature creeps upward toward a high of 63, a subtle coolness lingers in the afternoon air, as though the city is reluctant to let go of the night. The wind will continue its gentle conversation, gusting up to 22 mph, a nice accompaniment for those who venture outdoors. The marine layer may settle in, particularly through the more brushed horizons towards the coast, offering that distinct coastal fog\u2014a signature of our city\u2019s character.\n\nIn terms of attire, layering will be your trusted friend this day. A light jacket with a cozy sweater beneath will provide comfort against the chill, as you explore the quaint streets, perhaps indulging in a warm beverage at a local caf\u00e9 while you observe the shift of the day. Art galleries, bookstores, or a serene walk through the park could offer delightful respite from the ebbs of drizzle, providing a rich, reflective experience that San Francisco so beautifully offers on such modest days.",
+    "color_code": "#A3B5C0",
+    "timestamp": "2025-07-25 00:03:40"
 }
