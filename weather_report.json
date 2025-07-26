@@ -10,7 +10,7 @@
             "timestamp": "2025-07-26T16:43:00+00:00",
             "temperature_f": 58.315999999999995,
             "temperature_c": 14.62,
-            "humidity": 89.897940711261,
+            "humidity": 89.956707747468,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-07-26T11:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-26T04:00:00-07:00",
+                "endTime": "2025-07-26T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 56. West southwest wind around 8 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-07-26T06:00:00-07:00",
                 "endTime": "2025-07-26T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -27,36 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 6
-                },
-                "windSpeed": "9 to 14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 62. West southwest wind 9 to 14 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-26T18:00:00-07:00",
-                "endTime": "2025-07-27T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 15
                 },
                 "windSpeed": "7 to 14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 56. West wind 7 to 14 mph, with gusts as high as 21 mph."
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Patchy Drizzle then Partly Sunny",
+                "detailedForecast": "Patchy drizzle before 11am. Partly sunny, with a high near 62. West southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "A gentle hush envelops Downtown San Francisco this morning. The air carries a mild chill, wisps of fog threading through the cityscape, especially nearing the Golden Gate Bridge, hinting at the encroaching marine layer that often dances between land and sea. The sun, albeit partially victorious, bathes the city in a soft glow, struggling against scattered clouds that shift languidly across the sky. Highs today are tipped at around 62, a reminder that even in summer, the winds from the west-southwest soothe rather than scorch, refreshing as they pick up strength to flirt with gusts of 21 mph.\n\nAs dusk approaches, clouds will deepen, cloaking the city in a more subdued embrace. With the evening\u2019s low hovering around 56, layering becomes essential. Consider a light sweater or a stylish jacket that can fend off the cooling breezes, perfect for a leisurely walk along the Embarcadero or a reflective moment at one of the cozy caf\u00e9s, perhaps savoring a warm drink while watching the world drift by. With a blend of warmth and coolness, today feels like an invitation to engage with the city\u2019s quieter corners\u2014the hidden parks or muraled alleys waiting to be explored as the city meanders through its day.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-07-26 11:01:36"
+    "weather_report": "In the gentle embrace of San Francisco\u2019s late afternoon, the atmosphere leans towards the cool and subdued, a reflection of the city\u2019s ever-evolving maritime moods. As daylight fades, the remnants of earlier drizzle linger in the air, weaving a faint cloak of moisture around the skyline. Set against a backdrop of patchy clouds hanging low, the iconic structures appear spirited yet slightly shrouded, hinting at the ethereal play of fog typical for this time of year. The wind whispers softly from the west, as if teasing the edges of the marine layer that often graces the Golden Gate and the surrounding hills.\n\nFor those venturing out into this muted landscape, a light jacket would serve well, providing comfort against the crispness of the air. It\u2019s a day that invites simple pleasures\u2014perhaps a stroll along the Embarcadero, where the creative bustle of street performers harmonizes with the delicious aromas wafting from nearby eateries. Alternatively, one might find solace in a cozy caf\u00e9, sipping a warm drink while watching the world pass by, wrapped in the comforting cadence of urban life. Today\u2019s charm lies in its understated beauty, urging one to savor each moment in the delightful embrace of San Francisco\u2019s eclectic spirit.",
+    "color_code": "#B0C4C4",
+    "timestamp": "2025-07-26 12:01:34"
 }
