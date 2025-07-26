@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-26T05:00:00-07:00",
-                "endTime": "2025-07-26T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 56. West southwest wind around 8 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
+                "name": "Today",
                 "startTime": "2025-07-26T06:00:00-07:00",
                 "endTime": "2025-07-26T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
                 "shortForecast": "Patchy Drizzle then Partly Sunny",
                 "detailedForecast": "Patchy drizzle before 11am. Partly sunny, with a high near 62. West southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-26T18:00:00-07:00",
+                "endTime": "2025-07-27T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. West wind 7 to 14 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a veil of patchy drizzle gently drapes the city, laced with fleeting moments of softness. The air is cool, kissing the skin with a temperature around 56 degrees, inviting thoughts of cozy layers. Clouds linger above, shrouding the skyline yet hinting at the playful prospect of clearer skies as the day unfolds. The west-southwest winds rustle through the streets, a soft whisper at around eight miles per hour, ushering in the morning\u2019s calm before the gusts pick up through the day.\n\nSaturday promises a medley of moments: drizzle is forecasted to drift away by late morning, yielding to a canvas of partly sunny skies. With the high reaching near 62 degrees, there's a delicate balance between warmth and the lingering chill. As the sun breaks the horizon, consider donning a light jacket, perhaps a trusty scarf to ward off the lingering coolness as you explore the winding streets or enjoy a quiet coffee at your favorite caf\u00e9. Engaging with the city\u2019s vibrant energy could be a delightful choice\u2014strolling through the less-busy parks or visiting a local boutique, as the weather transitions from moisture-drenched to pleasantly mild, inviting the spirit to wander freely, yet comfortably.",
-    "color_code": "#AAB8B0",
-    "timestamp": "2025-07-26 05:01:51"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the city stirs under a lazy quilt of clouds, a gentle morning drizzle pattering lightly on rooftops before subsiding. The air is cool, settling around a comforting 56 degrees, with hints of sunshine fighting to break through the veil of gray. The promise of partially sunny skies hangs like the scent of coffee wafting from your favorite caf\u00e9, while a soft west wind whispers through the streets, suggesting a brisk walk in layers rather than risk the chill. \n\nAs the day unfolds, expect a high of near 62, a temperature that invites light jackets or perhaps a cozy sweater. The light breeze dances along with occasional gusts, allowing for moments of refreshing clarity amid the urban haze. There\u2019s a subtle presence of the marine layer, holding the city's charm in a soft embrace, particularly around the Golden Gate, where fog often takes a scenic bow. This isn\u2019t a day to stay indoors; the world outside beckons for uncomplicated pleasure\u2014perhaps a leisurely stroll along the waterfront or a visit to a quiet nook of one of the vibrant local parks. Art in the galleries or a chat over tea in a caf\u00e9 may provide just the respite from the bustle that you seek, making the most of this mostly cloudy yet pleasant day.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-07-26 06:10:21"
 }
