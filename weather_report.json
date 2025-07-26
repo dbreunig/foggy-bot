@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-25T16:00:00-07:00",
-                "endTime": "2025-07-25T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 62. West wind around 15 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-25T18:00:00-07:00",
+                "startTime": "2025-07-25T23:00:00-07:00",
                 "endTime": "2025-07-26T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "8 to 14 mph",
+                "windSpeed": "8 to 12 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 56. West southwest wind 8 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 56. West southwest wind 8 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-07-26T06:00:00-07:00",
+                "endTime": "2025-07-26T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Patchy Drizzle then Partly Sunny",
+                "detailedForecast": "Patchy drizzle before 11am. Partly sunny, with a high near 62. West southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "This evening in Downtown San Francisco, the atmosphere holds a delicate charm as the sun gently dips beyond the horizon, giving way to partly sunny skies that flirt with clouds. The temperature, mild yet cool, lingers around 62 degrees, inviting a light jacket or perhaps a cozy sweater to ward off the evening chill that accompanies the west wind, which rustles softly through the streets at 15 mph. As darkness settles, the air turns powdery with the promise of patchy drizzle emerging after two a.m., a whisper of moisture hinting at a night spent contemplating the sounds of distant waves or perhaps lingering over a cup of tea.\n\nWhile the iconic fog may not lay heavily upon the city right now, shadows from the marine layer suggest a gentle embrace will return as night advances, particularly shrouding the Golden Gate Bridge in a soft, ghostly veil. For the adventurous souls, a stroll through nearby parks, or a visit to a local caf\u00e9, where the warm aroma of coffee beckons, could provide just the right escape from the evening's briskness. The night, still fresh, beckons; perhaps a mindful moment atop a hill, taking in the shimmering lights of the city, could be the perfect way to unwind before retreating indoors.",
-    "color_code": "#B0C4D8",
-    "timestamp": "2025-07-25 22:04:05"
+    "weather_report": "As twilight drapes its soft veil over Downtown San Francisco, a gentle drizzle whispers through the air, reminiscent of a delicate brush on canvas, heralding an evening steeped in a tranquil obscurity. With temperatures settling around a mild 56 degrees, the environment bears that quintessential chill, complemented by a light west-southwest breeze that playfully dances through the streets. While patches of cloud weave across the skyline, they offer a graceful reminder of the city\u2019s ever-changing mood, encapsulated by a modest 20% chance of persistent precipitation.\n\nAs dawn approaches on Saturday, one can expect a continuation of this drizzly narrative in the morning hours, although the clouds may part to unveil fleeting patches of sunlight. By midday, the day looms promisingly bright, inviting exploration amidst the lingering coolness that will touch the early afternoon high near 62 degrees. The winds will weave their way through the avenues, gentle yet persistent. Dress in layers, perhaps a light jacket over a sweater, to navigate the cool breezes without a hint of discomfort. For those pondering the day\u2019s pursuits, a leisurely stroll through the vibrant streets, a visit to a cozy caf\u00e9 to sip on warm drinks, or even an art gallery exploration to relish the city\u2019s creative offerings would be ideal. Let the weather guide you; it\u2019s a call to savor the nuances of this enchanting urban tapestry.",
+    "color_code": "#BDC3C7",
+    "timestamp": "2025-07-25 23:01:42"
 }
