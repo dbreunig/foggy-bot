@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-26T03:43:00+00:00",
-            "temperature_f": 57.83,
-            "temperature_c": 14.35,
-            "humidity": 94.020923818636,
+            "timestamp": "2025-07-26T05:43:00+00:00",
+            "temperature_f": 57.614,
+            "temperature_c": 14.23,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-25T17:00:00-07:00",
+                "endTime": "2025-07-25T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 62. West wind around 15 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-25T23:00:00-07:00",
+                "startTime": "2025-07-25T18:00:00-07:00",
                 "endTime": "2025-07-26T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "8 to 14 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 56. West southwest wind 8 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-07-26T06:00:00-07:00",
-                "endTime": "2025-07-26T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "7 to 14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
-                "shortForecast": "Patchy Drizzle then Partly Sunny",
-                "detailedForecast": "Patchy drizzle before 11am. Partly sunny, with a high near 62. West southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy drizzle after 2am. Mostly cloudy, with a low around 56. West southwest wind 8 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As twilight drapes its soft veil over Downtown San Francisco, a gentle drizzle whispers through the air, reminiscent of a delicate brush on canvas, heralding an evening steeped in a tranquil obscurity. With temperatures settling around a mild 56 degrees, the environment bears that quintessential chill, complemented by a light west-southwest breeze that playfully dances through the streets. While patches of cloud weave across the skyline, they offer a graceful reminder of the city\u2019s ever-changing mood, encapsulated by a modest 20% chance of persistent precipitation.\n\nAs dawn approaches on Saturday, one can expect a continuation of this drizzly narrative in the morning hours, although the clouds may part to unveil fleeting patches of sunlight. By midday, the day looms promisingly bright, inviting exploration amidst the lingering coolness that will touch the early afternoon high near 62 degrees. The winds will weave their way through the avenues, gentle yet persistent. Dress in layers, perhaps a light jacket over a sweater, to navigate the cool breezes without a hint of discomfort. For those pondering the day\u2019s pursuits, a leisurely stroll through the vibrant streets, a visit to a cozy caf\u00e9 to sip on warm drinks, or even an art gallery exploration to relish the city\u2019s creative offerings would be ideal. Let the weather guide you; it\u2019s a call to savor the nuances of this enchanting urban tapestry.",
-    "color_code": "#BDC3C7",
-    "timestamp": "2025-07-25 23:01:42"
+    "weather_report": "In the heart of Downtown San Francisco, the day unfolds under a partly sunny sky, a gentle light washing over the city as the temperature seeks its peak near 62 degrees. The west wind whispers through the streets, a playful breeze at around 15 miles per hour that occasionally stirs into gusts, reminding passersby of nature's subtle energy. As dusk approaches, the sky begins its soft transition into a blanket of clouds, with patchy drizzle expected after 2 AM, promising a tranquil evening ahead.\n\nAs you step outside, the air feels cool, hinting at summer's flirting embrace, yet it carries an undercurrent of moisture that suggests the night will bring its own serenade of soft rain. To navigate this gentle weather, one might don a light jacket, embracing the coolness while remaining prepared for the nighttime drizzles. The city invites a leisurely stroll along the Embarcadero, where the view of the bay is obscured slightly by the marine layer, casting a veil over the Golden Gate as if the landscape itself breathes in synch with the rhythms of the ocean. This blend of clarity and refinement invites a moment of contemplation as the city prepares to embrace the dusk, perfect for sipping warm coffee at an outdoor caf\u00e9, all while reveling in the stories the murmuring breeze may carry.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-07-26 00:02:15"
 }
