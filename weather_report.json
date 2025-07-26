@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-26T16:43:00+00:00",
-            "temperature_f": 58.315999999999995,
-            "temperature_c": 14.62,
-            "humidity": 89.956707747468,
+            "timestamp": "2025-07-26T18:43:00+00:00",
+            "temperature_f": 58.766,
+            "temperature_c": 14.87,
+            "humidity": 95.024967530464,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-26T04:00:00-07:00",
-                "endTime": "2025-07-26T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 56. West southwest wind around 8 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-07-26T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-07-26T13:00:00-07:00",
                 "endTime": "2025-07-26T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 15
+                    "value": 6
+                },
+                "windSpeed": "14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 62. West southwest wind around 14 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-26T18:00:00-07:00",
+                "endTime": "2025-07-27T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
                 },
                 "windSpeed": "7 to 14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
-                "shortForecast": "Patchy Drizzle then Partly Sunny",
-                "detailedForecast": "Patchy drizzle before 11am. Partly sunny, with a high near 62. West southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. West wind 7 to 14 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "In the gentle embrace of San Francisco\u2019s late afternoon, the atmosphere leans towards the cool and subdued, a reflection of the city\u2019s ever-evolving maritime moods. As daylight fades, the remnants of earlier drizzle linger in the air, weaving a faint cloak of moisture around the skyline. Set against a backdrop of patchy clouds hanging low, the iconic structures appear spirited yet slightly shrouded, hinting at the ethereal play of fog typical for this time of year. The wind whispers softly from the west, as if teasing the edges of the marine layer that often graces the Golden Gate and the surrounding hills.\n\nFor those venturing out into this muted landscape, a light jacket would serve well, providing comfort against the crispness of the air. It\u2019s a day that invites simple pleasures\u2014perhaps a stroll along the Embarcadero, where the creative bustle of street performers harmonizes with the delicious aromas wafting from nearby eateries. Alternatively, one might find solace in a cozy caf\u00e9, sipping a warm drink while watching the world pass by, wrapped in the comforting cadence of urban life. Today\u2019s charm lies in its understated beauty, urging one to savor each moment in the delightful embrace of San Francisco\u2019s eclectic spirit.",
-    "color_code": "#B0C4C4",
-    "timestamp": "2025-07-26 12:01:34"
+    "weather_report": "This afternoon, Downtown San Francisco meets a canvas of mostly sunny skies, inviting many to step outside and embrace the breezy enchantment that often graces the city. The temperature hovers around a pleasant 62 degrees, with a gentle west-southwest wind whispering at 14 mph, occasionally lifting to playful gusts of 21 mph. As the golden orb sways toward its rest, the coolness of the ocean's embrace dances near, suggesting it might be wise to layer a light jacket over a comfortable shirt.\n\nAs twilight approaches, the clouds prepare to blanket the sky, ushering in a low around 56 degrees. Yet this evening offers its own charm\u2014a serenity tempered by the calm clouds, perfect for leisurely strolls along the waterfront or finding solace in a cozy caf\u00e9, perhaps with a good book or gentle conversation. The marine layer may lay low, silently painting the horizon with its ethereal presence, making the Golden Gate Bridge peek out only intermittently. Dress for comfort and warmth, find a moment to unwind, and let the city's vibrant atmosphere envelop you as day deepens into night.",
+    "color_code": "#A8C8E5",
+    "timestamp": "2025-07-26 13:01:24"
 }
