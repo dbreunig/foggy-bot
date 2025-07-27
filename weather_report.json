@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-27T09:43:00+00:00",
-            "temperature_f": 56.318,
-            "temperature_c": 13.51,
+            "timestamp": "2025-07-27T11:43:00+00:00",
+            "temperature_f": 55.796,
+            "temperature_c": 13.22,
             "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-27T05:00:00-07:00",
-                "endTime": "2025-07-27T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Mostly cloudy, with a low around 56. West southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2025-07-27T06:00:00-07:00",
                 "endTime": "2025-07-27T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain/bkn?size=medium",
                 "shortForecast": "Slight Chance Drizzle then Partly Sunny",
                 "detailedForecast": "A slight chance of drizzle before 11am. Partly sunny, with a high near 63. West southwest wind 7 to 14 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-27T18:00:00-07:00",
+                "endTime": "2025-07-28T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 56. West wind 7 to 14 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "As dawn gently unfolds, a subtle veil of clouds blankets the city, hinting at a day that will awaken slowly. The current scene whispers of a slight chill in the air, an invitation for a light jacket as the temperatures rest at a comfortable 56 degrees. The westerly winds swirl softly, carrying the scent of salt and the promise of the sea. There might be a faint drizzle that dances across the rooftops, a reminder that even the sunniest cities hold secrets of moisture within their coastal embrace.\n\nAs the sun rises higher, expect the morning clouds to begin to part, revealing patches of blue that will gradually spread across the sky. By midday, the warmth will coax you into lighter layers, as the mercury creeps near 63 degrees. With a breeze that could rock a sail, gentle gusts up to 21 mph will swirl through the streets, creating a vivacious energy that teases the senses. While the marine layer loiters near the horizon, obscuring the majestic Golden Gate Bridge at times, it serves as a backdrop for serene moments\u2014where the fog tangles with urban life, rendering the familiar both ethereal and retro.\n\nGiven these conditions, a stroll through the Presidio might reveal the delicate interplay of light and shadow, whilst capturing glimpses of the shy sun. Perhaps a leisurely coffee from a local caf\u00e9, enjoyed outside as you take in the invigorating air, will complement your morning perfectly. Button up, breathe deeply, and savor the gentle pulse of this fine San Francisco day.",
-    "color_code": "#A6B1B3",
-    "timestamp": "2025-07-27 05:02:03"
+    "weather_report": "This morning in Downtown San Francisco greets you with a gentle hint of drizzle, a whisper of moisture that dances away before mid-morning. As the sun edges closer to its high, the atmosphere becomes partly sunny, promising warmth with a high that flirts around the low sixties. A soft west-southwest breeze offers a comforting caress, with gusts that weave through the streets, adding a delightful rhythm to the day. \n\nEvening will bring a quilt of partial clouds, wrapping the city in a cozy embrace as temperatures dip to a mild fifty-six \u2014 ideal for an evening stroll or enjoying a conversation on a patio. Dress in layers for the day\u2019s journey: a light sweater will suit well for the fresh morning air that clings to the skin, while a light jacket may become your trusted companion as twilight wraps its arms around the city. With the sun illuminating the buildings and the iconic skyline peeking through, consider a walk down to the waterfront or a quiet afternoon at a caf\u00e9, where the world becomes a little quieter and the flavors a little richer beneath the dancing sunlight.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-07-27 06:10:44"
 }
