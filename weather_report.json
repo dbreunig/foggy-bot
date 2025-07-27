@@ -10,7 +10,7 @@
             "timestamp": "2025-07-27T03:43:00+00:00",
             "temperature_f": 57.47,
             "temperature_c": 14.15,
-            "humidity": 96.870768610901,
+            "humidity": 96.996784810459,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-26T14:00:00-07:00",
+                "endTime": "2025-07-26T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 62. West southwest wind around 14 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-26T22:00:00-07:00",
+                "startTime": "2025-07-26T18:00:00-07:00",
                 "endTime": "2025-07-27T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 3
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "7 to 14 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 56. West wind 7 to 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-07-27T06:00:00-07:00",
-                "endTime": "2025-07-27T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "6 to 14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 63. West southwest wind 6 to 14 mph, with gusts as high as 21 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 56. West wind 7 to 14 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "As evening settles over Downtown San Francisco, a gentle cloak of clouds wraps the city, creating a soothing ambiance under the dimming light. The temperature hugs a comfortable 56 degrees, and a light west wind dances through the streets, whispers of the day lingering in the air. The remnants of sunlight flirt briefly with the edges of gray, offering a promise of a softer dawn just beyond the horizon.\n\nLooking ahead to Sunday, the city is poised for a delicate transformation. By midday, expect a delightful shift as the sun breaks through the clouds, possibly casting its warm gaze upon iconic landmarks with a high near 63 degrees. The breezy southwest winds will add a lively touch, stirring the day's potential as gusts flirt with the rooftops. For those venturing out, layering will be key\u2014consider a light jacket for the morning chill, easily shed as the day unfolds. With the allure of partly sunny skies, the perfect plan might include a stroll along the waterfront or a quiet corner at a local caf\u00e9 where you can savor a moment of respite while watching the city come alive.\n\nIn the coming hours, the fog may still linger, offering a marine layer that could wrap around the Golden Gate, an ethereal touch to the evening\u2019s canvas. However, the day promises to welcome warmth and mild winds, perfect for those looking to seize the early afternoon. Outdoor enthusiasts might relish in the renewed energy, perhaps indulging in a leisurely walk through one of the city's many parks, or finding a hidden nook to read and unwind, embracing the gentle ebb and flow of San Francisco's diverse offerings.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-07-26 22:06:08"
+    "weather_report": "In Downtown San Francisco, the weather unfolds with a gentle clarity, as remnants of the sun's warmth linger in the air. This afternoon's embrace of mostly sunny skies greets residents with a high near 62, while a playful west-southwest wind dances at 14 mph, occasionally gusting to 21 mph\u2014a brisk note that adds an element of lively freshness to the day. However, as twilight approaches, the city prepares to don its evening attire of mostly cloudy skies, softly settling into a low around 56. The west wind, maintaining its spirited presence, whispers to those outside, encouraging layers to ward off a slight chill.\n\nAs one glides through the streets, the cityscape glows subtly, capturing the essence of a San Francisco summer. Although the fog remains just a distant thought, one can sense the lingering marine layer\u2014a gentle reminder of the Pacific's steadfast presence. Venture into the comfort of a light jacket or a cozy sweater, because as night descends, it might be the perfect excuse to retreat to a nearby caf\u00e9 or a quaint bookstore. Engaging with a good book over a warm beverage seems a fitting way to appreciate the serene, mild evening that San Francisco so effortlessly offers today.",
+    "color_code": "#A9B4C8",
+    "timestamp": "2025-07-26 23:01:47"
 }
