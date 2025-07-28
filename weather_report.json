@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-28T04:43:00+00:00",
-            "temperature_f": 58.838,
-            "temperature_c": 14.91,
-            "humidity": 88.985721639596,
+            "timestamp": "2025-07-28T06:43:00+00:00",
+            "temperature_f": 58.676,
+            "temperature_c": 14.82,
+            "humidity": 88.978446515159,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-27T15:00:00-07:00",
-                "endTime": "2025-07-27T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "22 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 63. West southwest wind around 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-27T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-28T01:00:00-07:00",
                 "endTime": "2025-07-28T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "13 to 22 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 11pm. Partly cloudy, with a low around 56. West southwest wind 13 to 22 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle. Partly cloudy, with a low around 56. West southwest wind around 8 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-07-28T06:00:00-07:00",
+                "endTime": "2025-07-28T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 6 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the hour settles into the quiet of the night, Downtown San Francisco brims with an understated allure. The sun has retreated, leaving behind a tranquil backdrop, kissed by gentle hues of twilight. Current conditions reveal a clear, star-speckled expanse above, with the warmth of the day yielding to a comfortable embrace that hovers near 56 degrees. The enticing possibility of light drizzle after eleven casts a delicate anticipation over the evening, a whisper of the ocean\u2019s presence that often brushes the city at night.\n\nTomorrow promises a delightful sun-soaked atmosphere, with the day expected to edge toward 63 degrees. The robust west-southwest winds will dance around the city, offering a refreshing breeze that teases the hair and invigorates the spirit. The marine layer will linger, perhaps shrouding parts of the coastline in wispy fog, ready to sweep in as the evening sun disappears behind the horizon. Dress in layers\u2014think a light sweater or a stylish jacket\u2014to navigate the fluctuating temperatures with ease. For an evening stroll along the waterfront or a quiet gathering at an outdoor caf\u00e9, wrap yourself in comfort while indulging in the vibrant city life, letting the soft sounds of laughter and conversation blend harmoniously with the backdrop of distant waves.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2025-07-28 00:04:50"
+    "weather_report": "As the gentle veil of night clings to Downtown San Francisco, a subtle hint of drizzle dances in the air, whispering tales of moisture as the city cozies under a shroud of partly cloudy skies. The temperature settles around a mild 56 degrees, a familiar embrace for those who know the enchantment of a Pacific night. Winds waltz softly from the west, a mere 8 mph, bringing with them the promise of a new day\u2014one that embraces clarity chased by the sun.\n\nCome Monday morning, the sun promises to rise and unveil the city beneath a splendidly sunny fa\u00e7ade, with highs reaching into the mid-sixties before mellowing into the afternoon's cool embrace. Heartfelt bursts of wind stir about, threading through the streets at 6 to 14 mph, carrying a sense of adventure alongside the hint of that ever-persistent summer fog. As day breaks, the haze may linger momentarily, but with only a slight chance of further drizzle, one can envision laughter echoing from the bustling cafes and parks, where locals might revel in a leisurely stroll or an outdoor brunch adorned with warm pastries.\n\nIn this reverie of moderate temperatures and light breezes, a light jacket over a comfortable shirt would serve well; the unassuming layers allow for warmth should the humidity rise or the winds pick up. A visit to the local farmers' market could prove delightful, with fresh fruits and artisanal crafts waiting for curious hands. Alternatively, one might consider a thoughtful moment on a park bench, sipping coffee while observing the ebb and flow of life in this vibrant city\u2014each day a fresh canvas painted with the colors of its inhabitants.",
+    "color_code": "#A3B1C6",
+    "timestamp": "2025-07-28 01:01:49"
 }
