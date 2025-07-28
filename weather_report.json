@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-28T15:43:00+00:00",
-            "temperature_f": 58.153999999999996,
-            "temperature_c": 14.53,
-            "humidity": 93.906782452003,
+            "timestamp": "2025-07-28T16:43:00+00:00",
+            "temperature_f": 58.388,
+            "temperature_c": 14.66,
+            "humidity": 91.857630356466,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-28T05:00:00-07:00",
-                "endTime": "2025-07-28T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Partly cloudy, with a low around 56. West southwest wind around 9 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-07-28T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-07-28T11:00:00-07:00",
                 "endTime": "2025-07-28T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 65,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 15
+                    "value": 1
                 },
-                "windSpeed": "8 to 20 mph",
+                "windSpeed": "9 to 20 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
-                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 8 to 20 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 9 to 20 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-28T18:00:00-07:00",
+                "endTime": "2025-07-29T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "9 to 18 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind 9 to 18 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "As the morning unfolds over Downtown San Francisco, a gentle, muted light stretches across the cityscape, hinting at a day that begins with subtle seaside whispers. The chance of light drizzle remains, a mere 20%, surrendering to mostly sunny skies as the sun climbs higher. Temperatures flirt with mildness, peaking at around 65, then dipping slightly in the afternoon\u2014a reminder of the cool embrace of the Bay Area's maritime influence. The air carries a soft, invigorating breeze from the west, urging residents to wrap themselves in light layers, perhaps a cardigan over a tee, ideal for exploring the urban sprawl or savoring a warm cup of coffee at a quaint caf\u00e9.\n\nAs you stroll the streets, the marine layer may veil some coastal views, but the promise of clearer skies ahead beckons for a leisurely adventure. Consider wandering through the local parks, where the vibrant greens compete with the blue horizon, or perhaps meandering down a less-traveled street, discovering hidden bistros. The gentle mix of crisp air and filtered sunlight makes it a perfect day to indulge in simple pleasures\u2014reading a book in a sun-dappled corner or engaging in heartfelt conversation with friends. Today offers the kind of calm familiarity that begs you to pause and appreciate the ambiance of urban life against the gravity of nature's subtleties.",
-    "color_code": "#BCC4D3",
-    "timestamp": "2025-07-28 10:04:06"
+    "weather_report": "In the heart of Downtown San Francisco, a soft light bathes the city today, as skies remain resolutely sunny, though temperatures will gradually edge down into the afternoon. The winds whisper through the streets, gentle yet persistent from the west southwest, adding a refreshing element to the warm embrace of the day. Despite the inviting weather, a thin veil of haze suggests that the city may have its typical morning fog lurking in the distance, diminishing the clear outlines of the Golden Gate and accentuating the enchanting silhouette of the skyline.\n\nAs evening approaches, the clouds will play coy, drifting in to wrap the city in a mild, partly cloudy embrace. With temperatures cooling to a comfortable 56 degrees, the breeze will remain, making layers a prudent choice. A light jacket will suffice, allowing for comfort as you stroll through lively neighborhoods, explore local cafes, or enjoy the urban rhythm around you. Given the pleasant yet breezy nature of the day, perhaps a quiet gathering with friends in one of the city\u2019s parks would hit the right note, where laughter mingles with the sounds of nature, and the unfolding twilight calls for a relaxed, soulful evening.",
+    "color_code": "#A5B2C1",
+    "timestamp": "2025-07-28 11:01:50"
 }
