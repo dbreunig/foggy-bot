@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-28T14:43:00+00:00",
-            "temperature_f": 57.848,
-            "temperature_c": 14.36,
-            "humidity": 94.021375045834,
+            "timestamp": "2025-07-28T15:43:00+00:00",
+            "temperature_f": 58.153999999999996,
+            "temperature_c": 14.53,
+            "humidity": 93.906782452003,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-07-28T09:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-28T05:00:00-07:00",
+                "endTime": "2025-07-28T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle. Partly cloudy, with a low around 56. West southwest wind around 9 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-07-28T06:00:00-07:00",
                 "endTime": "2025-07-28T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 65,
@@ -31,32 +50,13 @@
                 },
                 "windSpeed": "8 to 20 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/few?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Sunny",
-                "detailedForecast": "A slight chance of drizzle before 11am. Sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 8 to 20 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-28T18:00:00-07:00",
-                "endTime": "2025-07-29T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 to 18 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind 9 to 18 mph, with gusts as high as 23 mph."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 8 to 20 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the morning unfolds with an ethereal quality, a gentle whisper of promise lingering in the air. Though the forecast hints at a mere slight chance of drizzle earlier, it gives way to a clear, sun-drenched day, where the typical coastal haze seems to have retreated, making way for a refreshing breeze. As the mercury hovers around 65 degrees, it drifts gracefully downward toward 63 in the afternoon\u2014a tender reminder of the city\u2019s capricious climate. The west-southwest winds, lively at 8 to 20 mph, ripple through the streets, carrying with them a freshness that invigorates the senses.\n\nLooking at the skies, they promise a canvas of partly cloudy wonders tonight, with temperatures settling at a pleasant 56. This day evokes potential and invites leisurely strolls through neighborhood parks or a visit to the local caf\u00e9, perhaps nestled on a sunlit patio. Dress in layers, with a light jacket to embrace the cool evening air, and indulge in the beauty of this coastal gem. Whether exploring the cobbled streets or savoring conversations with friends, today brims with a tranquil warmth that beckons you outside to relish the vibrancy of life in the city.",
-    "color_code": "#A9C1D9",
-    "timestamp": "2025-07-28 09:01:57"
+    "weather_report": "As the morning unfolds over Downtown San Francisco, a gentle, muted light stretches across the cityscape, hinting at a day that begins with subtle seaside whispers. The chance of light drizzle remains, a mere 20%, surrendering to mostly sunny skies as the sun climbs higher. Temperatures flirt with mildness, peaking at around 65, then dipping slightly in the afternoon\u2014a reminder of the cool embrace of the Bay Area's maritime influence. The air carries a soft, invigorating breeze from the west, urging residents to wrap themselves in light layers, perhaps a cardigan over a tee, ideal for exploring the urban sprawl or savoring a warm cup of coffee at a quaint caf\u00e9.\n\nAs you stroll the streets, the marine layer may veil some coastal views, but the promise of clearer skies ahead beckons for a leisurely adventure. Consider wandering through the local parks, where the vibrant greens compete with the blue horizon, or perhaps meandering down a less-traveled street, discovering hidden bistros. The gentle mix of crisp air and filtered sunlight makes it a perfect day to indulge in simple pleasures\u2014reading a book in a sun-dappled corner or engaging in heartfelt conversation with friends. Today offers the kind of calm familiarity that begs you to pause and appreciate the ambiance of urban life against the gravity of nature's subtleties.",
+    "color_code": "#BCC4D3",
+    "timestamp": "2025-07-28 10:04:06"
 }
