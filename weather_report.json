@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-28T00:43:00+00:00",
-            "temperature_f": 59.486000000000004,
-            "temperature_c": 15.27,
-            "humidity": 83.986751267073,
+            "timestamp": "2025-07-28T01:43:00+00:00",
+            "temperature_f": 59.071999999999996,
+            "temperature_c": 15.04,
+            "humidity": 85.966346878169,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-27T16:00:00-07:00",
-                "endTime": "2025-07-27T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "22 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 63. West wind around 22 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-27T18:00:00-07:00",
+                "startTime": "2025-07-27T20:00:00-07:00",
                 "endTime": "2025-07-28T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "13 to 22 mph",
+                "windSpeed": "13 to 20 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 11pm. Partly cloudy, with a low around 56. West southwest wind 13 to 22 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle after 11pm. Partly cloudy, with a low around 56. West southwest wind 13 to 20 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-07-28T06:00:00-07:00",
+                "endTime": "2025-07-28T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "10 to 22 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/wind_sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 10 to 22 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "The evening in Downtown San Francisco unfolds under a canvas of soft clouds, hinting at the cooler tones of dusk. A gentle warmth still lingers in the air, with sunlight recently kissing the horizon, but the promise of drizzle whispers of a changing mood. The breezy west wind carries with it the faint scent of the Pacific, and while the cityscape is visible, a light marine layer clings closely to the heights, blurring the sharper edges of the Golden Gate Bridge.\n\nAs twilight deepens, the temperature drifts downward, inviting layers into your attire. A light jacket or sweater will help keep the chill at bay as the city transitions from day to night. With a slight chance of drizzle lurking, perhaps a stroll through the quieter streets or a leisurely visit to a cozy caf\u00e9, where the aroma of fresh coffee mingles with the conversations around, would make for an ideal evening. The hint of moisture in the air may even create a serene ambiance for those with the spirit to explore, as the city\u2019s lights shimmer against the dimming sky, promising a memorable night ahead.",
-    "color_code": "#A2C4E0",
-    "timestamp": "2025-07-27 19:43:05"
+    "weather_report": "As twilight drapes its gentle hue over Downtown San Francisco, the air carries a hint of moisture, whispering promises of drizzle in the coming hours. The evening is partly cloudy, with a cool breeze from the west\u2014invigorating yet soft, making way for a night that hovers around a comfortable 56 degrees. Cars glide over dampened streets, their headlights casting pools of light against the slick asphalt as they navigate between the silhouettes of familiar buildings that embrace the city skyline.\n\nLooking forward to tomorrow, the sun will make its presence known, albeit not without a lingering chance of morning drizzle. Expect a transformation from the early gray to a warm embrace of sunlight, as temperatures gently rise to the mid-60s before retreating slightly into the afternoon. The winds will dance around 10 to 22 mph, so a light jacket would be a wise choice, layered over a comfortable sweater. This is a day best suited for leisurely pursuits\u2014perhaps a stroll along the Embarcadero, a moment spent in one of the city's eclectic caf\u00e9s with a warm drink in hand, or simply wandering through the charming streets of the Mission District, catching glimpses of vibrant murals and savoring the aroma of fresh pastries wafting from local bakeries.\n\nFor those planning their evening escapades, the blend of warmth and coolness suggests a cozy night out, perhaps sharing stories with friends beneath the subtle glow of streetlights, where the city reveals its charm in a blend of calmness and understated elegance.",
+    "color_code": "#A0C0D1",
+    "timestamp": "2025-07-27 20:30:57"
 }
