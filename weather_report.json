@@ -10,7 +10,7 @@
             "timestamp": "2025-07-28T16:43:00+00:00",
             "temperature_f": 58.388,
             "temperature_c": 14.66,
-            "humidity": 91.857630356466,
+            "humidity": 91.97741443186,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-07-28T11:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-07-28T12:00:00-07:00",
                 "endTime": "2025-07-28T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 65,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "9 to 20 mph",
+                "windSpeed": "12 to 18 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 9 to 20 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Sunny, with a high near 65. West southwest wind 12 to 18 mph, with gusts as high as 23 mph."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 15
                 },
-                "windSpeed": "9 to 18 mph",
+                "windSpeed": "10 to 18 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind 9 to 18 mph, with gusts as high as 23 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle between 11pm and 5am. Partly cloudy, with a low around 56. West southwest wind 10 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, a soft light bathes the city today, as skies remain resolutely sunny, though temperatures will gradually edge down into the afternoon. The winds whisper through the streets, gentle yet persistent from the west southwest, adding a refreshing element to the warm embrace of the day. Despite the inviting weather, a thin veil of haze suggests that the city may have its typical morning fog lurking in the distance, diminishing the clear outlines of the Golden Gate and accentuating the enchanting silhouette of the skyline.\n\nAs evening approaches, the clouds will play coy, drifting in to wrap the city in a mild, partly cloudy embrace. With temperatures cooling to a comfortable 56 degrees, the breeze will remain, making layers a prudent choice. A light jacket will suffice, allowing for comfort as you stroll through lively neighborhoods, explore local cafes, or enjoy the urban rhythm around you. Given the pleasant yet breezy nature of the day, perhaps a quiet gathering with friends in one of the city\u2019s parks would hit the right note, where laughter mingles with the sounds of nature, and the unfolding twilight calls for a relaxed, soulful evening.",
-    "color_code": "#A5B2C1",
-    "timestamp": "2025-07-28 11:01:50"
+    "weather_report": "In Downtown San Francisco, the day unfolds with an inviting warmth, a crisp sun coaxing the temperature toward a pleasant zenith of sixty-five degrees. The gentle breeze from the west-southwest carries hints of salt and sun-dried earth, wrapping the city in a refreshing embrace. However, as twilight approaches, a trace of drizzle may grace the streets between the hours of eleven and five, though the likelihood is slight, punctuating the evening with a soft unpredictability. Clouds are just beginning to blanket the horizon, bringing an air of casual serenity to the skyline.\n\nVisibility remains clear and expansive, with no fog appearing to hinder the view, while the marine layer lingers in the backdrop like a shy companion\u2014present yet unobtrusive. A day such as this beckons for leisurely strolls along the waterfront or perhaps a visit to one of the local parks, where laughter mingles with the vibrancy of life. As the sun begins its descent, embracing layers might be a wise choice; a light sweater or jacket could serve you well against the cool evening air. After all, in this uniquely mesmerizing city, even the mundane \u2014 like sipping coffee outdoor or engaging in casual conversation with friends \u2014 can transform into moments woven with magic.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-07-28 12:03:20"
 }
