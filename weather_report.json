@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-28T05:00:00-07:00",
-                "endTime": "2025-07-28T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Partly cloudy, with a low around 56. West southwest wind around 9 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2025-07-28T06:00:00-07:00",
                 "endTime": "2025-07-28T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
                 "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
                 "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 8 to 20 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-28T18:00:00-07:00",
+                "endTime": "2025-07-29T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "9 to 18 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind 9 to 18 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "As dawn begins to break in Downtown San Francisco, a gentle chill lingers in the air, hinting at the embrace of marine layers that have crept closer to the shore. The night may have brought with it a whisper of drizzle, which now dissipates into the backdrop of a sky that is only beginning to clear. Today promises glimpses of that famed sun which has eluded the city for much of the early morning. Highs will hover around the mid-60s\u2014a comfortable warmth offered by the sun, though clouds will still linger in playful opposition.\n\nThe breeze from the west southwest carries with it a freshness, dancing through the streets with gusts that could lift spirits and skirts alike. Yet, it\u2019s wise to layer up in anticipation of the fluctuating temperatures; a light jacket will serve perfectly as the warmth of midday beckons. As the city stirs to life, the opportunity arises for leisurely strolls along the waterfront, perhaps a quiet moment in the shade of a tree in one of the parks, or indulging in the rich flavors at a local caf\u00e9 where the atmosphere is as inviting as the coffee itself. The day lays before you, filled with the promise of exploration and the simple pleasure of being amidst the city\u2019s enduring charm.",
-    "color_code": "#A9C9D9",
-    "timestamp": "2025-07-28 05:02:24"
+    "weather_report": "As the dawn breaks over Downtown San Francisco, a delicate veil of marine fog drapes the city, hinting at its characteristic charm. The forecast presents a tantalizing blend of weather, with the promise of mostly sunny skies later in the day. For now, a light drizzle may whisper to the unsuspecting passerby, which is expected to dissipate by mid-morning. The gentle west-southwest winds rustle through the streets, adding a brisk energy to the air. With temperatures hovering around the mid-sixties, an inviting chill lingers, suggesting layers might be your trusty companion today.\n\nAs the day progresses, the city will gradually unveil its warm hues, inviting you to stroll along the Embarcadero or savor a quiet moment in one of the many parks. A light jacket, perhaps, will keep you comfortable against the winds, while sensible footwear will prepare you for any spontaneous explorations. Consider soaking in the splendid sights of the bay, embracing the tranquility before the sun claims its rightful place in the afternoon sky. Whether you choose to linger at an outdoor caf\u00e9 or venture towards the local shops, the emerging clarity and slight warmth will provide the perfect backdrop for a leisurely day.",
+    "color_code": "#9BC0C6",
+    "timestamp": "2025-07-28 06:13:52"
 }
