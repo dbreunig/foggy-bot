@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-29T05:43:00+00:00",
-            "temperature_f": 59.198,
-            "temperature_c": 15.11,
-            "humidity": 82.004833943981,
+            "timestamp": "2025-07-29T07:43:00+00:00",
+            "temperature_f": 58.82,
+            "temperature_c": 14.9,
+            "humidity": 83.999668600865,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-28T14:00:00-07:00",
-                "endTime": "2025-07-28T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 65. West southwest wind around 18 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-28T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-29T02:00:00-07:00",
                 "endTime": "2025-07-29T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "10 to 18 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle between 11pm and 5am. Partly cloudy, with a low around 56. West southwest wind 10 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle before 5am. Partly cloudy, with a low around 56. West southwest wind around 12 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-07-29T06:00:00-07:00",
+                "endTime": "2025-07-29T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 10
+                },
+                "windSpeed": "9 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 9 to 21 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon is unfurling under the warmth of the sun, illuminating the city with a gentle brilliance. A high near 65 beckons outdoor wanderers, while a steady west-southwest wind dances through the streets, wrapping around the buildings and stirring the leaves. The sky above remains clear, a spacious blue canvas, but hints of the incoming evening suggest a slight chance of drizzle as the city transitions into night. As the hours pass and the temperature dips to around 56, the breeze cools, nudging you to reach for a light sweater or jacket as you head out.\n\nThe overall ambience is one of inviting pleasantness, ideal for a stroll along the waterfront or a leisurely visit to a quaint caf\u00e9 where you can savor a warm drink. The slight chance of drizzle after dark adds a cozy touch, creating an opportunity to enjoy the evening while wrapped in soft layers. Take a moment to embrace the city's vibrancy as you wander through its streets, perhaps finding a quiet corner to reflect or experience the gentle rhythm of urban life.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-07-29 01:01:54"
+    "weather_report": "In Downtown San Francisco, the air feels cool and tranquil, whispering promises of a day that, while beginning under scattered clouds, is set to reveal its sunny countenance as the hours unfold. Currently, a fleeting drizzle graces the night, almost imperceptible amid a gentle breeze that arrives from the west-southwest, offering a hint of freshness. With the mercury resting around 56 degrees, layers are recommended\u2014perhaps a light jacket paired with a cozy scarf, perfect for evening strolls alongside the bay where the faint odor of saltwater lingers.\n\nAs dawn approaches, expect the clouds to yield, allowing the sun to pour warmth over the city. Temperatures will gently climb to a delightful 65 degrees, nudging toward cooler afternoons that drop slightly. The wind, playful yet steady, will dance between 9 to 21 mph, with charming gusts that remind you of the city's ever-changing moods. Visibility will be notably clear as the marine layer recedes, leaving behind a clean, crisp skyline ideal for leisure pursuits, such as a casual day at one of the city's numerous parks, or savoring brunch in a sunlit caf\u00e9. Paso Robles, with its rolling hills, beckons those seeking a quick escape, while the serene waterfront is perfect for a simple stroll, watching the boats glide across shimmering waters. The promise of an inviting day invites you to step outside, embracing the delicate balance of urban life and natural beauty.",
+    "color_code": "#A2C2D9",
+    "timestamp": "2025-07-29 02:04:30"
 }
