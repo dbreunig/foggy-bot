@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-29T04:43:00+00:00",
-            "temperature_f": 59.576,
-            "temperature_c": 15.32,
-            "humidity": 81.012799557185,
+            "timestamp": "2025-07-29T05:43:00+00:00",
+            "temperature_f": 59.198,
+            "temperature_c": 15.11,
+            "humidity": 82.004833943981,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-29T00:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-07-28T14:00:00-07:00",
+                "endTime": "2025-07-28T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "18 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 65. West southwest wind around 18 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-28T18:00:00-07:00",
                 "endTime": "2025-07-29T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "12 mph",
+                "windSpeed": "10 to 18 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle before 5am. Partly cloudy, with a low around 56. West southwest wind around 12 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-07-29T06:00:00-07:00",
-                "endTime": "2025-07-29T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 10
-                },
-                "windSpeed": "9 to 21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 9 to 21 mph, with gusts as high as 26 mph."
+                "detailedForecast": "A slight chance of drizzle between 11pm and 5am. Partly cloudy, with a low around 56. West southwest wind 10 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dawn casts its gentle glow over Downtown San Francisco, the city awakens to a temperate embrace, with a hint of morning drizzle lingering in the air until the clock strikes five. The night carries a whisper of clouds, softly swaying against a backdrop of cool air, cloaked in the familiar chill of the West. Winds, playful yet resolute, weave through the city at a moderate pace, sending the scent of the sea mingling with that of fresh pavement.\n\nThe sun will triumphantly break through the clouds as the day unfolds, gradually warming the landscape and revealing the vibrancy of a city alive with activity. Anticipate a high near 65, enticing you outdoors while the golden rays beckon for a stroll along the Embarcadero or perhaps a leisurely coffee pause in one of the local caf\u00e9s. With gusts picking up through the afternoon, it's wise to layer your attire\u2014a lightweight jacket or a breezy sweater will shield you from the playful wind as you traverse the city's enchanting streets.\n\nAs the fog retreats, the iconic vista of the Golden Gate Bridge will emerge, inviting exploration of its beauty from nearly every corner of the city. Today is one for quiet moments, perhaps indulging in a visit to a nearby park or enjoying the quiet embrace of nature in the Presidio. The weather offers a canvas painted with calm and clarity, perfect for a stroll or a thoughtful pause, as the essence of San Francisco reveals itself anew.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-07-29 00:04:12"
+    "weather_report": "In Downtown San Francisco, the afternoon is unfurling under the warmth of the sun, illuminating the city with a gentle brilliance. A high near 65 beckons outdoor wanderers, while a steady west-southwest wind dances through the streets, wrapping around the buildings and stirring the leaves. The sky above remains clear, a spacious blue canvas, but hints of the incoming evening suggest a slight chance of drizzle as the city transitions into night. As the hours pass and the temperature dips to around 56, the breeze cools, nudging you to reach for a light sweater or jacket as you head out.\n\nThe overall ambience is one of inviting pleasantness, ideal for a stroll along the waterfront or a leisurely visit to a quaint caf\u00e9 where you can savor a warm drink. The slight chance of drizzle after dark adds a cozy touch, creating an opportunity to enjoy the evening while wrapped in soft layers. Take a moment to embrace the city's vibrancy as you wander through its streets, perhaps finding a quiet corner to reflect or experience the gentle rhythm of urban life.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2025-07-29 01:01:54"
 }
