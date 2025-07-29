@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-29T02:43:00+00:00",
-            "temperature_f": 61.178000000000004,
-            "temperature_c": 16.21,
-            "humidity": 78.208573890208,
+            "timestamp": "2025-07-29T03:43:00+00:00",
+            "temperature_f": 59.864,
+            "temperature_c": 15.48,
+            "humidity": 81.997823031114,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-28T15:00:00-07:00",
+                "endTime": "2025-07-28T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "18 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 65. West southwest wind around 18 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-28T19:00:00-07:00",
+                "startTime": "2025-07-28T18:00:00-07:00",
                 "endTime": "2025-07-29T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "10 to 17 mph",
+                "windSpeed": "10 to 18 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle between 11pm and 5am. Partly cloudy, with a low around 56. West southwest wind 10 to 17 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-07-29T06:00:00-07:00",
-                "endTime": "2025-07-29T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 10
-                },
-                "windSpeed": "9 to 21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 9 to 21 mph, with gusts as high as 26 mph."
+                "detailedForecast": "A slight chance of drizzle between 11pm and 5am. Partly cloudy, with a low around 56. West southwest wind 10 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As twilight begins to weave its delicate shadow over Downtown San Francisco, the city stands on the cusp of a night marked by a slight chance of drizzle, whispering faintly between the hours of 11 PM and 5 AM. The skies, partly cloaked, hint at their evolving grace, while a gentle breeze from the west southwest nudges through at 10 to 17 miles per hour, perhaps carrying the memory of the day past, when the sun graced us with its presence. As the temperature settles into a comfortable embrace around 56 degrees, the atmosphere invites a proper layering of garments\u2014think light sweaters or jackets\u2014to accommodate the evening's slight chill.\n\nTomorrow promises a breath of sunshine as the high climbs to a near-harmonious 65 degrees, with a serenade of winds cascading 9 to 21 miles per hour, gusting to 26. The day\u2019s charm lies in its promise of clear blue skies, calling forth the contemplative wanderers and casual observers to enjoy the urban canvas unfurling under a warm glow. Perhaps a stroll along the Embarcadero will suit those seeking serenity, or one might indulge in the simple pleasure of sipping a warm drink at a local caf\u00e9, savoring the atmosphere of a city perpetually inspired by the sea. The clarity of the day will surely lend itself to convoked conversations and leisurely moments, encouraging all to pause and listen to the vibrant pulse of San Francisco.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-07-28 21:18:27"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the air carries a gentle chill, whispering promises of a cool night ahead. The sun took its leave with a comforting warmth, peaking at a delightful 65 degrees earlier this afternoon. Now, as the clock edges closer to the witching hour, the robust embrace of a west-southwest wind, rustling at 18 mph, dances through the streets, swaying tall structures and trees alike.\n\nDespite the promise of a slight drizzle later in the night, the sky remains partly clouded, the lingering clarity hints at a faint humidity clinging to the horizon. One may spot the ethereal presence of the marine layer, perhaps teasing the edges of the Golden Gate, quietly pursuing its nightly embrace of the coast. Those venturing outside this evening might find comfort in a light jacket, layered over casual attire, as they stroll the welcoming shores or enjoy a quiet coffee at a sidewalk caf\u00e9.\n\nWith the day winding down and the city illuminated by countless lights, it\u2019s a perfect time for a serene walk along the Embarcadero, where the rhythmic sound of the waves complements the rustle of evening life. Perhaps one might lose themselves in a small bookstore or a cozy nook, sipping something warm while the world outside softens into night.",
+    "color_code": "#A8C5E9",
+    "timestamp": "2025-07-28 22:08:22"
 }
