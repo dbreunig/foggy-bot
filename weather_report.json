@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-29T03:43:00+00:00",
-            "temperature_f": 59.864,
-            "temperature_c": 15.48,
-            "humidity": 81.997823031114,
+            "timestamp": "2025-07-29T04:43:00+00:00",
+            "temperature_f": 59.576,
+            "temperature_c": 15.32,
+            "humidity": 81.012799557185,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-28T15:00:00-07:00",
-                "endTime": "2025-07-28T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 65. West southwest wind around 18 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-28T18:00:00-07:00",
+                "startTime": "2025-07-28T20:00:00-07:00",
                 "endTime": "2025-07-29T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "10 to 18 mph",
+                "windSpeed": "10 to 16 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle between 11pm and 5am. Partly cloudy, with a low around 56. West southwest wind 10 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle between 11pm and 5am. Partly cloudy, with a low around 56. West southwest wind 10 to 16 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-07-29T06:00:00-07:00",
+                "endTime": "2025-07-29T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 10
+                },
+                "windSpeed": "9 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 9 to 21 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "As twilight descends upon Downtown San Francisco, the air carries a gentle chill, whispering promises of a cool night ahead. The sun took its leave with a comforting warmth, peaking at a delightful 65 degrees earlier this afternoon. Now, as the clock edges closer to the witching hour, the robust embrace of a west-southwest wind, rustling at 18 mph, dances through the streets, swaying tall structures and trees alike.\n\nDespite the promise of a slight drizzle later in the night, the sky remains partly clouded, the lingering clarity hints at a faint humidity clinging to the horizon. One may spot the ethereal presence of the marine layer, perhaps teasing the edges of the Golden Gate, quietly pursuing its nightly embrace of the coast. Those venturing outside this evening might find comfort in a light jacket, layered over casual attire, as they stroll the welcoming shores or enjoy a quiet coffee at a sidewalk caf\u00e9.\n\nWith the day winding down and the city illuminated by countless lights, it\u2019s a perfect time for a serene walk along the Embarcadero, where the rhythmic sound of the waves complements the rustle of evening life. Perhaps one might lose themselves in a small bookstore or a cozy nook, sipping something warm while the world outside softens into night.",
-    "color_code": "#A8C5E9",
-    "timestamp": "2025-07-28 22:08:22"
+    "weather_report": "As the clock edges toward midnight in Downtown San Francisco, a delicate veil of cool air whispers through the streets. The atmosphere feels charged yet serene, with a hint of moisture in the air suggesting the possibility of very light drizzle, especially in the quiet hours before dawn. The prediction for the night speaks to a low near 56, accompanied by a gentle west-southwest wind that dances through the city at a brisk pace, fostering a lively ambiance tempered by an undercurrent of chill.\n\nLooking ahead to tomorrow, an inviting brightness emerges in the forecast, with sunshine promised to play across the skyline. Highs will hover around 65 degrees, gracefully settling in the afternoon. Expect the light breeze to persist, shifting from playful to more energized, making it a perfect day for a leisurely stroll. The prevailing weather holds its charm, but the anticipated marine layer might keep some hidden from direct sunlight, especially near the coast, adding an element of mystery to those picturesque views.\n\nConsidering the conditions, attire should blend comfort with readiness; perhaps a light sweater to combat the evening coolness and a pair of breathable layers for the day ahead. There are myriad ways to embrace this enchanting weather\u2014consider a quiet retreat to a caf\u00e9 with outdoor seating, where one may sip on a warm drink wrapped in a cozy throw, or wander along the waterfront while the sun graces the city with its warmth. The evening called for subtle connections; tomorrow beckons with the promise of clarity and cheer.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-07-28 23:02:17"
 }
