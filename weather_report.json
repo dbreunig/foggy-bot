@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-30T03:43:00+00:00",
-            "temperature_f": 58.459999999999994,
-            "temperature_c": 14.7,
-            "humidity": 87.00989617404,
+            "timestamp": "2025-07-30T04:43:00+00:00",
+            "temperature_f": 58.118,
+            "temperature_c": 14.51,
+            "humidity": 91.968430107889,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-07-29T15:00:00-07:00",
+                "endTime": "2025-07-29T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 7
+                },
+                "windSpeed": "21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 65. West southwest wind around 21 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-29T20:00:00-07:00",
+                "startTime": "2025-07-29T18:00:00-07:00",
                 "endTime": "2025-07-30T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 21
                 },
-                "windSpeed": "9 to 18 mph",
+                "windSpeed": "9 to 21 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 56. West southwest wind 9 to 18 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-07-30T06:00:00-07:00",
-                "endTime": "2025-07-30T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "9 to 20 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Partly Sunny",
-                "detailedForecast": "A slight chance of drizzle before 11am. Partly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 9 to 20 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 56. West southwest wind 9 to 21 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As twilight deepens over Downtown San Francisco, a veil of clouds gently embraces the city, casting a soft glow under the flickering streetlights. There\u2019s a slight chance of drizzle lingering in the air, hinting at a refreshment brought by the night. With temperatures sitting modestly around 56 degrees, a light breeze from the west southwest sways the leaves and carries the crisp scent of the Pacific. The wind's whispers, at times gusting up to 22 mph, create a delicate symphony that intermingles with the distant sounds of the bay.\n\nAs we turn towards tomorrow, the morning may greet us with a similar sentiment\u2014a fleeting chance of drizzle before the sun\u2019s embrace transforms into partly sunny skies. Expected highs will nudge near 64 degrees, as temperatures dip slightly in the afternoon's embrace. It promises to be a day perfect for a leisurely stroll along the waterfront or a visit to one of the cozy local cafes, where warmth and comfort await over a cup of something steamy. Dressing in layers will serve you well, as the temperatures shift capriciously; a light jacket or sweater should suffice against the chill, while a comfortable shirt will keep you at ease as the sun peeks through the clouds. Enjoy this serene city, where the ambiance invites small adventures and moments of quiet reflection.",
-    "color_code": "#A9B2C3",
-    "timestamp": "2025-07-29 22:07:27"
+    "weather_report": "As the evening envelops Downtown San Francisco, the city basks in a tranquil charm, the sun having gently retreated behind a blend of azure and soft gray. The warm air, kissed by a west-southwest breeze, infuses a refreshing essence into the twilight. However, hints of a marine layer creep in from the ocean, a reminder of the city's propensity for the mysterious fog that weaves itself into the very fabric of its identity. With hints of cloudiness lurking after eleven, there's a slight chance of drizzle, almost poetic in its unpredictability.\n\nIn this ethereal moment, the cityscape glimmers under the encroaching dusk, inviting a leisurely stroll through its storied streets. The temperatures, both pleasant and cool, beckon gentle layers; a light jacket drapes elegantly over a summer outfit. Perhaps an evening spent savoring artisanal coffee or a spirited cocktail in a cozy nook would suit your fancy. Let the soothing rhythm of the evening unfold, as the city reveals its intimate side, softly illuminated under the lingering glow of streetlights and the smiles of friendly locals.",
+    "color_code": "#A2B2C8",
+    "timestamp": "2025-07-29 23:02:28"
 }
