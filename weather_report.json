@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-07-30T04:43:00+00:00",
-            "temperature_f": 58.118,
-            "temperature_c": 14.51,
-            "humidity": 91.968430107889,
+            "timestamp": "2025-07-30T05:43:00+00:00",
+            "temperature_f": 57.775999999999996,
+            "temperature_c": 14.32,
+            "humidity": 95.004189497019,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-29T15:00:00-07:00",
-                "endTime": "2025-07-29T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 65. West southwest wind around 21 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-29T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-07-30T00:00:00-07:00",
                 "endTime": "2025-07-30T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 21
                 },
-                "windSpeed": "9 to 21 mph",
+                "windSpeed": "9 to 14 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 56. West southwest wind 9 to 21 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle. Mostly cloudy, with a low around 56. West southwest wind 9 to 14 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-07-30T06:00:00-07:00",
+                "endTime": "2025-07-30T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "9 to 20 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Partly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Partly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 9 to 20 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the evening envelops Downtown San Francisco, the city basks in a tranquil charm, the sun having gently retreated behind a blend of azure and soft gray. The warm air, kissed by a west-southwest breeze, infuses a refreshing essence into the twilight. However, hints of a marine layer creep in from the ocean, a reminder of the city's propensity for the mysterious fog that weaves itself into the very fabric of its identity. With hints of cloudiness lurking after eleven, there's a slight chance of drizzle, almost poetic in its unpredictability.\n\nIn this ethereal moment, the cityscape glimmers under the encroaching dusk, inviting a leisurely stroll through its storied streets. The temperatures, both pleasant and cool, beckon gentle layers; a light jacket drapes elegantly over a summer outfit. Perhaps an evening spent savoring artisanal coffee or a spirited cocktail in a cozy nook would suit your fancy. Let the soothing rhythm of the evening unfold, as the city reveals its intimate side, softly illuminated under the lingering glow of streetlights and the smiles of friendly locals.",
-    "color_code": "#A2B2C8",
-    "timestamp": "2025-07-29 23:02:28"
+    "weather_report": "As the first light of dawn begins to creep over Downtown San Francisco, a tender veil of clouds lingers in the air, offering only a hint of what the day might hold. Currently, the city basks in a mild embrace of 56 degrees, the gentle breeze from the southwest stirring the atmosphere with a whisper of movement. The forecast teases at a slight chance of drizzle, perhaps a sprinkle to greet the day, but as the sun rises, optimism builds for a shift towards partial sunshine. The temperatures are expected to hover around a comfortable 64 degrees, yet descend softly as the afternoon unfolds.\n\nWhile the fog and marine layer are never far removed from the city\u2019s charm, the visibility appears somewhat clearer to the north, while areas closer to the coast may still find themselves cloaked in the characteristic gray. Dressing comfortably in layers is advisable, as the morning chill succumbs to the warmth of the sun. Given these conditions, a stroll along one of the city's lesser-known nooks, perhaps a quiet park bench with a steaming cup of coffee and a good book, could provide a serene escape. It\u2019s a day where the promise of clarity mingles with the allure of a gentle coastal mist, inviting quiet reflection amidst the bustling energy of life.",
+    "color_code": "#B7C9C1",
+    "timestamp": "2025-07-30 00:05:02"
 }
