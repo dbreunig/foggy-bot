@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-01T23:43:00+00:00",
-            "temperature_f": 61.268,
-            "temperature_c": 16.26,
-            "humidity": 74.991411033229,
+            "timestamp": "2025-08-02T00:43:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
+            "humidity": 77.971793411755,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-01T16:00:00-07:00",
-                "endTime": "2025-08-01T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "24 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind around 24 mph, with gusts as high as 31 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-01T18:00:00-07:00",
+                "startTime": "2025-08-01T19:00:00-07:00",
                 "endTime": "2025-08-02T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "13 to 25 mph",
+                "windSpeed": "13 to 24 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind 13 to 25 mph, with gusts as high as 31 mph."
+                "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind 13 to 24 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-08-02T06:00:00-07:00",
+                "endTime": "2025-08-02T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "9 to 24 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 67, with temperatures falling to around 65 in the afternoon. West southwest wind 9 to 24 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Downtown San Francisco presents itself as a sunlit canvas where the golden hues of light dance across the city\u2019s iconic bridges and rooftops. A gentle whisper of a west-southwest breeze carries with it the crispness of the ocean, invigorating yet soft\u2014a perfect companion to the day's unfolding splendor. As the sun reaches its zenith, temperatures hover around a comfortable 66 degrees, gradually retreating to a soothing 64 in the late afternoon. While the skies seem generous with clarity, the westerly wind gusts, brisk and spirited, infuse a sense of movement found in the heart of this vibrant metropolis.\n\nAs evening descends, the horizon will hold a promise of partly clouded skies, enveloping the city in a serene embrace with lows around 56 degrees. Those venturing out after sundown would do well to layer up\u2014a light jacket would suffice against the cool breath of the night air. The conditions beckon with the call of quiet enjoyment; perhaps a leisurely stroll through the streets of North Beach, a chance to savor artisanal coffee while witnessing the bay transform under the glow of urban lights. Alternatively, finding oneself at an outdoor patio where the evening breeze mingles with warmth will serve as a soothing retreat, allowing for moments of gentle conversation as the day gracefully yields to the night.",
-    "color_code": "#B0C4DB",
-    "timestamp": "2025-08-01 18:29:26"
+    "weather_report": "As the sun dips beneath the horizon this evening, Downtown San Francisco experiences a delightful unraveling of twilight, with clouds whispering gently in a partly cloudy sky. The breeze from the west southwest dances through the streets, carrying with it a refreshing chill, hinting at a night that won't stray far from the comfortable mid-fifties. Though some pockets of fog may cling to the coastline, the city itself remains free from the fog's embrace, allowing for a clear view of the skyline, albeit perhaps with a gentle haze lingering over the distant bridge.\n\nTomorrow promises a singular beauty, as the sun washes over the landscape with cheerful rays, nudging temperatures to a pleasant sixty-seven. The afternoon will see a slight cooling, creating a perfect excuse to savor the warmth of the day while relishing the crisp air. It is advisable to dress in layers\u2014light at first to welcome the morning, but with a sweater or jacket on hand for those cooler moments in the shade or when the breeze picks up. Consider a leisurely stroll through the nearby parks or perhaps a quiet visit to a local coffee shop, indulging in a moment of stillness as the day unfolds. The city beckons with open arms, inviting exploration and the simple joys that come with a bright, yet mildly invigorating day.",
+    "color_code": "#A7C9E0",
+    "timestamp": "2025-08-01 19:35:35"
 }
