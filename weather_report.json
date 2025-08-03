@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-03T05:00:00-07:00",
-                "endTime": "2025-08-03T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 56. West wind around 13 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-08-03T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-08-03T08:00:00-07:00",
                 "endTime": "2025-08-03T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 65,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 65. West wind 10 to 24 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-03T18:00:00-07:00",
+                "endTime": "2025-08-04T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "17 to 23 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 56. West wind 17 to 23 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a fresh clarity emerges, lifting the veil of night. The air is crisp, with temperatures hovering around a gentle 56 degrees, kissed by a cool west wind that whispers through the streets at about 13 mph. As the sun rises higher in the sky, the day promises a sunny disposition, a brightening panorama that will peak at roughly 65 degrees. The allure of the outdoors is undeniable as the marine layer retreats, granting glimpses of the majestic Golden Gate Bridge framed against a blue expanse.\n\nWith the winds picking up to 24 mph, it\u2019s best to dress in layers. A light jacket may offer solace against the cool air, particularly in the morning and late afternoon. As the day unfolds, consider a stroll along the Embarcadero, where the waterfront comes alive, or perhaps a visit to one of the charming caf\u00e9s that line the streets, where the aroma of freshly brewed coffee mingles with the promising scent of the day. Seek the joy in simple pleasures, allowing the warmth of the sun and the gentle wind to rejuvenate your spirit.",
-    "color_code": "#A6C4D5",
-    "timestamp": "2025-08-03 07:01:28"
+    "weather_report": "The morning in Downtown San Francisco unfolds under a bright, sunny canopy, as the city basks in a glow of blue skies punctuated by playful wisps of clouds. The air is pleasantly crisp, with the invigorating west wind dancing at a brisk pace, offering a gentle reminder of the characteristically cool summer in the Bay Area. While light breezes tease the hair, the temperature hovers around a comfortable 65 degrees, making for an agreeable day ahead.\n\nAs the sun arcs higher, the forecast promises continued clarity and a leisurely transition into a clear evening, cloaked in the twilight warmth of 56 degrees. Unlike the fog that often dominated the early mornings, only a slight marine layer clings to the edges of the Golden Gate, hinting at the ocean's proximity without imposing on today\u2019s bright atmosphere. This clement weather invites a casual wardrobe of light layers\u2014perhaps a simple shirt beneath a thoughtful jacket for when the sun dips tonight. \n\nGiven the landscape at hand, a stroll down the waterfront beckons\u2014for it\u2019s an excellent time to explore the nooks and crannies of this vibrant city. Wander through the bustling streets of the Ferry Building, perhaps indulging in a local coffee, or visit one of the charming parks where nature and urban life collide harmoniously. At this tranquil hour, the city feels alive yet serene, offering endless opportunities for those willing to partake in its daily rhythms.",
+    "color_code": "#87CEFA",
+    "timestamp": "2025-08-03 08:01:36"
 }
