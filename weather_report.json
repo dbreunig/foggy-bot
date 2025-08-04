@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-04T14:43:00+00:00",
-            "temperature_f": 55.508,
-            "temperature_c": 13.06,
-            "humidity": 82.953000934412,
+            "timestamp": "2025-08-04T16:43:00+00:00",
+            "temperature_f": 59.306,
+            "temperature_c": 15.17,
+            "humidity": 72.307353577104,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-04T04:00:00-07:00",
-                "endTime": "2025-08-04T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Mostly clear, with a low around 56. West wind around 10 mph, with gusts as high as 18 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-08-04T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-08-04T10:00:00-07:00",
                 "endTime": "2025-08-04T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "8 to 18 mph",
+                "windSpeed": "9 to 18 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 66. West wind 9 to 18 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-04T18:00:00-07:00",
+                "endTime": "2025-08-05T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 to 17 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain/few?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Sunny",
-                "detailedForecast": "A slight chance of drizzle before 9am. Sunny, with a high near 66. West southwest wind 8 to 18 mph, with gusts as high as 26 mph."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 54. West southwest wind 7 to 17 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the new day unfolds in Downtown San Francisco, whispers of the previous night's drizzle give way to a gentle embrace of clarity. The skies are mostly clear, allowing the warm, inviting sunlight to spill over the city\u2019s iconic hills and the stoic silhouette of the Golden Gate. A light breeze dances through the streets, pleasant enough to welcome joggers and early morning wanderers, yet a slight chill lingers in the air, a fond reminder of the coastal chill that can wrap itself around the day.\n\nAs the hours progress, the expectation of sun will bring a welcome shift in scenery; today promises a high of near 66, inviting everyone to step outside. The lingering marine layer may drift a touch nearer to the city, but for now, it holds its distance, leaving the pathways clear for an array of activities. Consider meandering through the tranquil alleys of one of San Francisco\u2019s quaint neighborhoods, or perhaps discover a hidden caf\u00e9 to savor an exquisite pastry with your morning coffee. Given the lightness of the wind and gentle sunshine, layering can be your best ally\u2014a light sweater over a comfortable shirt will suffice, keeping you cozy should the breeze pick up later in the day.\n\nEnjoy the rare gift of a day that feels effortlessly crisp and vibrant, a backdrop for simple pleasures that echo the heart of this remarkable city.",
-    "color_code": "#A0C0C0",
-    "timestamp": "2025-08-04 09:02:25"
+    "weather_report": "Today, Downtown San Francisco greets you with bright sunshine spilling across the skyline, a gentle west wind whispering through the streets. The day unfolds with a high near 66 degrees, offering a comfortable warmth wrapped in a crisp breeze. The horizon boasts clear skies, a refreshing sight today, and the promise of pleasant temperatures settling in as the sun makes its gradual descent. With the winds whipping and gusts peaking as high as 26 miles per hour, one might feel the invigorating touch of nature as they step outside.\n\nAs twilight approaches, the forecast carries whispers of a calm evening, with temperatures dipping to around 54 degrees and a mostly clear canvas overhead. The winds will soften into the night, allowing a touch of serenity to blanket the city. For those looking to enjoy the day, consider a leisurely stroll through a local park or perhaps explore a hidden caf\u00e9 tucked within the urban tapestry. An outfit layered with a light jacket will ensure comfort against the evening chill, allowing one to fully immerse in the city's vibrant life, embracing the allure of a sunny San Francisco day turning into a tranquil night.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2025-08-04 10:05:01"
 }
