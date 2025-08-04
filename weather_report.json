@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-03T23:43:00+00:00",
-            "temperature_f": 63.464,
-            "temperature_c": 17.48,
-            "humidity": 65.961967972027,
+            "timestamp": "2025-08-04T00:43:00+00:00",
+            "temperature_f": 61.304,
+            "temperature_c": 16.28,
+            "humidity": 69.958144724741,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,6 +18,25 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-08-03T15:00:00-07:00",
+                "endTime": "2025-08-03T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "18 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain?size=medium",
+                "shortForecast": "Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle after 5pm. Sunny. High near 67, with temperatures falling to around 64 in the afternoon. West wind around 18 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-08-03T18:00:00-07:00",
                 "endTime": "2025-08-04T06:00:00-07:00",
@@ -34,29 +53,10 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
                 "detailedForecast": "A slight chance of drizzle. Mostly clear, with a low around 56. West southwest wind 9 to 18 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-08-04T06:00:00-07:00",
-                "endTime": "2025-08-04T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 to 17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain/few?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Sunny",
-                "detailedForecast": "A slight chance of drizzle before 9am. Sunny. High near 67, with temperatures falling to around 65 in the afternoon. West southwest wind 7 to 17 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As twilight descends upon Downtown San Francisco, the evening air carries with it a whisper of the coast, hinting at an unhurried embrace of the night. The city sky, predominantly clear, reveals a tapestry of colors softened by the gentle embrace of a significant west-southwest breeze. The temperature hovers around 56 degrees, a comfortable coolness that invites a lightweight jacket for those venturing out under the star-speckled sky. Tonight's atmosphere might see a light drizzle, although the likelihood of this occurring seems slight and fleeting.\n\nLooking to the morrow, the day ahead promises a gentle awakening with a touch of morning mist, followed by an expansive sun that will cradle the city. The expected high of about 67 degrees, easing into the afternoon with a slight drop, makes for an ideal backdrop for leisurely activities. As the sun brightens, the opportunity arises for serene strolls along the waterfront or quiet moments spent in golden hour parks\u2014perhaps with a book in hand or a conversation shared over warm beverages. For those who step out during the midday warmth, light layers remain essential, safeguarding against the occasional gusts that could carry the refreshing hint of the nearby Pacific.\n\nRadiating a gentle optimism, the day invites simple pleasures\u2014a particularly fine time to wander through neighborhood streets, explore local shops, or relax at a caf\u00e9. The fog, while present, remains at bay, offering a clear view of iconic landmarks and allowing glimpses of the magical charm that is uniquely San Francisco.",
-    "color_code": "#A2C2D8",
-    "timestamp": "2025-08-03 18:30:16"
+    "weather_report": "The afternoon in Downtown San Francisco unfolds under a delicate veil of warmth, with the sun illuminating the city's iconic skyline. Temperatures hover pleasantly close to 67 degrees, softening as the day edges towards evening. A slight chance of drizzle lingers, promising perhaps the gentlest kiss of moisture post-5 PM, while the west wind whispers through the streets at around 18 mph, adding a brisk, refreshing touch. The skies remain remarkably clear for this time of year, free from the often-expected morning fog, although hints of the marine layer may be lurking along the edges of the bay.\n\nAs night approaches, the charm of the evening beckons gently, inviting exploration under a canvas of mostly clear skies with temperatures dipping to a comfortable 56 degrees. The winds settle into a calmer rhythm, yet still carry the coolness of the ocean. In this delightful early August weather, light layers are recommended\u2014perhaps a breathable jacket for the evening stroll or an outdoor dining experience, where the fresh air complements the ambiance. As the city begins to shimmer under the twilight, it offers countless mundanities to savor\u2014wander along the Embarcadero, grab a book from your favorite local shop, or simply enjoy a tranquil moment in one of the parks, allowing the city's heartbeat to resonate through your footsteps.",
+    "color_code": "#A3C4C4",
+    "timestamp": "2025-08-03 19:46:23"
 }
