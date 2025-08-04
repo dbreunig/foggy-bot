@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-03T15:00:00-07:00",
-                "endTime": "2025-08-03T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 5pm. Sunny. High near 67, with temperatures falling to around 64 in the afternoon. West wind around 18 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-08-03T18:00:00-07:00",
                 "endTime": "2025-08-04T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
                 "detailedForecast": "A slight chance of drizzle. Mostly clear, with a low around 56. West southwest wind 9 to 18 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-08-04T06:00:00-07:00",
+                "endTime": "2025-08-04T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 to 17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain/few?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Sunny",
+                "detailedForecast": "A slight chance of drizzle before 9am. Sunny. High near 67, with temperatures falling to around 65 in the afternoon. West southwest wind 7 to 17 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "The afternoon in Downtown San Francisco unfolds under a delicate veil of warmth, with the sun illuminating the city's iconic skyline. Temperatures hover pleasantly close to 67 degrees, softening as the day edges towards evening. A slight chance of drizzle lingers, promising perhaps the gentlest kiss of moisture post-5 PM, while the west wind whispers through the streets at around 18 mph, adding a brisk, refreshing touch. The skies remain remarkably clear for this time of year, free from the often-expected morning fog, although hints of the marine layer may be lurking along the edges of the bay.\n\nAs night approaches, the charm of the evening beckons gently, inviting exploration under a canvas of mostly clear skies with temperatures dipping to a comfortable 56 degrees. The winds settle into a calmer rhythm, yet still carry the coolness of the ocean. In this delightful early August weather, light layers are recommended\u2014perhaps a breathable jacket for the evening stroll or an outdoor dining experience, where the fresh air complements the ambiance. As the city begins to shimmer under the twilight, it offers countless mundanities to savor\u2014wander along the Embarcadero, grab a book from your favorite local shop, or simply enjoy a tranquil moment in one of the parks, allowing the city's heartbeat to resonate through your footsteps.",
-    "color_code": "#A3C4C4",
-    "timestamp": "2025-08-03 19:46:23"
+    "weather_report": "As the evening settles over Downtown San Francisco, a gentle whisper of breeze plays through the streets, carrying with it the faint whisper of a drizzle that could intermittently tease the skyline tonight. A mostly clear expanse stretches above, with temperatures dipping just enough to layer a light jacket over your shoulders. The west-southwest wind, brisk but refreshing, dances through the air, hinting at the vibrant night still to come. \n\nLooking toward tomorrow, the sun is expected to emerge, casting golden rays over the city, warming the day and coaxing temperatures to a pleasant rise. Though a subtle chance of drizzle remains in the early morning, the forecast calls for bright clarity that invites adventure. With a high beckoning near to 67, one might find joy in a Sunday stroll through the local parks or a casual visit to a quaint caf\u00e9, where the warmth of freshly brewed coffee can match the burgeoning warmth of the day. A light sweater paired with comfortably casual attire seems fitting for this moment\u2014adequate for the softer edges of night and the sun\u2019s gentle embrace in the morning.",
+    "color_code": "#A0C4FF",
+    "timestamp": "2025-08-03 20:36:24"
 }
