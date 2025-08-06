@@ -18,7 +18,26 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
+                "name": "Overnight",
+                "startTime": "2025-08-06T04:00:00-07:00",
+                "endTime": "2025-08-06T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 54. Southwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
                 "startTime": "2025-08-06T06:00:00-07:00",
                 "endTime": "2025-08-06T18:00:00-07:00",
                 "isDaytime": true,
@@ -34,29 +53,10 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. South southwest wind 3 to 16 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-08-06T18:00:00-07:00",
-                "endTime": "2025-08-07T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 56. West southwest wind 10 to 15 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "As the sun stretches its rays over Downtown San Francisco, today greets us with a glorious expanse of sunshine. The air is pleasantly warm, brushing against the skin with gentle touches that speak of summer while cooling off just enough to keep the bay\u2019s spirit alive. With a high nearing seventies, the atmosphere invites you to step outside, where a soft south-southwest breeze dances through the streets, caressing city dwellers as they go about their morning rituals. \n\nThough clarity reigns today, whispers of a marine layer linger just offshore, hinting at the city\u2019s playful relationship with fog. Yet, as daylight unfolds, the likelihood of it creeping inland grows slimmer, making way for a bright day perfect for a leisurely stroll along the Embarcadero, perhaps stopping for a coffee at a local caf\u00e9 or simply soaking in the vibrant life of the waterfront. In the evening, a clear sky remains, with the coolness settling into the 50s, beckoning light layers or a comfortable jacket for those harboring romantic notions of twilight. \n\nWith the promise of warmth enveloped in the embrace of a breezy afternoon, today unfolds as a delightful tapestry of experiences waiting for you to explore.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-08-06 06:14:52"
+    "weather_report": "As morning unfolds over Downtown San Francisco, a gentle warmth begins to replace the cool embrace of night. The horizon glimmers with the promise of sunshine, cloaked only sporadically by wisps of lingering fog that cling to the Bay, softening the outlines of distant hills and the stately Golden Gate Bridge. The air, crisp yet inviting, carries the faint scent of the sea, hinting at the eclectic life that thrives just beyond the trembling shore. With a low around 54 degrees, a light jacket may still be appropriate, but as the day progresses, the sunshine will cascade in, lifting temperatures to a pleasant peak of nearly 70 degrees by afternoon.\n\nAs this sunny day unfolds, the brisk yet mild south-southwest winds will dance through the streets, bringing a refreshing chill that lends itself beautifully to an afternoon stroll. Perhaps a visit to a charming caf\u00e9 for a warm brew or a leisurely walk by the waterfront will suit the mood, as the city reveals itself, vibrant and alive. Today allows for the ordinary to shine in its extraordinary beauty\u2014a simple moment spent observing the tide or a quiet lunch at a park bench will provide a perfect balance against the backdrop of an ever-changing landscape of sea and sky.",
+    "color_code": "#F0A500",
+    "timestamp": "2025-08-06 07:04:24"
 }
