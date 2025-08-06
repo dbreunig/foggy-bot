@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-06T13:43:00+00:00",
-            "temperature_f": 55.778000000000006,
-            "temperature_c": 13.21,
-            "humidity": 84.984769098943,
+            "timestamp": "2025-08-06T14:43:00+00:00",
+            "temperature_f": 57.596000000000004,
+            "temperature_c": 14.22,
+            "humidity": 80.973238766578,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-06T05:00:00-07:00",
-                "endTime": "2025-08-06T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 54. South southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-08-06T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-08-06T09:00:00-07:00",
                 "endTime": "2025-08-06T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 70,
@@ -49,14 +30,33 @@
                     "value": 0
                 },
                 "windSpeed": "3 to 16 mph",
-                "windDirection": "SSW",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. South southwest wind 3 to 16 mph, with gusts as high as 21 mph."
+                "detailedForecast": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. Southwest wind 3 to 16 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-06T18:00:00-07:00",
+                "endTime": "2025-08-07T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 56. West southwest wind 10 to 15 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "As the sun rises over Downtown San Francisco, this midweek morning greets us with a gentle whisper of cool air, harmonizing beautifully with a canvas of partly cloudy skies. The temperature lingers around a refreshing 54 degrees, a prelude to an expectation of splendid sunshine later in the day. As daylight unfurls, the promise of warmth beckons with a high near 70, letting the city bask in the soft glow of golden rays, particularly as the breeze dances lightly from the south-southwest, coaxing a feeling of ease.\n\nDespite the current clarity, an ever-watchful marine layer creeps close to the iconic Golden Gate Bridge, hinting at the ocean's persistent embrace, but it, too, shall recede as the day advances. The picturesque cityscape paints a vivid tableau where the contrasts of mist and light share the stage, and one can almost hear the faint echoes of laughter drifting through the streets. Attire should favor layers, as you might start bundled against that morning chill and gradually shed them to relish the warmth of midday. The day beckons those who wander to opt for leisurely strolls along the waterfront or perhaps to seek a quiet caf\u00e9 to sip a well-crafted espresso while observing the tapestry of life that characterizes this vibrant locale. Embrace this perfect blend of light and temperature\u2014it whispers stories waiting to be discovered.",
-    "color_code": "#A3C1E0",
-    "timestamp": "2025-08-06 08:02:52"
+    "weather_report": "In Downtown San Francisco this morning, the air is still and bright, a clear invitation to embrace the day ahead. The sun bathes the cityscape in warm golden hues, gently nudging the temperature toward a pleasant high near 70 degrees. As the day progresses, a slight coolness will emerge, wrapping the afternoon in a soothing embrace as temperatures dip toward 68. The soft southwest wind whispers through the streets, caressing the face with gusts up to 21 mph, making it beneficial to consider a light jacket for the later hours when the warmth of the sun fades.\n\nTonight, the clarity of the evening will reveal a mostly clear sky, shimmering with stars, and a low settling around a comfortable 56 degrees. As the marine layer lingers on the horizon, painting the edges of the bay with whispers of mist, it\u2019s a reminder of the city\u2019s transformation by the shore. Today presents an opportunity for a leisurely stroll along the Embarcadero, where you can enjoy the cool breeze and breathtaking vistas across the water. As you consider your attire, a comfortable long-sleeve shirt or light sweater might be prudent, ensuring you\u2019re ready for the ebb and flow of coastal air. Engage in simple pleasures: sip a fresh brew at a local caf\u00e9, or perhaps linger in one of the parks, letting the day pass in gentle tranquility, dancing with the rhythms of the harbor.",
+    "color_code": "#A5C8F2",
+    "timestamp": "2025-08-06 09:01:41"
 }
