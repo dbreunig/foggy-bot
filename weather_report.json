@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-06T14:43:00+00:00",
-            "temperature_f": 57.596000000000004,
-            "temperature_c": 14.22,
-            "humidity": 80.973238766578,
+            "timestamp": "2025-08-06T15:43:00+00:00",
+            "temperature_f": 60.476,
+            "temperature_c": 15.82,
+            "humidity": 73.345610269063,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-08-06T09:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-08-06T03:00:00-07:00",
+                "endTime": "2025-08-06T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 54. Southwest wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-08-06T06:00:00-07:00",
                 "endTime": "2025-08-06T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 70,
@@ -30,33 +49,14 @@
                     "value": 0
                 },
                 "windSpeed": "3 to 16 mph",
-                "windDirection": "SW",
+                "windDirection": "SSW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. Southwest wind 3 to 16 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-08-06T18:00:00-07:00",
-                "endTime": "2025-08-07T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 56. West southwest wind 10 to 15 mph, with gusts as high as 18 mph."
+                "detailedForecast": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. South southwest wind 3 to 16 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco this morning, the air is still and bright, a clear invitation to embrace the day ahead. The sun bathes the cityscape in warm golden hues, gently nudging the temperature toward a pleasant high near 70 degrees. As the day progresses, a slight coolness will emerge, wrapping the afternoon in a soothing embrace as temperatures dip toward 68. The soft southwest wind whispers through the streets, caressing the face with gusts up to 21 mph, making it beneficial to consider a light jacket for the later hours when the warmth of the sun fades.\n\nTonight, the clarity of the evening will reveal a mostly clear sky, shimmering with stars, and a low settling around a comfortable 56 degrees. As the marine layer lingers on the horizon, painting the edges of the bay with whispers of mist, it\u2019s a reminder of the city\u2019s transformation by the shore. Today presents an opportunity for a leisurely stroll along the Embarcadero, where you can enjoy the cool breeze and breathtaking vistas across the water. As you consider your attire, a comfortable long-sleeve shirt or light sweater might be prudent, ensuring you\u2019re ready for the ebb and flow of coastal air. Engage in simple pleasures: sip a fresh brew at a local caf\u00e9, or perhaps linger in one of the parks, letting the day pass in gentle tranquility, dancing with the rhythms of the harbor.",
-    "color_code": "#A5C8F2",
-    "timestamp": "2025-08-06 09:01:41"
+    "weather_report": "In Downtown San Francisco, the day unfolds with a gentle promise, the sky revealing itself in sunny clarity as if shedding a light veil. The lingering coolness of the night recedes, giving way to a mild warmth. There\u2019s a soft wisp from the south, the kind of breeze that brushes lightly against the skin and carries with it the salty tang of the nearby ocean. The Golden Gate Bridge stands proud, framed in the distance, less bemoaned by fog than usual, which graces the bay in affectionate whispers. \n\nAs the hours progress, expect a delightful high nearing the seventies, and as afternoon approaches, a cool dipping to around sixty-eight adds a refreshing contrast, subtly reminding us of the city\u2019s climate quirks. A light jacket or a cardigan may serve as a worthy companion, especially when the breeze picks up or as you wander near the waterfront, where the maritime whispers hold tighter. It\u2019s a fine day to stroll leisurely through the parks or perhaps sip a warming cup of coffee while observing the ebb and flow of the city, an invitation to savor the mundane joys of this vibrant urban life, punctuated by laughter and the murmur of conversations flying on the wind like the kites you might see dancing in the air.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-08-06 10:04:08"
 }
