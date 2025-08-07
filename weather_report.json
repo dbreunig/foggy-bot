@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-07T04:43:00+00:00",
-            "temperature_f": 63.878,
-            "temperature_c": 17.71,
-            "humidity": 68.952584462603,
+            "timestamp": "2025-08-07T05:43:00+00:00",
+            "temperature_f": 61.574,
+            "temperature_c": 16.43,
+            "humidity": 74.970539735298,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-08-06T15:00:00-07:00",
+                "endTime": "2025-08-06T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 70,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "16 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 70. West southwest wind around 16 mph, with gusts as high as 20 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-06T21:00:00-07:00",
+                "startTime": "2025-08-06T18:00:00-07:00",
                 "endTime": "2025-08-07T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "12 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-08-07T06:00:00-07:00",
-                "endTime": "2025-08-07T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "6 to 18 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 67, with temperatures falling to around 65 in the afternoon. Southwest wind 6 to 18 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind 10 to 15 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "Tonight in Downtown San Francisco, the transition into evening promises a gentle embrace of a partly cloudy sky. The air holds a mildness, resting comfortably at around 56 degrees, punctuated by a soothing west-southwest breeze. As the sun sets, the city may take on a tranquil yet slightly muted charm, with the dusky silhouettes of buildings softened against the twilight.\n\nThursday beckons with a brighter spirit, offering promise and warmth as the day unfurls. The forecast suggests a nearly sun-soaked morning evolving into a sunny afternoon, with temperatures peaking close to 67 degrees before settling around a more familiar 65. The southwest wind will playfully ruffle your hair at speeds between 6 and 18 mph, perhaps inviting the faintest gusts up to 23 mph which can send a delightful chill through the air. Given the conditions, a light jacket or a breathable layer would be the ideal attire, allowing you to adjust as the day warms. \n\nAs for activities, consider wandering through the neighborhoods, where the vibrant street life and eclectic architecture wait to greet you. Stop by a local caf\u00e9 for a warm beverage, people-watch, or perhaps stroll along the Embarcadero to take in breathtaking views of the bay, all while relishing the embrace of a glorious day devoid of fog and brimming with clarity.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2025-08-06 23:02:31"
+    "weather_report": "In Downtown San Francisco, the early morning hours just before dawn give a quiet promise of what is to come. Tonight\u2019s lingering clouds have begun to part, paving the way for the sun's gentle advance. With a high expected near 70, the atmosphere carries a light warmth, punctuated by brisk winds from the west\u2014an invitation to step outside and revel in the playful dance of the breeze. As the city awakens, there is a clarity to the skyline, devoid of the fog that often drapes itself over the bay, making everything appear ethereal. The Golden Gate stands proudly, a sentinel against the backdrop of a clearer horizon.\n\nAs the afternoon unfolds, the city will bask in sunshine, the light wrapping around the buildings and streets, creating an atmosphere inviting for strolls along the Embarcadero or perhaps a leisurely visit to a local caf\u00e9. With temperatures cooling to a comfortable low of 56 later, a light jacket will suffice for the evening, protecting against the chill as the day makes its graceful exit. Given the pleasant conditions, one might find joy in a simple exploration of the local markets or a quiet moment in one of the city\u2019s many parks, soaking in the vibrant pulse of urban life before night enfolds the city in its serene embrace.",
+    "color_code": "#d9e6f2",
+    "timestamp": "2025-08-07 00:04:57"
 }
