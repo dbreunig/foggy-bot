@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-09T01:43:00+00:00",
-            "temperature_f": 63.284,
-            "temperature_c": 17.38,
-            "humidity": 71.008325077633,
+            "timestamp": "2025-08-09T02:43:00+00:00",
+            "temperature_f": 60.476,
+            "temperature_c": 15.82,
+            "humidity": 76.974529548604,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-08T16:00:00-07:00",
-                "endTime": "2025-08-08T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 71, with temperatures falling to around 68 in the afternoon. West southwest wind around 18 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-08T18:00:00-07:00",
+                "startTime": "2025-08-08T20:00:00-07:00",
                 "endTime": "2025-08-09T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 to 18 mph",
+                "windSpeed": "7 to 15 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 57. West southwest wind 7 to 18 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Mostly clear, with a low around 57. West southwest wind 7 to 15 mph, with gusts as high as 18 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-08-09T06:00:00-07:00",
+                "endTime": "2025-08-09T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 70,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "12 to 22 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 70, with temperatures falling to around 67 in the afternoon. West southwest wind 12 to 22 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "As twilight descends over Downtown San Francisco, a tranquil clarity blankets the cityscape, inviting both the wanderer and the introspective soul to bask in its gentle embrace. The sun has chosen this moment to linger, casting its warm glow upon the golden hues of a day nearly spent. The high temperature, comfortably nearing 71, has softened to a pleasant coolness, settling around 68. A light breeze whispers through the streets, hinting at the playful nature of this evening's west-southwest winds, which dance at a moderate pace, offering a refreshing touch that hints at the proximity of the ocean.\n\nLooking upward, the sky presents a softened palette of blue, unmarred by fog, save for the distant marine layer teasing the horizon. Its subtle presence suggests that tomorrow may wake to the familiar embrace of San Francisco's fog, but for now, the clarity offers a stage set for evening pursuits. Residents and visitors alike might find joy in a serene stroll along the waterfront or a quiet visit to an outdoor caf\u00e9, where the last rays of sun can be enjoyed alongside a comforting cup of coffee or tea. Layers are advisable as the evening coolness beckons; a light jacket or cardigan will ensure that one remains cozy as the city transitions into night.\n\nThe scene is one of understated beauty, an invitation to engage with the present, to explore the hidden corners of the vibrant city, or simply to sit and appreciate the moment as it unfolds.",
-    "color_code": "#add8e6",
-    "timestamp": "2025-08-08 19:32:03"
+    "weather_report": "In the gentle embrace of the evening, Downtown San Francisco reveals a mostly clear sky, inviting a soft, cool breeze that sweeps in from the west. The temperatures hover around a comfortable 57 degrees, making it a perfect opportunity for a leisurely stroll through the city\u2019s iconic streets. As dusk unfolds, the wind whispers promises of fresh air, while light gusts of up to 18 mph provide a lively rhythm to the atmosphere. \n\nLooking ahead to the morrow, the sun will grace the city with warmth, reaching a high near 70. The morning will offer the clarity of clear skies, though a gentle fall in temperature is expected as the day softens into afternoon. For those venturing out, a light sweater or jacket is advisable as temperatures dip, particularly when catching those refreshing winds. The day ahead seems ripe for simple pleasures: perhaps discovering a hidden caf\u00e9, savoring a book at a local park, or enjoying a walk along the waterfront, where the sun meets the shimmering bay and the scent of salt lingers in the air.",
+    "color_code": "#A3C1D3",
+    "timestamp": "2025-08-08 20:25:30"
 }
