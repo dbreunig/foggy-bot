@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-10T10:43:00+00:00",
-            "temperature_f": 56.678000000000004,
-            "temperature_c": 13.71,
-            "humidity": 100,
+            "timestamp": "2025-08-10T12:43:00+00:00",
+            "temperature_f": 56.318,
+            "temperature_c": 13.51,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-10T02:00:00-07:00",
-                "endTime": "2025-08-10T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-08-10T06:00:00-07:00",
+                "endTime": "2025-08-10T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "9 to 22 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain/wind_sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 9am. Mostly sunny. High near 69, with temperatures falling to around 66 in the afternoon. West southwest wind 9 to 22 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-10T18:00:00-07:00",
+                "endTime": "2025-08-11T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 3
                 },
-                "windSpeed": "12 mph",
+                "windSpeed": "12 to 21 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog. Mostly cloudy, with a low around 56. West southwest wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-08-10T06:00:00-07:00",
-                "endTime": "2025-08-10T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "9 to 21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/fog/wind_sct?size=medium",
-                "shortForecast": "Areas Of Fog then Mostly Sunny",
-                "detailedForecast": "Areas of fog before 9am. Mostly sunny. High near 70, with temperatures falling to around 67 in the afternoon. West southwest wind 9 to 21 mph, with gusts as high as 26 mph."
+                "icon": "https://api.weather.gov/icons/land/night/wind_bkn/rain?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle after midnight. Mostly cloudy, with a low around 56. West southwest wind 12 to 21 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle veil of fog lingers, cloaking the city in a silver haze. The air, still and cool, whispers promises of clarity as the sun ascends, coaxing the mist to retreat. By mid-morning, expect a gradual lifting of the fog, revealing a mostly sunny day laced with soft warmth\u2014a high bubbling around 70 degrees yet tempered to a comfortable 67 as the afternoon unfolds. A mild west-southwest wind will swirl through, offering a refreshing dance to those taking to the streets.\n\nFor those stepping out this morning, a light jacket or a layered ensemble will be wise, providing comfort against the lingering chill while allowing for adaptability as the sun graces the city. Consider a leisurely stroll along the Embarcadero or a visit to a local caf\u00e9, savoring a warm brew while watching the city come to life. The enchanting sights of the Bay Bridge juxtaposed against the waking skyline will be a perfect backdrop to a day marked by the gentle shift from fog to sun.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-08-10 05:01:48"
+    "weather_report": "As dawn stretches its gentle fingers across Downtown San Francisco, a hint of mystique envelops the city, cradled by low-lying clouds that rise and ebb like waves at sea. The morning air carries a slight chill, with the forecast promising a day that both teases warmth and embraces a mild coolness. Expect mostly sunny skies to unfold as the morning drizzle dissipates, revealing a canvas of blue, while the temperature delicately hovers near 69 degrees before settling back into a comfortable embrace of 66 as the sun climbs higher. The crisp winds from the west southwest add a lively touch, whispering secrets to those who wander, while gusts flirt with the leaves in a playful dance.\n\nAs the day progresses, dressing in layers would be sensible. A light sweater or wrapped shawl will keep the chill at bay in the early hours, while light clothing beneath can allow for comfort as warmth takes hold. The slight chance of drizzle returns tonight, beckoning a reminder to be prepared for a shift, but for now, the world glimmers under the sun\u2019s embrace. A stroll along the waterfront or a visit to one of the local caf\u00e9s might capture the spirit of the day perfectly, offering a moment to savor the delicate balance of nature\u2019s elements.",
+    "color_code": "#A7C9E0",
+    "timestamp": "2025-08-10 06:10:04"
 }
