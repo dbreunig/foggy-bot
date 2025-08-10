@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-09T23:43:00+00:00",
-            "temperature_f": 64.904,
-            "temperature_c": 18.28,
-            "humidity": 68.389045900049,
+            "timestamp": "2025-08-10T00:43:00+00:00",
+            "temperature_f": 62.186,
+            "temperature_c": 16.77,
+            "humidity": 78.959705739349,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-09T17:00:00-07:00",
-                "endTime": "2025-08-09T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 70, with temperatures falling to around 67 in the afternoon. West southwest wind around 21 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-08-09T18:00:00-07:00",
                 "endTime": "2025-08-10T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/wind_sct/fog?size=medium",
                 "shortForecast": "Partly Cloudy then Areas Of Fog",
                 "detailedForecast": "Areas of fog after midnight. Partly cloudy, with a low around 56. West southwest wind 10 to 21 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-08-10T06:00:00-07:00",
+                "endTime": "2025-08-10T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 70,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "9 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/wind_sct?size=medium",
+                "shortForecast": "Areas Of Fog then Mostly Sunny",
+                "detailedForecast": "Areas of fog before 9am. Mostly sunny. High near 70, with temperatures falling to around 67 in the afternoon. West southwest wind 9 to 21 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Downtown San Francisco, the sun pours down softly, casting a warm glow upon the iconic skyline and the bustling streets below. The air is alive with a fresh breeze, swirling gently from the west, at times gusting with a spirited confidence. As the temperature hovers just above the comfortable mark of 70, you\u2019ll find respite from the sun\u2019s ardor in the shade of a welcoming tree or a charming caf\u00e9 awning. The day promises an intriguing transformation as it leads into evening, inviting areas of fog to weave their way through the city after midnight, imparting a refreshing layer of mystique.\n\nAs twilight approaches, temperatures will cool to a mild 56, urging a light sweater or a cozy jacket into your evening plans. The gentle dance of clouds might coax you into a quiet corner of your favorite local bistro or a leisurely stroll along the waterfront, where the canopy of fog can blanket you in a serene hush. Whether you're seeking the camaraderie of friends or the solace of your own thoughts, this evening yields a delightful spectrum of opportunities to appreciate the character of a city caught between the embrace of sun and fog.",
-    "color_code": "#A1C1D4",
-    "timestamp": "2025-08-09 17:05:49"
+    "weather_report": "As the sun dips below the horizon, Downtown San Francisco finds itself cloaked in an ethereal dance of fog, the tendrils of which will soon embrace the city. Tonight\u2019s weather heralds a gentle mixture of partly cloudy skies and areas of fog that are likely to roll in after midnight, settling softly around 56 degrees. A brisk west-southwest wind whispers through the streets at 10 to 21 mph, offering a refreshing caress, its gusts adding an invigorating twist to the evening air.\n\nTomorrow promises a reprieve, gifting us with the light of dawn piercing through the fog. A beautiful morning will arise, giving way to a mostly sunny day that warms up to a pleasant high near 70. The temperatures will gently fall as afternoon approaches, inviting a gradual ease. Anticipating the light breeze, the best choice for dress would be layers that can be easily shed as warmth fills the air; perhaps a light sweater over a t-shirt. The day invites leisurely strolls along the waterfront or a quiet afternoon in one of the city's many parks, where the sun can be savored alongside a good book or engaging conversation.",
+    "color_code": "#a9c0d8",
+    "timestamp": "2025-08-09 18:29:47"
 }
