@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-12T11:43:00+00:00",
-            "temperature_f": 57.578,
-            "temperature_c": 14.21,
-            "humidity": 100,
+            "timestamp": "2025-08-12T12:43:00+00:00",
+            "temperature_f": 57.812,
+            "temperature_c": 14.34,
+            "humidity": 98.013028784555,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-12T05:00:00-07:00",
-                "endTime": "2025-08-12T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Mostly cloudy, with a low around 57. West southwest wind around 13 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2025-08-12T06:00:00-07:00",
                 "endTime": "2025-08-12T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,20/wind_bkn?size=medium",
                 "shortForecast": "Slight Chance Drizzle then Partly Sunny",
                 "detailedForecast": "A slight chance of drizzle before 8am. Partly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 12 to 23 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-12T18:00:00-07:00",
+                "endTime": "2025-08-13T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "13 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. West southwest wind 13 to 21 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the day begins with a gentle whisper of drizzle, a soft prelude to the unfolding of something more vibrant. The sky hangs heavy with clouds, offering a feeling of cool intimacy as you wander the streets. The temperature lingers around a mild 57 degrees, accompanied by a crisp westerly breeze that weaves through the alleyways and skims the surface of the bay. The chance of precipitation remains modest, yet ever present, like a shy glance that hints at warmth beneath.\n\nAs the sun journeys upward, there\u2019s a subtle promise of brightness. While a mere smattering of drizzle might kiss the ground early on, the afternoon beckons with near 65 degrees of warmth, even as temperatures gently retract by the day\u2019s end. The winds, playful and robust at times, reach up to 23 mph, adding a refreshing energy to the otherwise serene atmosphere. Fog, as it often does in this coastal haven, may flirt with the fringes of the city\u2014an ephemeral presence that teases visibility, especially toward the iconic Golden Gate.\n\nDressing for this day calls for layers: a light jacket to shield against the morning chill and a cozy sweater to embrace as the winds awaken. Perhaps a stroll along the waterfront or a gentle saunter through one of the city\u2019s lush parks could serve as a perfect companion to the day\u2019s cool embrace; the clang of cable cars and the rhythm of city life encapsulate the essence of San Francisco's charm. Engaging in quiet contemplation at a local caf\u00e9, observing the ebb and flow of life, could bring forth moments of connection one often seeks in the heart of a bustling metropolis.",
-    "color_code": "#A3B3C4",
-    "timestamp": "2025-08-12 05:02:01"
+    "weather_report": "The dawn breaks over Downtown San Francisco, a tender light brushing the horizon as the city stirs awake. A slight drizzle lingered in the early hours, yet now the clouds part, inviting a mild sun to cast its gentle warmth. With temperatures settling around 65 degrees, the air feels crisp but far from biting\u2014an invitation for those venturing outdoors. A west-southwest wind whispers through the streets, carrying with it a refreshing coolness, albeit with an occasional brisk gust that stirs the thoughts and freshens the spirit.\n\nToday calls for a mix of partly sunny skies with patches of lingering marine layer, hinting at the fog that often wraps its arms around the Golden Gate in the early morning. While the sun attempts to penetrate the haze, it\u2019s prudent to don a light jacket or sweater, as the afternoon wind may whisk through the streets with surprising chill. The evening will usher in a mostly cloudy sky, settling comfortably around 56 degrees\u2014a perfect backdrop for a quiet dinner or a leisurely walk along the waterfront. With the pace of the day inviting exploration, one might consider a stroll through the nearby parks, perhaps savoring a coffee at a quaint caf\u00e9, or simply watching the world unfold from a sidewalk perch, where the pulse of the city can be felt without hurry.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-08-12 06:11:46"
 }
