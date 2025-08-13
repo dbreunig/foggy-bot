@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-13T02:43:00+00:00",
-            "temperature_f": 59.828,
-            "temperature_c": 15.46,
-            "humidity": 97.904135808796,
+            "timestamp": "2025-08-13T03:43:00+00:00",
+            "temperature_f": 59.702,
+            "temperature_c": 15.39,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-12T17:00:00-07:00",
-                "endTime": "2025-08-12T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "23 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West wind around 23 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-12T18:00:00-07:00",
+                "startTime": "2025-08-12T21:00:00-07:00",
                 "endTime": "2025-08-13T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "14 to 23 mph",
+                "windSpeed": "14 to 18 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 14 to 23 mph, with gusts as high as 29 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 14 to 18 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-08-13T06:00:00-07:00",
+                "endTime": "2025-08-13T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "12 to 23 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 12 to 23 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Downtown San Francisco, the sky is predominantly sunny, though there is an underlying chill lingering in the air as temperatures hover around the mid-sixties. A brisk westerly wind whistles through the city, occasionally intensifying into the gusts that dance along the waterfront. As the day gently wanes, the sun's warmth will start to retreat, making a cozy layer more desirable, especially for those venturing into the evening. The clouds will gradually weave themselves into the evening sky, blanketing the city beneath a soft, gray hue, yet the forecast keeps the low at a comfortable 57 degrees.\n\nAs twilight approaches, one might find the allure of the city's vibe particularly inviting, perfect for a stroll along the Embarcadero, where the distant sounds of laughter and churning waves blend seamlessly with the crisp air. Layering up with a light jacket may be prudent, especially with the wind\u2019s bite. A visit to one of the local caf\u00e9s might serve as a lovely refuge, offering warmth alongside a soothing cup of coffee or tea, while the atmospheric shift of the evening unfolds. Given these conditions, one may relish the charm of the city by embracing both its tranquility and lively spirit, perhaps even catching a glimpse of the fog beginning to creep in, gently cradling the iconic bridges in its embrace as the night deepens.",
-    "color_code": "#6C7C95",
-    "timestamp": "2025-08-12 20:25:32"
+    "weather_report": "As the evening falls over Downtown San Francisco, the air is tinged with a soft coolness, the kind that whispers of sea breezes and the promise of night. The clouds hang overhead, creating a quilted tapestry that dims the fading sunlight, while a light wind rustles through the streets, urging passersby to wrap themselves in something cozy. The forecast hints at a low of around 57, with gusts reaching up to 23 mph, a gentle reminder of the city\u2019s ever-present connection to its maritime environment.\n\nTomorrow promises a mosaic of partly sunny skies, hinting at the city\u2019s vibrant hues peeking through the clouds. Highs near 65 will beckon people outdoors, tempered by a whispering wind that will brush against cheeks. It\u2019s the kind of day that invites a stroll along the Embarcadero or a visit to one of the charming caf\u00e9s nestled within the winding streets, where the local aroma of roasted coffee competes with the salt of the sea. For attire, a light jacket will serve well against the evening chill, while layers would prepare you for the mild day ahead. A simple walk along the waterfront, perhaps with a warm cup in hand, seems especially enticing as the daylight begins to fade, softly surrendering to the embrace of dusk.",
+    "color_code": "#A0B3C8",
+    "timestamp": "2025-08-12 21:07:27"
 }
