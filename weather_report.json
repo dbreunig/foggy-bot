@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-13T10:43:00+00:00",
-            "temperature_f": 58.982,
-            "temperature_c": 14.99,
-            "humidity": 100,
+            "timestamp": "2025-08-13T12:43:00+00:00",
+            "temperature_f": 57.794,
+            "temperature_c": 14.33,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-13T05:00:00-07:00",
-                "endTime": "2025-08-13T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. West wind around 14 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2025-08-13T06:00:00-07:00",
                 "endTime": "2025-08-13T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 13 to 24 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-13T18:00:00-07:00",
+                "endTime": "2025-08-14T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "12 to 24 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 12 to 24 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfurls over Downtown San Francisco, the city lies beneath a blanket of mostly cloudy skies, the air cool and crisp, resting steadily at around fifty-seven degrees. The ever-persistent west wind whispers secrets from the ocean, brushing past at a gentle pace, stirring the branches and setting the scene for the day ahead. As the morning deepens, a shift will grace the horizon\u2014partly sunny conditions are predicted, ushering in a high near sixty-five, nudging temperatures to settle around sixty-three by afternoon. Yet, the brisk west-southwest wind will intensify, promising gusts that dance towards thirty miles per hour, a reminder of the ever-shifting nature of coastal weather.\n\nIn this city, the marine layer, ever elusive, drifts like soft cotton over the shores, likely wrapping around the Golden Gate Bridge, cloaked in its familiar mystery. For the discerning visitor or local, this day lends itself to exploration\u2014perhaps a leisurely stroll along the waterfront, careful to don a light jacket against the chill, perfectly complemented by comfortable shoes for the inevitable wandering. The promise of partially brightened skies invites a visit to a quiet caf\u00e9, where a warm drink cradles hands while gazing upon the vibrant city life emerging beneath the sun's gradual ascent. As the canvas of the day unfolds, there\u2019s an invigorating allure in the air; perfect for moments that invite breaths of fresh perspective and the warmth of connection, even amidst the lingering coolness of San Francisco's embrace.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-08-13 05:02:10"
+    "weather_report": "In the early hours of this San Francisco morning, the atmosphere carries a gentle coolness, with the sun breaking through the clouds, offering a tantalizing glimpse of a partly sunny day ahead. The city lies beneath a high veil of muted gray, reminiscent of the calm before a gentle transition. As the hours progress, expect the temperatures to embrace the mid-60s, ushering in a comfortable warmth that dances delicately with the brisk winds sweeping in from the west. These winds, spirited and free, whisper through the streets at 13 to 24 mph, occasionally gusting up to 30, lending a dynamic quality to the morning air.\n\nAlthough the day may remain predominantly clear, the evening presents a shift; clouds will deepen and the marine layer may inch back toward the shore, wrapping the city in whispers of fog come nighttime, as temperatures will drop to a soft 57 degrees. For the urban wanderer, dressing in layers stands out as the practical choice\u2014a light sweater or jacket against the brisk breeze during the day would be well advised, perhaps paired with comfortable footwear suited for an urban stroll. Consider visiting the quieter corners of the city, perhaps a locally favored caf\u00e9 to sip on a warm drink or perhaps a leisurely walk through one of the parks, enjoying the hidden details of early-morning life. As the sun sets, a cozy gathering with friends indoors could become the perfect way to wind down, embracing the shimmering glow of the city that embodies the spirit of coastal allure.",
+    "color_code": "#6C7B9A",
+    "timestamp": "2025-08-13 06:12:31"
 }
