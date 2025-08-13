@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-13T01:43:00+00:00",
-            "temperature_f": 60.565999999999995,
-            "temperature_c": 15.87,
-            "humidity": 92.884418484337,
+            "timestamp": "2025-08-13T02:43:00+00:00",
+            "temperature_f": 59.828,
+            "temperature_c": 15.46,
+            "humidity": 97.904135808796,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-08-12T17:00:00-07:00",
+                "endTime": "2025-08-12T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "23 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West wind around 23 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-12T19:00:00-07:00",
+                "startTime": "2025-08-12T18:00:00-07:00",
                 "endTime": "2025-08-13T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "14 to 21 mph",
+                "windSpeed": "14 to 23 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 14 to 21 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-08-13T06:00:00-07:00",
-                "endTime": "2025-08-13T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "12 to 23 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind 12 to 23 mph, with gusts as high as 29 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 14 to 23 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "This evening in Downtown San Francisco, a soft cloak of gray clouds envelopes the sky, heralding a night of mild temperatures that hover around 57 degrees. The gentle west-southwest winds, occasionally gusting up to 26 mph, dance across the city, whispering secrets of the Pacific. The atmosphere bears a hint of the marine layer, lightly veiling the hills and bridging the expanse between urban charm and oceanic mystique. The streets glisten lightly under the fading light, while the distant outline of the Golden Gate flirts with the fading sun, promising an intriguing blend of mystery and allure.\n\nAs tomorrow unfolds, the skies will part ever so slightly to reveal patches of blue. By midday, warmth teeters towards 65 degrees, perhaps inviting an afternoon reminiscent of those long-lost summer days, where the sun might peek from behind the clouds, illuminating the streets and the stately architecture. Dress in layers to embrace the coolness of the morning air while preparing for the more agreeable embrace of afternoon sunshine. Whether you find yourself meandering through the Mission District\u2019s vibrant murals or seeking solace in a cozy caf\u00e9 in North Beach, tomorrow\u2019s balance of cloud and sun offers the perfect backdrop for reflective strolls or leisurely afternoons spent indoors with a warm drink.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-08-12 19:32:47"
+    "weather_report": "This afternoon in Downtown San Francisco, the sky is predominantly sunny, though there is an underlying chill lingering in the air as temperatures hover around the mid-sixties. A brisk westerly wind whistles through the city, occasionally intensifying into the gusts that dance along the waterfront. As the day gently wanes, the sun's warmth will start to retreat, making a cozy layer more desirable, especially for those venturing into the evening. The clouds will gradually weave themselves into the evening sky, blanketing the city beneath a soft, gray hue, yet the forecast keeps the low at a comfortable 57 degrees.\n\nAs twilight approaches, one might find the allure of the city's vibe particularly inviting, perfect for a stroll along the Embarcadero, where the distant sounds of laughter and churning waves blend seamlessly with the crisp air. Layering up with a light jacket may be prudent, especially with the wind\u2019s bite. A visit to one of the local caf\u00e9s might serve as a lovely refuge, offering warmth alongside a soothing cup of coffee or tea, while the atmospheric shift of the evening unfolds. Given these conditions, one may relish the charm of the city by embracing both its tranquility and lively spirit, perhaps even catching a glimpse of the fog beginning to creep in, gently cradling the iconic bridges in its embrace as the night deepens.",
+    "color_code": "#6C7C95",
+    "timestamp": "2025-08-12 20:25:32"
 }
