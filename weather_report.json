@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-14T10:43:00+00:00",
-            "temperature_f": 57.056,
-            "temperature_c": 13.92,
-            "humidity": 100,
+            "timestamp": "2025-08-14T12:43:00+00:00",
+            "temperature_f": 56.948,
+            "temperature_c": 13.86,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-14T05:00:00-07:00",
-                "endTime": "2025-08-14T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Mostly cloudy, with a low around 57. West southwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2025-08-14T06:00:00-07:00",
                 "endTime": "2025-08-14T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain/wind_sct?size=medium",
                 "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
                 "detailedForecast": "A slight chance of drizzle before 8am. Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 9 to 22 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-14T18:00:00-07:00",
+                "endTime": "2025-08-15T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "6 to 22 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 58. Southwest wind 6 to 22 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "In the soft, early hours of Thursday, Downtown San Francisco awakens under a muted ceiling of clouds, hinting at a lingering marine layer that still curls around the bay. The air carries a coolness typical of August mornings, with an easy breeze flowing through the streets, brushing against the skin just enough to remind us of the ocean's proximity. While there's only a slight chance of drizzle, the day promises moments when the clouds may part, revealing glimpses of a sun trying to break free and warm the city in the late morning.\n\nAs the day rolls on, we can expect a gradual transition. By afternoon, the clouds will yield to a mostly sunny disposition, though temperatures will hover in the comfortable mid-60s. It\u2019s a day that invites layering\u2014perhaps a light sweater or a light jacket for those early hours, which can be easily shed when the warmth begins to rise. Given the weather's temperate nature, a leisurely stroll along the waterfront might be perfect, or perhaps enjoying a quiet moment in a caf\u00e9 with a warm drink, watching the world unfold against the backdrop of the iconic cityscape. Keep your eyes open for pockets where the sun shines through, illuminating the beauty that is ever-present in this city, even on its cloudiest days.",
-    "color_code": "#A0C8E0",
-    "timestamp": "2025-08-14 05:02:16"
+    "weather_report": "In Downtown San Francisco, the morning begins with a whisper of drizzle lingering in the air, soon to be replaced by a gentle warmth as the sun emerges to cast its glow over the city. Skies clear, revealing a mostly sunny expanse as the day unfolds with a high around 66 degrees, gradually settling around a comfortable 64 in the afternoon. Moderate winds sweep through, offering a refreshing breeze that invigorates the soul while serving as a reminder of the bay\u2019s ever-present maritime charm. As the evening approaches, the clarity deepens, promising a peaceful night with temperatures settling around 58 degrees.\n\nWith the forecast in mind, it beckons you to embrace the day outside. A light jacket, perhaps a cozy cardigan, would suit the temperate climate, while closed-toe shoes will keep you comfortable against the cool wind. Consider an idyllic stroll along the Embarcadero, or perhaps exploring the hidden gems of Golden Gate Park, where the greenery thrives under the sun's embrace. It\u2019s a day for thoughtful wanderings through the city\u2019s heart, a canvas painted with the vibrancy of its architecture and the soft rustle of nature.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-08-14 06:13:03"
 }
