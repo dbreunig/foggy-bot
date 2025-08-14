@@ -7,7 +7,7 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-14T03:43:00+00:00",
+            "timestamp": "2025-08-14T04:43:00+00:00",
             "temperature_f": 59.558,
             "temperature_c": 15.31,
             "humidity": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-13T14:00:00-07:00",
-                "endTime": "2025-08-13T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. West southwest wind around 21 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-13T18:00:00-07:00",
+                "startTime": "2025-08-13T22:00:00-07:00",
                 "endTime": "2025-08-14T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "10 to 21 mph",
+                "windSpeed": "10 to 18 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 57. West southwest wind 10 to 21 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle after 11pm. Cloudy, with a low around 57. West southwest wind 10 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-08-14T06:00:00-07:00",
+                "endTime": "2025-08-14T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "9 to 23 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/wind_sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 8am. Mostly sunny, with a high near 66. West southwest wind 9 to 23 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "The sun hangs low in the sky over Downtown San Francisco, casting a gentle warmth that calls to wanderers and strollers. With mostly sunny conditions, the air feels crisp yet inviting, a perfect blend of coolness from the ocean breeze. A light west-southwest wind sweeps through the streets, fluttering leaves and lifting spirits, as the temperature drifts through the mid-60s\u2014comfortable attire is in order, a light jacket perhaps, complemented by breathable layers for those moments when the gusts dance a little stronger.\n\nAs evening approaches, a whisper of possibility tints the air with a chance of drizzle after 11 PM, offering a soft contrast to the vibrant textures of the day. The looming clouds hint at the typical marine layer, providing a cozy backdrop that is not too distant from the charm of the fog that often graces this city. As twilight deepens, one might consider a languid walk along the waterfront, where the mingling scents of salt and spice from nearby eateries create an atmosphere ripe for calm reflection. In this moment, the city shares its quiet poetry; lose yourself in the hum of casual conversation or cozy cafes as you embrace the evening's gentle embrace.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-08-13 22:03:12"
+    "weather_report": "As night settles over Downtown San Francisco, you might feel a whisper of a cool breeze, carrying the promise of a soft drizzle that could tantalize the air close to midnight. The scene is blanketed in a solid fabric of clouds, with the atmospheric hues hinting at the dampness that lingers. With the temperature drifting towards a gentle 57 degrees, dressing in layers will be your best ally. A light jacket or sweater will fend off the chill, especially against the lively west-southwest winds that stir at about 10 to 18 mph, powerful enough to occasionally catch you off-guard with gusts reaching 23 mph.\n\nTomorrow dawns with a chance of early drizzle, yet hints of sunshine will attempt to break through, coaxing the day towards a mildHigh of around 66 degrees. It shapes up to be a delightful paradox, as cloudiness wrestles with brightness, setting the stage for a day of contrasting moods. With a breeze continuing to waft through the city at speeds of 9 to 23 mph, tomorrow invites you to stretch your legs\u2014perhaps a leisurely stroll along Fort Mason, accompanied by the serene sound of waves kissing the shoreline, or a visit to a quaint coffee shop tucked away in the Marina District where the warmth of a cup can combat the lingering chill. Embrace the day\u2019s charm, for San Francisco always wears its moods with grace and allure.",
+    "color_code": "#808080",
+    "timestamp": "2025-08-13 23:02:18"
 }
