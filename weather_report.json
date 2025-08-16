@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-16T05:43:00+00:00",
-            "temperature_f": 59.432,
-            "temperature_c": 15.24,
+            "timestamp": "2025-08-16T06:43:00+00:00",
+            "temperature_f": 58.946000000000005,
+            "temperature_c": 14.97,
             "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-15T14:00:00-07:00",
-                "endTime": "2025-08-15T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "18 to 22 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 71, with temperatures falling to around 69 in the afternoon. West wind 18 to 22 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-08-15T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-08-16T01:00:00-07:00",
                 "endTime": "2025-08-16T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 60,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "18 to 22 mph",
+                "windSpeed": "17 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly clear, with a low around 60. West wind 18 to 22 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle. Partly cloudy, with a low around 60. West wind around 17 mph, with gusts as high as 24 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-08-16T06:00:00-07:00",
+                "endTime": "2025-08-16T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "14 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/wind_sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny, with a high near 67. West southwest wind 14 to 21 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the air carries a comfortable warmth, a prelude to a striking day ahead. As the afternoon sun casts its golden light, temperatures hover around a pleasant 71 degrees, briefly dipping to a more mellow 69 as the breeze brushes the skin. The west wind dances through the streets at a lively pace, whipping around corners with gusts that remind you of deep breaths taken in the fresh coastal air. Tonight, a whisper of drizzle may lightly kiss the city after 11 PM, but for now, clarity reigns supreme under a mostly clear sky.\n\nThis lovely afternoon invites a leisurely stroll along the Embarcadero, where the shimmering bay reflects the soft hues of the sun, unfettered by fog or haze. As the evening approaches, bringing slightly lower temperatures and a touch of humidity, a light jacket will serve well when the shadows deepen. Take a moment to relax at a caf\u00e9, savoring the taste of a warming beverage, or visit a local bookshop, letting the vibrant community envelop you until the embrace of night. The weather today paints a picture of a city alive with possibilities; one simply needs to step into it.",
-    "color_code": "#6BAF92",
-    "timestamp": "2025-08-16 00:01:33"
+    "weather_report": "As dawn approaches in Downtown San Francisco, the air carries the unmistakable scent of a coastal morning. A light drizzle may still linger in the fading shadows of the night, and though the clouds may dance overhead, the promise of clearer skies emerges. The temperature, resting gently around sixty degrees, invites a sense of comfort amid the flickering breezes originating from the west, whispering through the streets at about seventeen miles per hour. The city, ever alive, stands in quiet anticipation of a Saturday that promises both sun and a hint of lingering marine layer.\n\nThroughout the late morning, a slight chance of drizzle persists before ten o'clock, but soon the sun will bestow its warm embrace upon the city. With a high expected near sixty-seven, the afternoon will reveal a vibrant tapestry of mostly sunny skies. The winds will shift slightly, gusting up to thirty miles per hour, joining the dance of the day. For the discerning individual heading out, layers are the key to navigating this whimsical weather: a lightweight jacket in case of the occasional cool breeze, and breathable fabrics to enjoy the sunshine when it graces the city. Amid these conditions, a stroll through a nearby park, a visit to a quaint caf\u00e9 to savor a warm drink, or simply finding a cozy nook to read a book could prove to be an ideal way to embrace the spirit of the day without veering into clich\u00e9s.",
+    "color_code": "#A5B6C3",
+    "timestamp": "2025-08-16 01:01:45"
 }
