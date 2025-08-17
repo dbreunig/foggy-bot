@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-17T06:43:00+00:00",
-            "temperature_f": 58.82,
-            "temperature_c": 14.9,
-            "humidity": 100,
+            "timestamp": "2025-08-17T07:43:00+00:00",
+            "temperature_f": 58.586,
+            "temperature_c": 14.77,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-16T14:00:00-07:00",
-                "endTime": "2025-08-16T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 10
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 67. West southwest wind around 17 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-08-16T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-08-17T02:00:00-07:00",
                 "endTime": "2025-08-17T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 16
                 },
-                "windSpeed": "9 to 17 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/sct/rain,20?size=medium",
-                "shortForecast": "Partly Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after midnight. Partly cloudy, with a low around 57. West southwest wind 9 to 17 mph, with gusts as high as 29 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 57. West southwest wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-08-17T06:00:00-07:00",
+                "endTime": "2025-08-17T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 16
+                },
+                "windSpeed": "8 to 16 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Patchy Drizzle then Mostly Sunny",
+                "detailedForecast": "Patchy drizzle before 8am. Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West southwest wind 8 to 16 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As we drift through the early morning hours in Downtown San Francisco, the air feels fresh and carries the subtle promise of a mellow day ahead. The sky, still awakening, has begun to reveal itself with patches of blue peeking through, indicating a mostly sunny afternoon that\u2019s predicted to lend warmth and comfort, hovering around a gentle 67 degrees. You might notice the hints of a breeze, whispering through the streets at a brisk 17 mph, stirring leaves and creating a soothing rustle that harmonizes with the city's morning routine.\n\nYet, as the sun sinks later into the evening, anticipate a change in scenery and texture. A light drizzle may brush against your skin come midnight, perhaps awakening a part of you that feels invigorated by such tender, refreshing splashes of nature. With a low of around 57, it\u2019s advisable to dress warmly, perhaps wrapping yourself in a soft sweater or light jacket, as the evening brings forth a shift that could make the air feel cooler against your exposed skin. Although the chances of rain are minimal, the day\u2019s clarity invites chances for contemplation. Whether you choose to stroll along Market Street, exploring local cafes, or enjoy quiet moments with a book at home, the beauty of this city will wrap around you like an old friend, reminding you of its ever-changing charm.",
-    "color_code": "#A7C9D3",
-    "timestamp": "2025-08-17 01:01:39"
+    "weather_report": "In the early hours of Sunday morning, Downtown San Francisco quietly greets the day, shrouded in a light, patchy drizzle that dances gently atop the streets. The air, embracing a soft chill around 57 degrees, hints at a day where nature's symphony is composed of muted notes\u2014mostly cloudy skies above reflecting a subdued palette that softens the sharp edges of the cityscape. As the sun begins its ascent, it struggles through the persistent clouds, promising glimpses of brightness ahead.\n\nThe forecast leans toward a transition into a mostly sunny afternoon, with temperatures gradually nudging toward a comfortable 64 before retreating to a cozy 62 as the day rolls toward its conclusion. Winds from the west-southwest whisper through the avenues, rustling leaves and providing just enough of a cooling effect to remain refreshing against the skin. Though the odds of precipitation linger at a modest 20%, it's unlikely to significantly disrupt any plans for the day, making it an opportune time for leisurely strolls, perhaps along the waterfront or through a local park, where the mildness allows for simple moments of reflection. Layering a light sweater or jacket over a comfortable shirt would suit this gentle day well, offering warmth against the lingering coolness of the marine layer while allowing for the impression of sunny optimism ahead. \n\nDipping into a local caf\u00e9 for a steaming cup of coffee, or stepping into one of the city\u2019s inviting bookstores could provide splendid reprieves from the dampness, as the city awakens around you, slowly shedding its overnight veil.",
+    "color_code": "#A9C8D5",
+    "timestamp": "2025-08-17 02:01:30"
 }
