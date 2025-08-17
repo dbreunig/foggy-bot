@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-17T18:43:00+00:00",
-            "temperature_f": 62.348,
-            "temperature_c": 16.86,
-            "humidity": 84.003307036672,
+            "timestamp": "2025-08-17T19:43:00+00:00",
+            "temperature_f": 64.13,
+            "temperature_c": 17.85,
+            "humidity": 77.99522163398,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-17T03:00:00-07:00",
-                "endTime": "2025-08-17T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 16
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 57. West wind around 13 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-08-17T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-08-17T14:00:00-07:00",
                 "endTime": "2025-08-17T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 16
+                    "value": 2
                 },
-                "windSpeed": "12 to 21 mph",
+                "windSpeed": "21 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/wind_sct?size=medium",
-                "shortForecast": "Patchy Drizzle then Mostly Sunny",
-                "detailedForecast": "Patchy drizzle before 8am. Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West wind 12 to 21 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West wind around 21 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-17T18:00:00-07:00",
+                "endTime": "2025-08-18T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "12 to 20 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 56. West wind 12 to 20 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "As the clock ticks past one in the afternoon, the air in Downtown San Francisco holds a hint of dampness, the remnants of last night's patchy drizzle lingering in the atmosphere. The sky is cloaked in a quilt of clouds, casting a muted gray light across the city\u2019s iconic landscape. Visibility feels slightly obscured, shadowing the Golden Gate Bridge with an ethereal veil, while the bay\u2019s gentle waves sport a delicate shimmer under the faint sun attempting to pierce through. A cool wind stirs from the west, rustling the leaves of the trees lining the streets, making light jackets the smart choice for any stroll outside.\n\nLooking ahead, the weather promises a gradual lift; the drizzle will ease, giving way to moments of sunshine as the day progresses. Temperatures are expected to hover in a cool embrace, inviting a leisurely afternoon. For those venturing out, a visit to a local caf\u00e9 for a warm drink would be fitting, especially as the winds pick up. An easy walk along the Embarcadero, feeling the breeze and taking in the sights of the water, could be a satisfying way to spend the rest of the day. Attire should be practical yet comfortable, perhaps with layers to adapt to the shifting moods of San Francisco's oft-unpredictable weather.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2025-08-17 13:01:43"
+    "weather_report": "As the afternoon unfolds in Downtown San Francisco, a soothing sun begins to cast its gentle warmth upon the city, with a high creeping towards a brisk 64 degrees. The air is punctuated by the playful ballet of wind, teasing branches and beckoning the float of the clouds above. As shadows stretch and move, there is a delightful clarity to the day\u2014a pleasant shift from the fog that often enshrouds this coastal enclave, now pulling back to yield clear vistas, particularly to the famous Golden Gate Bridge and the undulating hills beyond.\n\nAs evening approaches, expect the skies to transform into a quilt of partial clouds, offering a softer ambiance that perfectly complements the mild temperatures settling around 56 degrees. With the wind continuing to swirl, a light jacket would serve well against any lingering chill, especially as you wander the charming streets or perhaps savor a leisurely stroll along the waterfront. Such conditions invite the simple pleasures of life\u2014finding a cozy caf\u00e9 to enjoy a warm drink, or indulging in the art of conversation with a friend as the sun dips lower. A day well spent under the vast canopy of the sky, effortlessly weaving serenity into the fabric of urban charm.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-08-17 14:01:38"
 }
