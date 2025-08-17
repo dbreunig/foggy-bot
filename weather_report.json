@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-17T16:43:00+00:00",
-            "temperature_f": 58.676,
-            "temperature_c": 14.82,
-            "humidity": 100,
+            "timestamp": "2025-08-17T17:43:00+00:00",
+            "temperature_f": 60.098,
+            "temperature_c": 15.61,
+            "humidity": 94.991503145112,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-08-17T08:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-08-17T04:00:00-07:00",
+                "endTime": "2025-08-17T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 16
+                },
+                "windSpeed": "13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 57. West wind around 13 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-08-17T06:00:00-07:00",
                 "endTime": "2025-08-17T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -27,36 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 16
                 },
                 "windSpeed": "12 to 21 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West wind 12 to 21 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-08-17T18:00:00-07:00",
-                "endTime": "2025-08-18T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "12 to 20 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 56. West wind 12 to 20 mph, with gusts as high as 26 mph."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/wind_sct?size=medium",
+                "shortForecast": "Patchy Drizzle then Mostly Sunny",
+                "detailedForecast": "Patchy drizzle before 8am. Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. West wind 12 to 21 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "A gentle breeze sweeps through Downtown San Francisco today, carrying hints of the ocean as the city embraces a mostly sunny disposition. With temperatures hovering around the mid-60s and a pleasant west wind ruffling hair and skirts alike, the day beckons one outdoors. As you stroll through the streets, you might witness the proud silhouette of the Golden Gate Bridge skimming the skyline, partially adorned by a soft layer of coastal fog that appears to retreat but never fully disappears. This is a classic San Francisco morning, where sunshine kisses the cool, crisp air, reminding you that layers are your best ally; a light jacket is a wise choice to navigate the fluctuating temperatures, especially as afternoon approaches and breezes whisper reminders of the chill that comes with evening.\n\nAs the day progresses, the charm of the city unfolds beautifully, inviting a sense of exploration. Consider ambling through Golden Gate Park or visiting a tucked-away caf\u00e9 to enjoy a leisurely read. The air of the city, infused with the scent of fresh coffee and baked goods, makes for an ideal backdrop to simply pause and reflect. Tonight, as the sun draws its curtain behind the horizon, the skies will clear to partly cloudy, letting the evening air settle gently around you. So bring your comfortable shoes, a cozy sweater, and ready yourself for the most delightful of San Francisco afternoons and evenings, replete with the simple joys that our remarkable city has to offer.",
-    "color_code": "#A9C8D4",
-    "timestamp": "2025-08-17 11:01:39"
+    "weather_report": "Overnight, the city has donned its cloak of clouds, with a gentle drizzle whispering through the streets, creating a misty veil that softens the world in shades of gray. As the sun rises, this morning's moisture hangs slightly in the air, veiling the skyline and contributing to a cool embrace, with temperatures hovering around 57 degrees. The west winds carry a briskness, stirring the heart of the city as they dance between buildings, a prelude to the warmth the day may bring.\n\nBy midday, the forecast promises an awakening; the clouds will yield to bright, welcoming sunshine that illuminates the iconic skyline. As the sun carves its path through the clouds, expect temperatures to peak around the mid-60s, making it a delightful day to explore. Though the chances of drizzle remain low, the lingering marine layer may keep the air cool and crisp, especially near the bay. Dress comfortably in layers\u2014perhaps a light sweater or jacket to fend off the morning chill, transitioning easily to an open collar in the afternoon warmth. As the city breathes in this fresh, cornflower blue afternoon, one might relish the simple joy of a stroll through Golden Gate Park or enjoy a cup of coffee at an outdoor caf\u00e9, soaking in the vibrant life that ebbs and flows through the heart of Downtown San Francisco.",
+    "color_code": "#A0B1C2",
+    "timestamp": "2025-08-17 12:01:29"
 }
