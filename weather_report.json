@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-20T10:43:00+00:00",
-            "temperature_f": 57.74,
-            "temperature_c": 14.3,
-            "humidity": 86.00438860923,
+            "timestamp": "2025-08-20T12:43:00+00:00",
+            "temperature_f": 56.93,
+            "temperature_c": 13.85,
+            "humidity": 95.858349349262,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-20T05:00:00-07:00",
-                "endTime": "2025-08-20T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 56. Southwest wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2025-08-20T06:00:00-07:00",
                 "endTime": "2025-08-20T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 72, with temperatures falling to around 70 in the afternoon. Southwest wind 7 to 21 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-20T18:00:00-07:00",
+                "endTime": "2025-08-21T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "13 to 18 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 58. West southwest wind 13 to 18 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks gently over Downtown San Francisco, the air feels serene, infused with a hint of coolness, as if the city is still cradled in the arms of the night. Current temperatures hover comfortably in the mid-fifties, a mild invitation to wrap oneself in a light sweater or an easy cardigan. The forecast promises a splendid day ahead, where the sun will cradle the city in warmth, reaching a high of 72 by midday, gracefully tapering to the low seventies as the afternoon unfolds.\n\nDespite the bright promise of sunshine, the remnants of a marine layer linger over the bay, ethereal wisps still clinging to the Golden Gate, heralding the uniqueness of our coastal climate. A gentle southwest wind will invigorate the morning, rustling through leaves and stirring a playful energy in the atmosphere, though by the afternoon, it may pick up in intensity, creating a lively dance among the bustling streets. Today is one that calls out for simple enjoyment: perhaps a stroll along the Embarcadero, where the waters shimmer with reflections of those sparkling rays, or a quiet moment in a local caf\u00e9, sipping a warm brew while watching the tide of daily life swirl by. Embrace the uplifting clarity of this day\u2014it's a perfect backdrop for the subtle joys that define the city.",
-    "color_code": "#A3C1AD",
-    "timestamp": "2025-08-20 05:02:16"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the city awakens under a canvas of brilliant blue sky, promising a day painted with warmth and clarity. The forecast suggests that today\u2019s temperatures will hold steady around the low seventies, gently falling as afternoon approaches. A light southwest wind stirs, adding a refreshing touch as it dances through the streets, bringing the scent of the ocean and hints of salt in the air.\n\nWhile fog typically steals the spotlight this time of year, today it seems to be keeping its distance, leaving only faint remnants on the horizon. The horizon remains unfettered, inviting inhabitants to step outside and bask in the sunlight. It\u2019s a day made for leisurely strolls along the waterfront or a quiet afternoon at an outdoor caf\u00e9, where the light breeze mingles with soft conversations. A light layering of clothing would serve well; perhaps a shirt with a light jacket for the evening chill, keeping comfort in mind while embracing the day's radiant offerings. So, whether you find solace in a book in a sun-drenched park or seek adventure through the city's winding streets, today is a gentle reminder that not all days need the fog to invoke beauty and charm.",
+    "color_code": "#FFCC66",
+    "timestamp": "2025-08-20 06:10:22"
 }
