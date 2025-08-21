@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-21T04:00:00-07:00",
-                "endTime": "2025-08-21T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 58. West southwest wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-08-21T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-08-21T07:00:00-07:00",
                 "endTime": "2025-08-21T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 74,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 74, with temperatures falling to around 72 in the afternoon. Southwest wind 7 to 21 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-21T18:00:00-07:00",
+                "endTime": "2025-08-22T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "13 to 20 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 13 to 20 mph, with gusts as high as 24 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the air carries a refreshing openness, hinting at the promise of a beautiful day ahead. The horizon glows with soft hues of amber and rose, interrupted only by the silhouette of the iconic skyline. Although the gentle presence of fog lingers on the edges, it yields to a mostly clear morning, allowing the sun to cast its warmth upon the city. With a low temperature hovering in the mid-fifties, there\u2019s a pleasant chill in the air, suggesting proper layering will be helpful\u2014perhaps a light sweater paired with comfortable jeans for the early hours.\n\nAs the day unfolds, expect the sun\u2019s embrace to warm the surroundings to about 74 degrees, easing into a gentle afternoon where the temperature cools slightly. The southwest winds, playful yet grounding at around 12 mph, will dance through the streets, occasionally gusting to 25, reminding us of nature's spirited characters. This vibrant atmosphere invites residents and visitors alike to explore the city\u2019s charming nooks. Imagine a leisurely stroll through Golden Gate Park or a visit to the local cafes lining the Embarcadero, where the aroma of freshly brewed coffee mingles with the crisp sea air. Today is perfect for unfurling your adventures, whether it\u2019s gathering with friends for brunch or simply enjoying a moment of solitude amid the bustle.",
-    "color_code": "#F7D38B",
-    "timestamp": "2025-08-21 06:09:35"
+    "weather_report": "The dawn over Downtown San Francisco greets the day with a gentle clarity that promises the delight of a mostly sunny afternoon. As the sun rises, its rays illuminate the textured skyline, casting long shadows that dance along the city\u2019s undulating streets. The forecast suggests a high near 74, a comfortable embrace for early autumn, where the golden warmth will gradually surrender to cooler breezes by afternoon. A southwest wind whispers through the streets, occasionally picking up strength, dancing playfully between buildings and rustling through the leaves of nearby trees.\n\nAs the day unfolds, the delightful sun will find itself increasingly veiled by a light layer of clouds, hinting at the gentle transition toward evening. Tonight, expect the cool caress of a west southwest wind, heralding a low of around 57, perfect for a cozy evening under a soft blanket or perhaps a leisurely stroll along the waterfront where the rhythmic sounds of waves provide a soothing backdrop. Given the day\u2019s pleasantness, consider slipping into lightweight layers, a breathable shirt complemented by a light jacket for after the sun dips below the horizon. It\u2019s a day ripe for a visit to a local caf\u00e9, where the aroma of fresh coffee mingles with the soft chatter of city dwellers, or perhaps to dip into a quiet corner bookstore, where time drifts lazily like a passing cloud.",
+    "color_code": "#FFC107",
+    "timestamp": "2025-08-21 07:01:59"
 }
