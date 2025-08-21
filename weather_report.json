@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-21T06:43:00+00:00",
-            "temperature_f": 59.828,
-            "temperature_c": 15.46,
-            "humidity": 78.977112981314,
+            "timestamp": "2025-08-21T07:43:00+00:00",
+            "temperature_f": 59.504,
+            "temperature_c": 15.28,
+            "humidity": 79.003098058976,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-08-20T20:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-08-21T02:00:00-07:00",
                 "endTime": "2025-08-21T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 58. Southwest wind 5 to 10 mph."
+                "detailedForecast": "Mostly clear, with a low around 58. Southwest wind around 12 mph."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "3 to 14 mph",
+                "windSpeed": "7 to 21 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 74, with temperatures falling to around 72 in the afternoon. Southwest wind 3 to 14 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly sunny. High near 74, with temperatures falling to around 72 in the afternoon. Southwest wind 7 to 21 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the moon hangs high over Downtown San Francisco, the night air is tinged with a gentle clarity, promising a serene transition into the dawn. Presently, the weather sits comfortably in the embrace of a low around 58 degrees, with a whispering southwest wind keeping the atmosphere refreshingly crisp. The charm of a mostly clear sky invites a sense of calm, allowing the shimmer of city lights to dance beneath the stars, unencumbered by fog or haze.\n\nAs Thursday dawns, expect a mostly sunny day to unfurl with a high near 74. The morning will awaken softly, setting the stage for a gradual warming, peaking at a pleasant 72 in the afternoon. With a light breeze of 3 to 14 mph and occasional gusts, it will be a perfect day for leisurely explorations. Dress in layers, perhaps a light shirt with a cardigan or jacket for the morning chill, shedding it later as the sun wraps the city in its warm embrace. As you step outside, consider a quiet stroll through the urban parks or a visit to a local caf\u00e9, where you can savor the rich aroma of freshly brewed coffee while observing the bustling world around you\u2014a lovely way to embrace the gentle pulse of the day.",
-    "color_code": "#A6B6D7",
-    "timestamp": "2025-08-21 01:01:52"
+    "weather_report": "As dawn breaks softly over Downtown San Francisco, a gentle clarity settles in with the promise of a lovely day ahead. The air carries a mild chill, resting comfortably at around 58 degrees, as a soft southwest breeze whispers through the streets. As the sun ascends, it will usher in a delightful warmth, the temperature climbing tenderly towards 74, eventually softening to a cool embrace of 72 by afternoon. \n\nThough the morning may carry a hint of haze, the forecast hints at a mostly sunny day, suggesting that the infamous San Francisco fog will likely remain at bay, leaving the sky open and inviting for exploration. Dress in layers; a light jacket will serve well for the cooler morning but should give way to lighter clothing as the sun warms the city. Consider a leisurely stroll along the waterfront, perhaps enjoying coffee from a local caf\u00e9, letting the day unfold around you. For those craving a bit more activity, a walk through the enveloping green of Golden Gate Park could offer a serene escape, filled with the gentle rustle of leaves and the soft splashes of fountains, making the most of this pleasantly mild San Francisco day.",
+    "color_code": "#E5E4DF",
+    "timestamp": "2025-08-21 02:01:54"
 }
