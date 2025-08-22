@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-22T02:43:00+00:00",
-            "temperature_f": 61.664,
-            "temperature_c": 16.48,
-            "humidity": 73.997322627724,
+            "timestamp": "2025-08-22T03:43:00+00:00",
+            "temperature_f": 60.025999999999996,
+            "temperature_c": 15.57,
+            "humidity": 78.993080748103,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-08-21T14:00:00-07:00",
+                "endTime": "2025-08-21T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 74,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "18 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 74, with temperatures falling to around 72 in the afternoon. West southwest wind around 18 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-21T19:00:00-07:00",
+                "startTime": "2025-08-21T18:00:00-07:00",
                 "endTime": "2025-08-22T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "13 to 16 mph",
+                "windSpeed": "13 to 18 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 13 to 16 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-08-22T06:00:00-07:00",
-                "endTime": "2025-08-22T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "10 to 21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 70, with temperatures falling to around 68 in the afternoon. West southwest wind 10 to 21 mph, with gusts as high as 26 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 57. West southwest wind 13 to 18 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco tonight, the atmosphere hangs thick with clouds, casting a muted glow over the city as the temperature dips to a mild 57 degrees. A crisp west-southwest wind sculpts the air, teasing the slight chill that lingers after sunset. As the evening deepens, the vibrant heartbeat of the city flickers to life, with the soft murmur of distant laughter and chatter rising from the sidewalk caf\u00e9s. The marine layer may be creeping in from the bay, veiling the Golden Gate Bridge in a ghostly embrace, hinting at a typical San Francisco evening.\n\nLooking ahead to tomorrow, a promise of sunshine dances on the horizon. By daybreak, the clouds will part to reveal a generous spread of blue, with a high near 70 calling out for activities in the fresh daylight. The winds will stretch themselves, blowing breezy and invigorating at 10 to 21 mph, making it the perfect time for a leisurely stroll along the Embarcadero or a visit to one of the many parks. A light jacket or a cozy sweater may be your best companions as the temperature cools throughout the afternoon. Embrace the simple joys of the day\u2014perhaps a visit to the Ferry Building to savor artisanal treats or a meander through Chinatown, savoring the rich history and vibrant colors around you. This is a day best spent outdoors, where the gentle warmth of summer lingers just a breath away.",
-    "color_code": "#D1E6FF",
-    "timestamp": "2025-08-21 21:01:48"
+    "weather_report": "In Downtown San Francisco, the afternoon unfolds beneath a bright canopy, where mostly clear skies lend a gentle warmth to the lingering light. As the sun inches toward the horizon, the temperature hovers around 72, offering a comfortable embrace for those strolling the city streets. A brisk west-southwest wind, dancing at 18 mph with occasional gusts, adds a refreshing edge, stirring the scents of the bay. The atmosphere is punctuated by the faint brush of clouds, a soft reminder of the night's embrace yet to come.\n\nAs dusk approaches, the skies will turn partly cloudy, allowing a serene transition into evening. The coolness of the night is expected to settle in around 57 degrees, making a light jacket or sweater a wise choice. The coastal marine layer may swirl near the bridge, but it likely won\u2019t impose on the clarity of the day\u2014a brief cherishing of daylight before shadows stretch across the city. This idyllic weather beckons a gentle wander through parks, perhaps savoring an evening coffee al fresco or indulging in a quiet moment by the waterfront, where conversations drift easily with the breeze. Such simple pleasures transform a day into a lasting memory, embodying the charm of this vibrant city.",
+    "color_code": "#A7B0C1",
+    "timestamp": "2025-08-21 22:01:41"
 }
