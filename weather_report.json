@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-22T05:43:00+00:00",
-            "temperature_f": 58.334,
-            "temperature_c": 14.63,
-            "humidity": 82.978237168385,
+            "timestamp": "2025-08-22T06:43:00+00:00",
+            "temperature_f": 57.938,
+            "temperature_c": 14.41,
+            "humidity": 83.943589703784,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-08-21T14:00:00-07:00",
+                "endTime": "2025-08-21T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 74,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "18 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 74, with temperatures falling to around 72 in the afternoon. West southwest wind around 18 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-21T20:00:00-07:00",
+                "startTime": "2025-08-21T18:00:00-07:00",
                 "endTime": "2025-08-22T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "13 to 16 mph",
+                "windSpeed": "13 to 18 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 13 to 16 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-08-22T06:00:00-07:00",
-                "endTime": "2025-08-22T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "10 to 21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 70, with temperatures falling to around 68 in the afternoon. West southwest wind 10 to 21 mph, with gusts as high as 26 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 57. West southwest wind 13 to 18 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "As the clock strikes late into the evening in downtown San Francisco, the air is filled with a faint chill that invites a light sweater or coat. The sky is mostly cloaked in clouds, a reminder that summer in this city can still carry hints of its coastal origins. The winds, brisk and playful from the west southwest, weave through the streets, lending a refreshing quality to the night air. Tomorrow promises a delightful shift, as the sun shall break through the cloud cover, warming the city to a pleasant high around 70. \n\nIn this anticipated golden light, the fog may recede to the fringes, allowing for stunning views of the iconic Golden Gate Bridge, quietly asserting its grandeur against the backdrop of a clear sky. With temperatures settling in the comfortable range, it would be a fine day for a stroll along the waterfront or a leisurely coffee at an outdoor caf\u00e9, where one might lose track of time watching the boats bobbing lazily on the bay. Embrace the moment, dress in layers, and let the beauty of a San Francisco day unfold.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2025-08-22 00:01:49"
+    "weather_report": "As the day unfolds, Downtown San Francisco greets us with a stillness infused with the glow of a mellow sun peering through the veil of early morning. The air is crisp and invigorating, a gentle invitation to step outside. With temperatures inching up toward a pleasant warmth, it's a delightful moment to relish a stroll along the Embarcadero, where the reflections of the city dance upon the water\u2019s surface, creating a tapestry of movement and light.\n\nToday, as the forecast suggests, the clouds will retreat, leaving the city basking under mostly sunny skies. The gentle west-southwest breeze will whisper through the streets, occasionally picking up speed, just enough to tousle hair and lift spirits. Expect a couch of mild temperatures that wrap around you like a soft sweater, turning just a touch cooler as the afternoon transitions into evening. The hint of fog lingering by the Golden Gate Bridge teases, but it\u2019s merely a whisper of the marine layer retreating to the embrace of the ocean. \n\nDress in layers today; the morning chill can surprise, but you'll want to peel them off as the sun reaches its zenith. Whether you're planning to enjoy a coffee at a tucked-away caf\u00e9 or explore the Market Street boutiques, you\u2019ll find these conditions are more than accommodating. As evening settles, a gentle coolness will find its way back into the air, making it an ideal time for a sunset picnic at Crissy Field. It\u2019s moments like these that remind us of the simple joys\u2014the taste of a warm pastry, the rustling of leaves, and the laughter threading through the bustling streets.",
+    "color_code": "#FFD700",
+    "timestamp": "2025-08-22 01:01:56"
 }
