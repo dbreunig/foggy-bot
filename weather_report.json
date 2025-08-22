@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-22T10:43:00+00:00",
-            "temperature_f": 56.57,
-            "temperature_c": 13.65,
-            "humidity": 93.866166041517,
+            "timestamp": "2025-08-22T11:43:00+00:00",
+            "temperature_f": 56.264,
+            "temperature_c": 13.48,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-22T05:00:00-07:00",
-                "endTime": "2025-08-22T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind around 15 mph, with gusts as high as 18 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2025-08-22T06:00:00-07:00",
                 "endTime": "2025-08-22T18:00:00-07:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 70, with temperatures falling to around 68 in the afternoon. West southwest wind 13 to 24 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-22T18:00:00-07:00",
+                "endTime": "2025-08-23T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "12 to 23 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 58. West southwest wind 12 to 23 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks in Downtown San Francisco, the air carries the crispness of an overnight cloud cover, which blankets the city, leading to a tranquil ambiance that shoos away the chaos of the city streets just awakened. These clouds are a gentle reminder of the marine layer softly embracing the coast, gathering its moisture before the sun begins to pry open the morning sky. As you stroll through the still hushed streets, you might feel the cool touch of a west-southwest breeze, nudging you into a light jacket while you sip warm coffee, witnessing the world ease into a day where clarity waits just beyond the horizon.\n\nBy the afternoon, expect a transformation\u2014the sun will coax the clouds, lifting them into wispy strands that temporarily relinquish their grip on the glimmering skyline. Although the warmth will rise close to 70 degrees, it will gradually mellow to a comfortable 68, ensuring the charm of an inviting fall day. The winds will pick up, swirling around you with spirited gusts, encouraging a casual wander down to your favorite caf\u00e9 or a stroll along the waterfront. A good pair of light layers will serve you well, making it easy to shift from the brisk air to pockets of warmth. Engage with the vibrant energy of the city as it comes alive, perhaps indulging in the pleasures of an outdoor market or pausing to enjoy the delicate dance of sailboats on the bay, a fitting way to celebrate a day that promises to shine brightly within the embrace of San Francisco\u2019s gentle climate.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2025-08-22 05:02:03"
+    "weather_report": "As dawn breaks over Downtown San Francisco, the sky wears a painted blush reminiscent of the softest caress of morning light. With mostly sunny skies ushering in a high that flirts near 70 degrees, the city is poised for a pleasant day ahead. Yet, as whispers of the west-southwest winds tug gently at your skin, blowing between 13 to 24 mph, they remind you that the chill of the ocean is never too far away. Gazing towards the Golden Gate Bridge, one might glimpse patches of fog lingering at the water\u2019s edge, hinting at the marine layer's embrace. This fog will tease the clearer afternoon, rising and fading as the sun claims dominion. \n\nAs the sun takes its place, slipping into mid-afternoon, temperatures will gracefully lower to a cozy 68. Dressed in layers\u2014perhaps a light shirt topped with a breezy sweater\u2014you can traverse the city with ease. Today invites exploration at a leisurely pace; perhaps indulge in a morning coffee at a quiet caf\u00e9, or wander through the artistic labyrinth of the Mission District, mingling with the vibrant local colors. As twilight approaches, settling in with a book at outdoor seating can be a splendid way to savor the cooling hours, just as evening offers a coming together of clouds above, darkening towards nighttime but still holding the day\u2019s warmth. The comfort of the evening low around 58 degrees beckons, wrapping you in a gentle embrace as you step out to enjoy the mellowness of the San Francisco night.",
+    "color_code": "#FFDAB9",
+    "timestamp": "2025-08-22 06:09:03"
 }
