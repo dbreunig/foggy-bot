@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-22T00:43:00+00:00",
-            "temperature_f": 66.794,
-            "temperature_c": 19.33,
-            "humidity": 61.973852896721,
+            "timestamp": "2025-08-22T01:43:00+00:00",
+            "temperature_f": 63.608,
+            "temperature_c": 17.56,
+            "humidity": 69.378703459296,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-21T15:00:00-07:00",
-                "endTime": "2025-08-21T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 74,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 74, with temperatures falling to around 72 in the afternoon. West southwest wind around 18 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-21T18:00:00-07:00",
+                "startTime": "2025-08-21T19:00:00-07:00",
                 "endTime": "2025-08-22T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "13 to 18 mph",
+                "windSpeed": "13 to 16 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 57. West southwest wind 13 to 18 mph, with gusts as high as 23 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 13 to 16 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-08-22T06:00:00-07:00",
+                "endTime": "2025-08-22T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 70,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "10 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 70, with temperatures falling to around 68 in the afternoon. West southwest wind 10 to 21 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "The afternoon in Downtown San Francisco unfolds with a pleasant embrace of sunshine, as a clear blue sky reigns over the cityscape. With temperatures comfortably hovering around 74 degrees, a gentle west-southwest breeze carries a touch of coolness, making the air feel refreshingly crisp. The Golden Gate stands gracefully against a backdrop of fluffy clouds, the marine layer retreating, offering splendid views for those who venture out.\n\nAs evening approaches, expect the warmth to slowly yield to the night, with temperatures dipping to a mild 57 degrees. The welcoming glow of the city lights begins to sparkle, hinting at the allure of outdoor strolls along the Embarcadero or a cozy coffee shop visit. Dressing in layers is advisable; an easy transition from a longsleeve top to a light sweater or jacket will keep you comfortable as the evening coolness sets in. Tonight offers a perfect canvas for unwinding\u2014take to the streets, perhaps for a reflective walk, enjoying the city's gentle sounds, or gathering with friends under the soft glow of the sunset that paints the sky in hues of orange and purple.",
-    "color_code": "#91c4f5",
-    "timestamp": "2025-08-21 18:28:55"
+    "weather_report": "As twilight envelops Downtown San Francisco, the evening air carries a gentle crispness, ushering in a predominantly cloudy sky. The temperature settles comfortably in the upper fiftys, accompanied by a steady west-southwest breeze that whispers through the city streets, occasionally punctuated by gusts that remind one of the ocean\u2019s presence. The low-hanging clouds paint a textured canvas above, suggesting a playful dance between fog and clarity, although tonight\u2019s forecast hints at the latter. \n\nFriday beckons with promises of sunny weather, a refreshing contrast to tonight\u2019s murky ambiance. Expect a high near 70, as daylight unfolds, the sun steadily coaxing the temperature up while clouds recede into memory. The gentle wind will persist, an ideal companion for a leisurely stroll or perhaps a visit to a local caf\u00e9, where one can enjoy a warm drink against the backdrop of the bay and the distant silhouette of the Golden Gate. As the marine layer ebbs, it might be wise to dress in layers, allowing for comfort whether enjoying the lingering coolness or basking in the welcoming sun. The evening could be an invitation for quiet reflection, a stroll along the waterfront, or simply savoring the comforting aroma of freshly baked pastries from a nearby bakery, as the city settles into the embrace of night.",
+    "color_code": "#A6A2D4",
+    "timestamp": "2025-08-21 19:29:56"
 }
