@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-22T22:43:00+00:00",
-            "temperature_f": 62.672,
-            "temperature_c": 17.04,
-            "humidity": 70.990918473291,
+            "timestamp": "2025-08-23T00:43:00+00:00",
+            "temperature_f": 61.376,
+            "temperature_c": 16.32,
+            "humidity": 76.29664074667,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-22T14:00:00-07:00",
-                "endTime": "2025-08-22T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 68, with temperatures falling to around 66 in the afternoon. West southwest wind around 21 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-08-22T18:00:00-07:00",
                 "endTime": "2025-08-23T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 10 to 21 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-08-23T06:00:00-07:00",
+                "endTime": "2025-08-23T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "9 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 67, with temperatures falling to around 65 in the afternoon. West southwest wind 9 to 21 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "As the sun descends over downtown San Francisco, it casts a warm glow, flirting with the 68 degrees of the afternoon. The sky remains predominantly clear, the clouds beginning to whisper their retreat as the city and its iconic structures stand resilient against the breeze that dances in from the west. A gentle symphony of winds, gusting up to 25 mph, creates a refreshing backdrop as one navigates the streets, the air a perfect blend for a leisurely evening out.\n\nAs twilight approaches, the clouds gather once more, hinting at a predominantly overcast evening with temperatures settling into the gentle embrace of around 57 degrees. The marine layer appears to skim the coastline, wrapping around the Golden Gate Bridge in a cozy, ethereal fog, while the city remains distinct\u2014a gentle reminder of the distinctive beauty California offers. A light jacket or a cozy sweater would be prudent, allowing comfort against the evening chill.\n\nToday beckons a stroll through one of the city\u2019s storied neighborhoods, perhaps North Beach with its vibrant cafe culture, or along the Embarcadero, where the rhythmic lapping of bay waters creates an inviting atmosphere. Whether savoring a cup of craft coffee or simply strolling to soak in the atmosphere, the weather allows for a fulfilling experience amid the lively pulse of urban life.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-08-22 17:04:57"
+    "weather_report": "In Downtown San Francisco, the evening wears on with a gentle embrace of clouds, ushering in a comfortably mild night. The temperature drifts towards the upper 50s, marked by a cool breath from the west-southwest that plays through the city streets. The air is crisp, punctuated by gusts that dance up to 25 miles per hour, rustling the leaves and bringing a refreshing energy to the evening's tranquility. Though the skies remain mostly hidden, the atmosphere carries an unmistakable San Francisco charm\u2014a subtle allure that invites one to stroll along the waterfront or find solace in a cozy caf\u00e9.\n\nAs we look toward Saturday, the dawn will break revealing a canvas of bright blue, dressed in soft sunlight that promises a high near 67. The cool winds will persist, whispering through the day, perfect for those who find joy in layering their clothing\u2014perhaps a light jacket tossed over a soft sweater. The city basking in sunshine beckons you to wander through the vibrant streets, explore a local market, or peruse the offerings of galleries that dot the neighborhoods. With the marine layer lingering nearby, you might catch fleeting glimpses of fog\u2014an ever-present reminder of the Bay's ethereal beauty. It\u2019s a day well-suited for quiet moments and leisurely pursuits, allowing the simple pleasures of life in this bustling metropolis to unfold at a gentle pace.",
+    "color_code": "#A8C8E8",
+    "timestamp": "2025-08-22 18:28:42"
 }
