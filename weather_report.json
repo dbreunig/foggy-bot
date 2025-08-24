@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-24T13:43:00+00:00",
-            "temperature_f": 57.614,
-            "temperature_c": 14.23,
+            "timestamp": "2025-08-24T14:43:00+00:00",
+            "temperature_f": 57.974000000000004,
+            "temperature_c": 14.43,
             "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-24T05:00:00-07:00",
-                "endTime": "2025-08-24T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-08-24T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-08-24T09:00:00-07:00",
                 "endTime": "2025-08-24T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 4
                 },
-                "windSpeed": "9 to 22 mph",
+                "windSpeed": "10 to 22 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 9 to 22 mph, with gusts as high as 28 mph."
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 10 to 22 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-24T18:00:00-07:00",
+                "endTime": "2025-08-25T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 7
+                },
+                "windSpeed": "12 to 22 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/wind_bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 12 to 22 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, a shroud of clouds clings to the sky, creating a gentle gray palette. The cool breeze whispers through the streets, reminiscent of an ancient, calming tide. It's a comforting embrace for those lucky enough to wander forth in the tranquil early hours. The day promises a gradual unveiling of sunshine, with the persistent Vesper winds ushering in moments of warmth that will reach a modest peak as the sunlight filters through the clouds. \n\nThe city, still drapes in the coastal marine layer, reveals hints of bright blue between the swirling whites and grays, an invitation for urban explorers. A light jacket or a cozy sweater would suit the day's languid rhythm; perhaps a soft scarf to ward off the morning chill. As the afternoon advances, the conditions shall shift, encouraging the adventurous spirit to venture outdoors\u2014visit a local caf\u00e9 for a leisurely brunch, stroll through one of the picturesque parks, or simply pause on a bench to watch life unfold with the comforting soundtrack of the city. The weather, while modest, holds the essence of lazy Sundays framed by fleeting clouds, beckoning you to savor the moment.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-08-24 08:01:33"
+    "weather_report": "In the gentle embrace of morning, Downtown San Francisco awakens to a blend of sunlight and the lingering presence of clouds. The forecast heralds mostly sunny skies, but there is an audible sigh of the west-southwest wind that whispers tales of the ocean, invigorating the air around you. As the temperature hovers near a comfortable 66 degrees, a slight dip to 64 awaits in the afternoon, promising a day that feels both fresh and crisp.\n\nThe city dances in and out of clarity, as patches of fog cling to the coastline, a soft reminder of summer's marine influence. You might catch a glimpse of the Golden Gate Bridge through hazy tendrils of mist that waver and shift with the breeze. This ethereal quality offers a serene canvas for exploration, as the afternoon invites you to roam the streets or perhaps stroll along the waterfront. \n\nDressing in layers would be wise\u2014think a light sweater paired with a breezy shirt, allowing for comfort when the sun beckons yet transitioning swiftly for those cooler moments as evening approaches. A casual lunch at an outdoor caf\u00e9 can be accompanied by the earthy notes of a cup of coffee, while an invigorating walk through Golden Gate Park beckons those yearning for a touch of nature amidst the city's pulse.\n\nAs night falls, the clouds will deepen, ushering in a cooler ambiance. With winds steady and gusty, you might find the lure of a cozy evening indoors, perhaps nestled with a book or sharing stories with friends over warm drinks. Tonight, the gentle cadence of the city will still resonate, wrapped in the quietude of a San Francisco evening.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-08-24 09:01:32"
 }
