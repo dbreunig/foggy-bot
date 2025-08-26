@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-26T05:43:00+00:00",
-            "temperature_f": 60.943999999999996,
-            "temperature_c": 16.08,
-            "humidity": 86.015124190816,
+            "timestamp": "2025-08-26T06:43:00+00:00",
+            "temperature_f": 60.584,
+            "temperature_c": 15.88,
+            "humidity": 86.950878022348,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-08-25T17:00:00-07:00",
+                "endTime": "2025-08-25T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 67, with temperatures falling to around 64 in the afternoon. West southwest wind around 17 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-25T20:00:00-07:00",
+                "startTime": "2025-08-25T18:00:00-07:00",
                 "endTime": "2025-08-26T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 5
                 },
-                "windSpeed": "12 mph",
+                "windSpeed": "9 to 16 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-08-26T06:00:00-07:00",
-                "endTime": "2025-08-26T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "9 to 17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 67, with temperatures falling to around 65 in the afternoon. West southwest wind 9 to 17 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 9 to 16 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "As night wraps its cool arms around Downtown San Francisco, the atmosphere is draped in a gentle layer of clouds, shadowy yet inviting, hinting at a low temperature around 57 degrees. A modest breeze, whispering from the west-southwest at about 12 mph, stitches together the coolness with the promise of dawn, setting the stage for a transition into tomorrow. The streets, washed in muted blues and grays, create a serene backdrop, where the occasional gust may nudge the foliage and send a delightful shiver through the evening air.\n\nWhen Tuesday unfurls, a subtle brightness will begin to dominate the scene as the clouds part to reveal patches of blue, encouraging hopes for a day that peaks near 67 degrees before softening toward 65 in the afternoon. Beneath this sunny veneer, a playful wind dances through the city at speeds between 9 to 17 mph, punctuated by gusts that may momentarily steal your breath away. Despite the brightening skies, the iconic fog that defines this enchanting place may linger near the edges, wrapping the coastline in its poignant embrace, reminding us of the ever-evolving nature of this coastal enclave.\n\nFor those charting plans in this delightful weather, consider dressing in layers to capture the day's changing moods. A light sweater paired with a breathable jacket could be just the right touch for a leisurely stroll along the Embarcadero or sipping coffee in a tucked-away caf\u00e9 where sunlight filters through the windows. Engage with the world around you\u2014the vibrant lives unfolding in the parks or the gentle hum of street musicians carving out a corner of joy amidst the bustle. Throughout this unique day, let yourself simply bask in the artistic tapestry that is San Francisco, where every moment holds a hint of magic.",
-    "color_code": "#A3BDA5",
-    "timestamp": "2025-08-26 00:01:53"
+    "weather_report": "In Downtown San Francisco, the day unfolds under a canvas of bright blue sky, edged by wisps of white that hint at the late summer's warmth. Temperatures hover gracefully around 67, subtly dipping towards 64 as the afternoon wanes. The robust west-southwest winds dance gently, invigorating the air and rustling leaves, adding a refreshing touch to the city's vibrant spirit. As the sun begins its descent, the sky will soften into a palette of muted hues, with clouds gathering softly until they blanket the evening.\n\nTonight, the city will don its cozy, clouded attire, settling into a comfortable low around 57. The gentle whispers of the wind suggest that a light jacket may be most fitting for an evening stroll across the waterfront or while savoring a quiet moment in one of the many eclectic parks. This evening\u2019s ambiance invites serene pursuits: perhaps an exploration of the neighborhood's hidden coffee shops or a leisurely read beneath the glow of a streetlamp, where the city pulsates with energy yet offers an intimate retreat from the world. As twilight deepens, embrace the charm of the city's understated allure, guided by the laughter of friends and the soft strumming of an acoustic guitarist lingering in the air.",
+    "color_code": "#A2B0D1",
+    "timestamp": "2025-08-26 01:01:51"
 }
