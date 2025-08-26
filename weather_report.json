@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-26T06:43:00+00:00",
-            "temperature_f": 60.584,
-            "temperature_c": 15.88,
-            "humidity": 86.950878022348,
+            "timestamp": "2025-08-26T07:43:00+00:00",
+            "temperature_f": 60.692,
+            "temperature_c": 15.94,
+            "humidity": 87.978398255441,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-25T17:00:00-07:00",
-                "endTime": "2025-08-25T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 67, with temperatures falling to around 64 in the afternoon. West southwest wind around 17 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-08-25T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-08-26T02:00:00-07:00",
                 "endTime": "2025-08-26T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 2
                 },
-                "windSpeed": "9 to 16 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind 9 to 16 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-08-26T06:00:00-07:00",
+                "endTime": "2025-08-26T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "8 to 17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 8 to 17 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the day unfolds under a canvas of bright blue sky, edged by wisps of white that hint at the late summer's warmth. Temperatures hover gracefully around 67, subtly dipping towards 64 as the afternoon wanes. The robust west-southwest winds dance gently, invigorating the air and rustling leaves, adding a refreshing touch to the city's vibrant spirit. As the sun begins its descent, the sky will soften into a palette of muted hues, with clouds gathering softly until they blanket the evening.\n\nTonight, the city will don its cozy, clouded attire, settling into a comfortable low around 57. The gentle whispers of the wind suggest that a light jacket may be most fitting for an evening stroll across the waterfront or while savoring a quiet moment in one of the many eclectic parks. This evening\u2019s ambiance invites serene pursuits: perhaps an exploration of the neighborhood's hidden coffee shops or a leisurely read beneath the glow of a streetlamp, where the city pulsates with energy yet offers an intimate retreat from the world. As twilight deepens, embrace the charm of the city's understated allure, guided by the laughter of friends and the soft strumming of an acoustic guitarist lingering in the air.",
-    "color_code": "#A2B0D1",
-    "timestamp": "2025-08-26 01:01:51"
+    "weather_report": "As night gives way to dawn in Downtown San Francisco, a gentle veil of clouds lingers, casting a muted glow over the city. The current temperatures hover around a comfortable 57 degrees, accompanied by a light west-southwest breeze that stirs the cool air, hinting at the clarity that awaits in the day ahead. By noon, the sun is expected to conquer the clouds, ushering in vibrant rays that will coax temperatures up to a pleasant 66 degrees, before tapering off slightly in the afternoon. Wisps of fog may be clinging to the shoreline, a remnant of the marine layer that often drapes over the Golden Gate, blurring the lines between sky and sea.\n\nFor those venturing out, layers are the secret to comfort. A light jacket will shield against the brisk morning air, while the afternoon sun promises to warm both skin and spirit. With these favorable conditions, it\u2019s an ideal time for a stroll along the Embarcadero, perhaps a leisurely visit to the Ferry Building, where one can savor the rich aromas of freshly brewed coffee and baked goods. The day resonates with possibility: the city beckons with its architectural wonders and the whisper of the bay\u2019s waves, inviting all to embrace the rhythm of urban life infused with nature's subtle charisma.",
+    "color_code": "#A3B5C2",
+    "timestamp": "2025-08-26 02:01:57"
 }
