@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-27T02:43:00+00:00",
-            "temperature_f": 62.474000000000004,
-            "temperature_c": 16.93,
-            "humidity": 76.996506365679,
+            "timestamp": "2025-08-27T03:43:00+00:00",
+            "temperature_f": 61.466,
+            "temperature_c": 16.37,
+            "humidity": 81.94961565593,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-08-26T15:00:00-07:00",
+                "endTime": "2025-08-26T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 66. West southwest wind around 14 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-26T21:00:00-07:00",
+                "startTime": "2025-08-26T18:00:00-07:00",
                 "endTime": "2025-08-27T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -27,36 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 3
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 58. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-08-27T06:00:00-07:00",
-                "endTime": "2025-08-27T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "6 to 14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. Southwest wind 6 to 14 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 58. West southwest wind 6 to 13 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco this evening, the atmosphere hangs heavy with the promise of a cooler night, marked by a gentle swell of clouds that wrap the city like a soft, forgotten shawl. As daylight wanes, the temperature settles around a mild 58 degrees, while a mild breeze from the southwest meanders through the streets, whispering secrets of the ocean. There lies a delicate presence of fog in the distance\u2014perhaps a hint of the marine layer drifting closer, eager to envelop the landscape. The city\u2019s silhouette stands proud against the twilight, albeit shrouded by a vagueness, softened like a watercolor painting.\n\nCome Wednesday, clarity shall return, as the sun regains its foothold in the sky, lifting fickle clouds to reveal a golden canvas. Expect a comfortable warmth, cooling gradually to around 64 degrees as the day unfolds, accompanied by a playful wind that punctuates the atmosphere with the spirit of adventure. To navigate the dynamic shifts, dress in layers\u2014a light jacket for the morning's chill, shedding it as the sun claims its dominance. A stroll along the waterfront or perhaps a leisurely visit to a favorite caf\u00e9 would well suit the day\u2014simple pleasures that resonate with the city's heartbeat. If you're inclined, an afternoon excursion to explore local galleries might evoke a sense of wonder; the art reflecting both the vibrancy of San Francisco and the mystique of its ever-changing skyline.",
-    "color_code": "#A8C8D6",
-    "timestamp": "2025-08-26 21:01:53"
+    "weather_report": "In the heart of Downtown San Francisco, a tranquil evening unfurls beneath a veil of cloud. As twilight embraces the city, the temperature is comfortably mild, suggesting a peaceful, reflective night ahead. The forecast predicts a gentle shift from a sunlit afternoon, which hinted at a high of 66 degrees, to tonight's cooler embrace of around 58. The winds, once playful, have softened, transitioning from a lively gust to a more caressing breeze, making this an ideal moment to savor the subtle beauty of the bay.\n\nThe visibility may be somewhat occluded by clouds rolling in, signaling the presence of fog subtly creeping across the landscape, particularly closer to the shoreline where the marine layer lingers like a memory. However, the city remains aglow in the amber haze of streetlights and cozy homes, inviting one to wander through the streets or perhaps indulge in a quiet coffee at a local caf\u00e9, watching as the world passes by. A light jacket or a warm sweater will accompany one well on this evening, perfect for an outing that ends with the gentle embrace of a stellar sky overhead.",
+    "color_code": "#C5C1B5",
+    "timestamp": "2025-08-26 22:01:54"
 }
