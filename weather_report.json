@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-27T12:43:00+00:00",
-            "temperature_f": 60.403999999999996,
-            "temperature_c": 15.78,
-            "humidity": 83.007776742766,
+            "timestamp": "2025-08-27T13:43:00+00:00",
+            "temperature_f": 60.692,
+            "temperature_c": 15.94,
+            "humidity": 84.008114724175,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-27T05:00:00-07:00",
-                "endTime": "2025-08-27T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 58. West southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-08-27T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-08-27T08:00:00-07:00",
                 "endTime": "2025-08-27T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "6 to 15 mph",
+                "windSpeed": "8 to 15 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 6 to 15 mph, with gusts as high as 18 mph."
+                "detailedForecast": "Sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 8 to 15 mph, with gusts as high as 18 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-27T18:00:00-07:00",
+                "endTime": "2025-08-28T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. West southwest wind 6 to 14 mph."
             }
         ]
     },
-    "weather_report": "As the sun rises over Downtown San Francisco, the air feels fresh and the sky begins to unveil its canvas. Overnight, the city enjoyed a mostly clear night, and this morning greets us with whispers of golden sunshine filtered through a slight haze. The expected temperature rises gently to a modest 66 degrees, tapering to a cooler 64 as the day unfolds, accompanied by a soft breeze from the west southwest. This gentle zephyr, dancing at around 6 to 15 mph, enhances the day\u2019s allure, creating a pleasant ambiance that beckons one to venture outdoors.\n\nAlthough wisps of marine layer linger, it seems that the fog has chosen to play a subtle part, fading into the distance and allowing the landmarks of the city to emerge from their silvery embrace. The Golden Gate Bridge stands shoulder to shoulder with the skyline, basking in the embrace of this early hour. It\u2019s an ideal moment for gentle strolls along the waterfront or an invigorating hike through nearby parks, where the crisp air revitalizes the spirit. For the discerning wanderer, a light jacket, perhaps complemented by layers, would be wise to ward off any lingering chill, especially as the winds could bring a brisk sensation. Whether you choose to sip coffee at a local caf\u00e9 or explore the eclectic streets, today promises a serene and vivid embrace of urban life.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-08-27 07:01:47"
+    "weather_report": "In Downtown San Francisco, the day dawns with a gentle embrace of sunlight, the kind that filters through the city\u2019s iconic architecture, casting playful shadows on the bustling streets below. The air is fresh, though a subtle coolness lingers as temperatures inch toward a comfortable average of 66 degrees. A light wind stirs, whispering through the avenues, bringing with it a hint of the bay's salty spray. Tonight, the sky will draw its curtain of clouds lower, settling at around 56 degrees, making for a cozy evening.\n\nAs you step outside, you may notice areas where the marine layer clings stubbornly to the city\u2019s edges\u2014particularly around the Golden Gate, a reminder of nature's gentle persistence. However, in the heart of downtown, visibility is ample, allowing the details of the cityscape to emerge clearly against the azure. This combination of sun and cloud creates an inviting atmosphere, perfect for leisurely strolls along the waterfront or perhaps a quiet moment in one of the city\u2019s quaint caf\u00e9s with a warm drink in hand. Dress in layers to adapt to the ebb and flow of temperatures throughout the day, and consider a light jacket for the evening as the coolness wraps around the city like a soft shawl.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-08-27 08:01:54"
 }
