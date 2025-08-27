@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-27T03:43:00+00:00",
-            "temperature_f": 61.466,
-            "temperature_c": 16.37,
-            "humidity": 81.94961565593,
+            "timestamp": "2025-08-27T04:43:00+00:00",
+            "temperature_f": 61.538,
+            "temperature_c": 16.41,
+            "humidity": 84.006791430328,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-26T15:00:00-07:00",
-                "endTime": "2025-08-26T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 66. West southwest wind around 14 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-26T18:00:00-07:00",
+                "startTime": "2025-08-26T23:00:00-07:00",
                 "endTime": "2025-08-27T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 3
+                    "value": 2
                 },
-                "windSpeed": "6 to 13 mph",
-                "windDirection": "WSW",
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 58. West southwest wind 6 to 13 mph, with gusts as high as 18 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 58. Southwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-08-27T06:00:00-07:00",
+                "endTime": "2025-08-27T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. Southwest wind 6 to 14 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, a tranquil evening unfurls beneath a veil of cloud. As twilight embraces the city, the temperature is comfortably mild, suggesting a peaceful, reflective night ahead. The forecast predicts a gentle shift from a sunlit afternoon, which hinted at a high of 66 degrees, to tonight's cooler embrace of around 58. The winds, once playful, have softened, transitioning from a lively gust to a more caressing breeze, making this an ideal moment to savor the subtle beauty of the bay.\n\nThe visibility may be somewhat occluded by clouds rolling in, signaling the presence of fog subtly creeping across the landscape, particularly closer to the shoreline where the marine layer lingers like a memory. However, the city remains aglow in the amber haze of streetlights and cozy homes, inviting one to wander through the streets or perhaps indulge in a quiet coffee at a local caf\u00e9, watching as the world passes by. A light jacket or a warm sweater will accompany one well on this evening, perfect for an outing that ends with the gentle embrace of a stellar sky overhead.",
-    "color_code": "#C5C1B5",
-    "timestamp": "2025-08-26 22:01:54"
+    "weather_report": "As twilight drapes its embrace over Downtown San Francisco, the atmosphere is a calm mix of cloud cover and lingering warmth, with temperatures gently settled near 58 degrees. The southwesterly breeze whispers softly at about 7 mph, as the city prepares for another day bathed in sunlight. The forecast hints at a mostly sunny Wednesday that will unfurl gently, with highs peaking near 66, settling slightly lower as the afternoon progresses. The optimism of brightening skies contrasts with a familiar marine layer that seems eager to roll in, cloaking the coastline in a shrouded dance of fog that might tease the edges of your vision but will predominantly linger offshore.\n\nFor those traversing the streets of this iconic city, a layered approach to dressing is wise; a light jacket will serve you well against the cool evening breeze, while comfortable pants and closed-toe shoes offer both style and practicality for your explorations. The allure of the day ahead suggests strolls along the waterfront or perhaps a quiet cafe visit, where one can sip a warm drink and watch the city slowly awaken. A visit to Golden Gate Park, with its walkways framed by fading twilight, offers a charming invitation to embrace the evening before the sun rises anew. Let the gentle fog work its magic, filling the air with a touch of mystery, as you contemplate the unfolding day\u2019s potential beneath the expansive West Coast sky.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-08-26 23:02:02"
 }
