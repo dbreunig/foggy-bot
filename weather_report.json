@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-29T06:43:00+00:00",
-            "temperature_f": 60.584,
-            "temperature_c": 15.88,
-            "humidity": 79.977952027971,
+            "timestamp": "2025-08-29T07:43:00+00:00",
+            "temperature_f": 60.224000000000004,
+            "temperature_c": 15.68,
+            "humidity": 82.995757622623,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,9 +18,28 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-28T14:00:00-07:00",
-                "endTime": "2025-08-28T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-08-29T02:00:00-07:00",
+                "endTime": "2025-08-29T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy. Low around 56, with temperatures rising to around 58 overnight. West southwest wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-08-29T06:00:00-07:00",
+                "endTime": "2025-08-29T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 67,
                 "temperatureUnit": "F",
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "10 to 14 mph",
+                "windSpeed": "9 to 18 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 67, with temperatures falling to around 65 in the afternoon. West wind 10 to 14 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-08-28T18:00:00-07:00",
-                "endTime": "2025-08-29T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 6
-                },
-                "windSpeed": "6 to 13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind 6 to 13 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Sunny, with a high near 67. West wind 9 to 18 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Downtown San Francisco, a radiant sun envelops the city, filtering through a light veil of warmth that teeters near 67 degrees. The skies are a soft blue, unmarred by fog, allowing stunning views of the iconic landscape. As the day settles into the early evening, a gentle westward breeze stirs, whispering at up to 14 miles per hour, reminding city dwellers of the high cliffs and crashing waves not far off. Tonight promises a languid charm, with cloud cover rolling in, dimming the brilliance of daylight as temperatures dip to a comfortable 56.\n\nAs you navigate through this picturesque setting, consider donning layers\u2014a light jacket or a cozy sweater could be your perfect companion against the evening chill. The absence of fog enables an inviting atmosphere for strolls along the waterfront or perhaps a quaint caf\u00e9 visit, where you can savor a warm drink while watching the city transition to its nighttime glow. Enjoying a leisurely walk through the streets infused with a hint of salt in the air offers an entrancing way to relish in the understated beauty that is San Francisco at dusk.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-08-29 01:01:55"
+    "weather_report": "As the early hours linger softly over Downtown San Francisco, the air dances between clarity and a playful veil of clouds. Tonight\u2019s temperatures tease at a mild 56, cradled by a gentle west-southwest breeze. A few errant clouds scatter overhead, casting fleeting shadows over the city\u2019s iconic skyline, which glimmers with the lights of restless night owls. As morning approaches, one might notice a gradual rise in temperature, hinting at avenues of warmth by dawn.\n\nFriday promises a cheerful embrace, draping the day in sunlit warmth with highs near a pleasant 67 degrees. The brisk west wind, flickering between 9 to 18 mph, might rustle around the corners of those who wander outside, yet it carries a freshness that enhances the day\u2019s character. Clear skies beckon invigorating pursuits, perhaps a stroll along the Embarcadero or coffee on a sun-kissed terrace, where one can observe the city awaken and breathe. Dressing in layers would be wise; a light jacket or sweater for the early morning chill and perhaps a casual tee for the afternoon glow. The horizon, largely free of fog and the marine layer, offers an inviting backdrop for exploration. It is a day where the city sings with quiet promise, and there is little more to do than to simply enjoy the unfolding beauty around you.",
+    "color_code": "#A3D5E7",
+    "timestamp": "2025-08-29 02:01:48"
 }
