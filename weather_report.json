@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-29T00:43:00+00:00",
-            "temperature_f": 63.932,
-            "temperature_c": 17.74,
-            "humidity": 70.379407538171,
+            "timestamp": "2025-08-29T01:43:00+00:00",
+            "temperature_f": 63.266000000000005,
+            "temperature_c": 17.37,
+            "humidity": 69.984705097775,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-28T17:00:00-07:00",
-                "endTime": "2025-08-28T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 67, with temperatures falling to around 65 in the afternoon. West wind around 14 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-28T18:00:00-07:00",
+                "startTime": "2025-08-28T19:00:00-07:00",
                 "endTime": "2025-08-29T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 6
                 },
-                "windSpeed": "6 to 13 mph",
+                "windSpeed": "6 to 10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind 6 to 13 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Partly cloudy, with a low around 56. West southwest wind 6 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-08-29T06:00:00-07:00",
+                "endTime": "2025-08-29T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 67. West southwest wind 5 to 14 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon unfolds with the sun shining brightly, casting a warm glow across the cityscape. The expected high of 67 degrees feels comfortably inviting, although a gentle drop to around 65 adds a hint of coolness as the late afternoon progresses. Winds from the west at about 14 mph beckon, rustling leaves and offering a refreshing touch to the serene ambiance. While the skies overhead are predominantly clear, a few wispy clouds flirt with the horizon, hinting at a mild evening to come. \n\nAs dusk approaches, the temperatures are set to dip to a cozy 56 degrees, coaxing in a pleasant, partly cloudy night. West-southwest winds will ease, but the occasional gust may remind you of the ocean\u2019s presence nearby. Given the inviting weather, a light sweater or jacket would suit the evening, making it a perfect time for a leisurely stroll through the vibrant streets. The clarity of the day and the absence of fog offer an excellent canvas for enjoying the architecture and ambiance of the city, perhaps punctuated by a stop at a local caf\u00e9 to savor the day's last drink. A quiet gathering with friends or a reflective walk by the waterfront could provide just the right ending to this picturesque day in San Francisco.",
-    "color_code": "#0099CC",
-    "timestamp": "2025-08-28 18:28:51"
+    "weather_report": "As dusk descends on Downtown San Francisco, the skies settle into a tranquil calm, adorned with a few light clouds that hint at the lingering warmth of the day. The current temperature rests comfortably in the mid-fifties, with a gentle west-southwest breeze weaving through the streets, creating a subtle rustle among the trees. The air is relatively clear, the horizon framing a delicate tableau of silhouettes against the dimming sky. Although the marine layer has made its presence known earlier in the day, obscuring the Golden Gate Bridge, the evening promises a charming reprieve, allowing for a clearer view of the city that buzzes with life beneath the fading light.\n\nTomorrow brims with the promise of sun-drenched skies, as the forecast anticipates a high near sixty-seven. With the winds remaining subdued, this day would beckon residents to step outside and relish the crisp outdoor air. A light jacket would serve well against the morning chill, easily shed when the sun bathes the city in warmth. For those contemplating the day's activities, a leisurely walk along the Embarcadero offers a perfect chance to soak up the vibrant atmosphere, taking note of the excited chatter from nearby caf\u00e9s and the shimmering waters of the bay. Tonight, one might find comfort in a quiet nook, perhaps with a book or in the warmth of shared company, as the ambiance evokes both reflection and anticipation for the adventures the days ahead will surely bring.",
+    "color_code": "#A6C1D8",
+    "timestamp": "2025-08-28 19:27:57"
 }
