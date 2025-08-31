@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-31T18:43:00+00:00",
-            "temperature_f": 79.484,
-            "temperature_c": 26.38,
-            "humidity": 40.909027151754,
+            "timestamp": "2025-08-31T19:43:00+00:00",
+            "temperature_f": 77.972,
+            "temperature_c": 25.54,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,7 +19,7 @@
             {
                 "number": 1,
                 "name": "This Afternoon",
-                "startTime": "2025-08-31T13:00:00-07:00",
+                "startTime": "2025-08-31T14:00:00-07:00",
                 "endTime": "2025-08-31T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 74,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "12 to 16 mph",
-                "windDirection": "WSW",
+                "windSpeed": "16 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 74. West southwest wind 12 to 16 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Sunny, with a high near 74. West wind around 16 mph, with gusts as high as 21 mph."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 1
                 },
-                "windSpeed": "8 to 16 mph",
+                "windSpeed": "8 to 15 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 58. West southwest wind 8 to 16 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Mostly clear, with a low around 58. West southwest wind 8 to 15 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Downtown San Francisco, an inviting warmth bathes the city, painting the surroundings in hues of vibrant blue. The day is graced with sunshine, gently accentuating the contours of the cityscape under a high near 74 degrees. Light gusts of wind, dancing in from the west southwest, add a subtle energizing chill, creating a delightful interplay of warmth and coolness ideal for leisurely outdoor pursuits.\n\nTonight, the clarity of the sky will give way to a peaceful ambiance, with the temperature dipping to a comfortable 58 degrees under a mostly clear expanse. As the sun sets, the air, kissed by the ocean, promises a serene evening, ideal for a relaxed stroll through Fort Mason or an open-air dinner in North Beach. With such pleasant conditions, a light jacket or sweater could be a wise companion for later, ensuring comfort as the breeze picks up. The lack of fog enhances the allure of the view; the marine layer has receded, leaving the iconic Golden Gate Bridge and the shimmering bay in clear sight. This splendid day is a gentle reminder of the city's beauty, inviting moments of reflection and leisurely exploration.",
-    "color_code": "#77BFFF",
-    "timestamp": "2025-08-31 13:01:41"
+    "weather_report": "The afternoon sun shines brightly over Downtown San Francisco, bathing the city in a warm glow while ushering away any remnants of fog. With highs reaching a pleasant 74 degrees and a mild west wind weaving through the streets, the day is poised to be wonderfully inviting. The skyline stands proud against an azure backdrop, offering no hint of the marine layer that often blankets this coastal city. As the day rolls on towards evening, expect a smooth transition to clear skies with temperatures settling into a comfortable 58 degrees, making for a serene night.\n\nFor a day like this, the attire should remain light yet layered, allowing for the gentle shift in temperature come evening. A simple light jacket will do well for those venturing out later, perhaps for a leisurely stroll through the bustling streets or a quiet moment at one of the parks overlooking the bay. It's the perfect time to enjoy a cup of coffee at an outdoor caf\u00e9 or perhaps take in the vibrant atmosphere of the local shops, as the city embraces this sunlit lull before the evening calm.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-08-31 14:01:38"
 }
