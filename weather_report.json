@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-08-31T03:43:00+00:00",
-            "temperature_f": 64.79599999999999,
-            "temperature_c": 18.22,
-            "humidity": 66.952642149997,
+            "timestamp": "2025-08-31T04:43:00+00:00",
+            "temperature_f": 65.372,
+            "temperature_c": 18.54,
+            "humidity": 63.367205691189,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-08-30T13:00:00-07:00",
+                "endTime": "2025-08-30T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 73,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "12 to 16 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 73. West southwest wind 12 to 16 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-30T22:00:00-07:00",
+                "startTime": "2025-08-30T18:00:00-07:00",
                 "endTime": "2025-08-31T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "9 mph",
+                "windSpeed": "7 to 14 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 59. West southwest wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-08-31T06:00:00-07:00",
-                "endTime": "2025-08-31T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 74,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 to 17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 74, with temperatures falling to around 72 in the afternoon. West southwest wind 7 to 17 mph, with gusts as high as 21 mph."
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 59. West southwest wind 7 to 14 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "Tonight in Downtown San Francisco, the air is calm and mostly clear, inviting those who find solace in the coolness of the evening to venture outside. With a gentle west-southwest breeze blowing, the low temperature around 59 offers a refreshing breeze that wraps around you, perfect for a light cardigan or a cozy scarf. As dawn breaks on Sunday, the sun will rise to cast its golden rays on the city, promising a delightful day ahead. The weather will be predominantly sunny, with temperatures reaching a pleasant high of about 74. The winds may stir up a vibrant dance, reaching speeds of up to 17 mph, occasionally gusting even higher. \n\nFor today, the sky seems to hold no traces of the fog that often graces our shores. Instead, it appears to invite us into the clear embrace of a transition from summer\u2019s warmth into autumn\u2019s gentle touch. It's the perfect day to wander through the city\u2019s vibrant neighborhoods, perhaps indulging in a leisurely brunch at a local caf\u00e9, where the enticing aroma of freshly brewed coffee fills the air. Or, for the more adventurous at heart, a stroll along the Embarcadero or a visit to a nearby park to catch a whiff of the bay breeze would rejuvenate the spirit. As the sun climbs, don lightweight attire, but keep a light layer handy for when the evening draws near.",
-    "color_code": "#A6BFA4",
-    "timestamp": "2025-08-30 22:01:45"
+    "weather_report": "This evening in Downtown San Francisco, the atmosphere is embracing a calm albeit brisk clarity that heralds a delightful night ahead. The gentle embrace of the west-southwest wind carries warmth, as the sun gently retreats, leaving a clear sky painted in soft hues. With temperatures settling comfortably around 59, the evening invites you to relish the fresh air, unadulterated by fog or marine layers that often hover near the coast. Tonight is characterized by a serenity, devoid of the usual San Francisco mists, allowing for unobstructed views of the twinkling city lights and a glimpse of stars that may reveal themselves in the absence of clouds.\n\nAs you consider your evening attire, a light sweater or jacket would be wise; the cool breeze adds a crispness to the air, perfect for an evening stroll down to the waterfront, where the breeze meets the gentle lapping of the waves. Perhaps a visit to a nearby caf\u00e9 for a warm drink while overlooking the bay would provide a cozy retreat. The allure of this evening is its simplicity, a chance to engage in quiet conversation with friends or indulge in solitary reflections while observing the vibrant life of the city. The night unfolds with promise\u2014an idyllic end to the day.",
+    "color_code": "#4B6E9E",
+    "timestamp": "2025-08-30 23:01:46"
 }
