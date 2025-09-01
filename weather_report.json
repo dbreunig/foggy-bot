@@ -10,7 +10,7 @@
             "timestamp": "2025-09-01T12:43:00+00:00",
             "temperature_f": 57.074,
             "temperature_c": 13.93,
-            "humidity": 95.923395206188,
+            "humidity": 95.985949507278,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-01T04:00:00-07:00",
-                "endTime": "2025-09-01T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 58. West southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Labor Day",
-                "startTime": "2025-09-01T06:00:00-07:00",
+                "startTime": "2025-09-01T07:00:00-07:00",
                 "endTime": "2025-09-01T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 74,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 74, with temperatures falling to around 72 in the afternoon. West southwest wind 8 to 17 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-01T18:00:00-07:00",
+                "endTime": "2025-09-02T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 58. West southwest wind 10 to 15 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "Dawn breaks softly over Downtown San Francisco, the horizon stretching gracefully with the promise of a sun-dappled Labor Day. It\u2019s a serene 58 degrees, and the coolness lingers in the air, giving the city that familiar crispness that invites an early stroll. The light breeze from the west southwest nudges through the streets, whispering secrets of the day to come while gently ruffling the leaves of trees lining the avenues.\n\nAs the sun rises, the clouds retreat, making way for an enticing forecast\u2014sunshine will reign supreme, lifting temperatures to a pleasant 74. The golden light will reflect off the city's iconic structures, highlighting their elegance against a backdrop of blue sky. While the morning may unveil traces of marine fog lingering near the water\u2019s edge, the afternoon will greet us with clarity, where the fog\u2019s embrace loosens to reveal the majestic outlines of the Golden Gate and beyond. This is a day that suggests layering up with a light jacket for morning comfort, then trading it for a soft T-shirt as the sun warms the pavement beneath your feet.\n\nIt\u2019s the sort of day perfect for a leisurely wander along the Embarcadero. Enjoying a coffee from your favorite caf\u00e9 while watching the world stir awake is the ideal start. Later, perhaps you may indulge in a visit to one of the city's charming parks, where the sun dapples through the leaves, inviting you to sit and savor the moment. With daybreak ushering in such lovely conditions, San Francisco\u2019s palette is an invitation to explore, to enjoy sweet moments, and to bask in the quiet joy that only this city can offer.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-09-01 06:09:18"
+    "weather_report": "As the sun rises over Downtown San Francisco, it casts a warm glow that begins to dissipate the lingering veil of morning fog. The forecast heralds a splendid day, promising sunshine with temperatures climbing slightly to a comfortable 74 degrees. Gentle breezes will sweep through the city, adding a refreshing touch to the clear, blue skies overhead. By midday, as the sun reaches its zenith, expect the warmth to beckon, with the temperature tapering off to a mellow 72 as afternoon sets in.\n\nThe early hours bring a crispness in the air, with the mercury dipping to 58 tonight, a perfect invitation for a light jacket or a cozy sweater as evening unfolds. The clarity of the day suggests that the iconic Golden Gate Bridge will stand proudly against the skyline, its grandeur unchallenged by fog. Given these inviting conditions, a stroll along the waterfront will feel particularly rejuvenating; perhaps a visit to the Exploratorium or a quiet moment at Crissy Field, soaking in the views of the bay. So find a seat in the heart of the city, whether at a caf\u00e9 or a park bench, and relish the beauty of a late summer day in San Francisco.",
+    "color_code": "#FFD700",
+    "timestamp": "2025-09-01 07:01:43"
 }
