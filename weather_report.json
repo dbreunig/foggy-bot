@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-02T00:43:00+00:00",
-            "temperature_f": 69.404,
-            "temperature_c": 20.78,
-            "humidity": 55.98613382385,
+            "timestamp": "2025-09-02T01:43:00+00:00",
+            "temperature_f": 68.036,
+            "temperature_c": 20.02,
+            "humidity": 58.985594114189,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Labor Day",
-                "startTime": "2025-09-01T15:00:00-07:00",
-                "endTime": "2025-09-01T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 73,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 73. West southwest wind around 16 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-01T18:00:00-07:00",
+                "startTime": "2025-09-01T19:00:00-07:00",
                 "endTime": "2025-09-02T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "9 to 15 mph",
+                "windSpeed": "9 to 14 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 11pm. Mostly clear, with a low around 58. West southwest wind 9 to 15 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy drizzle after 11pm. Mostly clear, with a low around 58. West southwest wind 9 to 14 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-09-02T06:00:00-07:00",
+                "endTime": "2025-09-02T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "9 to 20 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/few?size=medium",
+                "shortForecast": "Patchy Drizzle then Sunny",
+                "detailedForecast": "Patchy drizzle before 8am. Sunny. High near 69, with temperatures falling to around 66 in the afternoon. West southwest wind 9 to 20 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As daylight wanes over Downtown San Francisco this Labor Day evening, a splendid calm envelops the city. The sun has bestowed its warmth throughout the day, creating a high of around 73, the air invigorated by a gentle west-southwest wind, whispering softly at about 16 mph. As you wander the streets, the atmosphere feels crisp yet inviting. The clarity of the day is apparent, though a delicate veil of marine layer lingers close to the Golden Gate, hinting at the enchantment of fog that could roll in as night approaches.\n\nTonight, the forecast hints at a subtle shift, with a low settling around 58 degrees. Patchy drizzle could weave its way in after 11 p.m., leaving the air fresh and the structures glistening like jewels. The chance is modest but noteworthy; a light jacket becomes essential as you transition from the warm embrace of the day to the cooler evening air. Engage in leisurely strolls along the waterfront, the twinkling lights of the city reflecting off the Bay, or perhaps venture into a cozy caf\u00e9, savoring the moments that quietly stitch together a lovely holiday evening.",
-    "color_code": "#A8C6EF",
-    "timestamp": "2025-09-01 18:29:05"
+    "weather_report": "As twilight deepens over Downtown San Francisco, the air carries a gentle hint of moisture, whispering of the patchy drizzle that promises to visit later in the night. The city, bathed in a fading golden light, stands clear yet contemplative, with the Golden Gate Bridge emerging in silhouette against the darkening sky. The temperature settles into a warm embrace of around 58 degrees, complemented by a brisk breeze from the west-southwest, inviting a light jacket to shield against the evening coolness. \n\nTomorrow dawns with a hint of the coastal charm inherent to this part of the world. Expect gentle drizzles in the early hours, gradually giving way to a sun-drenched day, where the temperature will rise to a pleasant 69 degrees, then retreat slightly in the afternoon\u2019s embrace. With a modest wind blowing in at 9 to 20 miles per hour, ideal conditions unfold for a leisurely stroll along the waterfront or a visit to local caf\u00e9s, where one can savor warm drinks and the rich aromas of baked goods. As you venture out, perhaps don a light sweater or pullover to navigate the interplay of warmth and cool breezes, capturing the essence of San Francisco\u2019s ever-changing weather. The allure of the day beckons for exploration, whether through quiet gardens or bustling markets, reminding you of the city's vibrant pulse intertwined with the tranquil moments that define it.",
+    "color_code": "#A1C6D8",
+    "timestamp": "2025-09-01 19:28:45"
 }
