@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-03T04:43:00+00:00",
-            "temperature_f": 63.608,
-            "temperature_c": 17.56,
-            "humidity": 73.941358046371,
+            "timestamp": "2025-09-03T05:43:00+00:00",
+            "temperature_f": 62.348,
+            "temperature_c": 16.86,
+            "humidity": 77.999052525734,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-02T14:00:00-07:00",
-                "endTime": "2025-09-02T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 9
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 70, with temperatures falling to around 67 in the afternoon. West southwest wind around 18 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-02T18:00:00-07:00",
+                "startTime": "2025-09-02T21:00:00-07:00",
                 "endTime": "2025-09-03T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 11pm. Mostly cloudy, with a low around 59. West southwest wind 10 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy drizzle after 11pm. Mostly cloudy, with a low around 59. West southwest wind around 12 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-09-03T06:00:00-07:00",
+                "endTime": "2025-09-03T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Patchy Drizzle then Mostly Sunny",
+                "detailedForecast": "Patchy drizzle before 11am. Mostly sunny. High near 68, with temperatures falling to around 66 in the afternoon. West southwest wind 7 to 17 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, the evening unfolds under a sky that is gradually surrendering to the grey embrace of clouds. The forecast hints at patchy drizzle creeping in after 11 PM, setting the stage for a night that feels intimate yet fleeting. As the warmth of the day fades, the temperature dips gently into the realm of cool comfort, hovering around the high fiftys\u2014an invitation for a light sweater or jacket. The west-southwest winds whisper through the city streets, offering just enough of a breeze to stir the air, yet not enough to disrupt the serene vibe.\n\nThis afternoon glistened with sunshine, the kind that lifts spirits and beckons exploration. Though the sun\u2019s charm will soon retreat, it\u2019s a fine evening in which to meander through the quieter corners of the city, perhaps finding a cozy cafe or a bookshop where the smell of coffee mingles with the quiet rustle of pages. The impending drizzle adds a touch of warmth to the ambiance, allowing for the kind of introspection that only a soft rain can inspire. Embrace the moment\u2014dress snugly, sip something warm, and let the city whisper its stories to you in the closing hours of this splendid day.",
-    "color_code": "#A2B2C6",
-    "timestamp": "2025-09-02 23:01:52"
+    "weather_report": "As the evening deepens, a gentle veil of patchy drizzle embraces Downtown San Francisco, weaving itself into the fabric of a mostly cloudy night. The air carries a familiar hint of salt, mingling with the cool breeze whispering through the streets. With temperatures resting at a comfortable 59 degrees, it's advisable to don a light jacket, especially for those venturing out into the night, whether walking along the waterfront or savoring a quiet dinner at one of the local bistros. The chance of precipitation hovers at a modest 20 percent, suggesting that while dampness may linger, it is unlikely to be overwhelming.\n\nAs dawn breaks on Wednesday, expect the clouds to part, revealing a canvas of blue punctuated by sunlight. The day promises a warm embrace, with temperatures climbing to a pleasant 68 degrees and eventually settling around 66 in the afternoon. There may still be pockets of mist hanging in the air, remnants of the overcast night, but the sun's rays will uplift the city, creating an inviting atmosphere for a stroll through the parks or perhaps a leisurely brunch at an outdoor caf\u00e9. With steady winds from the west southwest, ranging from a gentle 7 to 17 mph, the conditions will be invigorating, perfect for one to run errands or simply enjoy the leisurely pace of city life. \n\nFor those planning their day, light layers will serve well; a comfortable sweater or light scarf will shield against any lingering coolness as evening falls again. Consider a visit to the galleries or a bite at a local eatery, basking in the serene energy of a city waking up to sunlight after a night\u2019s drizzle.",
+    "color_code": "#A3B0C6",
+    "timestamp": "2025-09-03 00:02:03"
 }
