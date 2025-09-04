@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-04T04:43:00+00:00",
-            "temperature_f": 59.486000000000004,
-            "temperature_c": 15.27,
-            "humidity": 85.989594278355,
+            "timestamp": "2025-09-04T05:43:00+00:00",
+            "temperature_f": 59.215999999999994,
+            "temperature_c": 15.12,
+            "humidity": 86.99255990059,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-09-03T14:00:00-07:00",
+                "endTime": "2025-09-03T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "13 to 17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 69, with temperatures falling to around 65 in the afternoon. West southwest wind 13 to 17 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-03T23:00:00-07:00",
+                "startTime": "2025-09-03T18:00:00-07:00",
                 "endTime": "2025-09-04T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "7 to 15 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 58. West southwest wind 7 to 10 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-09-04T06:00:00-07:00",
-                "endTime": "2025-09-04T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "7 to 17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
-                "shortForecast": "Patchy Drizzle then Partly Sunny",
-                "detailedForecast": "Patchy drizzle before 11am. Partly sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 7 to 17 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy drizzle after 11pm. Mostly cloudy, with a low around 58. West southwest wind 7 to 15 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As night settles over Downtown San Francisco, a soft drizzle lightly kisses the pavement, the air tinged with the familiar coastal chill. The clouds blanket the city like a gentle shawl, ushering in a low temperature around fifty-eight degrees, while a westerly breeze whispers through the streets. With a mere twenty percent chance of steady precipitation, the atmosphere feels both damp and delicate. \n\nAs dawn breaks on Thursday, expect the drizzle to wane, greeted by patches of sunshine slicing through the overcast sky. The temperature will peak near sixty-six, before dipping ever so slightly in the afternoon. Wind gusts will dance about, sending sway to the treetops, making a light jacket or cardigan a prudent choice for morning wanderers. The day offers an inviting aura for simple excursions: perhaps a leisurely stroll through the vibrant Mission district, where the scent of fresh coffee mingles with the rainbow murals, or a quiet moment in one of the serene parks, where the sounds of rustling leaves and distant laughter create a gentle symphony. A day like this calls for opportunities to absorb the spirit of the city, even if shrouded in a hint of mystery and untold stories hidden in the mist.",
-    "color_code": "#A0B4C3",
-    "timestamp": "2025-09-03 23:01:59"
+    "weather_report": "As the golden sun graces Downtown San Francisco, the afternoon unfolds under a canvas of clarity, with soft breezes whispering tales of the bay. Highs flirt with comfortable temperatures, creating a pleasant atmosphere ideal for a leisurely stroll down the waterfront or perhaps an afternoon coffee at a sidewalk caf\u00e9. The sunlight dances upon the iconic structures, inviting exploration and casual conversations, while the gentle winds keep a refreshing edge in the air, perfect for those who might prefer a light sweater.\n\nAs twilight approaches, anticipation lingers in the atmosphere. The clouds gather softly, hinting at the potential for patchy drizzle later in the evening. The air cools, wrapping the city in a tender embrace, making it a splendid time for an easy walk, perhaps through one of the many parks where the sounds of rustling leaves harmonize with the distant hum of city life. Dressing in layers seems wise, allowing for comfort as the temperatures dip gently into the night. Whether seeking solace in the pages of a good book or indulging in the flavors of a local eatery, the evening promises a contemplative and cozy retreat.",
+    "color_code": "#A8B3C7",
+    "timestamp": "2025-09-04 00:01:39"
 }
