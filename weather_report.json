@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-04T14:43:00+00:00",
+            "timestamp": "2025-09-04T15:43:00+00:00",
             "temperature_f": 58.208,
             "temperature_c": 14.56,
-            "humidity": 100,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-04T05:00:00-07:00",
-                "endTime": "2025-09-04T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 58. West southwest wind around 6 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-09-04T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-09-04T10:00:00-07:00",
                 "endTime": "2025-09-04T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "6 to 14 mph",
+                "windSpeed": "7 to 14 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
-                "shortForecast": "Patchy Drizzle then Partly Sunny",
-                "detailedForecast": "Patchy drizzle before 11am. Partly sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 6 to 14 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Patchy Drizzle then Mostly Sunny",
+                "detailedForecast": "Patchy drizzle before 11am. Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 7 to 14 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-04T18:00:00-07:00",
+                "endTime": "2025-09-05T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle after 11pm. Mostly cloudy, with a low around 59. West southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As morning unfolds over Downtown San Francisco, a soft veil of patchy drizzle hangs delicately in the air, adding a muted charm to the cityscape. The clouds, dense enough to obscure the sun's bright intentions, drape the skyline in shades of gray, presenting a tranquil but somewhat moody aesthetic. While the temperature lingers around a mild 58 degrees, it does carry with it the potential for a slight chill, enhanced by the gentle westerly winds that stir solemnly through the streets.\n\nLooking ahead, Thursday promises to bring a touch of clarity, albeit tempered\u2014patchy drizzle may linger until late morning before giving way to tentative rays of sunshine. The high will hover near a comfortable 66 degrees, but expect the afternoon to coax the temperature down a notch, wrapping the day in a cool embrace. While the fog may choose to retreat somewhat, its fingerprints\u2014a subtle marine layer\u2014may linger near the coast, hinting at a restless ocean, eternally at odds with the urban rhythm. In such weather, layered attire is advised\u2014think light sweaters or jackets, easy to shed as the day evolves. Given the atmospheric nuances, an afternoon stroll can reveal the charm beneath the gray, perhaps a visit to a cozy caf\u00e9 or a leisurely exploration of the quieter streets, where the essence of San Francisco shimmers through the fog.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-09-04 09:02:07"
+    "weather_report": "In the heart of Downtown San Francisco, a soft veil of patchy drizzle has surrendered to a promise of sunlight, illuminating the city's iconic form. The morning is slowly shedding its moody cloak\u2014though hints of the marine layer may linger, swirling subtly, particularly over the bridges and hills. The atmosphere is crisp, inviting, with a warmth that hints at the coolness yet to come as the day unfolds. A gentle west-southwest breeze carries whispers of the ocean, making it a delightful day for a leisurely stroll through the local parks or perhaps savoring a warm cup at your favorite caf\u00e9, while enjoying the rhythmic hum of daily life.\n\nAs the afternoon approaches, temperatures will gracefully dip, lingering around a comfortable 64 degrees. Opt for layers\u2014a light jacket might be your perfect companion, especially as the day transitions to cloudy skies and the drizzle returns. As the evening enfolds, a sense of tranquility permeates the air, inviting you to perhaps lose yourself in a good book or enjoy a casual dinner outdoors, surrounded by the vibrant, ever-buzzing energy of the city. Such days remind us to appreciate both the whims of nature and the quiet beauty that emerges in every shifting moment.",
+    "color_code": "#A8B3C1",
+    "timestamp": "2025-09-04 10:01:29"
 }
