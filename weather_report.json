@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-04T06:43:00+00:00",
-            "temperature_f": 59.342,
-            "temperature_c": 15.19,
-            "humidity": 88.950344097283,
+            "timestamp": "2025-09-04T07:43:00+00:00",
+            "temperature_f": 59.198,
+            "temperature_c": 15.11,
+            "humidity": 94.972549965216,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-03T14:00:00-07:00",
-                "endTime": "2025-09-03T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "13 to 17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 69, with temperatures falling to around 65 in the afternoon. West southwest wind 13 to 17 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-09-03T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-09-04T02:00:00-07:00",
                 "endTime": "2025-09-04T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "7 to 15 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 11pm. Mostly cloudy, with a low around 58. West southwest wind 7 to 15 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 58. West southwest wind around 9 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-09-04T06:00:00-07:00",
+                "endTime": "2025-09-04T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Patchy Drizzle then Partly Sunny",
+                "detailedForecast": "Patchy drizzle before 11am. Partly sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 7 to 17 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon dawns bright and sunny, a delightful pause amid the city's often moody temperament. As the day progresses, the warmth teeters near a comfortable 69, enriched by the gentle breeze drawing in from the west, rustling the leaves and inviting locals to savor the fresh air. However, the sun\u2019s embrace will soon yield to a more overcast sky as evening approaches, hinting at the possibility of patchy drizzle after nightfall\u2014a mere whisper of rain that adds a touch of atmosphere to the cool, fog-kissed air.\n\nWith the forecast painting a picture of evolving clouds and subtle shifts in temperature, dressing in layers becomes essential\u2014light jackets and breathable fabrics will carry you from the sunlit warmth of the day into the cooler embrace of the evening. This weather invites a stroll along the waterfront, perhaps grabbing a coffee at a bustling caf\u00e9 as the city begins its winding down, or exploring one of the lesser-known parks shaded by towering eucalyptus trees. The day is gentle and inviting, perfect for mingling, a walk in the crisp air, or seeking the serene moments typically found among the vibrant city scenes.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-09-04 01:02:05"
+    "weather_report": "In the heart of Downtown San Francisco, the early hours breathe a cool, dampness into the air, with a gentle drizzle whispering against the pavement. The sky hangs mostly cloudy overhead, an expanse of muted grays offering only a modest glow from the hidden sun. As the chill settles in, the temperature hovers comfortably around 58 degrees, accompanied by a light breeze from the west, nudging through the streets like a soft sigh.\n\nAs the day unfolds, expect the morning's drizzle to dissipate, yielding to patches of sun that strive to reclaim the sky. While the high will cap around 66, a gradual retreat to about 64 in the afternoon hints at a day that won\u2019t rise too extravagantly above the coolness inherited from the night. Winds may pick up, rustling through trees and along sidewalks, reminding those who wander that layering will be prudent. A light jacket or cardigan would serve well against the brisk touch of wind. \n\nToday beckons thoughtful ventures\u2014perhaps a stroll along the Embarcadero, where the air carries hints of salt and sea, or a quiet caf\u00e9 visit nestled within the Mission, where the warmth of good company and fresh pastries can content the soul. As fog lingers in the distance, the marine layer wraps parts of the Golden Gate, a soft shroud that invites reflection. Enjoy these nuances of the day, where beauty lies not just in the sunlight, but also in the moody grace of a city that embraces its own rhythm.",
+    "color_code": "#A9B1B8",
+    "timestamp": "2025-09-04 02:02:02"
 }
