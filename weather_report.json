@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-04T03:43:00+00:00",
-            "temperature_f": 59.702,
-            "temperature_c": 15.39,
-            "humidity": 86.001701100507,
+            "timestamp": "2025-09-04T04:43:00+00:00",
+            "temperature_f": 59.486000000000004,
+            "temperature_c": 15.27,
+            "humidity": 85.989594278355,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-03T17:00:00-07:00",
-                "endTime": "2025-09-03T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 69, with temperatures falling to around 65 in the afternoon. West southwest wind around 17 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-03T18:00:00-07:00",
+                "startTime": "2025-09-03T23:00:00-07:00",
                 "endTime": "2025-09-04T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "7 to 15 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 11pm. Mostly cloudy, with a low around 58. West southwest wind 7 to 15 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 58. West southwest wind 7 to 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-09-04T06:00:00-07:00",
+                "endTime": "2025-09-04T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Patchy Drizzle then Partly Sunny",
+                "detailedForecast": "Patchy drizzle before 11am. Partly sunny. High near 66, with temperatures falling to around 64 in the afternoon. West southwest wind 7 to 17 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the evening unfolds under a cloak of gentle anticipation, as early hints of the cooling night air merge with the last whispers of a sunny afternoon. The golden embrace of daylight yields to a soft cloud cover, and while the temperature dips to a comfortable coolness, the faint promise of drizzle adds a hint of mystery to the atmosphere. A subtle, brisk wind sweeps through, crafting a refreshing backbone to the ambiance, suggesting that while the warmth of the day will be missed, the evening holds its own kind of charm.\n\nAs tonight unfolds, the marine layer lurks silently at the edges of the bay, offering a delicate touch of haze but sparing the city from the thick fog that sometimes engulfs its allure. The buzz of evening life continues, with the possibility of spotting a few raindrops after 11 PM, reminiscent of the bustling streets inviting wanderers and contemplative souls alike to stroll through shadowy alleyways or gather at cozy caf\u00e9s. Attire should reflect the transition\u2014perhaps a light jacket or a sweater to ward off the evening chill, comfortable enough to allow for the spontaneous explorations that this atmosphere invites. This is no night for grand excursions, but rather for low-key delights\u2014watching the twinkling lights reflect on the water, savoring an unhurried cup of coffee, or indulging in the simple pleasure of a quiet conversation.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-09-03 22:01:58"
+    "weather_report": "As night settles over Downtown San Francisco, a soft drizzle lightly kisses the pavement, the air tinged with the familiar coastal chill. The clouds blanket the city like a gentle shawl, ushering in a low temperature around fifty-eight degrees, while a westerly breeze whispers through the streets. With a mere twenty percent chance of steady precipitation, the atmosphere feels both damp and delicate. \n\nAs dawn breaks on Thursday, expect the drizzle to wane, greeted by patches of sunshine slicing through the overcast sky. The temperature will peak near sixty-six, before dipping ever so slightly in the afternoon. Wind gusts will dance about, sending sway to the treetops, making a light jacket or cardigan a prudent choice for morning wanderers. The day offers an inviting aura for simple excursions: perhaps a leisurely stroll through the vibrant Mission district, where the scent of fresh coffee mingles with the rainbow murals, or a quiet moment in one of the serene parks, where the sounds of rustling leaves and distant laughter create a gentle symphony. A day like this calls for opportunities to absorb the spirit of the city, even if shrouded in a hint of mystery and untold stories hidden in the mist.",
+    "color_code": "#A0B4C3",
+    "timestamp": "2025-09-03 23:01:59"
 }
