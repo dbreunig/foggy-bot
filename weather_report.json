@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-09-04T17:00:00-07:00",
+                "endTime": "2025-09-04T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "18 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. West wind around 18 mph, with gusts as high as 24 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-04T19:00:00-07:00",
+                "startTime": "2025-09-04T18:00:00-07:00",
                 "endTime": "2025-09-05T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "10 to 16 mph",
+                "windSpeed": "10 to 18 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 59. West southwest wind 10 to 16 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-09-05T06:00:00-07:00",
-                "endTime": "2025-09-05T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "10 to 20 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
-                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 67, with temperatures falling to around 65 in the afternoon. West wind 10 to 20 mph, with gusts as high as 24 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 59. West southwest wind 10 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As twilight settles over Downtown San Francisco, a gentle veil of clouds casts a muted glow on the evening skyline. Tonight, the ambiance carries with it a gentle promise of drizzle, though it lingers on the periphery, an unobtrusive reminder of the coastal charm that shrouds the city in its embrace. The temperature hovers in the comfortable realm of the upper fifties, while the west-southwest wind whispers through the streets, carrying with it a refreshing crispness, an invitation to enjoy the cool air while wrapped in a light jacket. \n\nAs dawn breaks on Friday, expect a slight chance of drizzle before the sun peeks through the clouds, transforming the morning into a mostly sunny display. With highs nearing sixty-seven degrees and the warmth of the afternoon sun coaxing out the brightness, it promises to be a pleasant day, albeit with a gentle cooling trend as the hours unfold. The marine layer may still linger in the shadows, softening the edges of the landscape, inviting exploration of the winding streets or the tranquility of a local caf\u00e9 where one can sip a warm brew while watching the world gently awaken. With such weather, a casual attire suffices\u2014a light sweater or a comfortable jacket is all one needs to harmonize with the cool, inviting air. Perhaps a stroll along the Embarcadero or a visit to a hidden gallery might be on the agenda, paths illuminated by both sunshine and soft clouds.",
-    "color_code": "#6C7A94",
-    "timestamp": "2025-09-04 19:26:40"
+    "weather_report": "As the sun dips below the hills, a gentle warmth lingers in the air, punctuated by the whispering winds that dance through Downtown San Francisco. The afternoon has graced the city with mostly sunny skies, a rare treat that casts an inviting glow across familiar streets. The breeze, a lively companion at around 18 miles per hour, carries a hint of salt from the Bay, creating a refreshing touch that is both invigorating and soothing.\n\nAs twilight approaches, a slight chance of drizzle lingers on the horizon, a reminder of the fickle nature of San Francisco\u2019s climate. The sky begins to envelop itself in a soft, cloudy embrace, wrapping the city in a delicate veil. Expect temperatures to settle around a cozy 59 degrees, nudging one to layer thoughtfully. A light sweater or jacket may serve as ideal armor against the increasing west-southwest winds that could gust up to 23 miles per hour.\n\nIn these serene hours, one could wander through the labyrinth of the city\u2019s streets, pausing at a tucked-away caf\u00e9 for a warm drink, or perhaps stroll along the waterfront, where the sound of the waves can merge harmoniously with the hum of evening life. The city beckons with its understated charm, reminding you that sometimes, the beauty lies not in the grand but rather in the small, quiet moments shared with its ever-changing backdrop.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2025-09-04 20:12:17"
 }
