@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-09-05T07:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-09-05T05:00:00-07:00",
+                "endTime": "2025-09-05T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 59. West wind around 8 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-09-05T06:00:00-07:00",
                 "endTime": "2025-09-05T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 67,
@@ -34,29 +53,10 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
                 "shortForecast": "Patchy Drizzle then Mostly Sunny",
                 "detailedForecast": "Patchy drizzle before 11am. Mostly sunny. High near 67, with temperatures falling to around 65 in the afternoon. West wind 7 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-09-05T18:00:00-07:00",
-                "endTime": "2025-09-06T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "7 to 14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 11pm. Mostly cloudy, with a low around 58. West southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "This morning in Downtown San Francisco greets us with a gentle ambiance, marked by the faint patter of early drizzle which should give way to an inviting sunlit canvas as the day unfolds. With a high cresting near 67 degrees, those venturing out should consider a light layering; a soft scarf and light jacket may serve well against the mellow west wind, bending through the streets at 7 to 15 mph, accentuated by occasional gusts that dance playfully along the waterfront. \n\nAs the sun climbs higher, the skies promise a clearer enjoyment of one of San Francisco\u2019s famed afternoons, the fog rolling back to reveal the glinting skyline and distant vistas. However, as day transitions to evening, the clouds will return, bringing the possibility of more patchy drizzle, so a prepared spirit for the evening's cool embrace is wise. Though this day allows for pleasant outings\u2014perhaps a leisurely stroll through Golden Gate Park or a visit to a chic caf\u00e9 downtown\u2014it's best to embrace the dynamic nature of the weather and carry an umbrella just in case.",
-    "color_code": "#A1C1B1",
-    "timestamp": "2025-09-05 07:01:35"
+    "weather_report": "The morning air in Downtown San Francisco carries the subtle weight of patchy drizzle, lending a soft gloss to the already muted skyline. As hours unfold, the clouds will be reluctant to part entirely, giving way to moments of sunlight that grasp eagerly at the horizon, but expect the temperature to slowly drift down to the mid-sixties. The west wind whispers its presence, a gentle companion nudging through the city streets, though it might ramp up into playful gusts that dance with ambition. The chance of precipitation rests at a low twenty percent, leaving the day poised between potential drizzle and tentative sun.\n\nGiven this canvassed backdrop, attire should be practical yet comfortable; layering will be key. A light jacket and a pair of sturdy shoes are good companions for strolling through the city's nooks and crannies, perhaps winding your way to a cozy caf\u00e9 or sampling the local flavors at a food truck. It would be a fine day to rediscover the simple joy of a leisurely walk, where the urban landscape meets the flickering remnants of the marine layer that clings softly just beyond the bridge. Embrace the day's embrace, making space for spontaneity amid the subtle unpredictability of an early September in the city by the bay.",
+    "color_code": "#A9B0B2",
+    "timestamp": "2025-09-05 08:02:01"
 }
