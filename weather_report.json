@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-05T14:43:00+00:00",
-            "temperature_f": 59.846000000000004,
-            "temperature_c": 15.47,
-            "humidity": 90.01943727082,
+            "timestamp": "2025-09-05T15:43:00+00:00",
+            "temperature_f": 59.756,
+            "temperature_c": 15.42,
+            "humidity": 87.990127760315,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-05T05:00:00-07:00",
-                "endTime": "2025-09-05T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle. Mostly cloudy, with a low around 59. West wind around 8 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-09-05T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-09-05T09:00:00-07:00",
                 "endTime": "2025-09-05T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 67,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
                 "shortForecast": "Patchy Drizzle then Mostly Sunny",
                 "detailedForecast": "Patchy drizzle before 11am. Mostly sunny. High near 67, with temperatures falling to around 65 in the afternoon. West wind 7 to 15 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-05T18:00:00-07:00",
+                "endTime": "2025-09-06T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle after 11pm. Mostly cloudy, with a low around 58. West southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the dawn breaks over Downtown San Francisco, the air carries a damp chill, a prelude to the day that gently reveals itself. A soft layer of patchy drizzle lingers, hinting at the typical morning grogginess that drapes the city in muted tones. Beneath a mostly cloudy sky, temperatures hover around a comfortable 59 degrees, inviting a light jacket or sweater as you venture outside. The westward winds whisper through the streets, carrying the scent of salt and possibility, though they are mild today, floating around eight mph with occasional uplifting gusts.\n\nAs the clock ticks to midday, expect the clouds to part to unveil a canvas of mostly sunny skies, where the temperature will gradually ascend to a pleasant 67 degrees, before tapering to a cooler embrace by afternoon. The hint of the marine layer that shrouds the Golden Gate Bridge will recede, but its presence lingers, framing the iconic structure in a soft veil. This is the perfect opportunity to engage in low-key pursuits. Why not take a leisurely stroll along the Embarcadero, perhaps stopping for a bite at a quaint caf\u00e9, or indulge in a quiet moment in one of the city's many parks, where the whispers of the wind through the trees create a tranquil soundtrack? Today is less about the spectacle and more about savoring the gentle beauty of an urban landscape waking up from its slumber, inviting you to embrace its subtleties.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-09-05 09:02:04"
+    "weather_report": "In the heart of Downtown San Francisco, the morning unfurls with a gentle drizzle, whispering of a day still in transition. Despite the patchiness of the moisture that lingers before heading off, clarity begins to bloom. The sun is making its dutiful ascent, casting a soft light over the cityscape, while temperatures waver between a cozy 65 and 67 degrees\u2014a mild embrace that encourages the lightest of layers. Although the familiar breeze sways gently, setting sails to nearby trees and adding character to the air, the chance of precipitation looms quietly at 20%, suggesting an uncertain but not unwelcomed sprinkle later in the night.\n\nAs the day unfolds, one might dress with a sense of practicality\u2014considering a light jacket that could be cast aside when warmth beckons. The emerging sun hints at picnics in the park or leisurely strolls along the waterfront, where the whispers of waves harmonize with the city\u2019s pulse. The forecast calls for patchy drizzle returning post-11, so an umbrella tucked away might serve as wise precaution should the skies decide to refresh the streets once more. Tonight, the clouds will settle in, offering a calm contrast to the day\u2019s tentative brilliance\u2014a perfect backdrop for quiet reflections while sipping a warm drink at a local caf\u00e9, watching the city's lanterns come alive as dusk falls softly upon the Bay.",
+    "color_code": "#A7C9E1",
+    "timestamp": "2025-09-05 10:01:29"
 }
