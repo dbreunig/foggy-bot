@@ -10,7 +10,7 @@
             "timestamp": "2025-09-06T02:43:00+00:00",
             "temperature_f": 61.826,
             "temperature_c": 16.57,
-            "humidity": 84.07948059666,
+            "humidity": 84.024928573418,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-05T15:00:00-07:00",
-                "endTime": "2025-09-05T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 67, with temperatures falling to around 65 in the afternoon. West wind around 15 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-05T18:00:00-07:00",
+                "startTime": "2025-09-05T21:00:00-07:00",
                 "endTime": "2025-09-06T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "7 to 14 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 58. West southwest wind 7 to 14 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly cloudy, with a low around 58. West southwest wind 7 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-09-06T06:00:00-07:00",
+                "endTime": "2025-09-06T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Mostly Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Mostly sunny. High near 68, with temperatures falling to around 66 in the afternoon. West southwest wind 6 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon unfolds under a gracious sun, painting the day with warmth as temperatures touch their peak around 67. A gentle west wind stirs, whispering through the streets and offering a refreshing caress while the warmth slowly dips to 65. As twilight approaches, the sky hints at a possible arrival of a slight drizzle after nightfall, cloaking the city in a veil of clouds, while a low of 58 sets in, accompanied by a mellow breeze.\n\nThis evening, the hue of the streets transitions, as the vibrant life of the day gives way to shimmers of city lights against a backdrop of largely gray clouds. The expected marine layer appears to be draping the horizon subtly, whispering of the ocean just beyond, without fully embracing the city this time. An evening stroll seems inviting, perhaps along the Embarcadero, where the soft sounds of water lapping against the dock marry the light breeze. Layered clothing is a sensible choice; a light sweater or jacket will keep you comfortable as the temperatures drop, ensuring you're ready for both the evening chill and any hint of drizzle that might arrive. Such weather invites contemplation, a chance to savor the transition from day to evening in this beautiful urban landscape.",
-    "color_code": "#A8C0C5",
-    "timestamp": "2025-09-05 20:09:35"
+    "weather_report": "As twilight descends upon Downtown San Francisco, the air holds the scent of impending drizzle, whispering a promise of soft, misty moments after 11 PM. The clouds veiling the sky create a somber but soothing backdrop, as the temperature hovers around a mild 58 degrees. Winds from the west-southwest gently stir about, occasionally picking up in vigor, adding a slight chill that calls for a light jacket or sweater. \n\nTomorrow dawns with similar hints of moisture, but the clouds will part to reveal a more cheerful sky. A warm embrace awaits with temperatures creeping toward the mid-sixties, inviting the leisurely pursuit of outdoor pleasures\u2014perhaps a stroll through one of the nearby parks or a quiet visit to a local caf\u00e9. The slight chance of morning drizzle is merely a reminder of the ocean\u2019s embrace, a transient drizzle that refreshes rather than deters. As the day unfurls, the sun will beam warmly down, making way for a pleasant afternoon. A light scarf might be welcome as you venture out, but the promise of sunshine suggests wearing layers for the shifting temperatures. Overall, savor a day that combines serenity with the possibility for exploration\u2014a perfect canvas painted with the shades of San Francisco's enigmatic charm.",
+    "color_code": "#8A9BA8",
+    "timestamp": "2025-09-05 21:01:59"
 }
