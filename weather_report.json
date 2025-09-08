@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-07T23:43:00+00:00",
-            "temperature_f": 68.324,
-            "temperature_c": 20.18,
-            "humidity": 69.438444299681,
+            "timestamp": "2025-09-08T00:43:00+00:00",
+            "temperature_f": 67.47800000000001,
+            "temperature_c": 19.71,
+            "humidity": 71.999327487979,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-07T17:00:00-07:00",
-                "endTime": "2025-09-07T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 69, with temperatures falling to around 67 in the afternoon. West wind around 14 mph, with gusts as high as 20 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-09-07T18:00:00-07:00",
                 "endTime": "2025-09-08T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 60,
+                "temperature": 61,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 6
                 },
-                "windSpeed": "5 to 12 mph",
+                "windSpeed": "5 to 13 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 60. West southwest wind 5 to 12 mph, with gusts as high as 18 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 61. West southwest wind 5 to 13 mph, with gusts as high as 18 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-09-08T06:00:00-07:00",
+                "endTime": "2025-09-08T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 70,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 23
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 5pm. Partly sunny. High near 70, with temperatures falling to around 68 in the afternoon. West southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dusk approaches in Downtown San Francisco, the day offers a gentle transition characterized by predominantly sunny skies, though the clouds are beginning to gather. A refreshing breeze from the west brings a light kiss of chill, ensuring the air feels comfortably crisp. This afternoon has greeted onlookers with temperatures inching toward a mild 69\u00b0F, tapering slightly as the sun descends, teasing a fall into cozy evening lows around 60\u00b0F. Despite the brightness overhead, a soft blanket of marine layer can be glimpsed lingering closer to the horizon, hinting at the summertime fog typical of this locale, subtly obscuring distant views but leaving local settings clear and inviting.\n\nIt's an ideal evening to contemplate a late stroll along the waterfront or perhaps to seek out a quiet caf\u00e9 for a calming cup of tea. Attire should favor layers; a light sweater will complement the mildness while being prepared for the coolness that night brings, allowing one to navigate the shifting temperatures with ease. For those who feel the pull of the outdoors, a visit to a nearby park or an exploration of the city\u2019s dynamic neighborhoods can be both refreshing and inspiring, an opportunity to uncover the city's essence as it winds down for the day.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-09-07 17:05:13"
+    "weather_report": "As the sun retreats behind the horizon, Downtown San Francisco settles into a gently dimming twilight. The clouds gather, draping the city in a gentle haze that speaks of the cool ocean air beginning to weave its way inland. At the moment, a soft breeze stirs, hinting at the west-southwest winds rolling through at a pace that feels pleasantly invigorated, setting a serene tone for the evening.\n\nThe forecast suggests a low around 61, perfect for wrapping yourself in a light layer for those who prefer a touch of warmth. The day ahead promises a flirtation with the sun, transitioning from the amiable warmth of early afternoon temperatures into the cool embrace of evening. There lingers a whisper of uncertainty; a mere 20% chance of light showers after 5 PM, though one might be tempted to venture out for a stroll or a coffee\u2014perhaps along one of the myriad sheltered cafes, their welcoming lights glowing against the backdrop of the encroaching night.\n\nFor the discerning soul, a light jacket or a stylish scarf might be your best ally against the cool marine air. Whether there's an unplanned stop at an art gallery or an evening of whimsy at a bookshop, let the moment guide you as you experience this dynamic tapestry of a city, where each corner reveals something new. Embrace the flavors of the evening, savoring the soft sounds of conversation trailing into the streets, as San Francisco captures the essence of both adventure and tranquility.",
+    "color_code": "#A2B5E4",
+    "timestamp": "2025-09-07 18:29:04"
 }
