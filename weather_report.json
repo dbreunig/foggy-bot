@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-08T16:43:00+00:00",
-            "temperature_f": 64.508,
-            "temperature_c": 18.06,
-            "humidity": 89.977740809599,
+            "timestamp": "2025-09-08T17:43:00+00:00",
+            "temperature_f": 66.236,
+            "temperature_c": 19.02,
+            "humidity": 82.966188517932,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-09-08T07:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-09-08T05:00:00-07:00",
+                "endTime": "2025-09-08T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 61. Southwest wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-09-08T06:00:00-07:00",
                 "endTime": "2025-09-08T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 69,
@@ -34,29 +53,10 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain,20?size=medium",
                 "shortForecast": "Partly Sunny then Slight Chance Light Rain",
                 "detailedForecast": "A slight chance of rain after 5pm. Partly sunny, with a high near 69. Southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-09-08T18:00:00-07:00",
-                "endTime": "2025-09-09T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 41
-                },
-                "windSpeed": "5 to 13 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 62. Southwest wind 5 to 13 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the morning wears on in Downtown San Francisco, a gentle optimism lingers in the air, despite the encroaching clouds. The sky is largely overcast, with wisps of fog swirling in a restless dance, hinting at the possibility of rain later in the evening. Today\u2019s high of around 69 degrees, tempered by a soft southwest breeze, invites a comfort that suggests light layers might be best. Consider a lightweight sweater or a jacket, easily tossed on or off as the conditions shift.\n\nThe expected chance of precipitation rises as night approaches, with the prospect of rain becoming more pronounced. But for now, the atmosphere invites moments of quiet reflection or leisurely wanderings through neighborhoods. A stroll to your favorite caf\u00e9 promises warmth, the kind that complements a cup of coffee or a freshly baked pastry, as the streets thrum with life and whispers of conversations float through the cool air. And as the day transitions into night, reserve time to watch as the city transforms, the faint glisten of rain perhaps adding a romantic touch to the softly illuminated streets.",
-    "color_code": "#A3A3C1",
-    "timestamp": "2025-09-08 11:02:09"
+    "weather_report": "The atmosphere in Downtown San Francisco is currently painted with shades of gray, draped under a veil of clouds that whisper of the sea. The chill in the air hints at the remnants of the evening's marine layer, though it clings less tightly now than it did mere hours earlier. As the afternoon unfolds, the skyline emerges hazily, with soft outlines of buildings reaching upwards in muted tones, while the iconic Golden Gate Bridge shyly veils itself, almost playing hard to get behind a layer of mist. This dusky tableau reflects a gentleness, making the day feel both tranquil and a touch melancholic.\n\nLooking toward the remainder of the day, there is a slight chance, barely a murmur at 20%, of a few raindrops after five o\u2019clock, but for now, the skies remain largely dry. The temperatures, hovering comfortably near 69, invite light garments that embrace the cool breeze, perhaps a light jacket for the evening hours or a cozy sweater while sipping coffee at a cafe where you can watch the light change as the sun dips. The soft whispers of wind will dance around you at a brisk pace of up to 14 mph, adding a refreshing note to your stroll through the streets or a leisurely exploration of local shops. Today is a day to embrace the rich textures of the city\u2014perhaps through the quiet contemplation in a park or enjoying a book in a sun-dappled nook, while the clouds above weave their stories of the sea.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-09-08 12:01:31"
 }
