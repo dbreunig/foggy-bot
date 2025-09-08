@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-08T17:43:00+00:00",
-            "temperature_f": 66.236,
-            "temperature_c": 19.02,
-            "humidity": 82.966188517932,
+            "timestamp": "2025-09-08T19:43:00+00:00",
+            "temperature_f": 71.348,
+            "temperature_c": 21.86,
+            "humidity": 65.941928476244,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-08T05:00:00-07:00",
-                "endTime": "2025-09-08T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 61. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-09-08T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-09-08T13:00:00-07:00",
                 "endTime": "2025-09-08T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 69,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 21
                 },
-                "windSpeed": "5 to 14 mph",
+                "windSpeed": "10 to 14 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,20?size=medium",
-                "shortForecast": "Partly Sunny then Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain after 5pm. Partly sunny, with a high near 69. Southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain after 5pm. Mostly sunny, with a high near 69. Southwest wind 10 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-08T18:00:00-07:00",
+                "endTime": "2025-09-09T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 41
+                },
+                "windSpeed": "5 to 13 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 62. Southwest wind 5 to 13 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "The atmosphere in Downtown San Francisco is currently painted with shades of gray, draped under a veil of clouds that whisper of the sea. The chill in the air hints at the remnants of the evening's marine layer, though it clings less tightly now than it did mere hours earlier. As the afternoon unfolds, the skyline emerges hazily, with soft outlines of buildings reaching upwards in muted tones, while the iconic Golden Gate Bridge shyly veils itself, almost playing hard to get behind a layer of mist. This dusky tableau reflects a gentleness, making the day feel both tranquil and a touch melancholic.\n\nLooking toward the remainder of the day, there is a slight chance, barely a murmur at 20%, of a few raindrops after five o\u2019clock, but for now, the skies remain largely dry. The temperatures, hovering comfortably near 69, invite light garments that embrace the cool breeze, perhaps a light jacket for the evening hours or a cozy sweater while sipping coffee at a cafe where you can watch the light change as the sun dips. The soft whispers of wind will dance around you at a brisk pace of up to 14 mph, adding a refreshing note to your stroll through the streets or a leisurely exploration of local shops. Today is a day to embrace the rich textures of the city\u2014perhaps through the quiet contemplation in a park or enjoying a book in a sun-dappled nook, while the clouds above weave their stories of the sea.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-09-08 12:01:31"
+    "weather_report": "The sun casts its muted glow across Downtown San Francisco this afternoon, rousing a sense of lingering warmth as the temperature hovers near a gentle 69 degrees. While the southwest wind whispers softly, rustling the leaves while sending the occasional chill your way, there remains a hint of uncertainty in the air. Clouds gather, hinting at rain\u2019s potential return later in the day, though for now, the city basks under mostly sunny skies, albeit with a slight chance of rain lurking after 5 PM.\n\nAs twilight approaches, expect the clouds to thicken, ushering in a sharper chill as the temperature dips toward 62 degrees. The ghosts of fog and marine layer may weave in and out, softening the outlines of the skyline and shrouding the beloved Golden Gate in an ethereal mist. For those venturing into the evening, a light jacket will serve well against the cool breeze, while the low chance of rain can be accommodated with a hat or umbrella, just in case. Whether one chooses to wander through the cobbled streets or perhaps find refuge in a quaint caf\u00e9, today\u2019s atmosphere breathes of cozy promise, perfect for quiet contemplation or spirited conversation amid the urban pulse of this enchanting city.",
+    "color_code": "#A3B4C3",
+    "timestamp": "2025-09-08 13:01:53"
 }
