@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-09T13:43:00+00:00",
-            "temperature_f": 63.824,
-            "temperature_c": 17.68,
-            "humidity": 100,
+            "timestamp": "2025-09-09T15:43:00+00:00",
+            "temperature_f": 64.31,
+            "temperature_c": 17.95,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-09T04:00:00-07:00",
-                "endTime": "2025-09-09T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 36
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 62. Southwest wind around 5 mph. Chance of precipitation is 40%."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-09-09T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-09-09T07:00:00-07:00",
                 "endTime": "2025-09-09T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 68,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
                 "detailedForecast": "A chance of rain showers before 5pm. Partly sunny, with a high near 68. Southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 40%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-09T18:00:00-07:00",
+                "endTime": "2025-09-10T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 35
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 11pm. Mostly cloudy, with a low around 61. West southwest wind 6 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "As you step into the day, a hush hangs over Downtown San Francisco, the low clouds cradling the skyline like a soft blanket. The distant outline of familiar landmarks, shrouded in the gentle embrace of a marine layer, hints at a morning steeped in mystery. With a chance of rain lingering in the air, the atmosphere feels refreshed as if nature itself is breathing in deeply before the sun breaks through. The breeze whispers softly from the southwest, a gentle promise of warmth that lies ahead.\n\nAs the day unfolds, expect the clouds to gradually yield to moments of brightness, unveiling a partly sunny canvas that should inspire a sense of possibility. The high will reach a pleasant warmth, though the lingering remnants of the morning fog may keep the air crisp. For those venturing out, light layers are advisable\u2014perhaps a thin jacket or cozy sweater against the coolness of the morning, easily shed as the sun takes a stronger hold. It would be a good opportunity to indulge in some leisurely strolls through the neighborhood, perhaps exploring the local caf\u00e9s, or perusing the tucked-away art galleries that dot the streets. With a hint of rain in the forecast, a little spontaneity could lead to charming moments\u2014a cozy encounter or a spontaneous dash for shelter into a vibrant bookstore as the skies play their symphony.",
-    "color_code": "#A5B8C8",
-    "timestamp": "2025-09-09 09:01:54"
+    "weather_report": "In Downtown San Francisco today, the atmosphere carries the potential for a fleeting shower, perhaps before the sun fully unveils its charm. Cloaked in a mixture of clouds and brief moments of sunlight, the city stands poised at a high of 68 degrees. A gentle southwest breeze wafts through the avenues, stirring a softness in the air, while the chance of rain lingers at 40%. While it isn\u2019t particularly foggy now, the horizon might feel the ghost of a marine layer lurking nearby, hinting at a romantic dance between clouds and sun, particularly as evening draws near.\n\nAs twilight approaches, the chance of rain returns, turning the skies mostly cloudy and the temperature settling around a cozy 61 degrees. As you venture out today, a light jacket or an umbrella may serve you well, ushering in a sense of comfort against the brisk wind and the unpredictably playful rain. Consider a simple stroll along the Embarcadero, where the city and bay converge in a muted symphony, or perhaps stop at a cozy caf\u00e9 for a warm drink, allowing the world outside to blend into a slower, comfortable rhythm. Such pursuits will pair nicely with the shifting moods of the day, inviting you to embrace both the sun\u2019s gleam and the evening\u2019s chill.",
+    "color_code": "#A9C6E8",
+    "timestamp": "2025-09-09 10:01:15"
 }
