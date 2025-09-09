@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-09T01:43:00+00:00",
-            "temperature_f": 70.232,
-            "temperature_c": 21.24,
-            "humidity": 67.965455977554,
+            "timestamp": "2025-09-09T02:43:00+00:00",
+            "temperature_f": 69.17,
+            "temperature_c": 20.65,
+            "humidity": 70.430244310953,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-09-08T16:00:00-07:00",
+                "endTime": "2025-09-08T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 69. West southwest wind around 14 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-08T19:00:00-07:00",
+                "startTime": "2025-09-08T18:00:00-07:00",
                 "endTime": "2025-09-09T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 38
                 },
-                "windSpeed": "5 to 12 mph",
+                "windSpeed": "5 to 14 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
                 "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 8pm. Mostly cloudy, with a low around 62. Southwest wind 5 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-09-09T06:00:00-07:00",
-                "endTime": "2025-09-09T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 39
-                },
-                "windSpeed": "5 to 14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain_showers,40?size=medium",
-                "shortForecast": "Chance Light Rain then Chance Rain Showers",
-                "detailedForecast": "A chance of rain before 11am, then a chance of rain showers between 11am and 5pm. Partly sunny. High near 68, with temperatures falling to around 66 in the afternoon. Southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain after 8pm. Mostly cloudy, with a low around 62. Southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As twilight begins to blanket Downtown San Francisco, the city stands poised between the remnants of daylight and the encroaching evening. The soft gray blanket of clouds hangs low, subtly concealing the familiar skyline, creating an ethereal quality to the surroundings. A gentle breeze stirs, carrying the briny scent of the bay, hinting at the possibility of rain that lingers in the air. This evening invites a reflective stroll along the waterfront, where the shimmering waters cast a tranquil mirror of the darkening sky.\n\nThis night's adventure will be met with a moderate temperature hovering near 62 degrees, prompting attire that balances comfort and warmth\u2014a light jacket is advisable with perhaps a cozy scarf. The chance of rain is palpable, with a 40% likelihood, suggesting that an umbrella might not be entirely unwarranted, especially as the clock ticks towards 8 pm when those light drizzles may begin. The reality of the approaching rain should be met with a spirit of exploration, be it a cozy coffee shop exploration or a quiet moment at home, perhaps indulging in a good book as the droplets tap against your window. As we meld into this early fall evening, the city offers a serene canvas, inviting all to linger a little longer in its enchanting silhouette.",
-    "color_code": "#6A8EBA",
-    "timestamp": "2025-09-08 19:27:45"
+    "weather_report": "As the day drifts into evening, Downtown San Francisco finds itself cloaked in a gentle quilt of cloudiness, punctuated by the warmth of modest sunbeams that have graced the afternoon. The weather, striving to strike a harmonious balance, sways between a refreshing coolness and the lingering warmth of a late summer day. Wind whispers through the streets at a casual pace, soothing and steady, hinting at the approaching shifts in weather as night beckons. \n\nCurrently, the air carries a hint of anticipation, a promise of possible rain after eight o'clock\u2014a welcome balm to the earth, if only a light one. As the clouds amass and dusk deepens, dress thoughtfully in layers; a light sweater will serve well against the gentle chill, while a compact umbrella may become your quiet companion. With the 40% chance of precipitation looming, an evening stroll through the strung lights of Union Square could offer both intrigue and respite, where the sounds of laughter and conversation dance on the air. Alternatively, a cozy caf\u00e9, its windows steaming from the warmth within, invites you to commune with a cup of something warm, enjoying the layered tapestry of urban life.",
+    "color_code": "#B0C4D2",
+    "timestamp": "2025-09-08 20:14:25"
 }
