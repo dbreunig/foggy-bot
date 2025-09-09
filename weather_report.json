@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-09T00:43:00+00:00",
-            "temperature_f": 71.96,
-            "temperature_c": 22.2,
-            "humidity": 63.969492456138,
+            "timestamp": "2025-09-09T01:43:00+00:00",
+            "temperature_f": 70.232,
+            "temperature_c": 21.24,
+            "humidity": 67.965455977554,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-08T15:00:00-07:00",
-                "endTime": "2025-09-08T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 69. West southwest wind around 14 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-08T18:00:00-07:00",
+                "startTime": "2025-09-08T19:00:00-07:00",
                 "endTime": "2025-09-09T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 38
                 },
-                "windSpeed": "5 to 14 mph",
+                "windSpeed": "5 to 12 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
                 "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 8pm. Mostly cloudy, with a low around 62. Southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain after 8pm. Mostly cloudy, with a low around 62. Southwest wind 5 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-09-09T06:00:00-07:00",
+                "endTime": "2025-09-09T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 39
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain_showers,40?size=medium",
+                "shortForecast": "Chance Light Rain then Chance Rain Showers",
+                "detailedForecast": "A chance of rain before 11am, then a chance of rain showers between 11am and 5pm. Partly sunny. High near 68, with temperatures falling to around 66 in the afternoon. Southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, this evening offers a gentle warmth tinged with the promise of the coming night\u2014a soft high of nearly 69 degrees cradled by a moderate breeze from the west southwest. The skies are mostly sunny, casting a soothing glow over the city, though the shroud of clouds hints at a shift. As twilight approaches, a veil of gray begins to form, suggesting that a chance of rain might sweep in after eight o'clock. The winds, though gentle now, carry an undercurrent of coolness, advising a light jacket against the briskness that lingers in the air.\n\nWith the forecasted chance of precipitation at 40%, those with plans to wander through the streets should consider carrying an umbrella or donning a waterproof layer, especially if one intends to linger beyond sunset. The day paints a pleasing tableau\u2014a perfect backdrop for leisurely strolls along the waterfront, perhaps indulging in warm pastries from a nearby caf\u00e9 or sitting under the canopy of trees in a local park. Even with the gathering clouds, there\u2019s an alluring charm in the city's silhouette against the dusky sky, inviting you to embrace the evening with quiet exploration and a hint of adventure.",
-    "color_code": "#A2B9C8",
-    "timestamp": "2025-09-08 18:29:08"
+    "weather_report": "As twilight begins to blanket Downtown San Francisco, the city stands poised between the remnants of daylight and the encroaching evening. The soft gray blanket of clouds hangs low, subtly concealing the familiar skyline, creating an ethereal quality to the surroundings. A gentle breeze stirs, carrying the briny scent of the bay, hinting at the possibility of rain that lingers in the air. This evening invites a reflective stroll along the waterfront, where the shimmering waters cast a tranquil mirror of the darkening sky.\n\nThis night's adventure will be met with a moderate temperature hovering near 62 degrees, prompting attire that balances comfort and warmth\u2014a light jacket is advisable with perhaps a cozy scarf. The chance of rain is palpable, with a 40% likelihood, suggesting that an umbrella might not be entirely unwarranted, especially as the clock ticks towards 8 pm when those light drizzles may begin. The reality of the approaching rain should be met with a spirit of exploration, be it a cozy coffee shop exploration or a quiet moment at home, perhaps indulging in a good book as the droplets tap against your window. As we meld into this early fall evening, the city offers a serene canvas, inviting all to linger a little longer in its enchanting silhouette.",
+    "color_code": "#6A8EBA",
+    "timestamp": "2025-09-08 19:27:45"
 }
