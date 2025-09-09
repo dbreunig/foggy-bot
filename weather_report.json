@@ -10,7 +10,7 @@
             "timestamp": "2025-09-09T02:43:00+00:00",
             "temperature_f": 69.17,
             "temperature_c": 20.65,
-            "humidity": 70.430244310953,
+            "humidity": 69.978705429447,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-08T16:00:00-07:00",
-                "endTime": "2025-09-08T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 69. West southwest wind around 14 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-08T18:00:00-07:00",
+                "startTime": "2025-09-08T21:00:00-07:00",
                 "endTime": "2025-09-09T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 38
                 },
-                "windSpeed": "5 to 14 mph",
+                "windSpeed": "5 to 9 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
                 "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 8pm. Mostly cloudy, with a low around 62. Southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 62. Southwest wind 5 to 9 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-09-09T06:00:00-07:00",
+                "endTime": "2025-09-09T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 39
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain_showers,40?size=medium",
+                "shortForecast": "Chance Light Rain then Chance Rain Showers",
+                "detailedForecast": "A chance of rain before 11am, then a chance of rain showers between 11am and 5pm. Partly sunny. High near 68, with temperatures falling to around 66 in the afternoon. Southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the day drifts into evening, Downtown San Francisco finds itself cloaked in a gentle quilt of cloudiness, punctuated by the warmth of modest sunbeams that have graced the afternoon. The weather, striving to strike a harmonious balance, sways between a refreshing coolness and the lingering warmth of a late summer day. Wind whispers through the streets at a casual pace, soothing and steady, hinting at the approaching shifts in weather as night beckons. \n\nCurrently, the air carries a hint of anticipation, a promise of possible rain after eight o'clock\u2014a welcome balm to the earth, if only a light one. As the clouds amass and dusk deepens, dress thoughtfully in layers; a light sweater will serve well against the gentle chill, while a compact umbrella may become your quiet companion. With the 40% chance of precipitation looming, an evening stroll through the strung lights of Union Square could offer both intrigue and respite, where the sounds of laughter and conversation dance on the air. Alternatively, a cozy caf\u00e9, its windows steaming from the warmth within, invites you to commune with a cup of something warm, enjoying the layered tapestry of urban life.",
-    "color_code": "#B0C4D2",
-    "timestamp": "2025-09-08 20:14:25"
+    "weather_report": "As twilight descends over Downtown San Francisco, the air carries a hint of moisture, suggesting a night tinged with the potential for a gentle rain. The skies are draped in a mostly cloudy cloak, whispering promises of a low around sixty-two. A light southwest breeze, barely conspicuous, dances through the streets at five to nine miles per hour, while the specter of precipitation hovers at forty percent, implying just a touch of new rain\u2014enough perhaps to dampen a stray passerby\u2019s evening stroll but not enough to deter those seeking comfort in the warm embrace of a favorite caf\u00e9.\n\nLooking ahead to tomorrow, the day promises to unveil a ballet of sun and clouds. Early rain may grace the morning before retreating, making way for the glimmers of afternoon sunshine fighting through the fleeting showers. Highs are expected to flirt with sixty-eight degrees, eventually settling closer to sixty-six as the day wanes, offering a pleasant respite from the usual hustle. A soft wind picks up, reaching up to fourteen miles an hour, adding a refreshing quality to the afternoon air. With such capricious weather on the horizon, dressing in layers becomes essential: light jackets and maybe a sweater to ward off the chill as clouds play around with the sun.\n\nOne might find joy in a leisurely walk along the waterfront, where the air is adorned with the cool hints of the marine layer\u2014a quiet reminder of the ocean\u2019s proximity. Perhaps sipping a cup of brew while people-watching at an outdoor table would provide a satisfying punctuation to the day, as the colors of the city begin to shift with the sunset, despite the ever-present fog weaving through the hills. In this rich atmosphere, the day invites gentle exploration\u2014an ode to a city that thrives on its enigmatic charm.",
+    "color_code": "#4B4E6D",
+    "timestamp": "2025-09-08 21:02:02"
 }
