@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-10T04:43:00+00:00",
-            "temperature_f": 64.742,
-            "temperature_c": 18.19,
-            "humidity": 92.00945334893,
+            "timestamp": "2025-09-10T05:43:00+00:00",
+            "temperature_f": 64.652,
+            "temperature_c": 18.14,
+            "humidity": 89.983580017519,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-09T16:00:00-07:00",
-                "endTime": "2025-09-09T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 26
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 5pm. Partly sunny, with a high near 68. West southwest wind around 14 mph, with gusts as high as 21 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-09-09T18:00:00-07:00",
                 "endTime": "2025-09-10T06:00:00-07:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,40?size=medium",
                 "shortForecast": "Patchy Fog",
                 "detailedForecast": "Patchy fog and a slight chance of rain showers between 11pm and 5am, then a chance of rain showers and patchy fog. Mostly cloudy, with a low around 62. West southwest wind 5 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-09-10T06:00:00-07:00",
+                "endTime": "2025-09-10T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 42
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers and patchy fog before 5pm. Partly sunny. High near 67, with temperatures falling to around 65 in the afternoon. West southwest wind 5 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As evening descends upon Downtown San Francisco, a soft veil of patchy fog makes its presence known, mingling with the fading remnants of daylight. The clouds linger like whispers across the sky, a reminder of the moisture that seeks to envelop the city in the coming hours. Temperatures are settling into a mild embrace, hovering around a cozy 62 degrees. The playful wind, gentle yet insistent, brushes through the streets, carrying with it a hint of the rain that may soon follow, lending the air a tangible anticipation.\n\nTonight's forecast speaks of a chance for rain showers, weaving a narrative of brisk walks through these fog-laden streets, where the ambiguity of the night invites introspection. As you step outside, consider donning a light jacket, perhaps a soft scarf to ward off the chill that the fog brings. A leisurely stroll along the waterfront could be quite enchanting, allowing one to soak in the serene beauty of the city cloaked in evening mystique. Alternatively, finding refuge in a cozy caf\u00e9 with a steaming cup of coffee could provide both warmth and a moment of solace in this cool, atmospheric backdrop. Seek out the quiet corners; in moments like these, the city reveals its more intimate charm.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2025-09-09 23:02:15"
+    "weather_report": "As the night settles over Downtown San Francisco, a blanket of patchy fog drapes softly across the city, whispering the secrets of the bay. The air feels heavy with a hint of moisture, carrying the distinct scent of impending rain that is both fresh and alive. The temperature hovers around a comfortable 62 degrees, while gentle winds from the west southwest rustle through the streets, their soft sighs creating a rhythm within the stillness. A slight chance of rain lingers on the horizon, likely to arrive before dawn, teasing the promise of a rejuvenating shower.\n\nAs dawn breaks, the fog may linger, inviting a chance of rain showers until the afternoon. Clouds will dance above, casting shadows over a city waking slowly to a partly sunny day with highs reaching 67, before settling to a cooler 65 later on. The wind, ever-present, will continue its quiet serenade, stirring the leaves and encouraging early risers to embrace a morning stroll. For comfort, a light jacket is advisable, perhaps layered over a breathable tee; this ensures you're ready for any unexpected drizzles while still enjoying the clarity that will emerge as the sun begins to reveal itself. An early visit to a cozy caf\u00e9, or a leisurely walk along the waterfront, will allow you to experience the unique beauty of the city, where the fog and light weave stories that are both familiar and new.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2025-09-10 00:01:37"
 }
