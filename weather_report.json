@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-10T17:43:00+00:00",
-            "temperature_f": 63.716,
-            "temperature_c": 17.62,
-            "humidity": 92.976418847313,
+            "timestamp": "2025-09-10T18:43:00+00:00",
+            "temperature_f": 68.21600000000001,
+            "temperature_c": 20.12,
+            "humidity": 70.967870825053,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-10T05:00:00-07:00",
-                "endTime": "2025-09-10T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 33
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 62. West southwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-09-10T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-09-10T13:00:00-07:00",
                 "endTime": "2025-09-10T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 68,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 37
                 },
-                "windSpeed": "5 to 14 mph",
+                "windSpeed": "10 to 14 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 5pm. Partly sunny. High near 68, with temperatures falling to around 65 in the afternoon. West southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers before 5pm. Partly sunny. High near 68, with temperatures falling to around 65 in the afternoon. West southwest wind 10 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 40%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-10T18:00:00-07:00",
+                "endTime": "2025-09-11T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 14
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 60. West wind 6 to 13 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "As daylight unfurls over Downtown San Francisco, the skies remain cloaked in a soft shroud of clouds, hinting at an interlude of rain that lingers in the air. The temperature, resting gently around the low sixties, suggests a mild embrace, though the atmosphere carries the possibility of a few scattered showers throughout the day. The west-southwest winds whisper a tale of gentle breezes, adding to the soft murmur of the day. With glimpses of sun asserting themselves intermittently, there is a canvas of evolving weather to behold, where sunny blue spaces encourage the hope of brightness, even as clouds drift lazily by.\n\nThe marine layer persists, especially along the coastline, where fog may secretly embrace the golden towers of the bridge, inviting onlookers to ponder the mysteries hidden by mist. Dressing with layers would be wise; a light jacket alongside breathable attire can offer comfort against the coolness that can creep in as the day progresses. A stroll through neighborhood streets might yield delights of the unexpected; a visit to a tucked-away caf\u00e9 for a warm cup or a moment spent in one of the many quaint parks could provide respite against the uncertainty of precipitation. A good book in hand while sitting beneath a tree, sheltering from any unexpected drops, seems a fitting way to savor the evolving day.",
-    "color_code": "#AFAFAF",
-    "timestamp": "2025-09-10 12:01:24"
+    "weather_report": "In the heart of Downtown San Francisco, the atmosphere is thickening, casting a muted spell over the city. While the afternoon began with a hint of sunshine, the promise of rain has already started to weave into the fabric of the day. One might see patches of blue trying to break through the clouds, but it\u2019s a fleeting hope; the gray blanket overhead looms with a 40% chance of gentle showers before the day's end. The air is cool, teetering around a comfortable 65 degrees, but that may bring a slight chill when the winds pick up to dance between the buildings, whispering at gusts of 21 mph.\n\nTonight, the forecast suggests a continued embrace of clouds with temperatures settling down to around 60 degrees. For those venturing out, a light jacket or sweater may serve well against the enveloping coolness, especially as the breeze intensifies. Evening excursions in this contemplative weather could mean wandering to cozy cafes or perhaps a quiet stroll along the waterfront, where the horizon blurs with the gathering fog\u2014a reminder of San Francisco's ever-present marine layer. In such weather, one might find solace in the simplicity of a good book or conversation, as the world slows beneath the draping sky.",
+    "color_code": "#B0C4D8",
+    "timestamp": "2025-09-10 13:02:01"
 }
