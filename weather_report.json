@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-10T16:43:00+00:00",
-            "temperature_f": 64.382,
-            "temperature_c": 17.99,
-            "humidity": 86.980690254337,
+            "timestamp": "2025-09-10T17:43:00+00:00",
+            "temperature_f": 63.716,
+            "temperature_c": 17.62,
+            "humidity": 92.976418847313,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-09-10T11:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-09-10T05:00:00-07:00",
+                "endTime": "2025-09-10T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 33
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 62. West southwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-09-10T06:00:00-07:00",
                 "endTime": "2025-09-10T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 68,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 37
                 },
-                "windSpeed": "7 to 14 mph",
+                "windSpeed": "5 to 14 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 5pm. Partly sunny. High near 68, with temperatures falling to around 65 in the afternoon. West southwest wind 7 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 40%."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-09-10T18:00:00-07:00",
-                "endTime": "2025-09-11T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 14
-                },
-                "windSpeed": "6 to 13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 60. West wind 6 to 13 mph, with gusts as high as 20 mph."
+                "detailedForecast": "A chance of rain showers before 5pm. Partly sunny. High near 68, with temperatures falling to around 65 in the afternoon. West southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the clock strikes just past eleven, Downtown San Francisco unfolds beneath a vast sky of muted hues, the atmosphere tinged with the promise of brief rain showers. A gentle breeze stirs the air, carrying the coolness that whispers of the marine layer hanging just nearby, lending the day a touch of mystique. With the Golden Gate standing tall in the distance, its usual clarity is obscured, hinting at the subtle fog that gracefully dances along the coast, making today feel slightly more intimate, as if the city holds its breath in anticipation.\n\nLooking toward the afternoon, a retreat from the sun's warmth promises temperatures that will mellow to a comfortable 65. The mix of sun and fleeting clouds invites you to dress in layers: a light sweater or a windbreaker would be prudent for those who venture beyond the confines of home. As raindrops sprinkle lightly before five, activities that might prove enjoyable revolve around cozy pursuits; a leisurely stroll through the artsy haunts of the Mission District or a quiet caf\u00e9 nestled in one of the city\u2019s charming streets could provide the perfect escape from any lingering chill. Engage with the day in ways that embrace its serenity\u2014the world keeps moving, but today offers a gentle reminder to pause and savor the moment amidst San Francisco's unique weather charm.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-09-10 11:02:34"
+    "weather_report": "As daylight unfurls over Downtown San Francisco, the skies remain cloaked in a soft shroud of clouds, hinting at an interlude of rain that lingers in the air. The temperature, resting gently around the low sixties, suggests a mild embrace, though the atmosphere carries the possibility of a few scattered showers throughout the day. The west-southwest winds whisper a tale of gentle breezes, adding to the soft murmur of the day. With glimpses of sun asserting themselves intermittently, there is a canvas of evolving weather to behold, where sunny blue spaces encourage the hope of brightness, even as clouds drift lazily by.\n\nThe marine layer persists, especially along the coastline, where fog may secretly embrace the golden towers of the bridge, inviting onlookers to ponder the mysteries hidden by mist. Dressing with layers would be wise; a light jacket alongside breathable attire can offer comfort against the coolness that can creep in as the day progresses. A stroll through neighborhood streets might yield delights of the unexpected; a visit to a tucked-away caf\u00e9 for a warm cup or a moment spent in one of the many quaint parks could provide respite against the uncertainty of precipitation. A good book in hand while sitting beneath a tree, sheltering from any unexpected drops, seems a fitting way to savor the evolving day.",
+    "color_code": "#AFAFAF",
+    "timestamp": "2025-09-10 12:01:24"
 }
