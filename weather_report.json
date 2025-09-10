@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-10T05:43:00+00:00",
-            "temperature_f": 64.652,
-            "temperature_c": 18.14,
-            "humidity": 89.983580017519,
+            "timestamp": "2025-09-10T07:43:00+00:00",
+            "temperature_f": 63.086,
+            "temperature_c": 17.27,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-09-09T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-09-10T01:00:00-07:00",
                 "endTime": "2025-09-10T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 38
+                    "value": 33
                 },
-                "windSpeed": "5 to 14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,40?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of rain showers between 11pm and 5am, then a chance of rain showers and patchy fog. Mostly cloudy, with a low around 62. West southwest wind 5 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 5am. Mostly cloudy, with a low around 62. Southwest wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-09-10T06:00:00-07:00",
                 "endTime": "2025-09-10T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 67,
+                "temperature": 68,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 42
+                    "value": 37
                 },
                 "windSpeed": "5 to 14 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers and patchy fog before 5pm. Partly sunny. High near 67, with temperatures falling to around 65 in the afternoon. West southwest wind 5 to 14 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers before 5pm. Partly sunny. High near 68, with temperatures falling to around 65 in the afternoon. West southwest wind 5 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night settles over Downtown San Francisco, a blanket of patchy fog drapes softly across the city, whispering the secrets of the bay. The air feels heavy with a hint of moisture, carrying the distinct scent of impending rain that is both fresh and alive. The temperature hovers around a comfortable 62 degrees, while gentle winds from the west southwest rustle through the streets, their soft sighs creating a rhythm within the stillness. A slight chance of rain lingers on the horizon, likely to arrive before dawn, teasing the promise of a rejuvenating shower.\n\nAs dawn breaks, the fog may linger, inviting a chance of rain showers until the afternoon. Clouds will dance above, casting shadows over a city waking slowly to a partly sunny day with highs reaching 67, before settling to a cooler 65 later on. The wind, ever-present, will continue its quiet serenade, stirring the leaves and encouraging early risers to embrace a morning stroll. For comfort, a light jacket is advisable, perhaps layered over a breathable tee; this ensures you're ready for any unexpected drizzles while still enjoying the clarity that will emerge as the sun begins to reveal itself. An early visit to a cozy caf\u00e9, or a leisurely walk along the waterfront, will allow you to experience the unique beauty of the city, where the fog and light weave stories that are both familiar and new.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2025-09-10 00:01:37"
+    "weather_report": "As the city of San Francisco sleeps, a gentle whisper of moisture lingers in the air, suggesting the possibility of rain showers as dawn approaches. The skyline, nestled beneath a mostly cloudy canopy, is wrapped in a low haze, with temperatures hovering around a balmy 62 degrees. A southwest breeze, light yet persistent, carries the scent of the Bay, invigorating the spirit and inviting those who may choose to step outside early to find respite from the day's bustle.\n\nBy mid-morning, the clouds will begin to part slightly, yielding to patches of blue among the gray. The day promises a modest high near 68, shifting to a cooler embrace as afternoon settles in. Yet, the lure of rain still clings \u00e0 la the fog, with a 40% chance bringing the possibility of freshened air and new, translucent beauty to the surroundings. As you navigate your day, a stylish light jacket or cardigan will serve well against the cool breeze\u2014a perfect companion for a leisurely stroll through the streets, perhaps to visit a local caf\u00e9 or the vibrant Treasure Island Flea Market. Enjoy the intricate dance of sun and cloud, and let the whispers of rain awaken your senses to the hidden gems of this beloved city.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-09-10 01:02:23"
 }
