@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-11T13:43:00+00:00",
-            "temperature_f": 61.376,
-            "temperature_c": 16.32,
-            "humidity": 90.956681820272,
+            "timestamp": "2025-09-11T14:43:00+00:00",
+            "temperature_f": 61.718,
+            "temperature_c": 16.51,
+            "humidity": 85.005231679553,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-11T04:00:00-07:00",
-                "endTime": "2025-09-11T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 60. West wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-09-11T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-09-11T09:00:00-07:00",
                 "endTime": "2025-09-11T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 68,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 11
                 },
-                "windSpeed": "2 to 20 mph",
+                "windSpeed": "5 to 20 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 68, with temperatures falling to around 66 in the afternoon. West wind 2 to 20 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly sunny. High near 68, with temperatures falling to around 66 in the afternoon. West wind 5 to 20 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-11T18:00:00-07:00",
+                "endTime": "2025-09-12T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "9 to 18 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 60. West southwest wind 9 to 18 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "The morning unfolds with a gentle embrace from the fog, softening the edges of the city\u2019s skyline as it lingers in the cooler air. The Golden Gate Bridge, cloaked in a delicate veil, winks through the mist, hinting at a day that promises transformation. As the forecast whispers of sunny spells ahead, the clouds dissipate, revealing patches of blue that stretch over an energetic San Francisco. The expected high of 68 carries with it a refreshing breeze that dances from the west, rustling the urban fabric and inviting residents to step outside as the day progresses.\n\nDress lightly but with layers; a breathable shirt paired with a light jacket will serve well against the fluctuating temperatures as afternoon warmth mingles with the briskness of lingering winds. The optimist might find joy in casual strolls along the Embarcadero, where the lively rhythm of the bay calls, or perhaps in a quiet hour spent in an outdoor caf\u00e9, indulging in a warm brew while the sun glimmers off the shimmering waters. As the city awakens from its fog-laden dreams, one can anticipate a delightful balancing act between the memories of a cool night and the promise of warmth that unfolds ahead.",
-    "color_code": "#A2D8D2",
-    "timestamp": "2025-09-11 08:01:39"
+    "weather_report": "As the sun rises over Downtown San Francisco, a gentle warmth begins to suffuse the early hours, promising a pleasant day ahead. The skies are labeled mostly sunny, each golden hue competing with the coolness of a lightly blowing west wind. There exists a clear distinction between the sun-drenched heights and the cooler shadows of the city's contours, with temperatures anticipated to glide from a comfortable high in the upper Sixties toward a gentle decline in the afternoon. Yet, within this tranquility, you might find wisps of marine layer hugging the coastline, adding an ethereal touch to the discerning views of the iconic Golden Gate.\n\nAs twilight approaches, the forecast advises a wrap of warmth, with temperatures dipping to a cozy sixty degrees. A casual layering of light clothing should suit the day well, allowing for the freedom to adapt as the winds pick up again in the evening. The evening might invite dreams of leisurely strolls along the waterfront, perhaps pausing at one of the lively cafes where conversations blend with the soft sounds of the tide. One might also consider a quiet moment in one of the city's lush parks, seeking the serenity of nature amidst the bustling streets. It\u2019s a day where plans can unfold naturally, be it a simple coffee run or an exploration of hidden alleyways, with the lean of autumn whispering through the air.",
+    "color_code": "#D7E8E1",
+    "timestamp": "2025-09-11 09:01:43"
 }
