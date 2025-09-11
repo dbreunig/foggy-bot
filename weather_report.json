@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-11T00:43:00+00:00",
-            "temperature_f": 63.914,
-            "temperature_c": 17.73,
-            "humidity": 78.995428751128,
+            "timestamp": "2025-09-11T01:43:00+00:00",
+            "temperature_f": 63.968,
+            "temperature_c": 17.76,
+            "humidity": 76.975299998829,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-10T17:00:00-07:00",
-                "endTime": "2025-09-10T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 11
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 68, with temperatures falling to around 66 in the afternoon. West southwest wind around 14 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-10T18:00:00-07:00",
+                "startTime": "2025-09-10T19:00:00-07:00",
                 "endTime": "2025-09-11T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 60,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 11
                 },
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 60. West wind 7 to 13 mph, with gusts as high as 18 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 60. West wind 7 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-09-11T06:00:00-07:00",
+                "endTime": "2025-09-11T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 14
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 67. West southwest wind 5 to 14 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the late afternoon unfurls under a mostly sunny sky, though hints of a marine layer linger at the edges of the city. The forecast promises a high nearing 68 degrees, with a gentle breeze from the west-southwest that carries with it the coolness of the Bay, gusting at times to 21 mph. While the sun casts a warm glow, the temperatures subtly shift to around 66 as soft clouds begin to gather above, perhaps ushering in a touch of the evening mist that the region is known for.\n\nAs the day eases into evening, the clouds will deepen, inviting a more muted palette to the twilight. With a low near 60 degrees and winds that soften to a more tranquil 7 to 13 mph, the impending coolness suggests layered clothing\u2014a light sweater or jacket would be wise as you navigate the streets or the myriad small eateries that tempt the senses in this urban tapestry. This evening is ripe for a leisurely exploration of nearby cafes or a stroll past the waterfront, where the interplay of dimming light and water creates a serene backdrop. Engage in conversation with a friend or lose yourself in a book, letting the subtle energy of the city weave around you like a soft shawl.",
-    "color_code": "#A9B5CA",
-    "timestamp": "2025-09-10 18:29:03"
+    "weather_report": "As night settles in over Downtown San Francisco, a curtain of thick, mostly cloudy skies blankets the city, casting a gentle gloom that softens the sharp edges of the skyline. With temperatures dipping to a mild 60 degrees, the air bears a hint of the ocean\u2019s coolness, lifted by a light west wind. This wind, soft yet unyielding at 7 to 10 mph, stirs the low-lying fog that lazily drapes across the iconic Golden Gate Bridge, giving it an ethereal quality, a sight that invites both contemplation and nostalgia.\n\nLooking ahead to tomorrow, the veil of clouds will lift slightly as the sun makes its appearance, albeit shyly, through intermittent patches. Expect a day of partial sunshine with temperatures gracefully hovering near 67 degrees. The west-southwest wind will pick up a dance, whispering through the city streets with gusts potentially reaching up to 21 mph. It\u2019s a day that beckons for light layers \u2014 a comfortable jacket to ward off the evening chill, perhaps paired with a scarf caught in the adventure of the wind. \n\nGiven the tranquility of the evening and the promise of brighter moments tomorrow, these conditions provide a perfect backdrop for a quiet walk along the waterfront or a leisurely exploration of the city\u2019s hidden neighborhoods. A local caf\u00e9 could be the ideal stop, where a warm drink in hand might evoke a sense of cozy familiarity as you watch the world pass by. Embrace the beauty of a fog-kissed evening as you find solace in the calm pulse of San Francisco's rhythm.",
+    "color_code": "#A9B2C0",
+    "timestamp": "2025-09-10 19:27:03"
 }
