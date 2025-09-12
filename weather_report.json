@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-12T02:43:00+00:00",
-            "temperature_f": 62.492000000000004,
-            "temperature_c": 16.94,
-            "humidity": 81.968306226322,
+            "timestamp": "2025-09-12T03:43:00+00:00",
+            "temperature_f": 61.898,
+            "temperature_c": 16.61,
+            "humidity": 84.960850241946,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-11T14:00:00-07:00",
-                "endTime": "2025-09-11T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 9
-                },
-                "windSpeed": "14 to 17 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 68. West wind 14 to 17 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-11T18:00:00-07:00",
+                "startTime": "2025-09-11T19:00:00-07:00",
                 "endTime": "2025-09-12T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "8 to 16 mph",
+                "windSpeed": "8 to 14 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 59. West southwest wind 8 to 16 mph, with gusts as high as 21 mph."
+                "detailedForecast": "Mostly clear, with a low around 59. West southwest wind 8 to 14 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-09-12T06:00:00-07:00",
+                "endTime": "2025-09-12T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "7 to 21 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 68. West southwest wind 7 to 21 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon wanes in Downtown San Francisco, the sun graces the sky with a warm optimism, casting a gentle light over the iconic landscape. Visibility is crystal clear, revealing the majestic outline of the Golden Gate Bridge and the urban tapestry sprawled below. With a delightful high around 68 degrees, the day is inviting, yet a brisk west wind whispers through the streets, lending an invigorating chill that reminds us of the ocean\u2019s embrace. \n\nAs night falls and the temperatures settle around a cozy 59 degrees, a handful of stars may begin to peek through the deepening sky\u2014a comforting sign of clear weather following today's sunny soiree. With the gentle caress of the winds continuing, wearing layers is recommended; a light jacket or a sweater will balance perfectly with the evening's mildness. Those seeking solace outdoors might enjoy a leisurely evening stroll along Embarcadero, where the shimmering reflections on the bay beckon a moment of quiet contemplation. Alternatively, settling in for a book at a cozy caf\u00e9 could be an equally satisfying way to relish the quiet beauty of San Francisco as the city transitions into night.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-09-11 20:09:22"
+    "weather_report": "As twilight envelops Downtown San Francisco, the evening air feels weighty yet refreshing, brushing against the skin with a gentle coolness that whispers of the maritime embrace nearby. Tonight, the sky unfolds in a mostly clear panorama, save for hints of the lingering marine layer tracing the skyline, evoking a tranquil allure against the city lights. The west-southwest breeze carries a playful whisper, dancing softly between 8 to 14 mph, a fitting prelude to the crispness of the evening that settles around 59 degrees.\n\nTomorrow promises to dawn brightly, with a forecast of mostly sunny skies and a high reaching into the comfortable embrace of 68 degrees. Expect the winds to pick up, swaying through the streets at 7 to 21 mph, with occasional gusts that could surprise those not prepared for the playful breath of autumn days on the horizon. Layering is wise this evening; a light sweater or jacket will suit the unpredictable whims of the wind and chill of the night. An afternoon stroll through the parks or a leisurely visit to a local caf\u00e9, perhaps moving leisurely along the waterfront, is a perfect way to soak in the sun while the inviting summer glow still lingers. If adventure calls, consider a nighttime exploration of the city\u2019s illuminated streets, where the vibrance of urban life remains alive. How delightful the night beckons, a reminder that every corner of the city tells its own story, waiting to be discovered anew.",
+    "color_code": "#A1C8E8",
+    "timestamp": "2025-09-11 21:02:06"
 }
