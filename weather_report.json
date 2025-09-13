@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-13T02:43:00+00:00",
-            "temperature_f": 60.29600000000001,
-            "temperature_c": 15.72,
-            "humidity": 85.978886562881,
+            "timestamp": "2025-09-13T04:43:00+00:00",
+            "temperature_f": 60.35,
+            "temperature_c": 15.75,
+            "humidity": 85.981911584636,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-12T16:00:00-07:00",
-                "endTime": "2025-09-12T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 69, with temperatures falling to around 67 in the afternoon. West wind around 18 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-12T18:00:00-07:00",
+                "startTime": "2025-09-12T22:00:00-07:00",
                 "endTime": "2025-09-13T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "9 to 18 mph",
+                "windSpeed": "9 to 13 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain after 11pm. Mostly clear, with a low around 59. West southwest wind 9 to 18 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle after 11pm. Partly cloudy, with a low around 59. West southwest wind 9 to 13 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-09-13T06:00:00-07:00",
+                "endTime": "2025-09-13T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "8 to 20 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Patchy Drizzle then Mostly Sunny",
+                "detailedForecast": "Patchy drizzle before 11am. Mostly sunny, with a high near 67. West southwest wind 8 to 20 mph, with gusts as high as 24 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "Downtown San Francisco greets you with a gentle warmth as the afternoon sun bathes the city in a golden embrace. The air vibrates with clarity, a refreshing reprieve from the fog that often wraps its arms around these streets. With a high hovering around 69 degrees, it\u2019s a day that invites wandering; the breeze, a spirited companion at around 18 mph, carries whispers of salt from the nearby shore and a promise of a perfect early evening. While clouds may play coy later by introducing a modest chance of rain, tonight\u2019s sky remains largely clear, perfect for a contemplative stroll. \n\nAs dusk draws near, you may want to layer up\u2014perhaps a light jacket or cardigan to keep the evening chill at bay, especially with the winds picking up and temperatures dipping to the comfortable realm of 59 degrees. The remnants of sunlight dance against the architectural silhouettes of the city, making it ideal for leisurely pursuits; pop into a nearby caf\u00e9 for a calming cup of tea, or meander through the waterfront, watching the boats sway gently against the rolling waves. Now is the time for quiet explorations and shared moments, as the dynamic city transforms under the soft glow of streetlights, waiting for the night to unfold its secrets.",
-    "color_code": "#FFE4B5",
-    "timestamp": "2025-09-12 21:02:07"
+    "weather_report": "As twilight deepens over Downtown San Francisco, a light mist begins to unfurl its subtle tendrils through the city streets, whispering promises of an overnight drizzle. The temperatures hover gently around 59 degrees, with a cool west-southwest wind brushing past, a reminder of the city\u2019s maritime charms. Those venturing out tonight may appreciate a light jacket or sweater, perhaps complemented by an umbrella stowed just in case.\n\nAs dawn approaches on Saturday, the promise of another day emerges, marked by patches of early drizzle giving way to a soft embrace of sunshine. With temperatures set to rise near 67 degrees, and a brisk wind carrying scents from the bay, one might find delight in a leisurely walk along the waterfront or a caf\u00e9 visit, where the buzz of conversation mingles with the aroma of freshly brewed coffee. The day holds the allure of exploration under partly cloudy skies, perfect for wandering the trails of Golden Gate Park or soaking in the sights from one of the city\u2019s many viewpoints, as a hint of marine layer dances along the edges of the horizon.",
+    "color_code": "#A8C8D4",
+    "timestamp": "2025-09-12 22:02:00"
 }
