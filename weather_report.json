@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-14T06:43:00+00:00",
-            "temperature_f": 60.926,
-            "temperature_c": 16.07,
-            "humidity": 87.02522477773,
+            "timestamp": "2025-09-14T07:43:00+00:00",
+            "temperature_f": 60.836,
+            "temperature_c": 16.02,
+            "humidity": 88.959632556093,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-13T15:00:00-07:00",
-                "endTime": "2025-09-13T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 68. West wind around 20 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-09-13T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-09-14T01:00:00-07:00",
                 "endTime": "2025-09-14T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 60,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "12 to 18 mph",
+                "windSpeed": "14 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly clear, with a low around 60. West wind 12 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle. Mostly clear, with a low around 60. West wind around 14 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-09-14T06:00:00-07:00",
+                "endTime": "2025-09-14T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 72,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "10 to 17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/few?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Sunny. High near 72, with temperatures falling to around 70 in the afternoon. West southwest wind 10 to 17 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As you step into the gentle embrace of Downtown San Francisco this afternoon, the sun radiates warmth, its light creating a shimmer across the cityscape. The temperature settles comfortably around 68 degrees, a delightful reprieve from the chill that often accompanies coastal living. A brisk west wind, weaving around the buildings, carries a refreshing coolness, with its gusts adding a sense of vigor to the day. The sky is a brilliant canvas of blue, devoid of clouds, inviting you to unfold plans that call for an adventure.\n\nAs twilight approaches, the mood softens, and a slight chance of drizzle lingers in the air after 11 PM, hinting at an evening that may cool down to the low 60s. Underneath the clear starlit sky, the winds\u2019 caress shifts to a milder touch, whispering gently as they cool down. The low chance of precipitation means that while the air feels fresh and crisp, the likelihood of being caught in a sudden downpour remains slim. This creates an ambiance perfect for a stroll through the local parks or perhaps an after-dinner walk along the waterfront, where the sight of the city shining against the darkening sky offers a moment of tranquil contemplation.\n\nFor those venturing out, layers are key; a light sweater or jacket will suffice against the evening's chill. Loose, comfortable attire will serve well, ensuring you can fully enjoy whatever small pleasures the day has to offer, from savoring a freshly brewed coffee to losing yourself in the pages of a book at a nearby caf\u00e9. Amidst this blend of warmth and coolness, the city feels alive, urging you to savor the simple moments, creating memories beneath the San Francisco sun.",
-    "color_code": "#A5C3D1",
-    "timestamp": "2025-09-14 01:02:14"
+    "weather_report": "As dawn softly approaches Downtown San Francisco, the air carries a hint of the night\u2019s gentle drizzle\u2014a whisper of moisture hanging around as the world begins to stir. The skies remain mostly clear, with the low temperature embracing the 60s, while a mild west wind brushes against the skin, stirring the leaves of the trees like an early morning melody. Today promises a delightful transition from the cool embrace of the morning to the vibrant warmth of a sunlit afternoon, where temperatures will rise to a comfortable 72 degrees before settling back to the low 70s. The forecast hints at a slight chance of drizzle, but either way, the day is poised for sun-drenched expanses under a blue canopy.\n\nAs for fog, it seems to linger just beyond the horizons, delicately parting ways to reveal glimpses of the Golden Gate, inviting a stroll along the waterfront or perhaps a leisurely coffee in one of the local cafes. The air is effortlessly refreshing, suggesting layers to navigate the shifting temperatures\u2014perhaps a light jacket for the morning and a simple tee for the day ahead. It is the kind of day that encourages exploration: a walk through the Presidio, a visit to the bustling Ferry Building Market, or simply a quiet moment at a park, soaking in the sights and sounds unique to San Francisco, where every corner tells a story.",
+    "color_code": "#A1C6EA",
+    "timestamp": "2025-09-14 02:02:02"
 }
