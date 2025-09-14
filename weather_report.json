@@ -7,9 +7,9 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-14T13:43:00+00:00",
-            "temperature_f": 59.99,
-            "temperature_c": 15.55,
+            "timestamp": "2025-09-14T14:43:00+00:00",
+            "temperature_f": 60.728,
+            "temperature_c": 15.96,
             "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-14T01:00:00-07:00",
-                "endTime": "2025-09-14T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle. Mostly clear, with a low around 60. West wind around 14 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-09-14T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-09-14T09:00:00-07:00",
                 "endTime": "2025-09-14T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 72,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 15
+                    "value": 0
                 },
                 "windSpeed": "10 to 17 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/few?size=medium",
-                "shortForecast": "Slight Chance Drizzle then Sunny",
-                "detailedForecast": "A slight chance of drizzle before 11am. Sunny. High near 72, with temperatures falling to around 70 in the afternoon. West southwest wind 10 to 17 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/fog/skc?size=medium",
+                "shortForecast": "Patchy Fog then Sunny",
+                "detailedForecast": "Patchy fog before 11am. Sunny. High near 72, with temperatures falling to around 70 in the afternoon. West southwest wind 10 to 17 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-14T18:00:00-07:00",
+                "endTime": "2025-09-15T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 to 16 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 59. West southwest wind 5 to 16 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Downtown San Francisco, the air is tempered with a gentle breeze, the remnants of night still lingering as a slight chance of drizzle passes. The sky is mostly clear, inviting the sun to crest over the horizon and warm the city, reaching a high of around 72 later in the day. Currently, a west wind stirs at about 14 mph, nudging any remaining clouds further inland but leaving the vista illuminated and sharp. Fog, a whisper of the marine layer, dances at the edges of the bay, hinting at the coastal coolness but staying at bay for now.\n\nAs the day unfurls, expect the warmth to settle in comfortably\u2014ideal for an afternoon jaunt through the streets. Consider layers: a light sweater to toss over your shoulders as the sun dips towards evening, complemented by a breathable shirt underneath. The city is beckoning for exploration, whether taking leisurely strolls to your favorite caf\u00e9 or visiting the local art galleries that remain a testament to the culture flowing through the streets. For those wanting to embrace the day, a walk through Golden Gate Park or a quiet moment at your go-to pastry shop seems fitting as a sun-drenched afternoon materializes.",
-    "color_code": "#A0C4FF",
-    "timestamp": "2025-09-14 08:01:20"
+    "weather_report": "As the clock unveils another day in Downtown San Francisco, the morning greets us with the remnants of patchy fog, a gentle reminder of the city\u2019s maritime embrace. The sun, climbing steadily, begins to reclaim its domain, casting golden rays that promise a high near 72, before an afternoon coolness descends to a more temperate 70, pleasantly cradled by the West Southwest winds, which hum softly between 10 to 17 mph. The world outside holds the sparkle of clarity; yet, if one glances toward the Bay, tendrils of fog remain, shrouding the distant outlines of the Golden Gate. \n\nTonight, the skies will unveil their stars in the midst of a nocturnal calm, with temperatures gently falling to around 59. A light jacket or a snug sweater would harmonize beautifully with the mild evening air, perfect for an idyllic stroll along the Embarcadero or an intimate gathering at a local caf\u00e9, where the warmth of shared stories mingles with the cooler breeze. The day unfolds beautifully\u2014an ideal canvas for leisurely pursuits, be it exploring the charm of hidden alleys or savoring the vibrant energy at the Ferry Building. Embrace this splendid day, where the fog hints at the ocean's presence while the sun beckons you to cherish every sunlit moment.",
+    "color_code": "#B3C2D2",
+    "timestamp": "2025-09-14 09:01:57"
 }
