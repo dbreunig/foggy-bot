@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-14T00:43:00+00:00",
-            "temperature_f": 62.852,
-            "temperature_c": 17.14,
-            "humidity": 74.991056855825,
+            "timestamp": "2025-09-14T01:43:00+00:00",
+            "temperature_f": 61.268,
+            "temperature_c": 16.26,
+            "humidity": 79.978299820068,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-13T14:00:00-07:00",
-                "endTime": "2025-09-13T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 68. West southwest wind around 20 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-13T18:00:00-07:00",
+                "startTime": "2025-09-13T19:00:00-07:00",
                 "endTime": "2025-09-14T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 60,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "12 to 18 mph",
+                "windSpeed": "12 to 17 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Slight Chance Drizzle",
-                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly clear, with a low around 60. West wind 12 to 18 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of drizzle after 11pm. Mostly clear, with a low around 60. West wind 12 to 17 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-09-14T06:00:00-07:00",
+                "endTime": "2025-09-14T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 72,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "10 to 17 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/few?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Sunny",
+                "detailedForecast": "A slight chance of drizzle before 11am. Sunny. High near 72, with temperatures falling to around 70 in the afternoon. West southwest wind 10 to 17 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dusk approaches in Downtown San Francisco, the city lays itself out like a canvas, kissed by sun and softened by the cool sway of marine air. Today\u2019s weather paints a pleasant picture, revealing clear skies punctuated by a serene brightness as daylight gently bows out. Temperatures are holding steady, wrapped in an embrace of mildness around the mid-sixties. A flirtation with breezy gusts brushes past at about 20 mph, adding a lively touch to the already vibrant atmosphere.\n\nEvening brings a whisper of possibility with a slight chance of drizzle after the clock strikes eleven. It seems fitting to savor the lingering daylight, either by unwinding on one of the city\u2019s many scenic terraces or enjoying the urban hum of a cozy caf\u00e9. As you contemplate your attire for this balmy end to the afternoon, perhaps a light sweater or jacket would best complement the gentle winds, shielding you against the potential chill of nightfall. There are whispers of twilight adventures\u2014how about a leisurely stroll along the waterfront? Each step could reveal the city\u2019s elegant silhouette against the backdrop of a darkening sky, punctuated by the twinkling of lights.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-09-13 18:29:08"
+    "weather_report": "As the sun sinks beneath the horizon, its farewell casts a soft glow over Downtown San Francisco, setting the stage for a night filled with quiet anticipation. The promise of a slight drizzle lingers, a mere whisper of moisture that is likely to float in after 11 PM. With a balmy low around 60 degrees, the cool evening air is complemented by a west wind that dances through the streets at a brisk pace, reminding everyone just how vibrant an autumn evening can be.\n\nTomorrow heralds a gentle warmth, with the day unfurling into clear skies. Although the possibility of early morning drizzle exists, the sun is set to illuminate the city, warming it up to near 72 degrees, before the afternoon beckons cooler breaths of air. It will be a day of alternating warmth and cool, urging one to dress in layers\u2014a light sweater over a t-shirt, perfect for navigating the city's shifting temperatures. The serene clarity of the day invites a walk through Golden Gate Park, perhaps a leisurely sit at a caf\u00e9 in the Mission, sipping coffee while observing the simple ebb and flow of everyday life. The marine layer may blankedly roll in, creating ethereal moments of contemplation where fog hugs the coastline. \n\nSo prepare for lovely ventures outdoors, but don\u2019t forget that slight chill in the air. The evening's glimmer promises a fascinating transition into the day ahead, full of possibilities.",
+    "color_code": "#A7C7D9",
+    "timestamp": "2025-09-13 19:28:22"
 }
