@@ -10,7 +10,7 @@
             "timestamp": "2025-09-15T12:43:00+00:00",
             "temperature_f": 59.378,
             "temperature_c": 15.21,
-            "humidity": null,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-15T05:00:00-07:00",
-                "endTime": "2025-09-15T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle. Partly cloudy, with a low around 59. South southwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-09-15T06:00:00-07:00",
+                "name": "Today",
+                "startTime": "2025-09-15T07:00:00-07:00",
                 "endTime": "2025-09-15T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 78,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain/few?size=medium",
                 "shortForecast": "Patchy Drizzle then Sunny",
                 "detailedForecast": "Patchy drizzle before 10am. Sunny. High near 78, with temperatures falling to around 73 in the afternoon. Southwest wind 2 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-15T18:00:00-07:00",
+                "endTime": "2025-09-16T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "1 to 10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 59. West southwest wind 1 to 10 mph."
             }
         ]
     },
-    "weather_report": "The morning in Downtown San Francisco awakens with a gentle embrace of patchy drizzle, hinting at the remnants of a night filled with whispers of clouds. As the city comes to life, the air carries a refreshing coolness, a welcome respite for those venturing outside, with temperatures hovering around a serene 59 degrees. The early sun stretches across the skyline, promising a transformation; the day will warm to a comfortable 78, before gracefully settling back to 73 in the afternoon. Winds, soft and unhurried from the south southwest, weave through the streets, inviting a relaxed exploration of the city's enchanting corners.\n\nWhile the forecast hints at sunny skies emerging post-mist, the lingering vestiges of fog linger close, draping the outer edges of the Golden Gate Bridge and teasing the hills. The marine layer will dance in and out throughout the morning, but by midday, clarity will grace the day, making the view from Twin Peaks or a stroll along the Embarcadero especially inviting. Consider dressing in layers\u2014perhaps a light cardigan or a jacket to counter the morning cool and a comfortable tee to enjoy the warmth of the midday sun. As the city unfolds with life, why not explore the vibrant threads of the local farmers' market or find a cozy caf\u00e9 to savor a quiet cup of coffee while watching the rhythm of the neighborhood? Nature and city bustle beckon hand-in-hand, creating a day worth savoring in this beloved coastal haven.",
-    "color_code": "#A6B7B2",
-    "timestamp": "2025-09-15 06:08:53"
+    "weather_report": "Good morning, San Francisco. As the day begins, the city is waking under a softly shifting sky, where patchy drizzle has played its part, giving way to the promise of sun. The high today approaches a comfortable 78, though expect temperatures to temper themselves to a gentle 73 as afternoon shifts into evening. A sweet, mild breeze whispers through the city, each gust caressing the skin, a subtle reminder of summer's lingering warmth. \n\nLooking toward the Golden Gate, a thin layer of fog may cling to the horizon, the marine layer still flirting with the edges of visibility, softly veiling the grandeur of the landscape while hints of clarity break through. As the sun makes its ascent, the cityscape below is infused with a radiance that encourages exploration. A light cardigan or a breezy button-up will suffice for the day and evening, offering just enough comfort in the cooler moments. For those seeking a slice of tranquility, perhaps a stroll along the waterfront or a visit to one of the many outdoor caf\u00e9s should suffice, allowing you to bask in the gentle transition of the day, observing life as it unfolds.",
+    "color_code": "#FFD700",
+    "timestamp": "2025-09-15 07:01:42"
 }
