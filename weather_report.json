@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-15T13:43:00+00:00",
-            "temperature_f": 59.414,
-            "temperature_c": 15.23,
-            "humidity": 100,
+            "timestamp": "2025-09-15T15:43:00+00:00",
+            "temperature_f": 61.376,
+            "temperature_c": 16.32,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,27 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-09-15T08:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-09-15T05:00:00-07:00",
+                "endTime": "2025-09-15T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle. Partly cloudy, with a low around 59. South southwest wind around 2 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-09-15T06:00:00-07:00",
                 "endTime": "2025-09-15T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 78,
@@ -30,33 +49,14 @@
                     "value": 0
                 },
                 "windSpeed": "2 to 10 mph",
-                "windDirection": "WSW",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain/few?size=medium",
                 "shortForecast": "Patchy Drizzle then Sunny",
-                "detailedForecast": "Patchy drizzle before 10am. Sunny. High near 78, with temperatures falling to around 73 in the afternoon. West southwest wind 2 to 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-09-15T18:00:00-07:00",
-                "endTime": "2025-09-16T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "1 to 10 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 59. West southwest wind 1 to 10 mph."
+                "detailedForecast": "Patchy drizzle before 10am. Sunny. High near 78, with temperatures falling to around 73 in the afternoon. Southwest wind 2 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the morning sun begins to assert its gentle warmth over Downtown San Francisco, remnants of last night\u2019s drizzle linger in the air, giving way to a promising day. The sky unfolds in vibrant blues, casting a bright light across the iconic cityscape, while the light west-southwest breeze whispers through the streets. With temperatures expected to peak near 78 degrees, the warmth is a welcome invitation to step outside as the day progresses, although it will ease into a comfortable afternoon, cooling slightly to about 73. \n\nWhile the early haze from the marine layer has receded, leaving the Golden Gate Bridge and city skyline sharply outlined against the azure backdrop, a few feathery clouds may play coy in the distance. This day feels remarkably agreeable, a perfect canvas for casual outings\u2014perhaps a leisurely stroll along the Embarcadero or a visit to one of the many local cafes, where one might savor a fresh brew while watching the world pass by. Dressing in layers will ensure comfort throughout the day; a light jacket or sweater could provide a perfect balance as the sun begins to set and temperatures dip towards a quiet 59 tonight.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-09-15 08:01:33"
+    "weather_report": "As dawn unfolds over Downtown San Francisco, a gentle drizzle etches the morning air, the remnants of the night lingering like soft whispers. The low clouds, a veil of gray, hang just above the rooftops, slowly giving way to patches of blue as the sun begins its ascent. It is a mild morning, with temperatures wrapped in the comfort of mid-fifties, inviting a light layer for those venturing into the world. \n\nAs the hours stretch toward noon, a promise of serenity lies ahead; the clouds shall retreat, revealing a sunny disposition that will warm the city to a pleasant embrace of nearly seventy-eight degrees. Mild winds will waltz through the streets, and the marine layer, prevalent during the morning, will surrender to clearer skies, offering glimpses of iconic landmarks that proudly rise above the fog. With the peak of the day approaching, light clothing will suffice, complemented perhaps by a light jacket for those early afternoon breezes. \n\nThe charm of this transforming atmosphere beckons one to embrace a simple day in the city\u2014taking a leisurely stroll along the Embarcadero while savoring a artisanal coffee or indulging in a quiet moment in one of the city's intimate parks, where a novel might accompany one\u2019s thoughts under the sunshine. The day feels like a gentle hand resting on the shoulder, whispering possibilities of exploration within the marvels of San Francisco.",
+    "color_code": "#A5C8E6",
+    "timestamp": "2025-09-15 09:01:34"
 }
