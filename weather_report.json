@@ -10,7 +10,7 @@
             "timestamp": "2025-09-15T05:43:00+00:00",
             "temperature_f": 59.053999999999995,
             "temperature_c": 15.03,
-            "humidity": null,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-09-14T21:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-09-15T00:00:00-07:00",
                 "endTime": "2025-09-15T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 to 14 mph",
+                "windSpeed": "5 to 9 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 59. Southwest wind 5 to 14 mph."
+                "detailedForecast": "Partly cloudy, with a low around 59. Southwest wind 5 to 9 mph."
             },
             {
                 "number": 2,
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "weather_report": "As darkness wraps around Downtown San Francisco, a veil of partial cloudiness softly blankets the evening sky, hinting at the coolness that settles in with a low of about 59 degrees. The gentle southwest breeze stirs just enough to give life to the air, a refreshment against the hint of humidity. The night holds its own quiet charm, with a calmness perfect for strolls through the illuminated streets or simple moments spent within cozy caf\u00e9s, perhaps enjoying a warm beverage while the world drifts into slumber.\n\nTomorrow promises a brighter disposition, with the sun preparing to rise and shine forth with a warm greeting. A high near 77 degrees is anticipated, as the sun will chase away any lingering wisps of fog that often grace the bay. You might find the warmth quite welcome, wrapping yourself in a light jacket for the morning chill, then shedding layers as the day blooms into its full glory. The city beckons with possibilities: a walk along the Embarcadero, an adventure into the vibrant Mission district, or perhaps a leisurely afternoon spent at one of the parks, soaking in the rays. The clarity of the coming day promises to enliven spirits; an invitation to embrace the urban tapestry of life in this beautiful city.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-09-14 23:02:22"
+    "weather_report": "In the calm hush of early morning, Downtown San Francisco emerges from its slumber, offering a gentle introduction to the day ahead. The air, woven with a mild warmth, hovers around a comfortable 59 degrees, a pleasant prelude before the sun ascends to herald a luminous Monday. The sky, partially cloaked in wisps of cloud, hints at the brilliance of sunlight yet to unfold, while the soft southwest winds dance playfully through the city, enhancing the serene atmosphere without disturbance.\n\nAs the day evolves, the forecast promises abundant sunshine, with temperatures gradually climbing to a lofty 77 degrees before settling into a softer warmth of about 74, inviting residents to step outside and embrace the vibrancy of their surroundings. It seems that the fog, that elusive mistress of the bay, will remain at bay for now, allowing for a clear and splendid view towards the Golden Gate and beyond. Such luminous conditions present the perfect backdrop for a leisurely stroll along the waterfront or a tranquil moment savored in one of the city\u2019s quiet parks. For those considering attire, layers will serve well; a light shirt paired with a cozy sweater will layer both comfort and style, adapting easily to the morning's chill and the afternoon's warmth. Perhaps a visit to a local caf\u00e9 for a warm drink, followed by a leisurely exploration of the neighborhood's charming streets, would be an ideal way to absorb the day's special offerings.",
+    "color_code": "#FFDD44",
+    "timestamp": "2025-09-15 00:02:16"
 }
