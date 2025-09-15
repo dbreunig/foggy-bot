@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-15T18:43:00+00:00",
-            "temperature_f": 74.55199999999999,
-            "temperature_c": 23.64,
-            "humidity": 54.962356903507,
+            "timestamp": "2025-09-15T19:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-15T05:00:00-07:00",
-                "endTime": "2025-09-15T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle. Partly cloudy, with a low around 59. South southwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-09-15T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-09-15T14:00:00-07:00",
                 "endTime": "2025-09-15T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 78,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "2 to 10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain/few?size=medium",
-                "shortForecast": "Patchy Drizzle then Sunny",
-                "detailedForecast": "Patchy drizzle before 10am. Sunny. High near 78, with temperatures falling to around 73 in the afternoon. Southwest wind 2 to 10 mph."
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 78, with temperatures falling to around 73 in the afternoon. West wind 7 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-15T18:00:00-07:00",
+                "endTime": "2025-09-16T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "1 to 10 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 59. West southwest wind 1 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the day unfolds with a gentle charm, as morning drizzle has given way to a sunlit afternoon. While the lingering clouds and moisture from overnight are slowly retreating, the air carries a pleasant warmth with temperatures inching upward, nearing a welcoming 78 degrees. The sky, a canvas of soft blue with the sun beaming down, invites even the most reluctant to step outside and breathe in the fresh, crisp air. The famous fog of the Bay Area tries to frame the Golden Gate but remains a distant memory today, leaving clear views across the waters.\n\nAs the afternoon progresses, the breeze whispers softly through the streets, a reminder of the southwest winds nudging gently at 2 to 10 mph. There\u2019s an easy feel in the atmosphere, perfect for a leisurely stroll along the Embarcadero or a quiet sit in one of the city's many parks. Dressing in layers would be wise, as the earlier chill may still linger in shaded spots, but a light jacket will easily suffice as the sun does its warm work. Adventure could call for a visit to a local caf\u00e9, the perfect backdrop for people-watching as life in this vibrant city unfolds around you. Embrace the day, and let it lead you toward quiet exploration or simple joys.",
-    "color_code": "#A6C1D0",
-    "timestamp": "2025-09-15 13:01:32"
+    "weather_report": "This afternoon in Downtown San Francisco, the sun bathes the landscape in a warm glow, a pleasant embrace that invites you outside. With temperatures cresting around 78 degrees, the air feels comfortably invigorating, dropping gently to about 73 as the day wanes into evening. A light westerly breeze adds a touch of refreshing coolness, softly stirring the leaves and encouraging a casual stroll. The skies above are a canvas of blue, a clear expanse that stretches towards the horizon, revealing the iconic outlines of city and bay without the usual chill of foggy tendrils lurking nearby. \n\nAs evening approaches, expect mostly clear conditions, with temperatures settling into the welcoming embrace of 59 degrees. This transition offers a perfect opportunity for gatherings, perhaps at a local caf\u00e9 or an unhurried walk along the waterfront, where the shimmering waters reflect the fading light of day. Dressed in light layers\u2014a simple shirt paired with a light jacket or sweater\u2014one can easily navigate this idyllic setting as the day unfolds. The weather beckons you outdoors, inviting indulging in the tranquility of a late afternoon in the city, while the serenity of tonight promises a cozy retreat.",
+    "color_code": "#A8C3D4",
+    "timestamp": "2025-09-15 14:01:24"
 }
