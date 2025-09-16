@@ -10,7 +10,7 @@
             "timestamp": "2025-09-16T02:43:00+00:00",
             "temperature_f": 71.87,
             "temperature_c": 22.15,
-            "humidity": 54.229140820497,
+            "humidity": 53.945146201164,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-15T14:00:00-07:00",
-                "endTime": "2025-09-15T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 78,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 to 10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 78, with temperatures falling to around 73 in the afternoon. West wind 7 to 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-15T18:00:00-07:00",
+                "startTime": "2025-09-15T20:00:00-07:00",
                 "endTime": "2025-09-16T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "1 to 10 mph",
+                "windSpeed": "1 to 5 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 59. West southwest wind 1 to 10 mph."
+                "detailedForecast": "Mostly clear, with a low around 59. West southwest wind 1 to 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-09-16T06:00:00-07:00",
+                "endTime": "2025-09-16T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 78,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "1 to 12 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 78, with temperatures falling to around 72 in the afternoon. West southwest wind 1 to 12 mph."
             }
         ]
     },
-    "weather_report": "As the sun drapes its warm embrace across Downtown San Francisco, the city basks in an afternoon of clear, radiant skies, where the vibrancy of life can be felt in every corner. A gentle breeze whispers through the streets, brushing against the skin, while the temperature flirts with the low seventies, luring residents outdoors. The skyline stands proud and undraped, free from the familiar fog that often weaves its way through the city's iconic landmarks, like the Golden Gate Bridge, which glimmers with clarity against the azure backdrop. \n\nAs daylight slowly yields to evening, the air cools to a mild embrace, slipping into the low fifties\u2014perfect for a stroll along the waterfront, where the enticing scent of saltwater mingles with the remnants of the day's energy. As twilight unfolds, the city transforms into a canvas of lights, and restless spirits might consider indulging in a cozy caf\u00e9, where warm sips of coffee provide comfort against the cooling air. Opt for layers\u2014a light jacket will do as the wind picks up, allowing one to enjoy the lingering warmth of the day while embracing the tranquility of the night. Today, San Francisco is a vibrant tapestry, inviting simple pleasures and quiet reflections under a veil of stars.",
-    "color_code": "#A2C4E5",
-    "timestamp": "2025-09-15 20:10:42"
+    "weather_report": "As night drapes its curtain over Downtown San Francisco, the atmosphere settles into a gentle clarity, allowing the last remnants of sunlight to paint the skyline in warm hues before surrendering to twilight. Tonight\u2019s low will hover around a comfortable 59 degrees, and a faint whisper of wind from the west-southwest, hardly more than a shy caress, enhances the ambiance. The city stands poised to greet a sunny Tuesday; by daybreak, the warmth of the sun will beckon with a high nearing 78 degrees. Expect a gradual cool-down as the afternoon progresses, where temperatures will sweetly fall to about 72. \n\nThe current visibility hints at a city momentarily unshrouded by fog, a rare gift this time of year. The marine layer, typically a steadfast companion, seems to linger elsewhere, leaving a sparkling blue sky that invites both leisure and adventure. With such pleasing weather, one might don a light jacket or perhaps a cozy cardigan as the evening unfolds\u2014perfect for wandering through one of the city's many parks, enjoying a leisurely stroll or perhaps discovering a quiet corner for reflection among the trees. Perhaps you could sample a new caf\u00e9 with a view, where the warmth of the sun and the gentle evening breeze conspire to create a perfect backdrop for unwinding.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-09-15 21:02:09"
 }
