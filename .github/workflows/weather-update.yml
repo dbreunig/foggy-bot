@@ -2,7 +2,7 @@ name: Hourly SF Weather Update
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Run every hour
+    - cron: '0 8 * * *'  # Run every hour
   workflow_dispatch:      # Allow manual triggers
 
 jobs:
