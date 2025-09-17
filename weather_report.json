@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-16T13:43:00+00:00",
-            "temperature_f": 59.918,
-            "temperature_c": 15.51,
-            "humidity": 100,
+            "timestamp": "2025-09-17T07:43:00+00:00",
+            "temperature_f": 58.064,
+            "temperature_c": 14.48,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-09-16T07:00:00-07:00",
-                "endTime": "2025-09-16T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 75,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 to 12 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 75, with temperatures falling to around 71 in the afternoon. West southwest wind 2 to 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-09-16T18:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-09-17T01:00:00-07:00",
                 "endTime": "2025-09-17T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "2 to 10 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 59. West southwest wind 2 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 59. West southwest wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-09-17T06:00:00-07:00",
+                "endTime": "2025-09-17T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 74,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "2 to 13 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 74, with temperatures falling to around 71 in the afternoon. West southwest wind 2 to 13 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "As dawn stretches its golden fingers over Downtown San Francisco, the city awakens to a bright, sunlit morning. With a high reaching toward the mid-seventies, the warmth will soften the crispness of the autumn air. Today promises to be a splendid affair, filled with clarity rather than the often elusive fog that tends to veil the iconic landmarks. Although the marine layer may linger at bay, notably in the vast expanse over the Golden Gate and the Pacific, the day ahead is painted in hues of blue, adorned with the gentle whispers of a west-southwest wind. \n\nAs night approaches, the skies are predicted to remain largely clear, inviting stargazers to indulge in the serenity of warm breezes beneath a lover's sky. Attire should favor comfort and simplicity, perhaps a light shirt embraced by a casual jacket for the evening chill. Such weather inspires leisurely strolls along the Embarcadero or quiet reading sessions at outdoor caf\u00e9s. Whether it's the gentle caress of a warm scone or the simple joy of watching the day unfold in vivid color, today offers an array of moments to savor, far from the ordinary yet beautifully familiar.",
-    "color_code": "#F9D19D",
-    "timestamp": "2025-09-16 07:01:52"
+    "weather_report": "In the quiet hours before dawn, Downtown San Francisco basks in a gentle embrace of clouds, casting a soft veil across the city\u2019s iconic silhouette. The nocturnal chill lingers, urging comfort in layers as the temperature settles around a mild 59. A wisp of a breeze stirs, hinting at the awakening day ahead. As the sun rises, blue skies will unfurl, painting a picture of clarity against the bustling backdrop. By midday, warmth will wrap the city, reaching around 74 before subtly retreating to a more temperate 71. \n\nThe promise of a sunny Wednesday unfolds with crisp visibility, though the coastal marine layer may still hug the edges of the Bay, creating a dramatic contrast against the more open views. This is a day that encourages a leisurely stroll along the waterfront or perhaps a visit to one of the myriad caf\u00e9s, where aromatic brews invite warmth against the cool air. For those venturing outdoors, a light sweater or jacket will complement the comfortable attire, allowing for both ease and style. As evening approaches, one might pull a book from the shelf and savor the fading light, indulging in a quiet moment in one of the city\u2019s many parks. A day both inviting and invigorating lies ahead, the kind that reminds us to appreciate the subtle beauty of urban life.",
+    "color_code": "#A5C2D3",
+    "timestamp": "2025-09-17 01:05:47"
 }
