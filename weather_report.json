@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-23T06:43:00+00:00",
-            "temperature_f": 62.257999999999996,
-            "temperature_c": 16.81,
-            "humidity": 76.275048797547,
+            "timestamp": "2025-09-24T06:43:00+00:00",
+            "temperature_f": 68.55799999999999,
+            "temperature_c": 20.31,
+            "humidity": 63.429101183651,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-09-22T18:00:00-07:00",
-                "endTime": "2025-09-23T06:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-09-24T01:00:00-07:00",
+                "endTime": "2025-09-24T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 60,
+                "temperature": 61,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 25
                 },
-                "windSpeed": "2 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 60. Southwest wind 2 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 5am. Partly cloudy, with a low around 61. Southwest wind around 10 mph, with gusts as high as 18 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-09-23T06:00:00-07:00",
-                "endTime": "2025-09-23T18:00:00-07:00",
+                "name": "Wednesday",
+                "startTime": "2025-09-24T06:00:00-07:00",
+                "endTime": "2025-09-24T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 81,
+                "temperature": 71,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 37
                 },
-                "windSpeed": "2 to 12 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 81, with temperatures falling to around 77 in the afternoon. West northwest wind 2 to 12 mph."
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Partly sunny. High near 71, with temperatures falling to around 69 in the afternoon. Southwest wind 7 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "Tonight, Downtown San Francisco embraces a tranquil clarity, with the low gently resting around 60 degrees. A soft, southwest breeze stirs the air, whispering hints of warmth while ensuring that the evening remains comfortable. As night descends, the skyline gleams against a canvas of mostly clear skies, creating a serene ambiance perfect for leisurely strolls along the Embarcadero or quiet reflections in a cozy caf\u00e9.\n\nAs dawn breaks on Tuesday, the day promises vibrant sunshine, with temperatures peaking near 81, though a gentle fall to about 77 will herald the afternoon. The west-northwest winds will playfully weave through the streets, enhancing the warmth and inviting San Franciscans outdoors. With such inviting weather, it\u2019s a splendid opportunity to explore the lush expanses of Golden Gate Park or savor a leisurely picnic by the waterfront. To embrace the day, light layers are advisable, allowing for a graceful transition from the cooler morning to the afternoon glow. The absence of fog accentuates the beauty of the city, making it an ideal day for adventure.",
-    "color_code": "#F6D5A5",
-    "timestamp": "2025-09-23 01:05:45"
+    "weather_report": "As the night deepens over Downtown San Francisco, a soft blanket of cloudiness drapes the city, hinting at the overnight possibility of rain showers. The air is tinged with the freshness that often accompanies such moments, with temperatures settling around a balmy 61 degrees. The gentle whispers of the southwest wind carry the scent of the ocean, mingling with the urban hum\u2014the city quietly pulses, preparing for the gentle embrace of the dawn.\n\nAs Wednesday unfolds, expect a mix of clouds and sun, with temperatures climbing into a comfortable range near 71, then settling back slightly as the afternoon reveals its nuances. Rain showers linger as a possibility, hinting at a more dynamic day than typical for this time of year. The marine layer, often a San Francisco hallmark, may be present, adding a ghostly quality to the scenery, particularly around the iconic Golden Gate. It can be wise to dress in layers, perhaps a light sweater or a stylish jacket that can be shed as the sun breaks through the clouds and warmth floods the streets.\n\nOn such a day, a stroll through the less-traveled paths of Golden Gate Park can offer solace, as nature displays its subtle transitions, and the sun\u2019s dance with the clouds provides a backdrop for quiet reflection. For those looking for a modest adventure, the local caf\u00e9s beckon, where a warm cup of coffee can accompany moments of cozy introspection, framed by the gentle lull of the city stirring to life.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2025-09-24 01:05:52"
 }
