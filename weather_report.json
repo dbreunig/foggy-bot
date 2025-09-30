@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-09-29T06:43:00+00:00",
-            "temperature_f": 65.174,
-            "temperature_c": 18.43,
-            "humidity": 76.979660791341,
+            "timestamp": "2025-09-30T06:43:00+00:00",
+            "temperature_f": 62.959999999999994,
+            "temperature_c": 17.2,
+            "humidity": 97.993911493781,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,44 +19,44 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2025-09-29T01:00:00-07:00",
-                "endTime": "2025-09-29T06:00:00-07:00",
+                "startTime": "2025-09-30T01:00:00-07:00",
+                "endTime": "2025-09-30T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 16
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn,20?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 62. Southwest wind around 6 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-09-29T06:00:00-07:00",
-                "endTime": "2025-09-29T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 69,
+                "temperature": 60,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 25
                 },
-                "windSpeed": "6 to 14 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,30?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
                 "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 11am. Mostly cloudy. High near 69, with temperatures falling to around 67 in the afternoon. South southwest wind 6 to 14 mph, with gusts as high as 22 mph. Chance of precipitation is 30%."
+                "detailedForecast": "A chance of rain before 5am, then a slight chance of drizzle. Mostly cloudy, with a low around 60. South southwest wind around 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-09-30T06:00:00-07:00",
+                "endTime": "2025-09-30T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 14
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 68, with temperatures falling to around 66 in the afternoon. Southwest wind 7 to 14 mph, with gusts as high as 20 mph."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Downtown San Francisco, the sky remains shrouded in a soft veil of clouds, with the temperature resting comfortably around 62 degrees. A gentle southwest breeze whispers through the streets, adding a hint of freshness to the air. The forecast hints at rain later in the day, particularly after 11 a.m., accompanied by a subtle drop in temperatures. The atmosphere carries whispers of potential drizzle, with a modest 30% chance looming over the skyline. \n\nIn these early hours, one might see the city's iconic structures peeking through the mist, painted against a backdrop of muted grays as the marine layer hovers nearby. Clarity varies, with the Golden Gate Bridge occasionally obscured, inviting a sense of mystery. For the day ahead, layers are advisable; a light sweater or jacket paired with comfortable shoes will allow for leisurely explorations, whether visiting a cozy caf\u00e9 or strolling through vibrant neighborhoods. Consider taking in a local exhibition or perhaps browsing the quaint shops that line the streets, as the rhythmic pulse of the city invites a wanderlust that is only enhanced by the cool, gentle embrace of the fog.",
-    "color_code": "#A3A3A3",
-    "timestamp": "2025-09-29 01:06:09"
+    "weather_report": "As the early hours of the day embrace Downtown San Francisco, a gentle hush envelopes the city, interrupted only by the faint sighs of a southern wind that carries whispers of impending drizzle. With a low around 60 degrees, the air feels heavy yet inviting, hinting at a dance of moisture that could grace the streets before dawn truly breaks. The overarching clouds wrap the skyline, shrouding the city's ambitions in a soft gray that lends an air of mystery. As the sun prepares to unfurl its warmth, the day promises a partially sunny disposition, coaxing the temperature to a comfortable high near 68, diminishing to a gentle 66 in the afternoon, as the clouds slowly begin to part.\n\nIf venturing out in this tranquil backdrop, a light jacket would be more than sufficient; the chill of the evening lingers, yet the day ahead holds the promise of brightness and warmth. Consider a stroll through one of the quieter neighborhoods, perhaps indulging in a leisurely coffee at a local caf\u00e9 or exploring nooks and corners relatively untouched by the ebb and flow of the weekend crowds. The weather, while not of the postcard-perfect variety, carries with it a subdued charm that is best appreciated in moments of reflection and soft conversation. It invites you to notice the beauty of the mundane, as the marine layer rests lovingly at the city's edges, a reminder of the coastal embrace that defines this unique enclave.",
+    "color_code": "#A9A6A1",
+    "timestamp": "2025-09-30 01:06:13"
 }
