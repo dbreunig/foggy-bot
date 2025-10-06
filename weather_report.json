@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-10-05T07:43:00+00:00",
-            "temperature_f": 57.434,
-            "temperature_c": 14.13,
-            "humidity": 88.980861320301,
+            "timestamp": "2025-10-06T07:43:00+00:00",
+            "temperature_f": 58.748000000000005,
+            "temperature_c": 14.86,
+            "humidity": 93.011628860167,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-05T01:00:00-07:00",
-                "endTime": "2025-10-05T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 57. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-10-05T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-10-05T14:00:00-07:00",
                 "endTime": "2025-10-05T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 71,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "5 to 16 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 71, with temperatures falling to around 68 in the afternoon. West southwest wind 5 to 16 mph."
+                "detailedForecast": "Sunny. High near 71, with temperatures falling to around 69 in the afternoon. West wind 6 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-05T18:00:00-07:00",
+                "endTime": "2025-10-06T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 59. Southwest wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the night blankets Downtown San Francisco, the air carries a tender chill, whispering of clarity yet to come. Under the dark canvas of the sky, the city sleeps peacefully, with temperatures lingering around a mild 57. The gentle sway of a southwest wind stirs the leaves, promising a day of warmth and sun. As morning breaks, the golden hues will unfurl, illuminating the city\u2019s iconic skyline against a backdrop of blue, reaching for a high of 71 before retreating to a comfortable 68 by afternoon.\n\nThe forecast speaks of clear skies, a rare gem for these shores. While hints of fog may linger along some coastal edges, the heart of the city will bask in unobstructed light, inviting residents to step outside, enjoy the warmth, and revel in the freshness of the day. For the best experience, a light sweater or a comfortable long-sleeve shirt will suffice for the early hours, transitioning into short sleeves as the sun rises higher. With a day as beautiful as this, consider wandering through the local parks or perhaps indulging in a leisurely stroll along the waterfront where the air is crisp and the views are nothing short of breathtaking. As the sunset approaches, sipping a warm drink at a cozy caf\u00e9 while soaking in the last golden rays would be a perfect way to end a Sunday in the heart of San Francisco.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-10-05 01:05:10"
+    "weather_report": "As autumn settles into San Francisco, the sun bathes the city in a warm golden light, bringing a reassuring clarity to the skyline. This afternoon promises a delightful reprieve with temperatures nudging toward the comfortable mid-70s, before gently dipping into the lower 60s later on. The westward breeze carries whispers of the ocean, a soft reminder of the proximity to the bay, while the atmospheric palette remains remarkably clear, revealing a vivid tableau painted in shades of blue.\n\nTonight, the skies will remain clear, inviting stargazers to revel in the celestial spectacle framed by the silhouettes of iconic buildings. The low will offer a mild embrace, perfect for an evening stroll or a relaxed gathering at a quaint caf\u00e9, perhaps with a warm drink to complement the gentle evening chill. As the air remains dry and serene, clothing choices should err on the side of layers\u2014light sweaters or cardigans will be ideal companions for the shifting temperatures. With such inviting weather, one might find solace in a leisurely walk through Golden Gate Park, where the rustle of leaves underfoot contributes to the symphony of the season. As you navigate the streets, take a moment to appreciate the fleeting beauty of the day, a gentle reminder of nature\u2019s artistry as the city moves gracefully into dusk.",
+    "color_code": "#F6EAC6",
+    "timestamp": "2025-10-06 01:05:33"
 }
