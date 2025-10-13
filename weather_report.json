@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-10-12T06:43:00+00:00",
-            "temperature_f": 59.288,
-            "temperature_c": 15.16,
-            "humidity": 68.993911351359,
+            "timestamp": "2025-10-13T07:43:00+00:00",
+            "temperature_f": 57.47,
+            "temperature_c": 14.15,
+            "humidity": 72.313882267661,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-10-11T19:00:00-07:00",
-                "endTime": "2025-10-12T06:00:00-07:00",
+                "name": "Overnight",
+                "startTime": "2025-10-13T01:00:00-07:00",
+                "endTime": "2025-10-13T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 54,
+                "temperature": 57,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 50
                 },
-                "windSpeed": "6 to 13 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear. Low around 54, with temperatures rising to around 56 overnight. Northwest wind 6 to 13 mph."
+                "windSpeed": "17 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 5am. Mostly cloudy, with a low around 57. West northwest wind around 17 mph, with gusts as high as 22 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-10-12T06:00:00-07:00",
-                "endTime": "2025-10-12T18:00:00-07:00",
+                "name": "Columbus Day",
+                "startTime": "2025-10-13T06:00:00-07:00",
+                "endTime": "2025-10-13T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 66,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 97
                 },
-                "windSpeed": "2 to 18 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 66, with temperatures falling to around 64 in the afternoon. Northwest wind 2 to 18 mph, with gusts as high as 23 mph."
+                "windSpeed": "6 to 20 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "A chance of rain showers before 11am, then showers and thunderstorms. Mostly cloudy. High near 62, with temperatures falling to around 57 in the afternoon. West wind 6 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "As the evening settles into Downtown San Francisco, a gentle clarity envelops the streets. The air, brisk yet tender, holds a temperature that dips into the comfortable embrace of the mid-fifties. A light northwest wind whispers through the city, adding a playful chill that encourages you to grab a light jacket before the night deepens. Though the stars are obscured by the creeping cloak of night, there\u2019s no telling of fog's intrusion just yet. Golden Gate glimmers faintly in the distance, a promise of tomorrow's sunshine waiting to break free.\n\nAs dawn graces the crest of Sunday, a golden hue will spread across the skyline, transforming the city into a vibrant canvas. The forecast beckons a high of sixty-six, with gentle breezes that may dance unhurriedly along the avenues. The clarity of the day invites exploration\u2014a stroll along the Embarcadero, perhaps, where the waters glisten like diamonds. Alternatively, one might find solace in a cozy caf\u00e9, sipping a warm brew while a mild breeze tickles the earlobes, watching the world awaken. Layer wisely, with a light sweater or jacket readily available for the cool mornings and the fresh air that heralds a pleasant day ahead.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-10-12 01:05:04"
+    "weather_report": "As a cool murmur envelops Downtown San Francisco, the city rests beneath a blanket of clouds, with the scent of rain imminent in the air. The damp chill hints at an incoming deluge, carrying the promise of showers by dawn, accompanied by gusts that dance through the streets, whispering secrets of the storm. The temperature lingers around a mild 57 degrees, just cool enough to warrant a light jacket or a snug sweater as the evening unfolds into morning.\n\nWith the promise of a tempestuous Columbus Day looming, the city prepares for a day marked by relentless clouds and thundering skies. Residents should expect their umbrellas to become familiar companions, as rain showers give way to thunderstorms throughout the day. The atmospheric pressure feels alive with anticipation, suggesting that perhaps some indoor activities may be in order\u2014curling up with a good book in a cozy caf\u00e9 or visiting an art exhibit to escape the drumming rain outside. As the day wanes, consider the warmth of comfort food at a local bistro or the ease of unwinding at home, all while the city\u2019s rhythm pulses with the vibrancy of the storm.",
+    "color_code": "#A4A6B8",
+    "timestamp": "2025-10-13 01:06:53"
 }
