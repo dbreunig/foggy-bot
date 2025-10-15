@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-10-14T07:43:00+00:00",
-            "temperature_f": 53.366,
-            "temperature_c": 11.87,
-            "humidity": 88.026557973749,
+            "timestamp": "2025-10-15T07:43:00+00:00",
+            "temperature_f": 56.714,
+            "temperature_c": 13.73,
+            "humidity": 83.034293053894,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-14T01:00:00-07:00",
-                "endTime": "2025-10-14T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 52,
+                "name": "This Afternoon",
+                "startTime": "2025-10-14T14:00:00-07:00",
+                "endTime": "2025-10-14T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 37
+                    "value": 46
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "SSE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
+                "windSpeed": "8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 52. South southeast wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 59. Northwest wind around 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-10-14T06:00:00-07:00",
-                "endTime": "2025-10-14T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 61,
+                "name": "Tonight",
+                "startTime": "2025-10-14T18:00:00-07:00",
+                "endTime": "2025-10-15T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 54,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 37
+                    "value": 35
                 },
-                "windSpeed": "5 to 8 mph",
-                "windDirection": "ENE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
+                "windSpeed": "8 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/rain_showers,20?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 5pm. Partly sunny, with a high near 61. East northeast wind 5 to 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers before 5am. Mostly cloudy, with a low around 54. South southwest wind around 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In the quiet hours of the night, Downtown San Francisco is wrapped in a shroud of clouds, hints of moisture clinging to the air with a touch of rain promised by dawn. The evening atmosphere is heavy yet soft, with temperatures resting comfortably around fifty-two degrees. As the night deepens, a gentle breeze whispers from the southeast, reminding us that the day is still a breath away.\n\nCome Tuesday morning, there\u2019s a sense of anticipation in the air. A chance of rain showers lingers until the afternoon, although the sun will soon attempt to break through the thick veil of clouds, offering glimpses of brightness as the day warms to a modest sixty-one degrees. The chance of rain may seem slight, but it's a reminder of the city's fickle temperament. You'll want to wrap yourself in layers\u2014perhaps a lightweight jacket atop a cozy sweater to navigate the nuanced shifts in temperature. As the clouds dance, consider a stroll through the city\u2019s streets or a visit to one of the many caf\u00e9s, perfect for that mid-morning cup of coffee while gazing out through the window at the world waking up, enveloped in a light mist. A visit to your favorite bookstore could offer solace, providing a refuge from the uncertainty of the sky overhead.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2025-10-14 01:05:40"
+    "weather_report": "In the shadow of the Sutro Tower, the essence of a San Francisco afternoon casts a moody charm over the city. Beneath a veil of gray clouds, the air seems to hang heavy, laden with the aroma of impending rain. A temperate breeze brushes through, carrying whispers of the chill that lingers along the edges of the day. The forecast hints at a 50% chance of rain showers, turning the atmosphere slightly electric, while the temperature hovers around a cool 59 degrees. As night approaches, the clouds may thicken further, welcoming those elusive rain drops before dawn.\n\nThe scene feels refreshingly unhurried. The potential for fog gives way to a softness in the air, obscuring far-off landmarks but offering its own brand of solace. One might consider donning a comfortably warm jacket, perhaps layered with a light sweater, as the evening beckons with its 40% chance of showers. There\u2019s something nudging you to stroll through the quieter streets of Downtown, the kind of evening that invites you to sip something warm in a cozy nook or perhaps visit a local bookstore where time slows, consumed by the pages of a good book. It\u2019s not the day for grand escapades, but rather a gentle embrace of the city\u2019s whimsical pulse under a brooding sky.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-10-15 01:06:07"
 }
