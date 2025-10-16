@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-10-15T07:43:00+00:00",
-            "temperature_f": 56.714,
-            "temperature_c": 13.73,
-            "humidity": 83.034293053894,
+            "timestamp": "2025-10-16T07:43:00+00:00",
+            "temperature_f": 55.634,
+            "temperature_c": 13.13,
+            "humidity": 85.99945197102,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-10-14T14:00:00-07:00",
-                "endTime": "2025-10-14T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 59,
+                "name": "Tonight",
+                "startTime": "2025-10-15T20:00:00-07:00",
+                "endTime": "2025-10-16T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 53,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 46
+                    "value": 1
                 },
-                "windSpeed": "8 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 59. Northwest wind around 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear. Low around 53, with temperatures rising to around 55 overnight. West northwest wind 3 to 7 mph."
             },
             {
                 "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-10-14T18:00:00-07:00",
-                "endTime": "2025-10-15T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 54,
+                "name": "Thursday",
+                "startTime": "2025-10-16T06:00:00-07:00",
+                "endTime": "2025-10-16T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 64,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 35
+                    "value": 1
                 },
-                "windSpeed": "8 mph",
-                "windDirection": "SSW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/rain_showers,20?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 5am. Mostly cloudy, with a low around 54. South southwest wind around 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "2 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 64. Northwest wind 2 to 10 mph."
             }
         ]
     },
-    "weather_report": "In the shadow of the Sutro Tower, the essence of a San Francisco afternoon casts a moody charm over the city. Beneath a veil of gray clouds, the air seems to hang heavy, laden with the aroma of impending rain. A temperate breeze brushes through, carrying whispers of the chill that lingers along the edges of the day. The forecast hints at a 50% chance of rain showers, turning the atmosphere slightly electric, while the temperature hovers around a cool 59 degrees. As night approaches, the clouds may thicken further, welcoming those elusive rain drops before dawn.\n\nThe scene feels refreshingly unhurried. The potential for fog gives way to a softness in the air, obscuring far-off landmarks but offering its own brand of solace. One might consider donning a comfortably warm jacket, perhaps layered with a light sweater, as the evening beckons with its 40% chance of showers. There\u2019s something nudging you to stroll through the quieter streets of Downtown, the kind of evening that invites you to sip something warm in a cozy nook or perhaps visit a local bookstore where time slows, consumed by the pages of a good book. It\u2019s not the day for grand escapades, but rather a gentle embrace of the city\u2019s whimsical pulse under a brooding sky.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-10-15 01:06:07"
+    "weather_report": "As the night envelops Downtown San Francisco, a gentle clarity descends, carrying with it the promise of an enchanting dawn. The temperatures waver around the mid-fifties, offering a mild embrace as the west-northwest wind whispers through the city streets. This evening, the skies remain mostly clear, drawing a veil of serenity across the horizon, inviting quiet reflections beneath the stars.\n\nTomorrow, the sun will awaken with brilliance, illuminating the urban landscape with a high near sixty-four. The day promises a cheerful embrace, unmarred by the fog that often drapes the city's landmarks. For this inch of time, light layers will suffice\u2014perhaps a soft cardigan, paired with a comfortable pair of slacks, ready to venture into the world. Given the pleasant weather, a leisurely stroll through the verdant expanses of Golden Gate Park could elevate one\u2019s spirits or perhaps a quiet moment at a local caf\u00e9, absorbing the rhythm of the city as it stirs awake. Whatever your choice, embrace these moments as the city reveals its charm, painted by the brush of a gentle autumn day.",
+    "color_code": "#A9C0D3",
+    "timestamp": "2025-10-16 01:05:42"
 }
