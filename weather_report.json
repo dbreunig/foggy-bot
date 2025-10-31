@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-10-30T07:43:00+00:00",
-            "temperature_f": 58.04600000000001,
-            "temperature_c": 14.47,
-            "humidity": 85.008460835271,
+            "timestamp": "2025-10-31T07:43:00+00:00",
+            "temperature_f": 54.986,
+            "temperature_c": 12.77,
+            "humidity": 95.887066758606,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-30T01:00:00-07:00",
-                "endTime": "2025-10-30T06:00:00-07:00",
-                "isDaytime": false,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 55. West southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-10-30T06:00:00-07:00",
+                "name": "This Afternoon",
+                "startTime": "2025-10-30T16:00:00-07:00",
                 "endTime": "2025-10-30T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 64,
+                "temperature": 63,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 to 13 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 61 in the afternoon. West wind 5 to 13 mph, with gusts as high as 18 mph."
+                "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. West wind around 13 mph, with gusts as high as 18 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-30T18:00:00-07:00",
+                "endTime": "2025-10-31T06:00:00-07:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 54. Southwest wind 3 to 12 mph."
             }
         ]
     },
-    "weather_report": "As the clock ticks past one in the morning, Downtown San Francisco rests beneath a veil of tranquility, the air imbued with a gentle coolness and a hint of moisture that whispers of the ocean nearby. Tonight's sky is mostly clear, allowing the city\u2019s iconic silhouette to faintly glimmer against the dark fabric of the night. Stepping outside, one can feel the soft caress of a mild west-southwest breeze, nudging away remnants of the day's busyness.\n\nTomorrow promises a pleasant awakening, with the sun set to grace the sky much earlier, emerging from behind the shroud and casting a warm glow over the landscape. With a high near 64 degrees, the day will settle into a mild afternoon, inviting a refreshingly cool drop in temperature as the evening draws near. Those venturing outside should consider layers\u2014perhaps a light jacket to fend off the afternoon breeze combined with a comfortable shirt below. An engaging stroll through one of the city\u2019s vibrant neighborhoods might be in order, with quaint caf\u00e9s beckoning and parks scattered throughout, offering spaces for quiet reflection or spirited conversations over coffee. This October day in San Francisco appears set to be both invigorating and serene, a perfect canvas for simple, quiet pleasures shared amidst the city\u2019s alluring charm.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-10-30 01:05:38"
+    "weather_report": "As the early morning greets Downtown San Francisco, a gentle calm envelops the city, promising a day that dances between clarity and the playful hints of marine influence. The predicted sunshine, peeking through the clouds, will usher a mellow warmth, ideal for those wandering the streets or finding solace in the local caf\u00e9s. With temperatures lingering in the low sixties, there\u2019s an invitation for light layers\u2014a cozy sweater or a light jacket would serve well against the subtle, refreshing breeze blowing in from the west.\n\nExpect the day to unfold enchantingly, with hints of warmth tempered by a caress of cool air. As the afternoon progresses, any lingering fog should recede, allowing striking views that stretch all the way to the Golden Gate. The mild temperatures will encourage leisurely strolls through Golden Gate Park or quiet moments on a bench with a book. As night merges softly into the day, the skies will don a more subdued palette, perfect for winding down with a serene walk or a quiet dinner, perhaps near the waterfront. In this blend of warmth and coolness, there lies a beauty in the balance\u2014a vivid reminder of what makes San Francisco a timeless wonder.",
+    "color_code": "#A8C9E2",
+    "timestamp": "2025-10-31 01:05:37"
 }
