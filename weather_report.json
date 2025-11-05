@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-11-04T07:43:00+00:00",
-            "temperature_f": 59.018,
-            "temperature_c": 15.01,
-            "humidity": 77.204807281142,
+            "timestamp": "2025-11-05T07:43:00+00:00",
+            "temperature_f": 60.656,
+            "temperature_c": 15.92,
+            "humidity": 76.232327681308,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-11-03T16:00:00-08:00",
-                "endTime": "2025-11-03T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 62,
+                "name": "Tonight",
+                "startTime": "2025-11-04T19:00:00-08:00",
+                "endTime": "2025-11-05T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 58,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 99
                 },
-                "windSpeed": "17 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 59 in the afternoon. West wind around 17 mph."
+                "windSpeed": "17 to 29 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain,60/tsra_sct,100?size=medium",
+                "shortForecast": "Light Rain Likely then Showers And Thunderstorms",
+                "detailedForecast": "Rain likely between 10pm and 4am, then showers and thunderstorms. Mostly cloudy, with a low around 58. South wind 17 to 29 mph, with gusts as high as 44 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-11-03T18:00:00-08:00",
-                "endTime": "2025-11-04T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 54,
+                "name": "Wednesday",
+                "startTime": "2025-11-05T06:00:00-08:00",
+                "endTime": "2025-11-05T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 63,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 99
                 },
-                "windSpeed": "3 to 13 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy. Low around 54, with temperatures rising to around 56 overnight. Southwest wind 3 to 13 mph."
+                "windSpeed": "14 to 33 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,100/tsra,80?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Showers and thunderstorms before 4pm, then a chance of rain. Mostly cloudy. High near 63, with temperatures falling to around 60 in the afternoon. South wind 14 to 33 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As the evening settles over Downtown San Francisco, a gentle hush falls on the city bathed in a soft, tender glow from streetlights and distant buildings. The forecast for today offers a pleasant reprieve, with sunny spells yielding to rolling patches of cloud. The air is crisp, buoyed by a brisk wind that stirs the leaves without intruding on one\u2019s sense of peace. As night descends, temperatures will tiptoe upward to a mild 56 degrees, cloaked in an inviting layer of partial cloud cover. \n\nThe lingering marine layer, a soft breath from the ocean, may create delicate bands of fog along the coast, casting an ethereal quality over landmarks such as the Golden Gate Bridge. As you venture out, a light jacket would suffice, allowing you to wander the vibrant streets or perhaps find a cozy caf\u00e9 to enjoy a warm cup or a leisurely conversation with a friend. This delightful evening invites exploration\u2014be it a stroll along the Embarcadero or an intimate gathering with good company, encapsulating the very essence of urban life.",
-    "color_code": "#E0E0E0",
-    "timestamp": "2025-11-04 00:05:48"
+    "weather_report": "As midnight blankets Downtown San Francisco, the air is thick with anticipation of the rain that is inevitably on the horizon. Overhead, an ominous quilt of clouds shrouds the city, thickening as the hours progress. The south winds howl, carrying with them the scent of impending storms. Already, you can sense the moisture that will soon descend, draping the streets in glistening layers of rain. Tonight's forecast promises a relentless downpour, with thunderstorms adding a dramatic backdrop to the city's usually vibrant nightlife. \n\nAs dawn approaches, Wednesday will usher in a day marked by lingering showers, casting a shadow over San Francisco's typically picturesque skyline. Expect the high temperature to hover near 63, but as the clouds loom, the chill is certain to weave its way through the streets, suggesting layers are a wise choice. A comfortable raincoat paired with sturdy shoes will serve you well against puddled sidewalks. Given these wet and blustery conditions, a day indoors might be more appealing\u2014consider curling up in a cozy caf\u00e9 with a warm drink, or perhaps visiting one of the many galleries that breathe life into the city's culture. Under these atmospheric conditions, the heartbeat of the city slows down a bit, inviting moments of introspection and comfort as you listen to the rhythm of rain against windowpanes.",
+    "color_code": "#5B5C68",
+    "timestamp": "2025-11-05 00:05:49"
 }
