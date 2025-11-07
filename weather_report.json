@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-11-06T07:43:00+00:00",
-            "temperature_f": 60.656,
-            "temperature_c": 15.92,
-            "humidity": 83.07883133746,
+            "timestamp": "2025-11-07T07:43:00+00:00",
+            "temperature_f": 54.518,
+            "temperature_c": 12.51,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-06T00:00:00-08:00",
-                "endTime": "2025-11-06T06:00:00-08:00",
+                "name": "Tonight",
+                "startTime": "2025-11-06T19:00:00-08:00",
+                "endTime": "2025-11-07T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 56,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 7
                 },
-                "windSpeed": "2 to 7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain before 4am. Mostly cloudy, with a low around 56. Southwest wind 2 to 7 mph. Chance of precipitation is 20%."
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. West southwest wind 5 to 14 mph."
             },
             {
                 "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-11-06T06:00:00-08:00",
-                "endTime": "2025-11-06T18:00:00-08:00",
+                "name": "Friday",
+                "startTime": "2025-11-07T06:00:00-08:00",
+                "endTime": "2025-11-07T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 64,
+                "temperature": 65,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 7
                 },
-                "windSpeed": "2 to 12 mph",
+                "windSpeed": "5 to 14 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Sunny",
-                "detailedForecast": "Patchy fog between 9am and 10am. Mostly sunny. High near 64, with temperatures falling to around 60 in the afternoon. Southwest wind 2 to 12 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 65, with temperatures falling to around 61 in the afternoon. Southwest wind 5 to 14 mph."
             }
         ]
     },
-    "weather_report": "As the city quickly settles into night, the air carries a whisper of moisture, hinting at the brief chance of rain that may pass before dawn breaks over the Bay. Presently, a soft cloud cover blankets the landscape, weaving a delicate shroud around the hills and the expansive waters beyond, where the lights of the Golden Gate flicker like distant stars against the deepening dusk. The humidity wraps around you, an ever-present reminder of San Francisco\u2019s embrace, but the temperature, hovering gently, invites a light jacket.\n\nLooking ahead to the morning, the forecast holds promise of clarity, with patchy fog teasing the edges of visibility before the sun rises. It may reveal a blue sky, framing the cityscape with warmth that is rare yet welcome. With the expected high peaking near 64, afternoon warmth will gradually seep in, coaxing people outdoors. For those planning the day, a thoughtful layering of light fabrics\u2014perhaps a sleeveless top adorned with a casual cardigan\u2014will suffice to navigate through the cool morning and the pleasantly mild afternoon. The day could be best spent meandering through the waterfront or pausing at a cozy caf\u00e9, indulging in literature or lively conversation, as the urban rhythm pulses softly under the sun.",
-    "color_code": "#4A6A74",
-    "timestamp": "2025-11-06 00:05:40"
+    "weather_report": "In the stillness of tonight, the city lies mostly swathed in a delicate veil of clouds, with temperatures gently hovering around a mild 56 degrees. A western breeze whispers through the streets, carrying a touch of the bay\u2019s chill. It\u2019s that enchanting time when the narrative of the day begins to fade, and a sense of calm envelops the bustling city. Tomorrow promises a break in the overcast, as the sun breaks free from its transient cover, shining brightly upon the ever-busy streets of Downtown. The high will flirt with 65 degrees before dipping slightly in the afternoon. This shift from the cool embrace of night to a warm afternoon invites all to abandon heavy layers in favor of a light sweater or a long-sleeved shirt.\n\nTomorrow is an opportune moment to explore the quieter corners of the city's parks or to meander through the vibrant streets, perhaps indulging in an afternoon caf\u00e9 adventure. The fog will recede, revealing the famous landmarks, but hints of moisture still linger\u2014particularly near the coastline, where the marine layer gracefully retreats. Whether you choose to stroll along the waterfront or dive into the bustling local shops, the day beckons with the promise of pleasant engagements. There\u2019s a comforting blend of warmth and mildness in the air, ideal for those who appreciate the nuances of city life at this time of year.",
+    "color_code": "#A0C8E0",
+    "timestamp": "2025-11-07 00:05:42"
 }
