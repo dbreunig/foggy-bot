@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-11-15T07:43:00+00:00",
-            "temperature_f": 57.164,
-            "temperature_c": 13.98,
-            "humidity": 87.921103598018,
+            "timestamp": "2025-11-16T07:43:00+00:00",
+            "temperature_f": 57.002,
+            "temperature_c": 13.89,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-15T00:00:00-08:00",
-                "endTime": "2025-11-15T06:00:00-08:00",
+                "name": "Tonight",
+                "startTime": "2025-11-15T21:00:00-08:00",
+                "endTime": "2025-11-16T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 54,
+                "temperature": 56,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 75
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. North northeast wind around 7 mph."
+                "windSpeed": "13 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,80?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Mostly cloudy, with a low around 56. South southwest wind around 13 mph, with gusts as high as 18 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-11-15T06:00:00-08:00",
-                "endTime": "2025-11-15T18:00:00-08:00",
+                "name": "Sunday",
+                "startTime": "2025-11-16T06:00:00-08:00",
+                "endTime": "2025-11-16T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 62,
+                "temperature": 61,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 53
+                    "value": 95
                 },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "WNW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,50?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 10am. Mostly cloudy. High near 62, with temperatures falling to around 59 in the afternoon. West northwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "windSpeed": "9 to 16 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,80/rain,100?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Mostly cloudy. High near 61, with temperatures falling to around 58 in the afternoon. South southwest wind 9 to 16 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night weaves its way into dawn, Downtown San Francisco embraces a quiet stillness, wrapped in a cloak of high, brooding cloud cover. The temperature, kissing the realm of mid-fifties, brings with it a crispness, inviting a light layer\u2014perhaps a soft sweater or a light jacket to ward off the chill. As morning breaks, there's a whisper of anticipation for rain that teases the day ahead; a fifty percent chance of showers after ten o'clock hints at the possibility of muted drizzles gracing the streets, reflecting the indigo sky in glistening puddles.\n\nThose venturing out should be prepared for a gray canvas; visibility may be softened by a gentle mist that often settles in this beloved city. The winds from the northwest, mild yet persistent, may carry with them the unmistakable scent of the sea, mingling with the aroma of freshly brewed coffee from nearby caf\u00e9s. The best of the day could perhaps be found in quiet corners, wandering the Embarcadero or savoring a warm pastry indoors, while the inevitable raindrops begin their dance. The day may bow to the unpredictable whims of the weather, but with a heart of exploration, the right attire and good company can convert a gray day into an adventure of cozy discovery.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-11-15 00:05:06"
+    "weather_report": "Tonight in Downtown San Francisco, the clouds have gathered for a solid embrace, draping the city in a blanket of gray, with rain softly falling and the cool air wrapping around you like a night cloak. The gentle hum of the wind from the south southwest brings a chill, rustling leaves and fostering an atmosphere perfect for quiet reflection or indulging in the warmth of a cozy caf\u00e9. The streets glisten as the rain fills the evening with life, taking on a sheen that reflects the city lights like a canvas of dreams.\n\nAs dawn breaks tomorrow, the rain is expected to persist, drenching the landscape in a rhythm familiar to this time of year. With temperatures slowly slipping from a high of about 61 to a cooler 58 in the afternoon, the day retains a damp chill, urging a layer of warmth beneath your coat\u2014a light scarf and a sturdy umbrella will serve you well. Venturing outside may seem less appealing in such weather, yet this is a perfect opportunity to savor the intoxicating aroma of fresh rain, perhaps while wandering through the quiet arms of the Presidio or enjoying the solitude of a museum where the art can absorb the ambiance around it. \n\nIn moments like these, embrace the stillness and let it wash over you, as the rain transforms the familiar into something ineffably beautiful, a reminder of the serene power of nature.",
+    "color_code": "#4a556c",
+    "timestamp": "2025-11-16 00:05:12"
 }
