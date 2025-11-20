@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-11-19T07:43:00+00:00",
-            "temperature_f": 53.15,
-            "temperature_c": 11.75,
-            "humidity": 77.211769844635,
+            "timestamp": "2025-11-20T07:43:00+00:00",
+            "temperature_f": 54.554,
+            "temperature_c": 12.53,
+            "humidity": 78.175068005673,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-19T00:00:00-08:00",
-                "endTime": "2025-11-19T06:00:00-08:00",
+                "name": "Tonight",
+                "startTime": "2025-11-19T19:00:00-08:00",
+                "endTime": "2025-11-20T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 52,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 11
+                    "value": 86
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. South wind around 5 mph."
+                "windSpeed": "8 to 13 mph",
+                "windDirection": "SSW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Mostly cloudy, with a low around 52. South southwest wind 8 to 13 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-11-19T06:00:00-08:00",
-                "endTime": "2025-11-19T18:00:00-08:00",
+                "name": "Thursday",
+                "startTime": "2025-11-20T06:00:00-08:00",
+                "endTime": "2025-11-20T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 58,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 18
+                    "value": 60
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 2pm and 3pm. Mostly cloudy. High near 58, with temperatures falling to around 56 in the afternoon. South wind around 7 mph. Chance of precipitation is 20%."
+                "windSpeed": "9 to 14 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,60/rain,30?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely before 4pm. Partly sunny. High near 59, with temperatures falling to around 56 in the afternoon. West northwest wind 9 to 14 mph, with gusts as high as 18 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night deepens over Downtown San Francisco, a veil of clouds envelops the city, hovering gently above the iconic silhouettes of its skyline. The air feels cool, dipping to around 52 degrees, accented by a subtle breeze from the south that whispers of the moisture lingering in the atmosphere\u2014a reminder that the coastal fog is never far away. In the early hours, visibility is muddied, with the outlines of the Golden Gate Bridge and the hills beyond softened, suggesting a warming marine layer that could redefine the clarity by the morning light.\n\nAs Wednesday unfolds, expect an unassuming day, with a high near 58 accompanied by cloud cover, and perhaps a teasing sprinkle of rain as afternoon edges closer. The chance of a brief shower dances on the periphery at 20%, while the temperature gently transitions downwards, inviting a layered approach to dressing. A comfortable sweater paired with a light jacket will suffice against the gentle gusts and the chill that creeps in as the sun falls. In this atmospheric symphony, consider a stroll through the local cafes, where the scent of freshly brewed coffee and warm pastries beckons. Ambiance is soft, conversations hum as people gather, offering a comforting camaraderie against the backdrop of a moody urban landscape, perfect for curling up with a book or sharing stories with friends under the clouds.",
-    "color_code": "#B0C4D8",
-    "timestamp": "2025-11-19 00:05:39"
+    "weather_report": "Tonight in Downtown San Francisco, a gentle rain begins to fall, enveloping the city in a cool embrace. The skies are predominantly overcast, shrouding the familiar skyline in a muted gray, with temperatures settling around a pleasantly cool 52 degrees. It's an evening suited for warmth and comfort, suggesting a cozy retreat with warm layers and perhaps a favorite book. As raindrops tap softly on windows, those venturing outside will embrace the soothing cadence, best equipped with a water-resistant jacket and perhaps a soft scarf.\n\nMoving into Thursday, the morning may start off with lingering rain, tapering to moments of sun peeking through by the afternoon. A high of around 59 degrees hints at the promise of brighter skies, though temperatures are expected to cool slightly later in the day. The brisk winds will remind you of the gentle touch of the ocean nearby, urging a layered outfit that includes a light sweater beneath a sturdy jacket to adapt to both the chill and the sun's occasional warmth. A walk along the waterfront, savoring a hot cup of coffee, or a quiet stroll through a local park could be a delightful way to embrace the changing weather, simple moments that truly capture the essence of a San Francisco day under shifting skies.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-11-20 00:05:45"
 }
