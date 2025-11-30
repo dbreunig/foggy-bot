@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-11-29T07:43:00+00:00",
-            "temperature_f": 45.914,
-            "temperature_c": 7.73,
-            "humidity": 95.004965651965,
+            "timestamp": "2025-11-30T07:43:00+00:00",
+            "temperature_f": 46.885999999999996,
+            "temperature_c": 8.27,
+            "humidity": 88.917406244015,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,30 +18,11 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-29T00:00:00-08:00",
-                "endTime": "2025-11-29T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 48. North northeast wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-11-29T06:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2025-11-29T12:00:00-08:00",
                 "endTime": "2025-11-29T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 59,
+                "temperature": 53,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 59, with temperatures falling to around 56 in the afternoon. North wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 53, with temperatures falling to around 50 in the afternoon. North wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-11-29T18:00:00-08:00",
+                "endTime": "2025-11-30T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 48. North wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of the early hours, Downtown San Francisco wakes to a softly veiled sky, gently cradled by the embrace of cool air. As the dawn creeps in, temperatures dip to a crisp 48 degrees, with a whisper of a north-northeast breeze weaving through the streets. The night sky is partly cloudy, offering glimpses of the stars that twinkled just a few hours ago. \n\nAs daylight unfurls, the city will bask in a predominantly sunny disposition, with the high reaching around 59 degrees and a subtle decline in warmth as afternoon settles in. The shimmering brilliance of the sun promises a welcoming ambiance, yet it masks the lingering presence of the marine layer. Fog may still hug the outskirts along the coast, especially closer to the Golden Gate, creating an ethereal backdrop that dances with the first rays of sunlight. For a leisurely stroll along the waterfront or a visit to one of the local cafes, layering is advisable, embracing both comfort and style\u2014a light jacket buttoned over a soft sweater works best against the chill that often resides in the shade. \n\nOn this Saturday, consider weaving your way through the vibrant streets of the city, perhaps dropping by the Ferry Building for artisanal treats or taking a quiet moment in one of the many hidden gardens blooming within the urban landscape. As the day evolves into a gentle afternoon, the sunshine will render everything more vivid, inviting spontaneous moments of wonder in a city that thrives on its own juxtaposition of nature and nurture.",
-    "color_code": "#A6B64D",
-    "timestamp": "2025-11-29 00:05:31"
+    "weather_report": "In Downtown San Francisco, the afternoon unfolds beneath a sun-drenched sky, though a crisp chill lingers in the air like a quiet reminder of winter\u2019s approach. Temperatures hover close to 53, slowly retreating to 50 as the day ebbs, with a gentle north wind carrying whispers of the bay. Clarity reigns, yet the horizon might play host to the faintest outline of fog, hinting at the ever-present marine layer that can sweep in unexpectedly from the coast, softening the edges of the cityscape into a dreamy watercolor.\n\nAs night descends, a partly cloudy canvas will drape over the city, offering a low comfort of around 48, inviting one to layer up perhaps with a light sweater or a cozy scarf\u2014a pragmatic choice for those venturing out. The evening air, fresh and invigorating, encourages stepping into the world outside, where one might find delight in a leisurely stroll along the waterfront, reveling in the gentle play of shadows cast by the city lights, or perhaps enjoying an intimate gathering at a local caf\u00e9, sipping warm brews while the comforting hum of conversation wraps around like a warm blanket.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-11-30 00:05:05"
 }
