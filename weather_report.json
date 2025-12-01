@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-11-30T07:43:00+00:00",
-            "temperature_f": 46.885999999999996,
-            "temperature_c": 8.27,
-            "humidity": 88.917406244015,
+            "timestamp": "2025-12-01T07:43:00+00:00",
+            "temperature_f": 46.652,
+            "temperature_c": 8.14,
+            "humidity": 97.051720141729,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-11-29T12:00:00-08:00",
-                "endTime": "2025-11-29T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 53,
+                "name": "Overnight",
+                "startTime": "2025-12-01T00:00:00-08:00",
+                "endTime": "2025-12-01T06:00:00-08:00",
+                "isDaytime": false,
+                "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 53, with temperatures falling to around 50 in the afternoon. North wind around 7 mph."
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 46. Northeast wind 3 to 8 mph."
             },
             {
                 "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-11-29T18:00:00-08:00",
-                "endTime": "2025-11-30T06:00:00-08:00",
-                "isDaytime": false,
-                "temperature": 48,
+                "name": "Monday",
+                "startTime": "2025-12-01T06:00:00-08:00",
+                "endTime": "2025-12-01T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 58,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 0
                 },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 48. North wind 2 to 6 mph."
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 58, with temperatures falling to around 55 in the afternoon. North northeast wind 7 to 12 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the afternoon unfolds beneath a sun-drenched sky, though a crisp chill lingers in the air like a quiet reminder of winter\u2019s approach. Temperatures hover close to 53, slowly retreating to 50 as the day ebbs, with a gentle north wind carrying whispers of the bay. Clarity reigns, yet the horizon might play host to the faintest outline of fog, hinting at the ever-present marine layer that can sweep in unexpectedly from the coast, softening the edges of the cityscape into a dreamy watercolor.\n\nAs night descends, a partly cloudy canvas will drape over the city, offering a low comfort of around 48, inviting one to layer up perhaps with a light sweater or a cozy scarf\u2014a pragmatic choice for those venturing out. The evening air, fresh and invigorating, encourages stepping into the world outside, where one might find delight in a leisurely stroll along the waterfront, reveling in the gentle play of shadows cast by the city lights, or perhaps enjoying an intimate gathering at a local caf\u00e9, sipping warm brews while the comforting hum of conversation wraps around like a warm blanket.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-11-30 00:05:05"
+    "weather_report": "In the stillness of the early morning, Downtown San Francisco presents a gentle tableau, under the soft embrace of a partly cloudy sky. The temperatures linger close to the coolness of 46 degrees, with a flaky northeast breeze whispering between buildings at a leisurely pace. This creates a setting that feels both crisp and invigorating, beckoning the early risers to wrap themselves in layers that blend warmth and comfort\u2014a light jacket would serve well against the cooler air, offering a shield against the dim chill of the remaining night.\n\nAs the day unfolds, the sun breaks forth, guiding the temperatures towards a high near 58. Yet, it will play coy, dipping to about 55 by the afternoon. The city skyline, while vibrant under the sun's nurturing glow, may still carry the aftertaste of the marine layer, which, if it lingers just off the coast, could wrap key landmarks in a veil of gentle mist or fog. However, overall visibility remains promising, allowing for unobstructed views that invite strolls along the waterfront. With a day like this extending gently into evening, one could relish a visit to a quaint caf\u00e9\u2014perhaps indulging in a warm beverage while gazing at the bustling life of the city, or taking a leisurely walk through the nearby parks to savor the crisp seasonal air.",
+    "color_code": "#A3B2D3",
+    "timestamp": "2025-12-01 00:06:33"
 }
