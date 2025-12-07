@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2025-12-06T07:43:00+00:00",
-            "temperature_f": 47.3,
-            "temperature_c": 8.5,
-            "humidity": 88.997626461139,
+            "timestamp": "2025-12-07T07:43:00+00:00",
+            "temperature_f": 46.094,
+            "temperature_c": 7.83,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-06T00:00:00-08:00",
-                "endTime": "2025-12-06T06:00:00-08:00",
+                "name": "This Afternoon",
+                "startTime": "2025-12-06T13:00:00-08:00",
+                "endTime": "2025-12-06T18:00:00-08:00",
+                "isDaytime": true,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 55, with temperatures falling to around 51 in the afternoon. Northwest wind 5 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-06T18:00:00-08:00",
+                "endTime": "2025-12-07T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 48,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 1
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 48. Northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-12-06T06:00:00-08:00",
-                "endTime": "2025-12-06T18:00:00-08:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 59, with temperatures falling to around 56 in the afternoon. Northwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "In the quiet early hours of this Saturday, San Francisco presents a canvas painted in hues of twilight and anticipation. The air, crisp and brimming with promise, holds a gentle chill as temperatures dip toward a comfortable 48 degrees. The northwest breeze whispers through the streets, caressing the city with its cool touch, offering a serene backdrop for the day's unfolding. As dawn approaches, the promise of a sunlit day brings hope\u2014the clouds are merely a distant memory, paving the way for a sun-soaked afternoon.\n\nBy midday, the forecast teases with sunshine dancing across the skyline, a warm embrace against the backdrop of iconic structures. Highs hover around 59, gently cooling to the mid-50s as the afternoon eases into evening. This weather is delightful for a leisurely stroll along the Embarcadero, where the sparkling bay waters rise to meet the bustling life of the city. Picture yourself clad in a light jacket, perhaps with a scarf gently draping your neck, perfect for the cool sea breeze. A perfect day could unfold at an outdoor caf\u00e9, where a warm cup of coffee accompanies the enticing aroma of freshly baked pastries, inviting you to linger just a little longer as you watch the world pass by. \n\nFor those who tiptoe around the notion of fog\u2014San Francisco's ever-present companion\u2014this day offers a reprieve, as clarity reigns without the usual veil. The marine layer shies away, allowing a bright and pleasant day to reveal itself. Whether you're drawn to the symphony of the bustling markets or the tranquility of a nearby park, the heart of San Francisco beckons with open arms.",
-    "color_code": "#A9C6E2",
-    "timestamp": "2025-12-06 00:04:57"
+    "weather_report": "The air in Downtown San Francisco carries a crisp clarity, inviting yet with an unmistakable chill. This afternoon's sun graces the city with a gentle warmth, peeking through a thin veil of tranquility, but do not let that fool you; the reality of temperatures slipping down to around fifty-one introduces a bit of that signature San Francisco coolness. The northwest wind whispers softly at five to eight miles per hour, just enough to remind you that winter is making itself known, though not unkindly. Tonight, the sky will transition to a partly cloudy canvas, draping soft shadows over the city as the temperature dips to around forty-eight.\n\nAs you navigate these beautifully mild conditions, consider layering up. A light jacket over a cozy sweater will keep you comfortable as you stroll along the Embarcadero or explore the vibrant streets of the Mission. In the twilight, the flickering city lights will emerge, calling for a leisurely evening walk or perhaps stopping in at a local caf\u00e9 to savor a warm drink. The fog may linger on the edges of the bay, but it appears to respect the fortitude of the day, retreating just enough for the evening to unfold with a sense of quiet wonder. Enjoying this charm of San Francisco on a crisp December day feels like a small gift, easily unraveled if you take the time to breathe it in.",
+    "color_code": "#A9C5E8",
+    "timestamp": "2025-12-07 00:05:05"
 }
