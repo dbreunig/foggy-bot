@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-01-06T07:43:00+00:00",
-            "temperature_f": 52.07,
-            "temperature_c": 11.15,
-            "humidity": null,
+            "timestamp": "2026-01-07T07:43:00+00:00",
+            "temperature_f": 52.196,
+            "temperature_c": 11.22,
+            "humidity": 84.938671711184,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-06T00:00:00-08:00",
-                "endTime": "2026-01-06T06:00:00-08:00",
+                "name": "Tonight",
+                "startTime": "2026-01-06T21:00:00-08:00",
+                "endTime": "2026-01-07T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 51,
+                "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 56
+                    "value": 5
                 },
-                "windSpeed": "9 mph",
-                "windDirection": "ESE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,60?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Mostly cloudy, with a low around 51. East southeast wind around 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "6 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 50. West northwest wind around 6 mph."
             },
             {
                 "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-01-06T06:00:00-08:00",
-                "endTime": "2026-01-06T18:00:00-08:00",
+                "name": "Wednesday",
+                "startTime": "2026-01-07T06:00:00-08:00",
+                "endTime": "2026-01-07T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 57,
+                "temperature": 56,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 15
+                    "value": 7
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Partly Sunny",
-                "detailedForecast": "A slight chance of rain showers before 7am. Partly sunny. High near 57, with temperatures falling to around 55 in the afternoon. Northeast wind around 7 mph. Chance of precipitation is 20%."
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 56, with temperatures falling to around 53 in the afternoon. West northwest wind 7 to 14 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning, Downtown San Francisco is cloaked in a delicate veil of clouds, whispering the promise of rain. The air hangs cool and damp, each breath a gentle reminder of the year just begun. As night gives way to dawn, the cityscape is drenched in a muted palette, suggesting a lingering marine layer that shrouds the Golden Gate and softens the edges of the skyline. There's a 60% chance of rain, which may bring only a light drizzle as the hours unfold, tapering off by the afternoon into scattered glimpses of sunlight.\n\nAs the day progresses, temperatures will linger around 55 degrees, dipped slightly lower after reaching a modest high. A gentle breeze from the northeast adds a crispness to the atmosphere, inviting one to layer lightly for comfort. A jacket or a cozy sweater will serve well against the chill, especially if one ventures near the water, where the ocean\u2019s breath enhances the cool air. Today is not the day for grand excursions but rather for quiet moments\u2014perhaps a lingering stroll through a local caf\u00e9 with warm pastries calling, or time spent in a favorite bookstore, wrapped in the pages of a well-loved novel. For those seeking solace from the rain, a leisurely afternoon spent at home nurturing newly formed resolutions might just be the balm needed for creative contemplation.",
-    "color_code": "#5F9EA0",
-    "timestamp": "2026-01-06 00:06:00"
+    "weather_report": "Tonight in Downtown San Francisco, a soft veil of clouds drapes the sky, casting a gentle warmth that lingers on the city streets. As the temperature nudges down to a comfortable 50 degrees, a light west-northwest breeze whispers through the alleys, inviting a reflective stroll or a quiet gathering with friends. The humidity is palpable, yet there's no sign of the infamous fog rolling in, allowing a clear view of the city\u2019s silhouette against the fading light\u2014a promise of a slightly brighter day ahead.\n\nTomorrow invites a shift to mostly sunny skies, ushering in a high that flirts with 56 degrees before dipping into a mild afternoon chill. The west-northwest wind will pick up, fostering a fresh, invigorating atmosphere that will guide pedestrians along the Embarcadero or through Golden Gate Park. As the day unfolds, it\u2019s a time for light layers\u2014a cozy sweater with perhaps a light jacket for the evening hours ahead. A calm afternoon spent exploring local caf\u00e9s or engaging in spontaneous conversations with fellow city dwellers would be a delightful way to soak in the peaceful pulse of San Francisco on an early January day.",
+    "color_code": "#A9C6E3",
+    "timestamp": "2026-01-07 00:06:06"
 }
