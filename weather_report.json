@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-01-21T07:43:00+00:00",
-            "temperature_f": 51.403999999999996,
-            "temperature_c": 10.78,
-            "humidity": 78.120852098454,
+            "timestamp": "2026-01-22T07:43:00+00:00",
+            "temperature_f": 53.870000000000005,
+            "temperature_c": 12.15,
+            "humidity": 69.328618184616,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-21T00:00:00-08:00",
-                "endTime": "2026-01-21T06:00:00-08:00",
+                "name": "Tonight",
+                "startTime": "2026-01-21T21:00:00-08:00",
+                "endTime": "2026-01-22T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 50,
+                "temperature": 49,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 11
+                    "value": 6
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 50. North wind around 5 mph."
+                "windSpeed": "3 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. Low around 49, with temperatures rising to around 51 overnight. West northwest wind around 3 mph."
             },
             {
                 "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-01-21T06:00:00-08:00",
-                "endTime": "2026-01-21T18:00:00-08:00",
+                "name": "Thursday",
+                "startTime": "2026-01-22T06:00:00-08:00",
+                "endTime": "2026-01-22T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 58,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 22
+                    "value": 6
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/day/ovc,20?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 58, with temperatures falling to around 56 in the afternoon. North northwest wind around 5 mph. Chance of precipitation is 20%."
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Sunny",
+                "detailedForecast": "Patchy fog between 7am and 9am. Mostly sunny. High near 59, with temperatures falling to around 55 in the afternoon. West southwest wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As night holds sway over Downtown San Francisco, the air carries a cool whisper that drifts through the streets, tempered by a gentle north wind. Tonight, the city is enshrouded in a layer of cloud, casting soft shadows over the familiar skyline. The temperature hovers comfortably in the low fifties, inviting one to wrap up in the warmth of a sweater or light jacket should a walk through the illuminated streets call.\n\nTomorrow, as dawn breaks and the clouds persist, expect a day shrouded in a milky haze, with temperatures peeking in the upper fifties before easing back. The forecast hints at a modest chance\u2014twenty percent\u2014for precipitation, perhaps a fleeting drizzle that would soften the edges of the day's bustle. Fog, the city\u2019s ever-present companion, lingers just outside the visual embrace of the Golden Gate, although not in the thick curtain that often blankets the bay. It is a muted kind of beauty, the kind that makes the vibrant colors of the urban landscape feel all the more poignant.\n\nFor those seeking solace in the rhythms of the day, a stroll through nearby parks could provide a refreshing lift. A visit to a local caf\u00e9, indulging in warm pastries while watching the city awaken, seems a fitting pursuit. Alternatively, one might simply lose themselves in a book at home, wrapped in a cozy blanket, listening to the soft patter of rain, perhaps a fleeting spritz of what tomorrow might hold. Dress for comfort and warmth, and surrender to this hazy charm of a San Francisco morn.",
-    "color_code": "#B0C4D9",
-    "timestamp": "2026-01-21 00:06:29"
+    "weather_report": "Tonight in Downtown San Francisco, the city enveloped itself in a cloak of clouds, casting a gentle dimness over the streets. As the evening cools, temperatures will glide down to a comfortable 49 degrees, with the promise of a slight rise through the night, inducing a whisper of warmth against the chill. As the clock ticks towards morning, expect the soft hush of patchy fog lingering between the hours of 7 and 9, a reminder of the ocean's breath melding with the urban landscape. \n\nCome Thursday, the day will unfold under a mostly sunny sky, briefly interrupted by the tantalizing tease of fog at dawn, yet yielding to clearer skies as the sun climbs higher. Anticipate a high near 59, though the afternoon chill will coax it down to a cooler 55. The breeze from the west southwest will flutter gently, a barely-there presence at 2 to 7 mph. Dress in layers: a light jacket will serve you well against the morning's nip, while a comfortable shirt will suffice as the day warms. With the day unfolding in a promising manner, consider a peaceful stroll along the waterfront or a leisurely visit to a local caf\u00e9, where you can relish a warm drink as time slips by, taking in the bustling rhythms of city life and the subtle transformations of the landscape.",
+    "color_code": "#B3C3E6",
+    "timestamp": "2026-01-22 00:05:47"
 }
