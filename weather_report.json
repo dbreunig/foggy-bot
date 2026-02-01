@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-01-31T07:43:00+00:00",
-            "temperature_f": 53.492,
-            "temperature_c": 11.94,
-            "humidity": 76.043271826064,
+            "timestamp": "2026-02-01T07:43:00+00:00",
+            "temperature_f": 55.418,
+            "temperature_c": 13.01,
+            "humidity": 70.311034440316,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-31T00:00:00-08:00",
-                "endTime": "2026-01-31T06:00:00-08:00",
+                "name": "Tonight",
+                "startTime": "2026-01-31T20:00:00-08:00",
+                "endTime": "2026-02-01T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 49,
+                "temperature": 48,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 2
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "NNE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 49. North northeast wind around 7 mph."
+                "windSpeed": "5 mph",
+                "windDirection": "NNW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
+                "shortForecast": "Mostly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after midnight. Mostly cloudy. Low around 48, with temperatures rising to around 50 overnight. North northwest wind around 5 mph."
             },
             {
                 "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-01-31T06:00:00-08:00",
-                "endTime": "2026-01-31T18:00:00-08:00",
+                "name": "Sunday",
+                "startTime": "2026-02-01T06:00:00-08:00",
+                "endTime": "2026-02-01T18:00:00-08:00",
                 "isDaytime": true,
                 "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 2
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 62, with temperatures falling to around 60 in the afternoon. North wind around 7 mph."
+                "windSpeed": "3 to 14 mph",
+                "windDirection": "WNW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Partly Sunny",
+                "detailedForecast": "Patchy fog before 9am. Partly sunny. High near 62, with temperatures falling to around 59 in the afternoon. West northwest wind 3 to 14 mph."
             }
         ]
     },
-    "weather_report": "As the early hours of Saturday embrace Downtown San Francisco, a blanket of clouds softly cloaks the skyline, lending an air of mystery to the city. The temperature hovers around a cool 49 degrees, prompting the wise to wrap themselves in layers, perhaps a well-worn sweater accompanied by a light jacket, shielding against the gentle north wind. The clouds will begin to part as the day unfolds, yielding to moments of partial sunshine that struggle to warm the city, with an expected high nearing 62 and temperatures gradually retreating as afternoon approaches.\n\nWhile fog may linger over the bay, hinting at the marine layer, the city itself remains relatively clear, allowing for glimpses of the iconic Golden Gate Bridge, silhouetted against the fading dusk. For those yearning to make the most of the day, a leisurely stroll along the waterfront or a visit to one of the city's charming caf\u00e9s might be the perfect way to savor the scenery while discussing the little things in life. Perhaps take time to explore the winding streets of Soma or relish the tranquility of a quiet park bench, sipping a warm drink in the midst of this picturesque urban haven.",
+    "weather_report": "As the night deepens over Downtown San Francisco, a gentle veil of patchy fog begins to settle following midnight, embracing the iconic skyline in hushed tones and transforming the familiar into a scene of soft mystery. The temperatures take a subtle shift, lingering around the mid-forties before nudging towards fifty, while a light breeze whispers from the north-northwest, carrying with it the promise of the day to come. Tonight's atmosphere feels contemplative, a time for quiet reflection against the city's twinkling backdrop, perfect for cozying up with a book or perhaps enjoying a quiet cup of tea by the window.\n\nAs dawn approaches on Sunday, expect lingering fog to shuffle through the streets until around nine o'clock, giving way to patchy sunbeams that will gradually warm the air to approximately sixty-two. The afternoon will invite a subtle coolness, urging temperatures to descend, making it a day that dances between the serene warmth of sun and the crisp embrace of lingering coolness. Attire in layers would serve you well; a light jacket over a comfortable sweater will harmonize with the weather\u2019s mood. With such a contemplative scene unfolding, a leisurely stroll through Golden Gate Park or a visit to a local caf\u00e9 to savor a warm muffin while people-watching would offer the perfect escape from the urban rush, making the most of a day shrouded in both stillness and gentle promise.",
     "color_code": "#B0C4DE",
-    "timestamp": "2026-01-31 00:05:54"
+    "timestamp": "2026-02-01 00:07:08"
 }
