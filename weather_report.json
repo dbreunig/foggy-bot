@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-02-02T07:43:00+00:00",
-            "temperature_f": 52.664,
-            "temperature_c": 11.48,
-            "humidity": 70.009855507925,
+            "timestamp": "2026-02-03T07:43:00+00:00",
+            "temperature_f": 53.221999999999994,
+            "temperature_c": 11.79,
+            "humidity": 82.018710566282,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,9 +18,9 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-02-01T18:00:00-08:00",
-                "endTime": "2026-02-02T06:00:00-08:00",
+                "name": "Overnight",
+                "startTime": "2026-02-03T00:00:00-08:00",
+                "endTime": "2026-02-03T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 48,
                 "temperatureUnit": "F",
@@ -29,34 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "3 to 7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium",
-                "shortForecast": "Mostly Clear then Patchy Fog",
-                "detailedForecast": "Patchy fog between 1am and 5am. Mostly clear, with a low around 48. Northwest wind 3 to 7 mph."
+                "windSpeed": "6 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 48. Northeast wind around 6 mph."
             },
             {
                 "number": 2,
-                "name": "Monday",
-                "startTime": "2026-02-02T06:00:00-08:00",
-                "endTime": "2026-02-02T18:00:00-08:00",
+                "name": "Tuesday",
+                "startTime": "2026-02-03T06:00:00-08:00",
+                "endTime": "2026-02-03T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 62,
+                "temperature": 65,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium",
-                "shortForecast": "Patchy Fog then Sunny",
-                "detailedForecast": "Patchy fog before 8am. Sunny. High near 62, with temperatures falling to around 60 in the afternoon. North northwest wind around 6 mph."
+                "windSpeed": "9 mph",
+                "windDirection": "NNE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 65, with temperatures falling to around 63 in the afternoon. North northeast wind around 9 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning, Downtown San Francisco lies cloaked in a delicate shroud of patchy fog, a gentle reminder of the marine layer that rolls in with the tide. As the clock tips towards dawn, the world seems hushed, the air crisp and inviting, offering a low of 48 degrees. The faint stir of a northwest wind brushes softly against the face, whispering tales of the golden bridge draped in mist, waiting for the sun to peel back the layers of gray.\n\nAs the sun rises higher, the fog will retreat, giving way to a brilliant blue sky. By midday, it promises a delightful warmth, flirting with temperatures near 62. Dress in layers, for the cool mornings and mild afternoons call for a light jacket that can be shed as the sun courts the day. With the clarity that emerges, the city invites leisurely strolls along the waterfront, or perhaps engaging in a quiet caf\u00e9 moment with a warm cup, watching the world awaken in a swirl of color and life. The day unfolds like a gentle embrace, full of the promise of spring but firmly rooted in the rhythm of winter's lingering chill.",
-    "color_code": "#A2C2E1",
-    "timestamp": "2026-02-02 00:13:17"
+    "weather_report": "In the stillness of the night, Downtown San Francisco is wrapped in a blanket of tranquility, the air cool and crisp with a gentle breeze that whispers through the streets. The upcoming day promises to unveil a resplendent canvas of sunshine, as the morning light breaks the dawn and lifts the overhanging shadows of the night. Expect temperatures to rise modestly, reaching a peak around 65 degrees before softening slightly with the afternoon's embrace.\n\nThe horizon reveals a haze of clarity, hinting at the absence of fog\u2014a welcomed respite that allows the city\u2019s iconic silhouette to stand proud under the luminous sky. Dressing in layers is advisable; as the sun warms the day, a light sweater or jacket may be needed in the cooler moments, especially near the bay\u2019s edge where a subtle chill lingers. With such splendid weather on offer, consider taking a leisurely stroll through the vibrant avenues, perhaps stopping for a coffee at a sidewalk caf\u00e9 while savoring the feel of the world awakening around you. Alternatively, a quiet visit to one of the parks could provide a serene escape, inviting you to linger and breathe deeply as the scenery unfolds.",
+    "color_code": "#E0E0E0",
+    "timestamp": "2026-02-03 00:11:38"
 }
