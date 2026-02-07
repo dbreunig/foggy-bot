@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-02-06T07:43:00+00:00",
-            "temperature_f": 59.522,
-            "temperature_c": 15.29,
-            "humidity": 66.022776340176,
+            "timestamp": "2026-02-07T07:43:00+00:00",
+            "temperature_f": 52.538,
+            "temperature_c": 11.41,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,44 +19,44 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-02-06T00:00:00-08:00",
-                "endTime": "2026-02-06T06:00:00-08:00",
+                "startTime": "2026-02-07T00:00:00-08:00",
+                "endTime": "2026-02-07T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 53,
+                "temperature": 51,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 7
+                    "value": 1
                 },
-                "windSpeed": "3 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 53. West wind around 3 mph."
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 51. West wind around 7 mph."
             },
             {
                 "number": 2,
-                "name": "Friday",
-                "startTime": "2026-02-06T06:00:00-08:00",
-                "endTime": "2026-02-06T18:00:00-08:00",
+                "name": "Saturday",
+                "startTime": "2026-02-07T06:00:00-08:00",
+                "endTime": "2026-02-07T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 64,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 7
+                    "value": 0
                 },
-                "windSpeed": "3 to 7 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 60 in the afternoon. West southwest wind 3 to 7 mph."
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Partly Sunny",
+                "detailedForecast": "Patchy fog before 11am. Partly sunny. High near 62, with temperatures falling to around 59 in the afternoon. West wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the early morning hours unfurl in Downtown San Francisco, the city is draped in a vestige of clouds, hinting at the gentle embrace of fog typical of the bay. With temperatures hovering around a cool 53 degrees, the atmosphere carries a damp chill, a whisper of the marine layer that clings to the edges of the skyline. The soft westerly breeze, barely stirring at 3 mph, adds to the tranquil ambiance, making it a fitting time to wrap oneself in a light jacket or cardigan.\n\nAs the day progresses, golden rays of sunshine will gradually pierce through the lingering overcast, revealing a high near 64 degrees. The warmth will diminish by afternoon, kissing the air with a refreshing coolness. Ideal for exploration, this transition offers an inviting canvas for leisurely strolls through the city\u2019s iconic streets or a visit to one of its cherished parks. Perhaps there's joy to be found in a local caf\u00e9, savoring a warm drink as daylight unfolds, or a chance to peruse the shops, gathering inspiration from the vibrant pulse of urban life. Dress in layers to comfortably navigate the shifting temperatures, and embrace what this relatively subdued yet distinctively San Franciscan day has to offer.",
-    "color_code": "#A8C8E8",
-    "timestamp": "2026-02-06 00:13:09"
+    "weather_report": "As the night whispers softly over Downtown San Francisco, a cloak of patchy fog wraps around the city, lending a serene but mysterious quality to the evening air. It\u2019s a low, gentle 51 degrees, with a breeze from the west stirring just enough to carry the coolness, a reminder of the ocean's proximity. Tomorrow holds promise, with the sun set to make its appearance, breaking through the fog before 11 a.m. and casting a gentle warmth upon the streets, as temperatures rise toward a modest 62. However, as the day unfolds into the afternoon, one can expect a subtle retreat, with the air cooling slightly to around 59 degrees, a comfortable embrace for those meandering about the city.\n\nFor those venturing outdoors, it's wise to dress in layers, with a light jacket at hand, shielding against the morning chill while remaining prepared for the sun peeking through the clouds. Savoring a quiet stroll along the Embarcadero as the fog dissipates offers a delightful start to the day, perhaps followed by an indulgent stop at a local cafe for a warm cup of coffee, where the chatter of patrons mingles with the sounds of the waves gently lapping at the shore. The day ahead, with its mix of clarity and lingering coastal fog, offers a canvas on which to paint simple pleasures, ideal for exploring the nooks of the city or unwinding on a park bench with a good book, as the vibrant pulse of life continues to unfold around you.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-02-07 00:06:45"
 }
