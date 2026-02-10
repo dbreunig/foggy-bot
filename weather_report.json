@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-02-09T07:43:00+00:00",
-            "temperature_f": 54.122,
-            "temperature_c": 12.29,
-            "humidity": 100,
+            "timestamp": "2026-02-10T07:43:00+00:00",
+            "temperature_f": 52.214,
+            "temperature_c": 11.23,
+            "humidity": 70.981888286711,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-09T00:00:00-08:00",
-                "endTime": "2026-02-09T06:00:00-08:00",
+                "name": "Tonight",
+                "startTime": "2026-02-09T20:00:00-08:00",
+                "endTime": "2026-02-10T06:00:00-08:00",
                 "isDaytime": false,
                 "temperature": 51,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 3
+                    "value": 4
                 },
                 "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog before 3am. Mostly cloudy, with a low around 51. Northwest wind around 6 mph."
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 51. East wind around 6 mph."
             },
             {
                 "number": 2,
-                "name": "Monday",
-                "startTime": "2026-02-09T06:00:00-08:00",
-                "endTime": "2026-02-09T18:00:00-08:00",
+                "name": "Tuesday",
+                "startTime": "2026-02-10T06:00:00-08:00",
+                "endTime": "2026-02-10T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 61,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 89
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Cloudy",
-                "detailedForecast": "Patchy fog before 7am. Mostly cloudy. High near 61, with temperatures falling to around 58 in the afternoon. Northwest wind around 6 mph."
+                "windSpeed": "1 to 10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/tsra_sct,90?size=medium",
+                "shortForecast": "Chance Light Rain then Showers And Thunderstorms",
+                "detailedForecast": "A chance of rain between 11am and 1pm, then showers and thunderstorms. Mostly cloudy. High near 59, with temperatures falling to around 55 in the afternoon. South wind 1 to 10 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In the early hours of this Monday morning, Downtown San Francisco finds itself cloaked in a familiar veil of patchy fog, a gentle reminder of the marine layer that envelops the city at night. As the clock approaches the dawn, the clouds hang overhead, lending a muted softness to the skyline. The temperature rests comfortably in the low fifties, caressed by a subtle northwest wind that whispers through the streets. This dampness drapes the city in an embrace, setting the stage for a day that will emerge slowly from its slumber.\n\nAs the day unfolds, expect the fog to retreat but leave behind a mostly cloudy canvas with a high hovering near sixty-one. The chill of the morning will linger, making the afternoons a touch brisk, especially as temperatures dip around fifty-eight. It may be wise to don layers\u2014perhaps a light jacket or a cozy scarf to guard against the cool breeze. The fog will likely tease the coast and the hills, allowing glimpses of sunlight to emerge, entreating those with the spirit of wanderlust to explore. Activities like a leisurely stroll through the quiet streets or finding solace in a local caf\u00e9 with a warm beverage might beautifully complement the day\u2019s atmospheric charm. The beauty of this weather embraces the essence of San Francisco\u2014an elegant dance between the clouds and the earth.",
-    "color_code": "#A0B0B8",
-    "timestamp": "2026-02-09 00:15:08"
+    "weather_report": "Tonight settles over Downtown San Francisco like a well-worn blanket, the chill mixing with the dampness in the air as the sun relinquishes its hold. The low lies in the low fiftys, while a gentle east wind whispers, barely disturbing the stillness. As dusk drapes itself across the skyline, the promise of tomorrow looms\u2014clouds gather in anticipation, portending rain that may arrive mid-morning, likely sweeping through by lunchtime, bringing with it the percussion of showers and perhaps a rumble of thunder. The air will cool, hovering around the mid-fifties, wrapped in a curtain of gray.\n\nAs the day unfolds, one should dress thoughtfully to combat the persistent chill, layering is paramount. A sturdy, water-resistant jacket to fend off unexpected droplets and a soft scarf can provide comfort against the east wind. The scene may not promise the warmth of a sun-drenched afternoon, but opportunities abound for quiet contemplation with a steaming cup in hand at a local caf\u00e9 or the pleasure of meandering through the misty streets, where the familiar landmarks take on an air of mystery. In the afternoon, when the rain may wane, a brisk walk along the waterfront could be unobtrusively enlivening\u2014a chance to witness the dance of waves under the weight of a heavy sky, a serene reminder of nature's workings.",
+    "color_code": "#808080",
+    "timestamp": "2026-02-10 00:16:08"
 }
