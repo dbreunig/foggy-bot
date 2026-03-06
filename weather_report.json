@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-03-05T07:43:00+00:00",
-            "temperature_f": 53.384,
-            "temperature_c": 11.88,
-            "humidity": 58.017628370944,
+            "timestamp": "2026-03-06T07:43:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,44 +19,44 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-03-05T00:00:00-08:00",
-                "endTime": "2026-03-05T06:00:00-08:00",
+                "startTime": "2026-03-06T00:00:00-08:00",
+                "endTime": "2026-03-06T06:00:00-08:00",
                 "isDaytime": false,
-                "temperature": 48,
+                "temperature": 52,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "13 mph",
+                "windSpeed": "12 to 15 mph",
                 "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 48. North northwest wind around 13 mph, with gusts as high as 20 mph."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear. Low around 52, with temperatures rising to around 54 overnight. North northwest wind 12 to 15 mph, with gusts as high as 26 mph."
             },
             {
                 "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-03-05T06:00:00-08:00",
-                "endTime": "2026-03-05T18:00:00-08:00",
+                "name": "Friday",
+                "startTime": "2026-03-06T06:00:00-08:00",
+                "endTime": "2026-03-06T18:00:00-08:00",
                 "isDaytime": true,
-                "temperature": 64,
+                "temperature": 70,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 1
                 },
-                "windSpeed": "9 to 14 mph",
+                "windSpeed": "9 to 16 mph",
                 "windDirection": "NNW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 62 in the afternoon. North northwest wind 9 to 14 mph, with gusts as high as 21 mph."
+                "detailedForecast": "Sunny. High near 70, with temperatures falling to around 68 in the afternoon. North northwest wind 9 to 16 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "In the serene hours of night, the air in Downtown San Francisco rests quietly between the gentle embrace of a cool breeze and the promise of a sun-drenched afternoon. As the low temperature hovers around 48 degrees, a north-northwest wind whispers through the streets at 13 mph, bringing with it a refreshing hint of clarity, free from the burdens of fog. The very essence of the Bay is awakening, untouched by the morning marine layer that so often veils this coastal city. Tomorrow graces us with a sunlit day, peaking at a comfortable 64 degrees, soon to settle into the mellow warmth of 62 as the afternoon unfurls.\n\nOn this lovely Thursday, light layers are your best companion; a sweater to ward off the evening chill and a light jacket to embrace the day\u2019s gentle warmth will serve you well. With the sun in its full glory, consider a leisurely stroll along the waterfront or a quiet coffee at a local caf\u00e9, where the laughter of passersby infuses the air with a delightful hum. Embrace the subtle charm of this moment, where the city prepares to reveal its beauty, and perhaps share the day\u2019s tranquility with a close friend beneath the brightening sky.",
-    "color_code": "#A8D5E0",
-    "timestamp": "2026-03-05 00:11:04"
+    "weather_report": "In the quiet hours of the early morning, Downtown San Francisco wakes under a canopy of clarity, the skyline punctuated by the city's iconic silhouettes. Currently, the air is crisp with a low temperature settling around 52 degrees, but it will soon rise, mingling with the gentle northwesterly winds that whisper promises of a sunny day. A band of brightness breaks the night, indicating the decreasing influence of fog that weaves itself through the Bay, retreating to reveal the spacious blue overhead.\n\nAs the day unfolds, expect the warmth of sunlight to glide over the landscape, with highs reaching toward a comfortable 70 degrees. While the afternoon may see a slight dip back to the mid-60s, the vibrant charm of a sun-soaked day invites you out. Dress in layers to embrace the day's transition\u2014from a light jacket for morning strolls to a cozy t-shirt as the sun stands high. Take a moment to savor this tranquility: a leisurely walk through local parks, perhaps visiting a hidden caf\u00e9 to sip on steaming coffee, or exploring the charming corners of the city where every street hums with life. Engage with the rhythms of this coastal haven, as the day beckons you to revel in its beauty.",
+    "color_code": "#F3E5AB",
+    "timestamp": "2026-03-06 00:09:22"
 }
