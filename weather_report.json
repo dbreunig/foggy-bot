@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-04-04T07:43:00+00:00",
-            "temperature_f": 58.118,
-            "temperature_c": 14.51,
-            "humidity": 51.974963061595,
+            "timestamp": "2026-04-05T06:43:00+00:00",
+            "temperature_f": 65.462,
+            "temperature_c": 18.59,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,44 +19,44 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-04-04T01:00:00-07:00",
-                "endTime": "2026-04-04T06:00:00-07:00",
+                "startTime": "2026-04-05T01:00:00-07:00",
+                "endTime": "2026-04-05T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 53,
+                "temperature": 56,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "ENE",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 53. East northeast wind around 6 mph."
+                "windSpeed": "2 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 56. Northeast wind around 2 mph."
             },
             {
                 "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-04-04T06:00:00-07:00",
-                "endTime": "2026-04-04T18:00:00-07:00",
+                "name": "Sunday",
+                "startTime": "2026-04-05T06:00:00-07:00",
+                "endTime": "2026-04-05T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 76,
+                "temperature": 80,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 1
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "N",
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 76. North wind around 7 mph."
+                "detailedForecast": "Mostly sunny. High near 80, with temperatures falling to around 74 in the afternoon. Northwest wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the quiet hours of the early morning drift by in Downtown San Francisco, the air remains refreshingly crisp, with the temperature settling comfortably around 53 degrees. The evening\u2019s fog has retreated, unveiling a mostly clear sky that is a harbinger of a sun-kissed Saturday ahead. A gentle breeze from the east-northeast rustles the leaves in the parks and along the streets, carrying whispers of the warmth to come. \n\nTomorrow holds the promise of a mostly sunny day, as the bright golden orb ascends into the sky, casting a delightful glow over the city. Anticipated highs near 76 degrees will create an inviting atmosphere for leisurely outdoor pursuits. It's a day where the marine layer may offer a playful dance along the edges of the Bay but largely spares downtown from its embrace. For those stepping out, lightweight layers are advisable; perhaps a light sweater for the morning and a comfortable t-shirt by midday, perfect for a stroll down to the waterfront or a leisurely lunch at one of the outdoor cafes. With the sun\u2019s warmth beckoning, consider a visit to the nearby parks or enjoy an afternoon wandering through the local boutiques and art galleries, where the city's vibrant spirit shines as brightly as the day itself.",
-    "color_code": "#FFCC00",
-    "timestamp": "2026-04-04 01:12:28"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle hush blankets the city, the air enveloped in a subtle coolness reminiscent of a soft whisper. The forecast encourages reflection, promising mostly sunny skies as the day unfolds, with temperatures reaching a delightful 80 degrees, before delicately settling to a comfortable 74. A light breeze from the northwest brushes against the skin, invigorating yet not overwhelming, while the clearest signs of fog are absent, allowing the iconic city's landmarks to stand proudly in the crisp morning light.\n\nToday beckons you outdoors, urging a stroll through the vibrant streets or a leisurely coffee at a sidewalk caf\u00e9 where the warm sun can touch your face. A light jacket may accompany you for the early hours, but shed it as midday approaches; a simple t-shirt paired with comfortable jeans or shorts will suit the day well. Venture to the waterfront to take in the sights and sounds of the bay, or perhaps engage in quiet contemplation among the lush greenery of Golden Gate Park. Whatever your inclination, the day's charm offers an invitation\u2014a gentle reminder to savor the moment as the sun paints its golden hues across the skyline.",
+    "color_code": "#FFD700",
+    "timestamp": "2026-04-05 01:12:24"
 }
