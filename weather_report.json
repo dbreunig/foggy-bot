@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-04-15T07:43:00+00:00",
-            "temperature_f": 52.376,
-            "temperature_c": 11.32,
-            "humidity": 75.992811434034,
+            "timestamp": "2026-04-16T07:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,44 +19,44 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-04-15T01:00:00-07:00",
-                "endTime": "2026-04-15T06:00:00-07:00",
+                "startTime": "2026-04-16T01:00:00-07:00",
+                "endTime": "2026-04-16T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 51,
+                "temperature": 48,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 51. West wind around 8 mph."
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear. Low around 48, with temperatures rising to around 50 overnight. Northwest wind 7 to 10 mph."
             },
             {
                 "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-04-15T06:00:00-07:00",
-                "endTime": "2026-04-15T18:00:00-07:00",
+                "name": "Thursday",
+                "startTime": "2026-04-16T06:00:00-07:00",
+                "endTime": "2026-04-16T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 63,
+                "temperature": 67,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 0
                 },
-                "windSpeed": "7 to 15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. West wind 7 to 15 mph, with gusts as high as 21 mph."
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 67. North wind 6 to 12 mph."
             }
         ]
     },
-    "weather_report": "Tonight's embrace in Downtown San Francisco is characterized by a gentle stirring of clouds against a cool backdrop, the temperature dipping comfortably to a cozy 51. As the sun rises on Wednesday, the scene unfolds and reveals a panorama brightened by genuine warmth, though it might not reach its peak until the afternoon, settling near 61. The breeze from the west will lend a brisk touch, playfully tousling your hair, while the occasional gust serves as a reminder of the spirited nature of the city. \n\nAt this hour, a subtle marine layer may linger along the coastline, hinting at the fog that can often grace our skies, though it is expected to give way to clearer horizons as the day progresses. The pleasantness of the day invites leisurely ambulations through bustling neighborhoods or quiet moments at a local caf\u00e9. Layering up with a light jacket or cozy sweater will be ideal for navigating the cool morning air, just as a comfortable pair of shoes will prepare you for the adventures awaiting on the city\u2019s hilly streets. Whether wandering through the historic streets or indulging in a quiet afternoon with a good read, there is an unmistakable charm in the air, encouraging you to savor the day ahead.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2026-04-15 01:35:11"
+    "weather_report": "As the midnight hour softly wanes into the early hours of a new day in Downtown San Francisco, the air remains invitingly crisp, with clarity settling in after a brief coastal embrace of solitude. With temperatures grazing the coolness of 48 degrees, a gentle northwest wind rustles the leaves, promising a gradual rise to 50 as the ochre dawn stretches its limbs across the skyline. The peaceful hush envelops the city, a momentary lull before the bustle of the day ahead unfurls.\n\nCome Thursday, the sun is poised to take center stage, ushering a warmth that will lift the day to a comfortable 67 degrees. With a north wind offering a light refreshing breeze, the atmosphere feels pleasantly alive, hinting at a day suitable for leisurely escapades. Although fog may lurk somewhere in the horizon, today's forecasts reveal a break in the marine layer, paving the way for well-lit adventures. As the sun ascends, it becomes a fine opportunity to don layers\u2014perhaps a light sweater paired with a comfortable shirt, allowing for versatility as the day transitions toward warmth. Given these conditions, one might find joy in a stroll along the waterfront or a quiet moment spent at a caf\u00e9, sipping artisanal coffee while observing the world awaken. The blend of bright sunshine and refreshing air will surely invigorate one's spirit in this charming city, mere steps away from the serene beauty of the bay.",
+    "color_code": "#FFD700",
+    "timestamp": "2026-04-16 01:35:40"
 }
