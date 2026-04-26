@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-04-25T07:43:00+00:00",
-            "temperature_f": 53.942,
-            "temperature_c": 12.19,
-            "humidity": 69.004135070341,
+            "timestamp": "2026-04-26T07:43:00+00:00",
+            "temperature_f": 53.870000000000005,
+            "temperature_c": 12.15,
+            "humidity": 79.021300989141,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,44 +19,44 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-04-25T01:00:00-07:00",
-                "endTime": "2026-04-25T06:00:00-07:00",
+                "startTime": "2026-04-26T00:00:00-07:00",
+                "endTime": "2026-04-26T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 52,
+                "temperature": 53,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 6
+                    "value": 22
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. West southwest wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle. Mostly cloudy, with a low around 53. West southwest wind around 8 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-04-25T06:00:00-07:00",
-                "endTime": "2026-04-25T18:00:00-07:00",
+                "name": "Sunday",
+                "startTime": "2026-04-26T06:00:00-07:00",
+                "endTime": "2026-04-26T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 60,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 10
+                    "value": 22
                 },
-                "windSpeed": "7 to 12 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 60. West southwest wind 7 to 12 mph."
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain?size=medium",
+                "shortForecast": "Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle before 2pm. Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. West wind 7 to 13 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "A veil of clouds drapes gently over Downtown San Francisco, with the night still holding sway at this early hour. The air, crisp and invigorating, carries with it the faint promise of warmth as the sun prepares to peer through the morning haze. The temperature hovers around the cool 52 degrees, complemented by a gentle west-southwest breeze that whispers secrets through the quiet streets.\n\nAs dawn approaches, expect a continuation of this mostly cloudy blanket, yielding to a high near 60 come midday. The soft murmur of the marine layer lingers in the corners, hint at the possibility of light fog along the bay. It's a day that invites layered attire\u2014think of a light sweater complemented by a cozy jacket for those moments when the ocean's breath is particularly cool. With such atmospheric conditions, a leisurely stroll along the Embarcadero or a quiet coffee in a local caf\u00e9 not only seems fitting but also delightful. As the day unfolds, take a moment to appreciate the subtle beauty of a city that thrives in the gentle dance between fog and clarity.",
-    "color_code": "#B0C4D9",
-    "timestamp": "2026-04-25 01:20:34"
+    "weather_report": "In the heart of Downtown San Francisco, the early morning hours bring with them a gentle whisper of drizzle, barely enough to dampen the streets but sufficient to enshroud the city in a cool, damp embrace. As the sun begins to peek tentatively from behind scattered clouds, the murkiness of the night gives way to an overcast sky, hinting at the possibility of a mostly sunny afternoon. The day feels crisp and invigorating, ideal for those who enjoy a brisk stroll along the waterfront or perhaps a quiet moment spent in one of the city's cozy cafes.\n\nWhile the anticipated high temperature will hover around a pleasant 62 degrees, the lingering marine layer may obscure some of the more distant views, particularly towards the Golden Gate. Given the cool wind that plays along the streets, layering is advisable: a light jacket or cardigan will complement a simple outfit comfortably throughout the day. As the drizzle dissipates by midday, one might find themselves drawn to the abundant parks and winding trails, where the fresh scent of the ocean mingles with flowering greenery, creating an opportunity to appreciate nature's beauty amidst the urban tapestry.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-04-26 01:27:23"
 }
