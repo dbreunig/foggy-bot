@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-07-12T07:43:00+00:00",
-            "temperature_f": 56.624,
-            "temperature_c": 13.68,
-            "humidity": 86.970604205103,
+            "timestamp": "2026-07-13T08:43:00+00:00",
+            "temperature_f": 58.352,
+            "temperature_c": 14.64,
+            "humidity": 81.136547677111,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,44 +19,44 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-07-12T01:00:00-07:00",
-                "endTime": "2026-07-12T06:00:00-07:00",
+                "startTime": "2026-07-13T02:00:00-07:00",
+                "endTime": "2026-07-13T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 57,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "3 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 58. Southwest wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-07-13T06:00:00-07:00",
+                "endTime": "2026-07-13T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 72,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 5
                 },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 57. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-07-12T06:00:00-07:00",
-                "endTime": "2026-07-12T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "5 to 9 mph",
-                "windDirection": "SW",
+                "windSpeed": "2 to 10 mph",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 69, with temperatures falling to around 66 in the afternoon. Southwest wind 5 to 9 mph."
+                "detailedForecast": "Partly sunny. High near 72, with temperatures falling to around 69 in the afternoon. West southwest wind 2 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the early hours of the morning unfold over Downtown San Francisco, a quilt of clouds settles quietly, their edges soft and undefined, suggesting that the peaceful night is poised to linger a little longer. The temperature, a gentle whisper around 57 degrees, hints at a mildness that beckons for a light layers\u2014perhaps a cardigan or a soft jacket to stave off any residual chill. The southwest wind carries a playful spirit, nudging through the city streets at about 8 mph, while the early light holds promise for the day ahead.\n\nAs you transition into Sunday, expect a shift\u2014partly sunny skies will gradually unveil themselves, allowing warmth to creep in, with a high nearing 69 degrees. Though temperatures will embark on a gentle descent, this transition from the cool embrace of morning to the more amiable afternoons creates an inviting atmosphere to explore the streets or enjoy a leisurely brunch at a quaint caf\u00e9. Just keep an eye out for the delicate remnants of fog, lingering but sparse, offering an ethereal backdrop as it retreats. Dress simply, perhaps in layers suitable for varying degrees of warmth, and the day may declare itself ideal for an unhurried stroll through the waterfront, where the cool breeze mingles with the soft chatter of morning life.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-07-12 01:44:59"
+    "weather_report": "As night drapes its silken fabric over Downtown San Francisco, the atmosphere is predominantly cloudy, whispering promises of cooler dawns to come. Temperatures cradle gently around 58 degrees, with a soft southwest breeze stirring lazily. Yet, as the sun inches towards its ascent, anticipation builds in the air, paving the way for a partly sunny Monday. Expect a balmy high, teasing at 72 degrees, descending gracefully to 69 as the day unfurls its canvas, the west-southwest wind ushering in a mellow draft.\n\nThe allure of the day beckons travelers to experience the city in its shifting light. Although the expected marine layer may cloak the Golden Gate Bridge in playful veils, there remains an undeniable charm in the mild warmth that invites leisurely strolls along the Embarcadero or quiet moments in the park, perhaps with a book in hand. For an afternoon jaunt, a light jacket or a comfortable sweater would suit admirably, offering just enough warmth against any lingering nips from that familiar fog. Such tender weather calls for enjoying a local caf\u00e9, savoring craft coffee while observing the urban rhythms of life, where moments are gently wrapped in fog and sunlight alike.",
+    "color_code": "#A6C1D4",
+    "timestamp": "2026-07-13 02:05:45"
 }
