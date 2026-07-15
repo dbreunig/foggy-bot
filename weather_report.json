@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-07-14T07:43:00+00:00",
-            "temperature_f": 60.656,
-            "temperature_c": 15.92,
-            "humidity": 75.981165514765,
+            "timestamp": "2026-07-15T07:43:00+00:00",
+            "temperature_f": 61.826,
+            "temperature_c": 16.57,
+            "humidity": 65.987127891817,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,44 +19,44 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-07-14T01:00:00-07:00",
-                "endTime": "2026-07-14T06:00:00-07:00",
+                "startTime": "2026-07-15T01:00:00-07:00",
+                "endTime": "2026-07-15T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 58,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 59. Southwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-07-15T06:00:00-07:00",
+                "endTime": "2026-07-15T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 72,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 58. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-07-14T06:00:00-07:00",
-                "endTime": "2026-07-14T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 73,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "3 to 13 mph",
-                "windDirection": "SW",
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 73, with temperatures falling to around 71 in the afternoon. Southwest wind 3 to 13 mph, with gusts as high as 18 mph."
+                "detailedForecast": "Sunny. High near 72, with temperatures falling to around 70 in the afternoon. West southwest wind 6 to 14 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, the night has drifted in quietly, leaving behind a whisper of clarity that lingers in the air. With a low hovering gently around 58 degrees, the atmosphere feels refreshingly cool, aided by a soft southwest wind. As dawn breaks, the sun emerges, casting a golden glow across the landscape, promising a high of 73 degrees. The breeze may rise to greet the day, bringing with it the subtle, invigorating scent of the sea, perfect for a leisurely morning stroll along the waterfront.\n\nAs the sun climbs higher, the likely presence of fog along the coast may retreat, unveiling stunning vistas that beckon one to explore. Dress yourself comfortably in layers, with a light jacket for the morning's chill that can be shed as you bask in warmer afternoon warmth. Given the clear skies and gentle winds, it's an ideal day to visit one of San Francisco's many parks\u2014perhaps a quiet bench at Alamo Square or a walk through Golden Gate Park, where nature thrives in harmonious simplicity. With the marine layer receding, the city invites you to unravel its beauty, allowing you to feel the pulse of its vibrant streets and endless horizons.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2026-07-14 01:44:08"
+    "weather_report": "In the early hours of a Wednesday morning in Downtown San Francisco, the air is crisp and tranquil, painting a perfect canvas for a day yet to unfold. With temperatures settling at a comfortable 59 degrees, the skies remain mostly clear, an omen of the sun\u2019s embrace just around the corner. As the morning light breaks, the forecast promises a welcoming warmth, with highs nudging towards 72. There's a soft breeze, whispering from the southwest at about 7 mph, a gentle companion to the day ahead.\n\nAs the city awakens, the outlook is decidedly pleasant. The sunny disposition will gradually shift temperatures to around 70 in the afternoon, accompanied by a playful wind that may gust up to 22 mph, adding a refreshing touch to the sunlight. While remnants of fog may linger along the coastline, the day is set to encourage exploration\u2014perfect for a stroll along the waterfront or a visit to one of the city\u2019s inviting cafes to sip a warm beverage while watching the world go by. Keep layers handy; a light jacket in the early hours and perhaps a comfortable t-shirt as the sun reaches its zenith will keep you cozy as the day transitions from the cool embrace of dawn to the warm glow of midday.",
+    "color_code": "#A1C6EA",
+    "timestamp": "2026-07-15 01:47:22"
 }
