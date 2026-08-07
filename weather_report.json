@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-08-06T07:43:00+00:00",
-            "temperature_f": 59.414,
-            "temperature_c": 15.23,
-            "humidity": 82.02004036167,
+            "timestamp": "2026-08-07T07:43:00+00:00",
+            "temperature_f": 56.641999999999996,
+            "temperature_c": 13.69,
+            "humidity": 100,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,44 +19,44 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-08-06T01:00:00-07:00",
-                "endTime": "2026-08-06T06:00:00-07:00",
+                "startTime": "2026-08-07T01:00:00-07:00",
+                "endTime": "2026-08-07T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 57,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. West southwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-08-07T06:00:00-07:00",
+                "endTime": "2026-08-07T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 66,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. West southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-08-06T06:00:00-07:00",
-                "endTime": "2026-08-06T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "3 to 14 mph",
+                "windSpeed": "6 to 14 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 68, with temperatures falling to around 66 in the afternoon. West southwest wind 3 to 14 mph, with gusts as high as 20 mph."
+                "detailedForecast": "Mostly sunny, with a high near 66. West southwest wind 6 to 14 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "In the quiet hours of the early morning, Downtown San Francisco finds itself cloaked in a blanket of clouds, hinting at the cooler embrace of night that still lingers. The gentle west-southwest breeze stirs, whispering promises of a brighter tomorrow. As dawn approaches, the city is poised to shed its damp pallor, making way for a mostly sunny Thursday. The forecast hints at a high near 68, gradually cooling to a comfortable 66 as the day unfolds, allowing the sun to warm the day\u2019s gentle caress.\n\nWith fog still weaving through the streets, the iconic towers may appear ethereal, shrouded in mystery. Yet, as the sun rises higher, it will unveil a shimmering skyline, revealing that spine of the Golden Gate Bridge and the expanse of the bay glistening under clear blue skies. For those venturing outside, layering is advisable\u2014perhaps a light sweater or cardigan for the morning chill, set against a backdrop of cooler afternoon temperatures. The day invites you to stroll through nearby parks or enjoy a leisurely coffee on a sun-drenched patio, where vibrant conversations blend seamlessly with the atmosphere, creating a portrait of a day that feels promising and warm.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-08-06 01:56:31"
+    "weather_report": "In the stillness of the early morning, San Francisco reveals itself under a mostly cloudy blanket, the brisk air settling gently around the city. The temperature teeters at a mild 56 degrees, accompanied by a soft west-southwest breeze that whispers through the streets, barely disrupting the serenity of the night. As daylight unfurls, the promise of a mostly sunny Friday awaits. Anticipation builds as temperatures hint at reaching a comfortable 66 degrees, elevating the mood and inviting a breath of vitality into the urban landscape.\n\nThere\u2019s an unmistakable clarity offered by the distant peaks, yet the ever-present marine layer may still hover, blurring the edges of the iconic Golden Gate Bridge. This offers a subtle reminder of the city's unique duality, where tranquil beauty and urban vibe coalesce. One might choose to don a light jacket, perfect for the cool morning but easily shed as the sun climbs and blankets the city in warm hues. Perhaps a stroll along the Embarcadero or a leisurely visit to a local caf\u00e9 would be fitting, allowing a momentary escape into the electric rhythm of the city as it stirs to life, subtly illuminating what makes San Francisco endlessly fascinating.",
+    "color_code": "#C0D9D9",
+    "timestamp": "2026-08-07 01:24:21"
 }
