@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-08-07T07:43:00+00:00",
-            "temperature_f": 56.641999999999996,
-            "temperature_c": 13.69,
-            "humidity": 100,
+            "timestamp": "2026-08-08T07:43:00+00:00",
+            "temperature_f": 56.48,
+            "temperature_c": 13.6,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,44 +19,44 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-08-07T01:00:00-07:00",
-                "endTime": "2026-08-07T06:00:00-07:00",
+                "startTime": "2026-08-08T01:00:00-07:00",
+                "endTime": "2026-08-08T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 56. West southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-08-07T06:00:00-07:00",
-                "endTime": "2026-08-07T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 66,
+                "temperature": 57,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "6 to 14 mph",
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 57. Southwest wind 7 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-08-08T06:00:00-07:00",
+                "endTime": "2026-08-08T18:00:00-07:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "7 to 13 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 66. West southwest wind 6 to 14 mph, with gusts as high as 21 mph."
+                "detailedForecast": "Mostly sunny, with a high near 68. West southwest wind 7 to 13 mph, with gusts as high as 18 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning, San Francisco reveals itself under a mostly cloudy blanket, the brisk air settling gently around the city. The temperature teeters at a mild 56 degrees, accompanied by a soft west-southwest breeze that whispers through the streets, barely disrupting the serenity of the night. As daylight unfurls, the promise of a mostly sunny Friday awaits. Anticipation builds as temperatures hint at reaching a comfortable 66 degrees, elevating the mood and inviting a breath of vitality into the urban landscape.\n\nThere\u2019s an unmistakable clarity offered by the distant peaks, yet the ever-present marine layer may still hover, blurring the edges of the iconic Golden Gate Bridge. This offers a subtle reminder of the city's unique duality, where tranquil beauty and urban vibe coalesce. One might choose to don a light jacket, perfect for the cool morning but easily shed as the sun climbs and blankets the city in warm hues. Perhaps a stroll along the Embarcadero or a leisurely visit to a local caf\u00e9 would be fitting, allowing a momentary escape into the electric rhythm of the city as it stirs to life, subtly illuminating what makes San Francisco endlessly fascinating.",
-    "color_code": "#C0D9D9",
-    "timestamp": "2026-08-07 01:24:21"
+    "weather_report": "As night surrenders its grip on Downtown San Francisco, a gentle veil of clouds swathes the city, cradling temperatures around a mild 57 degrees. The southwest winds whisper softly, stirring the air just enough to hint at the day to come, a subtle promise of clarity. As dawn approaches and the sun gradually awakens, the forecast foretells the joyful emergence of bright, sunny skies, lifting spirits as temperatures climb to a comfortable 68 degrees. The winds will dance playfully from the west-southwest, carrying with them a gentle vigor.\n\nThough a marine layer may linger along the coast, casting a soft, misty embrace around the Great Golden Gate, the heart of the city is poised to bask in luminous light. As you step outside, a light jacket could serve as a warmly welcomed companion, particularly for the early risers who appreciate the refreshing kiss of morning air. Venture along the Embarcadero or take a leisurely stroll through Golden Gate Park, where the sights of blooming flora under the gentle sun will invite you to indulge in the beauty of a serene Saturday. The day stretches out, beckoning you to savor a cup of coffee at a quaint caf\u00e9 or explore the artful streets, where even the mundane feels extraordinary beneath a glimmering sky.",
+    "color_code": "#A6B2C6",
+    "timestamp": "2026-08-08 01:12:38"
 }
