@@ -24,6 +24,7 @@ jobs:
         pip install requests
         pip install llm  # Assuming this is a custom package available via pip
         pip install pytz
+        pip install httpx
         
     - name: Run weather script
       env:
