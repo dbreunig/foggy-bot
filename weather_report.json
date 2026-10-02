@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-10-01T07:43:00+00:00",
-            "temperature_f": 55.382,
-            "temperature_c": 12.99,
-            "humidity": 100,
+            "timestamp": "2026-10-02T07:43:00+00:00",
+            "temperature_f": 56.516,
+            "temperature_c": 13.62,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,8 +19,8 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-10-01T01:00:00-07:00",
-                "endTime": "2026-10-01T06:00:00-07:00",
+                "startTime": "2026-10-02T01:00:00-07:00",
+                "endTime": "2026-10-02T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 56,
                 "temperatureUnit": "F",
@@ -29,34 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 mph",
+                "windSpeed": "2 mph",
                 "windDirection": "WSW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 56. West southwest wind around 5 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 56. West southwest wind around 2 mph."
             },
             {
                 "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-10-01T06:00:00-07:00",
-                "endTime": "2026-10-01T18:00:00-07:00",
+                "name": "Friday",
+                "startTime": "2026-10-02T06:00:00-07:00",
+                "endTime": "2026-10-02T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 70,
+                "temperature": 73,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "2 to 10 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 70, with temperatures falling to around 66 in the afternoon. West southwest wind 2 to 10 mph."
+                "windSpeed": "1 to 8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 73, with temperatures falling to around 70 in the afternoon. West wind 1 to 8 mph."
             }
         ]
     },
-    "weather_report": "As dawn casts its delicate veil over Downtown San Francisco, the city lies shrouded in a veil of muted clouds, offering a quiet sense of mystery as if the day is waiting for the sun to pull back the curtain. The temperature sits comfortably in the mid-50s, a gentle reminder that while autumn\u2019s breath has arrived, warmth resides just around the corner. Early morning hikers along the trails of Sutro may find the clouds holding onto the city like a lingering embrace, yet the promise of a sunlit afternoon looms large.\n\nAs the day unfolds, expect the clouds to surrender to the sun, inviting residents and visitors alike to step outside and bask in the pleasant embrace of near-70 degrees. A soft breeze from the west will accompany the sun's ascent, providing a cool counterpoint to the growing warmth. The fog, a familiar companion, may linger near the coast, weaving itself in and out of sight, but the heart of the city will enjoy a whimsically clear skyline. For today, a light layering will be your best companion; prepare to shed a sweater or jacket as midday reveals itself, revealing ample blue skies and the urban landscape sparkling under the sun's affectionate gaze. It\u2019s a perfect day to explore the nearby caf\u00e9s, navigate the vibrant streets, or simply lose oneself in a park, listening to the rustling leaves whisper of the change of seasons.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2026-10-01 01:14:00"
+    "weather_report": "As the clock ticks towards the early morning hours, Downtown San Francisco drapes itself in a shroud of clouds, holding a crisp, fragrant breath of coastal air. The temperature dances around a pleasant 56 degrees, with whispers of a gentle west-southwest breeze barely rustling the leaves. The sky, though mostly cloudy, hints at a transformation awaiting the sun\u2019s awakening. \n\nCome Friday, the clouds will part just enough to unveil fleeting sunbeams, promising a high of 73 degrees that will gradually retreat to a comfortable 70 in the afternoon. The day will unfurl with a soft, inviting warmth, yet the presence of fog along the coast reminds us of the region's complex maritime personality. A light jacket or sweater should be a companion for morning and evening excursions, while layers will keep comfort at bay as one ventures into the sun\u2019s embrace. The atmospheric conditions beckon for a leisurely stroll along the Embarcadero, sipping artisanal coffee, or perhaps exploring the local shops, as the vibrant heartbeat of the city slowly emerges from the morning lull.",
+    "color_code": "#A9A8A2",
+    "timestamp": "2026-10-02 01:11:35"
 }
