@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-10-08T07:43:00+00:00",
-            "temperature_f": 55.976,
-            "temperature_c": 13.32,
-            "humidity": null,
+            "timestamp": "2026-10-09T06:43:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 92.96637574674,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,44 +19,44 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-10-08T01:00:00-07:00",
-                "endTime": "2026-10-08T06:00:00-07:00",
+                "startTime": "2026-10-09T01:00:00-07:00",
+                "endTime": "2026-10-09T06:00:00-07:00",
                 "isDaytime": false,
                 "temperature": 58,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 1
                 },
-                "windSpeed": "3 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 58. West southwest wind around 3 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 58. West southwest wind around 7 mph."
             },
             {
                 "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-10-08T06:00:00-07:00",
-                "endTime": "2026-10-08T18:00:00-07:00",
+                "name": "Friday",
+                "startTime": "2026-10-09T06:00:00-07:00",
+                "endTime": "2026-10-09T18:00:00-07:00",
                 "isDaytime": true,
-                "temperature": 72,
+                "temperature": 66,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 4
                 },
-                "windSpeed": "2 to 12 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 72, with temperatures falling to around 70 in the afternoon. West southwest wind 2 to 12 mph."
+                "windSpeed": "6 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. Southwest wind 6 to 15 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "In the quiet hours of the night, Downtown San Francisco embraces a gentle clarity, the air tinged with an expected ease. With temperatures settling into the comfortable embrace of 58 degrees, the night sky exudes a serene calm, crisp and mostly clear. As dawn approaches on this fine Thursday, sunlight will spill graciously over the bay, promising a high near 72. The gentle west-southwest breezes, not more than a whisper at times, will usher in a warm, inviting day.\n\nWith a marine layer that lingers at the bay's edge, a touch of charm graces the landscape. The fog, if present, clings tenderly to the coast, ceding its territory to the advancing sun. Residents might find themselves indulging in the simple pleasures of a leisurely morning\u2014perhaps a walk along the Embarcadero, where the sun\u2019s golden rays will play upon the still waters, or a visit to one of the local caf\u00e9s where the aroma of fresh coffee mingles with the salty air. Dressing in layers remains wise; a light sweater for early hours will transition beautifully to the warmth of the afternoon. So, step outside and savor the unfolding day, where the sharp contours of the city draw back, offering a tableau painted by nature and the comforting rhythms of life in San Francisco.",
-    "color_code": "#F3E5AB",
-    "timestamp": "2026-10-08 01:13:34"
+    "weather_report": "As dawn breaks over Downtown San Francisco, a gentle haze blankets the city, a soft reminder of the lingering marine layer that weaves through the early morning air. Currently, it feels cool, framed by a temperature in the upper fifties, as wisps of clouds drift lazily overhead, blending the silhouette of the cityscape into a muted palette. The west-southwest breeze carries the faint scent of salt, adding a crispness that energizes the senses.\n\nAs the day evolves, sunlight is poised to spill generously across the streets, ushering in a mostly sunny afternoon with temperatures inching towards the mid-sixties. The morning fog will gradually retreat, revealing vibrant vistas enhanced by the brightness of day. For those languishing in the comfort of home, it would be wise to embrace layers\u2014perhaps a light jacket first thing, easily discarded as the warmth takes hold in the afternoon. The city beckons with simple pleasures; a stroll along the Embarcadero promises the soft glimmer of the bay and the laughter of passersby. Alternatively, a leisurely visit to a local caf\u00e9, sipping handcrafted coffee while watching the world dance into the light, would perfectly complement the serene transformation of the day.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-10-09 01:13:16"
 }
