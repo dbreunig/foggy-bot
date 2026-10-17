@@ -7,10 +7,10 @@
             "longitude": -122.4071
         },
         "current_conditions": {
-            "timestamp": "2026-10-15T07:43:00+00:00",
-            "temperature_f": 57.884,
-            "temperature_c": 14.38,
-            "humidity": 70.008579479732,
+            "timestamp": "2026-10-17T07:43:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": ""
@@ -19,27 +19,27 @@
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-10-15T01:00:00-07:00",
-                "endTime": "2026-10-15T06:00:00-07:00",
+                "startTime": "2026-10-17T01:00:00-07:00",
+                "endTime": "2026-10-17T06:00:00-07:00",
                 "isDaytime": false,
-                "temperature": 53,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "3 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 53. Southwest wind around 3 mph."
+                "windSpeed": "2 mph",
+                "windDirection": "WSW",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 59. West southwest wind around 2 mph."
             },
             {
                 "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-10-15T06:00:00-07:00",
-                "endTime": "2026-10-15T18:00:00-07:00",
+                "name": "Saturday",
+                "startTime": "2026-10-17T06:00:00-07:00",
+                "endTime": "2026-10-17T18:00:00-07:00",
                 "isDaytime": true,
                 "temperature": 78,
                 "temperatureUnit": "F",
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 to 9 mph",
-                "windDirection": "N",
+                "windSpeed": "2 to 10 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 78, with temperatures falling to around 76 in the afternoon. North wind 5 to 9 mph."
+                "detailedForecast": "Sunny. High near 78, with temperatures falling to around 73 in the afternoon. Northwest wind 2 to 10 mph."
             }
         ]
     },
-    "weather_report": "In the heart of Downtown San Francisco, the tranquility of night gives way to the promise of a golden Thursday. As dawn breaks, the air carries a refreshing crispness, cooled by a gentle southwest breeze whispering through the streets. The forecast hints at a sunny embrace, with temperatures peaking comfortably around 78, retreating slightly into the afternoon's warmth. It's a day painted in hues of blue and mild comfort, where the sun will cast its glow, illuminating the city's iconic skyline.\n\nAlthough the marine layer spills onto the bay, painting a delicate veil over the Golden Gate, it adds a touch of magic rather than obscurity. The skies above are predominantly clear, allowing for glimpses of the distant hills. It\u2019s a day for light layers, perhaps a soft sweater for early morning outings that can easily be shed as the sun climbs higher. With this pleasant weather beckoning, consider a stroll through the nearby parks, a relaxed visit to a local caf\u00e9, or simply basking in the sunlight while enjoying the vibrant city\u2019s energy. The ambiance pulses with the rhythm of life, inviting you to savor every moment of this quintessential San Francisco day.",
-    "color_code": "#F5F5DC",
-    "timestamp": "2026-10-15 01:11:01"
+    "weather_report": "As the night drapes its cool blanket over Downtown San Francisco, the air is imbued with clarity and a gentle calm, the temperature settling comfortably around sixty degrees. A light breeze stirs from the west-southwest, barely rustling the trees. The stars find their way to the canvas of the sky, hinting at a clear morning awaiting beneath the surface of the stillness.\n\nCome Saturday, the sun will ascend proudly to herald a day marked by golden rays and warmth. With highs reaching into the upper seventies, the city will gradually find itself wrapped in a gentle embrace of comfort as the temperature dips slightly in the afternoon, inviting casual attire for strolling through vibrant neighborhoods or perhaps finding your favorite caf\u00e9 for an afternoon respite. Dressing in layers will serve well, welcoming the sun\u2019s warmth while being prepared for the cool evening that tarries just beyond the horizon. \n\nToday unfolds as a perfect opportunity to engage with the world around you\u2014perhaps a leisurely walk through Golden Gate Park or a quiet moment on a bench overlooking the bay, taking in the sight of boats gliding upon the water, their paths marked against the brilliant azure. As the sun plays upon the city\u2019s iconic structures and fog swirls lazily in distant corners, the beauty of San Francisco reveals itself\u2014a canvas of urban charm, nature\u2019s serenity, and the promise of a fine day ahead.",
+    "color_code": "#0099FF",
+    "timestamp": "2026-10-17 01:09:12"
 }
